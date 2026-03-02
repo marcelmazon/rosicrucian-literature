@@ -28,1992 +28,252 @@ La Astrología: El Arte de las Artes
 
 ### <h3 id="chapter-1">Capítulo I: El Arte Dramático</h3>
 
-El instinto de la representación es tan primordial para la naturaleza humana como
-cualquier otro instinto. Considere la tendencia natural de toda la gente de acentuar o
-intensificar la comunicación por medio de la palabra con gestos y expresiones faciales. Este
-énfasis natural es lo que está cultivado por el intenso entrenamiento en el arte dramático,
-del mismo modo que la belleza natural de la voz hablada se cultiva en el arte del canto.
-Dramatizar significa intensificar - en cualquier forma o a través de cualquier medio. Por
-consiguiente, la dramatización es uno de los atributos arquetípicos de todas las artes - la
-expresión organizada de un “punto” especializado de reacción emocional, de pensamiento o
-de realización. Aún la ejecución de dos o tres octavas de una escala en el piano (por lo
-general no considerada particularmente hermosa) puede ser dramatizada por medio de la
-dinámica tonal en formas tales que su identidad mecánica como una “escala” es
-transformada en un “punto” de musicalidad expresiva. La habilidad técnica puede prestarse
-para producir trabajo artístico generalmente designado como mediocre. La mediocridad
-artística es esencialmente, arte producido sin inspiración.
-La inspiración en cualquier forma - y hay muchas maneras de experimentarla - es la
-forma más altamente dramatizada de la experiencia humana; en ninguna otra forma
-experimentamos la reacción y la realización con mayor intensidad. Así como Marte y la
-Luna son una impregnación y receptividad de “octava más baja”, del-mismo modo el Sol y
-Neptuno son una impregnación y receptividad de “octava más alta”. El cáliz de Neptuno
-recibe el torrente de poder solar en la “simiente del alma” (el pequeño círculo en el fondo
-del símbolo de Neptuno), el símbolo de la impregnación espiritual o psíquica, la cual, en
-cualquier forma, es inspiración; y la inspiración es siempre una indicación de la respuesta al
-poder del amor solar - el signo Leo del Gran Mándala. El Piscis de Neptuno es la octava
-superior de la trinidad de agua iniciada por el signo cardinal de Cáncer el cual es el
-principio triuno de la respuesta vibratoria simpática. El Sol y Neptuno son (en
-combinación) la identidad planetaria del Padre-Madre Dios de la humanidad.
+El instinto de la representación es tan primordial para la naturaleza humana como cualquier otro instinto. Considere la tendencia natural de toda la gente de acentuar o intensificar la comunicación por medio de la palabra con gestos y expresiones faciales. Este énfasis natural es lo que está cultivado por el intenso entrenamiento en el arte dramático, del mismo modo que la belleza natural de la voz hablada se cultiva en el arte del canto. Dramatizar significa intensificar - en cualquier forma o a través de cualquier medio. Por consiguiente, la dramatización es uno de los atributos arquetípicos de todas las artes - la expresión organizada de un “punto” especializado de reacción emocional, de pensamiento o de realización. Aún la ejecución de dos o tres octavas de una escala en el piano (por lo general no considerada particularmente hermosa) puede ser dramatizada por medio de la dinámica tonal en formas tales que su identidad mecánica como una “escala” es transformada en un “punto” de musicalidad expresiva. La habilidad técnica puede prestarse para producir trabajo artístico generalmente designado como mediocre. La mediocridad artística es esencialmente, arte producido sin inspiración. La inspiración en cualquier forma - y hay muchas maneras de experimentarla - es la forma más altamente dramatizada de la experiencia humana; en ninguna otra forma experimentamos la reacción y la realización con mayor intensidad. Así como Marte y la Luna son una impregnación y receptividad de “octava más baja”, del-mismo modo el Sol y Neptuno son una impregnación y receptividad de “octava más alta”. El cáliz de Neptuno recibe el torrente de poder solar en la “simiente del alma” (el pequeño círculo en el fondo del símbolo de Neptuno), el símbolo de la impregnación espiritual o psíquica, la cual, en cualquier forma, es inspiración; y la inspiración es siempre una indicación de la respuesta al poder del amor solar - el signo Leo del Gran Mándala. El Piscis de Neptuno es la octava superior de la trinidad de agua iniciada por el signo cardinal de Cáncer el cual es el principio triuno de la respuesta vibratoria simpática. El Sol y Neptuno son (en combinación) la identidad planetaria del Padre-Madre Dios de la humanidad.
 
-El arte dramático tuvo su comienzo en la ceremonia; la ceremonia a su vez, fue la
-forma del hombre de personalizar sus realizaciones espirituales por símbolos de acción. La
-ceremonia y el mito son dos maneras de decir la misma cosa: haciendo público por medio
-de la acción y el relato, aquello que representa los conceptos humanos de los principios de
-vida. La verdad del hombre es “la verdad de la Vida vista en un espejo”; el espejo es el
-estado evolutivo de la conciencia emocional del ser en desarrollo. El arte de la
-representación es el más personalizado de todas las formas del arte interpretativo - usando
-como instrumentos la voz del cantante y el cuerpo del bailarín -. El bailarín se mueve en
-ritmos especializados, el cantante “habla” en tonos especializados, el actor (por medio del
-movimiento y la palabra) tiene algo de ambos. El gran actor funde dos talentos altamente
-especializados; el de la pantomima que es “baile literal”, y el de la lectura de líneas, que es
-“canto literal”. La buena representación formaliza ciertos principios estéticos del mismo
-modo que la buena prosa; los movimientos del bailarín y la expresión vocal del cantante
-corresponden a la representación así como la poesía a la buena prosa.
+El arte dramático tuvo su comienzo en la ceremonia; la ceremonia a su vez, fue la forma del hombre de personalizar sus realizaciones espirituales por símbolos de acción. La ceremonia y el mito son dos maneras de decir la misma cosa: haciendo público por medio de la acción y el relato, aquello que representa los conceptos humanos de los principios de vida. La verdad del hombre es “la verdad de la Vida vista en un espejo”; el espejo es el estado evolutivo de la conciencia emocional del ser en desarrollo. El arte de la representación es el más personalizado de todas las formas del arte interpretativo - usando como instrumentos la voz del cantante y el cuerpo del bailarín -. El bailarín se mueve en ritmos especializados, el cantante “habla” en tonos especializados, el actor (por medio del movimiento y la palabra) tiene algo de ambos. El gran actor funde dos talentos altamente especializados; el de la pantomima que es “baile literal”, y el de la lectura de líneas, que es “canto literal”. La buena representación formaliza ciertos principios estéticos del mismo modo que la buena prosa; los movimientos del bailarín y la expresión vocal del cantante corresponden a la representación así como la poesía a la buena prosa.
 
-Teniendo en mente que “dramatizar” significa “intensificar”, consideramos ahora la
-significación del diámetro Leo-Acuario, signos de la quinta casa de Aries-Libra, como el
-símbolo arquetípico del principio de la expresión dramática. Este diámetro es la
-polarización de lo que se simboliza esencialmente por la quinta casa del Gran Mándala - la
-irradiación individualizada de los poderes emocionales -. Leo, fijo, de fuego, es el signo
-que inicia la cruz fija, análogo a Aries y Sagitario de las Cruces cardinal y mudable,
-respectivamente. Es el aspecto de amor del Yo Soy arquetípico y debido, al orden de
-ubicación, Leo es la liberación de lo que está establecido en la cuarta casa. Su nota clave es
-Yo libero y es pábulo no sólo para los otros tres signos de la cruz fija sino también para la
-expresión activa del Sol en el horóscopo.
+Teniendo en mente que “dramatizar” significa “intensificar”, consideramos ahora la significación del diámetro Leo-Acuario, signos de la quinta casa de Aries-Libra, como el símbolo arquetípico del principio de la expresión dramática. Este diámetro es la polarización de lo que se simboliza esencialmente por la quinta casa del Gran Mándala - la irradiación individualizada de los poderes emocionales -. Leo, fijo, de fuego, es el signo que inicia la cruz fija, análogo a Aries y Sagitario de las Cruces cardinal y mudable, respectivamente. Es el aspecto de amor del Yo Soy arquetípico y debido, al orden de ubicación, Leo es la liberación de lo que está establecido en la cuarta casa. Su nota clave es Yo libero y es pábulo no sólo para los otros tres signos de la cruz fija sino también para la expresión activa del Sol en el horóscopo.
 
-La generación es Escorpión-octava-casa así como la liberación individualizada es
-Leo-quinta-casa- polarizados espiritualmente y por el genio a través de Acuario-undécima-
-casa. Debemos tener presente que el poder, como Principio del Sol, no tiene propósito
-alguno a menos que sea liberado y radiado. Todo el amor en el corazón humano, toda la
-dotación creadora, todo el genio inspirado, manifestador o interpretativo son relativamente
-insustanciales si no se expresan y es a través de Leo-Acuario y Sol-Urano que nosotros
-expresamos creadora-mente, hasta dónde los humanos pueden ser creadores. Nosotros
-contribuimos vitalidad emocional a las relaciones y a nuestro trabajo por medio del atributo
-de amor de Leo. A través de él encontramos que el recurso de aquello que es
-complementación enfocada, es generación y regeneración de Escorpión. Leo es el gran
-símbolo de la alegría natural espontánea, el atributo dinámico cuya realización pasiva y
-transitoria es llamada “felicidad”. Solo a través del regocijo es que amamos
-verdaderamente, manifestamos o interpretamos con veracidad y servimos sinceramente. El
-júbilo es un factor inevitable en la conciencia del artista aún en medio de la “sangre, el
-sudor y las lágrimas”; no estar alegre es no amar ni irradiar, en el sentido creador de la
-palabra. Las penas de Leo-Sol están arraigadas en la falta de oportunidad o en la congestión
-de la destreza para ejercitar la irradiación del amor a otras personas o al trabajo. Las
-agonías de Acuario-Urano están arraigadas en la incapacidad de afrontar los retos
-gravitacionales de Luna-Saturno y en los “dolores del nacimiento” de la manifestación
-bipolar. La conciencia humana no individualizada está representada por la sucesión de los
-primeros cuatro signos zodiacales - Aries, Tauro, Géminis y Cáncer -. La radiactividad de
-esta octava de conciencia primitiva está en el signo de Escorpión, signo de la quinta casa de
-Cáncer de Luna - el instinto de engendrar formas como una liberación de recursos del deseo
--. Con la individualización, sin embargo, la persona se mueve en sucesión evolutiva un
-paso más adelante del diámetro Leo-Acuario y su irradiación del deseo es transformada por
-lo menos en un aspecto primitivo de conciencia de amor y conciencia de poder
-individualizadas. La conciencia de poder individualizada es la primera necesidad
-indispensable en el desarrollo y cumplimiento del arte manifestador o interpretativo. Por lo
-tanto, cualquier artista debe saber que él es un poder y la integración personal debe
-efectuarse antes que esa conciencia de poder pueda ser expresada. Ahora, sobre el
-dramaturgo y el actor:
+La generación es Escorpión-octava-casa así como la liberación individualizada es Leo-quinta-casa- polarizados espiritualmente y por el genio a través de Acuario-undécima- casa. Debemos tener presente que el poder, como Principio del Sol, no tiene propósito alguno a menos que sea liberado y radiado. Todo el amor en el corazón humano, toda la dotación creadora, todo el genio inspirado, manifestador o interpretativo son relativamente insustanciales si no se expresan y es a través de Leo-Acuario y Sol-Urano que nosotros expresamos creadora-mente, hasta dónde los humanos pueden ser creadores. Nosotros contribuimos vitalidad emocional a las relaciones y a nuestro trabajo por medio del atributo de amor de Leo. A través de él encontramos que el recurso de aquello que es complementación enfocada, es generación y regeneración de Escorpión. Leo es el gran símbolo de la alegría natural espontánea, el atributo dinámico cuya realización pasiva y transitoria es llamada “felicidad”. Solo a través del regocijo es que amamos verdaderamente, manifestamos o interpretamos con veracidad y servimos sinceramente. El júbilo es un factor inevitable en la conciencia del artista aún en medio de la “sangre, el sudor y las lágrimas”; no estar alegre es no amar ni irradiar, en el sentido creador de la palabra. Las penas de Leo-Sol están arraigadas en la falta de oportunidad o en la congestión de la destreza para ejercitar la irradiación del amor a otras personas o al trabajo. Las agonías de Acuario-Urano están arraigadas en la incapacidad de afrontar los retos gravitacionales de Luna-Saturno y en los “dolores del nacimiento” de la manifestación bipolar. La conciencia humana no individualizada está representada por la sucesión de los primeros cuatro signos zodiacales - Aries, Tauro, Géminis y Cáncer -. La radiactividad de esta octava de conciencia primitiva está en el signo de Escorpión, signo de la quinta casa de Cáncer de Luna - el instinto de engendrar formas como una liberación de recursos del deseo -. Con la individualización, sin embargo, la persona se mueve en sucesión evolutiva un paso más adelante del diámetro Leo-Acuario y su irradiación del deseo es transformada por lo menos en un aspecto primitivo de conciencia de amor y conciencia de poder individualizadas. La conciencia de poder individualizada es la primera necesidad indispensable en el desarrollo y cumplimiento del arte manifestador o interpretativo. Por lo tanto, cualquier artista debe saber que él es un poder y la integración personal debe efectuarse antes que esa conciencia de poder pueda ser expresada. Ahora, sobre el dramaturgo y el actor:
 
-El dramaturgo es una especialización del prosista y del poeta, o de ambos. Sin
-embargo, él es esencialmente más poeta que prosista, por las especializaciones de su arte
-aún si no escribiera (y la mayoría de los dramaturgos no lo hacen) específicamente en
-verso. La composición de drama implica no sólo una afinación instintiva con el principio
-del ritmo, sino también can la musicalidad inherente de los valores del canto. El debe tener
-algún conocimiento de los valores del movimiento inherente al baile ya que la
-representación es pantomima y acción así como la palabra. Un sentido de “proporción del
-tiempo” es tan necesario para su trabajo como lo es el sentido de “proporción del espacio”
-para el pintor o la “proporción del tono” para el compositor. La conciencia del tiempo es lo
-que llamamos la conciencia de la sucesión de reacción y realización. “Las reacciones y
-realizaciones humanas” son lo que el dramaturgo presenta en forma “dramatizada”
-estéticamente organizada. Realmente, la “acción” representada en el escenario es la
-objetivación de series de reacciones y realizaciones individualizadas. En el escenario o en
-la vida real, esta “acción” es siempre usa exteriorización de estados internos. Y la
-mentalidad proteica o el entendimiento del dramaturgo le hace posible construir la acción
-de su drama de acuerdo con un “conocimiento interno” profundo de la conciencia del
-tiempo individualizada. El autor dramático puede o no tratar de presentar un mensaje en su
-obra; pero lo que él presenta, ya como “mensaje” o “drama puro”, es la organización de su
-concepto de los arquetipos reflejados a través de la conciencia humana individual o
-combinada. Si usted lee cualquier obra digna de ser señalada como arte dramático
-encontrará en algún sitio un “punto emocional” que es el arquetipo de la obra completa, no
-importa lo complejo de su estructura. El arte del drama manifestador (el escrito de dramas)
-es en este punto emocional, la organización armoniosa y expresiva de los elementos que
-son enfocados, así como el árbol está enfocado en su semilla.
+El dramaturgo es una especialización del prosista y del poeta, o de ambos. Sin embargo, él es esencialmente más poeta que prosista, por las especializaciones de su arte aún si no escribiera (y la mayoría de los dramaturgos no lo hacen) específicamente en verso. La composición de drama implica no sólo una afinación instintiva con el principio del ritmo, sino también can la musicalidad inherente de los valores del canto. El debe tener algún conocimiento de los valores del movimiento inherente al baile ya que la representación es pantomima y acción así como la palabra. Un sentido de “proporción del tiempo” es tan necesario para su trabajo como lo es el sentido de “proporción del espacio” para el pintor o la “proporción del tono” para el compositor. La conciencia del tiempo es lo que llamamos la conciencia de la sucesión de reacción y realización. “Las reacciones y realizaciones humanas” son lo que el dramaturgo presenta en forma “dramatizada” estéticamente organizada. Realmente, la “acción” representada en el escenario es la objetivación de series de reacciones y realizaciones individualizadas. En el escenario o en la vida real, esta “acción” es siempre usa exteriorización de estados internos. Y la mentalidad proteica o el entendimiento del dramaturgo le hace posible construir la acción de su drama de acuerdo con un “conocimiento interno” profundo de la conciencia del tiempo individualizada. El autor dramático puede o no tratar de presentar un mensaje en su obra; pero lo que él presenta, ya como “mensaje” o “drama puro”, es la organización de su concepto de los arquetipos reflejados a través de la conciencia humana individual o combinada. Si usted lee cualquier obra digna de ser señalada como arte dramático encontrará en algún sitio un “punto emocional” que es el arquetipo de la obra completa, no importa lo complejo de su estructura. El arte del drama manifestador (el escrito de dramas) es en este punto emocional, la organización armoniosa y expresiva de los elementos que son enfocados, así como el árbol está enfocado en su semilla.
 
-El Gran Mándala Astrológico con Aries de Ascendente, los puntos estructurales
-cardinales conectados en un cuadrado, los signos de agua conectados en un triángulo, es la
-imagen simbólica de lo que todo arte trata de interpretar. He aquí la familia humana - el
-varón y la hembra de “padre e hijo”, varón y hembra en estado de inmadurez y de madurez,
-y el cuádruple intercambio de polaridad física, genérica y evolutiva. El trino de los signos
-de agua es el principio de la vibración simpática por el cual manifestadores e
-interpretadores “se afinan” con arquetipos a ser expresados a través de conceptos
-individualizados en el medio estético.
+El Gran Mándala Astrológico con Aries de Ascendente, los puntos estructurales cardinales conectados en un cuadrado, los signos de agua conectados en un triángulo, es la imagen simbólica de lo que todo arte trata de interpretar. He aquí la familia humana - el varón y la hembra de “padre e hijo”, varón y hembra en estado de inmadurez y de madurez, y el cuádruple intercambio de polaridad física, genérica y evolutiva. El trino de los signos de agua es el principio de la vibración simpática por el cual manifestadores e interpretadores “se afinan” con arquetipos a ser expresados a través de conceptos individualizados en el medio estético.
 
-La segunda representación del Gran Mándala tiene los signos fijos en los puntos
-estructurales, Leo como Ascendente, Escorpión como base. Este es el mándala de todos los
-artistas manifestadores (creadores) radiando de su recurso de poder creador, polarizados,
-por el genio de Acuario para realizar una redención inspiradora kármica del subconsciente
-grupal de la humanidad. La posición de Cáncer como signo de la duodécima casa de este
-mándala nos demuestra que la potencialidad radiante del Ascendente Leo es derivada de
-una profunda fuente de simpatía, cuyo arquetipo es la “paternidad o maternidad”. Ningún
-dramaturgo eminente y verdadero hace su mejor y más inspirado trabajo impelido
-básicamente por un deseo de hacerse de millones de pesos o de alcanzar fama o aplausos.
-Lo hace porque no puede abstenerse de ello y vivir. Sólo que la gente verdaderamente
-madura puede vivir (en el verdadero sentido de la palabra) sin contribuir a la vida. El
-dramaturgo u otro artista manifestador, es un padre espiritual, un “epigenitor” de su
-arquetipo. La base de Escorpión de este mándala apunta hacia la base psicológica de
-intenso poder de deseo regenerador. Ningún gran artista es un marica psicológico; hay
-percepción profunda, honda comprensión, sexualidad potente, emociones intensas y
-consciente o inconscientemente una aspiración ardiente en todos ellos.
+La segunda representación del Gran Mándala tiene los signos fijos en los puntos estructurales, Leo como Ascendente, Escorpión como base. Este es el mándala de todos los artistas manifestadores (creadores) radiando de su recurso de poder creador, polarizados, por el genio de Acuario para realizar una redención inspiradora kármica del subconsciente grupal de la humanidad. La posición de Cáncer como signo de la duodécima casa de este mándala nos demuestra que la potencialidad radiante del Ascendente Leo es derivada de una profunda fuente de simpatía, cuyo arquetipo es la “paternidad o maternidad”. Ningún dramaturgo eminente y verdadero hace su mejor y más inspirado trabajo impelido básicamente por un deseo de hacerse de millones de pesos o de alcanzar fama o aplausos. Lo hace porque no puede abstenerse de ello y vivir. Sólo que la gente verdaderamente madura puede vivir (en el verdadero sentido de la palabra) sin contribuir a la vida. El dramaturgo u otro artista manifestador, es un padre espiritual, un “epigenitor” de su arquetipo. La base de Escorpión de este mándala apunta hacia la base psicológica de intenso poder de deseo regenerador. Ningún gran artista es un marica psicológico; hay percepción profunda, honda comprensión, sexualidad potente, emociones intensas y consciente o inconscientemente una aspiración ardiente en todos ellos.
 
-La tercera representación básica del Gran Mándala tiene a Sagitario en el
-Ascendente, signos comunes en los puntos estructurales y Piscis como base. Este es el
-mándala del artista interpretador que se armoniza con el concepto del manifestador y hace
-de sí mismo un vehículo para la incorporación de ese concepto. Puede ser llamado, como
-cuadro abstracto del artista interpretador, el “mándala de la instrumentación
-individualizada”. El artista interpretador, disciplina, desarrolla y organiza sus habilidades y
-sus facultades para poder calificar el ejercicio inspirador. Han existido varios artistas en el
-campo del drama, del baile y de la música que han calificado para el título de manifestador.
-De los artistas interpretadores hay dos tipos básicos:
+La tercera representación básica del Gran Mándala tiene a Sagitario en el Ascendente, signos comunes en los puntos estructurales y Piscis como base. Este es el mándala del artista interpretador que se armoniza con el concepto del manifestador y hace de sí mismo un vehículo para la incorporación de ese concepto. Puede ser llamado, como cuadro abstracto del artista interpretador, el “mándala de la instrumentación individualizada”. El artista interpretador, disciplina, desarrolla y organiza sus habilidades y sus facultades para poder calificar el ejercicio inspirador. Han existido varios artistas en el campo del drama, del baile y de la música que han calificado para el título de manifestador. De los artistas interpretadores hay dos tipos básicos:
 
-Un tipo es el de la personalidad arquetípica de la cual existen - y han existido -
-varios ejemplos notables en la esfera de la representación cinematográfica. Representativos
-de este tipo en el cine mudo y hablado son tales como: Rodolfo Valentino, Theda Bara,
-Mary Pickford (como la “Novia de América” de años pasados), Douglas Fairbanks, padre,
-Mae West, Clark Gable y otros. El ejemplo sobresaliente de la personalidad arquetípica en
-el cine de hoy es “Bing Crosby” - el “trovador del mundo”. (1951).
+Un tipo es el de la personalidad arquetípica de la cual existen - y han existido - varios ejemplos notables en la esfera de la representación cinematográfica. Representativos de este tipo en el cine mudo y hablado son tales como: Rodolfo Valentino, Theda Bara, Mary Pickford (como la “Novia de América” de años pasados), Douglas Fairbanks, padre, Mae West, Clark Gable y otros. El ejemplo sobresaliente de la personalidad arquetípica en el cine de hoy es “Bing Crosby” - el “trovador del mundo”. (1951).
 
-El segundo tipo es el del verdadero intérprete dramático, el actor o actriz cuya
-personalidad y equipo personal son pábulo para la afinación con el concepto del
-manifestador. Todos los grandes artistas dramáticos son de este tipo y ellos personalmente,
-por su influencia están entre los más conspicuos “inspiradores” de la raza humana. El
-Ascendente Sagitario del “mándala del intérprete” pinta el sacerdocio esotérico (o
-psicológico) de toda representación dramática. Por el poder del actor, la esencia de las
-vibraciones de la personalidad humana es representada en los papeles que él desempeña;
-estos patrones de vibración de la personalidad son condensaciones de principios de vida
-expresándose a través del arquetipo humano. La proyección inspiradora del actor fundida
-con la destreza y conocimiento del dramaturgo, contribuye con una vitalización de
-conciencia humana de su propia experiencia e identidad como una expresión de vida. El
-hombre trata siempre de realizar las verdades de su arquetipo y más que ningún otro arte, el
-drama tiene el poder de encender puntos de esta realización. Nosotros no vemos realmente
-nuestro propio (individual) yo en las representaciones de los grandes actores; vemos
-“puntos del yo” exteriorizados. Nuestra respuesta al impacto de una gran representación de
-un drama trágico tiene el efecto de elevar nuestra conciencia del “dolor localizado de
-nuestras penas personales” a una vasta participación de las penas y sufrimientos de la
-humanidad evolutiva. El actor y la actriz son intermediarios entre nuestra conciencia del yo
-separativo y nuestra conciencia de identidad con la egoidad de nuestro arquetipo - la
-humanidad -. Préstele un poco de consideración a sus respuestas a las funciones de la buena
-representación. ¿Recuerda usted un sentido de “expansión en el yo superior” por el
-estímulo a su simpatía, su fe, su amor y sus inspiraciones?.
+El segundo tipo es el del verdadero intérprete dramático, el actor o actriz cuya personalidad y equipo personal son pábulo para la afinación con el concepto del manifestador. Todos los grandes artistas dramáticos son de este tipo y ellos personalmente, por su influencia están entre los más conspicuos “inspiradores” de la raza humana. El Ascendente Sagitario del “mándala del intérprete” pinta el sacerdocio esotérico (o psicológico) de toda representación dramática. Por el poder del actor, la esencia de las vibraciones de la personalidad humana es representada en los papeles que él desempeña; estos patrones de vibración de la personalidad son condensaciones de principios de vida expresándose a través del arquetipo humano. La proyección inspiradora del actor fundida con la destreza y conocimiento del dramaturgo, contribuye con una vitalización de conciencia humana de su propia experiencia e identidad como una expresión de vida. El hombre trata siempre de realizar las verdades de su arquetipo y más que ningún otro arte, el drama tiene el poder de encender puntos de esta realización. Nosotros no vemos realmente nuestro propio (individual) yo en las representaciones de los grandes actores; vemos “puntos del yo” exteriorizados. Nuestra respuesta al impacto de una gran representación de un drama trágico tiene el efecto de elevar nuestra conciencia del “dolor localizado de nuestras penas personales” a una vasta participación de las penas y sufrimientos de la humanidad evolutiva. El actor y la actriz son intermediarios entre nuestra conciencia del yo separativo y nuestra conciencia de identidad con la egoidad de nuestro arquetipo - la humanidad -. Préstele un poco de consideración a sus respuestas a las funciones de la buena representación. ¿Recuerda usted un sentido de “expansión en el yo superior” por el estímulo a su simpatía, su fe, su amor y sus inspiraciones?.
 
-Puede mencionarse aquí, a una persona que en su día fue considerada por muchos
-como la más grande en el campo del arte dramático y cuyo cumplimiento de la dotación
-artística significó uno de los más grandes progresos del arte teatral: Mme. Sarah Bernhardt.
-La carrera de esta eminente actriz francesa (ella era nativa de París y también de Escorpión)
-en los escenarios del mundo cubrió un lapso de algo así como sesenta años y desde el punto
-de vista de una completa “cantidad de expresión”, así como de cualidad, fue un fenómeno
-de proporciones imponentes. Ella no sólo interpretó papeles principales de los repertorios
-clásicos, melodramáticos y líricos, sino que siendo tan grande el poder de su vibración,
-inspiró la producción de un gran número de los mejores dramas de su tiempo - por autores
-tales como François Coppée, Víctor Hugo, Edmond Rostand, y muchos otros -. Esta mujer
-fue en verdad una sacerdotisa del arte dramático, consagrada con todas las fibras de su ser,
-al cumplimiento de una dotación que fue verdaderamente un gesto de lo divino para los de
-este plano. Léase una buena biografía de su vida. Reanimará su conciencia con una fe
-renovada en el poder de la belleza que vive en el arquetipo humano.
+Puede mencionarse aquí, a una persona que en su día fue considerada por muchos como la más grande en el campo del arte dramático y cuyo cumplimiento de la dotación artística significó uno de los más grandes progresos del arte teatral: Mme. Sarah Bernhardt. La carrera de esta eminente actriz francesa (ella era nativa de París y también de Escorpión) en los escenarios del mundo cubrió un lapso de algo así como sesenta años y desde el punto de vista de una completa “cantidad de expresión”, así como de cualidad, fue un fenómeno de proporciones imponentes. Ella no sólo interpretó papeles principales de los repertorios clásicos, melodramáticos y líricos, sino que siendo tan grande el poder de su vibración, inspiró la producción de un gran número de los mejores dramas de su tiempo - por autores tales como François Coppée, Víctor Hugo, Edmond Rostand, y muchos otros -. Esta mujer fue en verdad una sacerdotisa del arte dramático, consagrada con todas las fibras de su ser, al cumplimiento de una dotación que fue verdaderamente un gesto de lo divino para los de este plano. Léase una buena biografía de su vida. Reanimará su conciencia con una fe renovada en el poder de la belleza que vive en el arquetipo humano.
 
-Con relación a la lectura astrológica, la esencia simbólica de la habilidad dramática
-es Venus, Júpiter y Neptuno, los signos Piscis y Leo y la quinta casa. La “carrera
-dramática” envuelve ciertas configuraciones favorables con la Luna (como símbolo del
-público) y también de la sexta y décima casas. (Los logros prodigiosos de la Señora
-Bernhardt están indicados por el Sol en Escorpión en combinación con una conjunción de
-Júpiter y Urano; es posible que ella tuviera la Luna y Neptuno en Piscis - Duodécima casa -
-con Aries en el Ascendente.
+Con relación a la lectura astrológica, la esencia simbólica de la habilidad dramática es Venus, Júpiter y Neptuno, los signos Piscis y Leo y la quinta casa. La “carrera dramática” envuelve ciertas configuraciones favorables con la Luna (como símbolo del público) y también de la sexta y décima casas. (Los logros prodigiosos de la Señora Bernhardt están indicados por el Sol en Escorpión en combinación con una conjunción de Júpiter y Urano; es posible que ella tuviera la Luna y Neptuno en Piscis - Duodécima casa - con Aries en el Ascendente.
 
-¿Dramatiza el astrólogo?. Si es así, ¿cuál es su teatro y de quién son las líneas que él
-lee?. Un factor en la ética del servicio astrológico exige que el astrólogo consultor sumerja
-sus sentimientos personales evitando de ese modo la descarga de vibraciones negativas
-contra su cliente perturbado y para que pueda efectuarse la claridad de armonización con el
-horóscopo. En este respecto, él hace exactamente lo que el actor tiene que hacer. El
-astrólogo en su persona y vibración, debe dramatizar la serenidad, la amistad, la
-iluminación, el incentivo y el amor. Esto no es “hipocresía”, aunque la palabra hipocresía
-significa esencialmente “uno que desempeña un papel”. El hipócrita falsifica por una
-falsedad de la naturaleza, el astrólogo representa a través de las verdades de la naturaleza
-humana.
+¿Dramatiza el astrólogo?. Si es así, ¿cuál es su teatro y de quién son las líneas que él lee?. Un factor en la ética del servicio astrológico exige que el astrólogo consultor sumerja sus sentimientos personales evitando de ese modo la descarga de vibraciones negativas contra su cliente perturbado y para que pueda efectuarse la claridad de armonización con el horóscopo. En este respecto, él hace exactamente lo que el actor tiene que hacer. El astrólogo en su persona y vibración, debe dramatizar la serenidad, la amistad, la iluminación, el incentivo y el amor. Esto no es “hipocresía”, aunque la palabra hipocresía significa esencialmente “uno que desempeña un papel”. El hipócrita falsifica por una falsedad de la naturaleza, el astrólogo representa a través de las verdades de la naturaleza humana.
 
-El astrólogo “lee las líneas” de la naturaleza humana como una explicación de los
-principios de vida funcionando a través de un arquetipo particular. Un escenario es
-cualquier lugar donde él presenta privada o públicamente verdades astrológicas para la
-iluminación de la conciencia de otras personas. El astrólogo se presta a dramatizar el bien
-esencial de la persona para quien él lee y en esta función prueba su identidad como
-hermano espiritual del artista dramático.
+El astrólogo “lee las líneas” de la naturaleza humana como una explicación de los principios de vida funcionando a través de un arquetipo particular. Un escenario es cualquier lugar donde él presenta privada o públicamente verdades astrológicas para la iluminación de la conciencia de otras personas. El astrólogo se presta a dramatizar el bien esencial de la persona para quien él lee y en esta función prueba su identidad como hermano espiritual del artista dramático.
 
 ### <h3 id="chapter-2">Capítulo II: Cintas Cinematográficas</h3>
 
-El desarrollo de las películas como un arte de entretenimiento ha sido uno de los
-fenómenos más extraordinarios de esta época. Ha traído drama, comedia, música, color,
-baile, viajes, noticias, adelanto educativo y una marcada influencia cultural en sus mejores
-formas, a las vidas de millones de personas, que de otra manera tal vez no hubieran
-experimentado estas cosas realmente. En esta disertación nosotros no estamos interesados
-en el desarrollo técnico sino en la significación oculta de la representación cinematográfica
-y su efecto en las mentes y la conciencia de las personas de hoy. Existen los pioneros, como
-en cualquier otro arte, que han osado resplandecer el camino hacia un progreso cultural más
-amplio. Existen además, los trabajadores que adaptan los hallazgos de los pioneros y los
-desarrollan en una escala mayor y más perfecta a medida que pasa el tiempo. También
-existen los manifestadores del cine que no están interesados particularmente ni aún están
-conscientes del progreso cultural y “que dan al público lo que éste quiere” en términos de
-mantener aquello que ha sido establecido como normas de valor de entretenimiento. El
-último grupo es el que más conspicuamente “alimenta la tendencia escapista del público”;
-los dos primeros grupos sirven para mejorar, extender y regenerar el gusto y la apreciación
-del público y son ellos mayormente los responsables de la cualidad más elevada del valor
-artístico que puede hallarse en este trabajo.
+El desarrollo de las películas como un arte de entretenimiento ha sido uno de los fenómenos más extraordinarios de esta época. Ha traído drama, comedia, música, color, baile, viajes, noticias, adelanto educativo y una marcada influencia cultural en sus mejores formas, a las vidas de millones de personas, que de otra manera tal vez no hubieran experimentado estas cosas realmente. En esta disertación nosotros no estamos interesados en el desarrollo técnico sino en la significación oculta de la representación cinematográfica y su efecto en las mentes y la conciencia de las personas de hoy. Existen los pioneros, como en cualquier otro arte, que han osado resplandecer el camino hacia un progreso cultural más amplio. Existen además, los trabajadores que adaptan los hallazgos de los pioneros y los desarrollan en una escala mayor y más perfecta a medida que pasa el tiempo. También existen los manifestadores del cine que no están interesados particularmente ni aún están conscientes del progreso cultural y “que dan al público lo que éste quiere” en términos de mantener aquello que ha sido establecido como normas de valor de entretenimiento. El último grupo es el que más conspicuamente “alimenta la tendencia escapista del público”; los dos primeros grupos sirven para mejorar, extender y regenerar el gusto y la apreciación del público y son ellos mayormente los responsables de la cualidad más elevada del valor artístico que puede hallarse en este trabajo.
 
-Muchas veces las películas cinematográficas han sido mencionadas como un
-“mecanismo de escape”, como una “panacea” para ayudar a la gente a olvidarse de sí
-mismos y de sus inconvenientes. Una interpretación semejante muestra una falta de
-comprensión. El arte cinematográfico no es esencialmente un mecanismo de escape aun
-cuando alguna gente lo use como tal. Un acercamiento psicológico a este capricho de la
-naturaleza humana debe recaer sobre el factor humano y no sobre el factor del cine. Los
-nombres de los “mecanismos de escape” son numerosos; vamos a considerar su esencia.
-Hablando astrológicamente, la vibración de Neptuno irredimido en combinación con
-cualquier aspecto de cuadratura o de oposición es una potencialidad para el mecanismo de
-escape. Los aspectos de cuadratura y oposición son puntos de división interna, congestión
-de potencialidades, tendencias a la disgregación, puntos de ignorancia, confusión de
-identidades, falta de conciencia de sí mismo, falta de confianza propia, inhibiciones a
-través del temor y el odio, etc. La falta de regeneración de Neptuno es, entre otras cosas,
-nuestra potencialidad de darle poder a las ilusiones. Y todos nosotros hacemos eso en
-alguna u otra forma hasta que la conciencia se inunda con la luz del entendimiento y la
-percepción clara como experiencia adquirida por la desilusión. Cuando sufrimos por
-cualquiera de estas condiciones negativas y no sabemos por qué sufrimos, nosotros
-tratamos de identificar las verdades internas con algo o con alguien fuera de nosotros
-mismos.
+Muchas veces las películas cinematográficas han sido mencionadas como un “mecanismo de escape”, como una “panacea” para ayudar a la gente a olvidarse de sí mismos y de sus inconvenientes. Una interpretación semejante muestra una falta de comprensión. El arte cinematográfico no es esencialmente un mecanismo de escape aun cuando alguna gente lo use como tal. Un acercamiento psicológico a este capricho de la naturaleza humana debe recaer sobre el factor humano y no sobre el factor del cine. Los nombres de los “mecanismos de escape” son numerosos; vamos a considerar su esencia. Hablando astrológicamente, la vibración de Neptuno irredimido en combinación con cualquier aspecto de cuadratura o de oposición es una potencialidad para el mecanismo de escape. Los aspectos de cuadratura y oposición son puntos de división interna, congestión de potencialidades, tendencias a la disgregación, puntos de ignorancia, confusión de identidades, falta de conciencia de sí mismo, falta de confianza propia, inhibiciones a través del temor y el odio, etc. La falta de regeneración de Neptuno es, entre otras cosas, nuestra potencialidad de darle poder a las ilusiones. Y todos nosotros hacemos eso en alguna u otra forma hasta que la conciencia se inunda con la luz del entendimiento y la percepción clara como experiencia adquirida por la desilusión. Cuando sufrimos por cualquiera de estas condiciones negativas y no sabemos por qué sufrimos, nosotros tratamos de identificar las verdades internas con algo o con alguien fuera de nosotros mismos.
 
-Si se puede decir que la humanidad está motivada por un objetivo común, ese
-objetivo es ciertamente la realización de ideales. El ideal es una música que una vez oída se
-hace irresistible. La búsqueda de la realización de esta idealidad es el gran oleaje evolutivo.
-Nosotros hemos seguido esta “música”, consciente o inconscientemente, desde que por
-primera vez nos manifestamos. La realización de la idealidad es el cumplimiento de las
-potencialidades a través de la expresión regenerada. Hasta tanto realicemos lo nuestro
-propio como individuos, seremos empujados a buscar su exteriorización en alguien o en
-alguna otra cosa. La evolución depende de la expresión; “no expresar” o “no actuar” es “no
-evolucionar”. Aun la persona que vive en condiciones de lo que llamamos “criminalidad”
-está evolucionando porque está expresando sus potencialidades; finalmente ella produce
-causas que han de reaccionar como pago Kármico del cual puede aprender más sobre los
-principios. La posesión de dinero es el símbolo del mayor bien de la vida para muchos y
-nada los detiene para realizar este ideal; sin embargo, con el tiempo y a través de la
-experiencia, ellos aprenden a conocer lo que es el dinero verdaderamente y entonces están
-condicionados para ajustar su conciencia y sus acciones de acuerdo con un esclarecimiento
-de principio en sus propias mentes. Gibrán dijo: “aun la palabra balbuceante fortalece una
-lengua débil”; abandonar la búsqueda del ideal es morir en la conciencia; continuar
-expresándose como un medio de buscar lo que es de más valor y más apreciado, es
-evolucionar.
+Si se puede decir que la humanidad está motivada por un objetivo común, ese objetivo es ciertamente la realización de ideales. El ideal es una música que una vez oída se hace irresistible. La búsqueda de la realización de esta idealidad es el gran oleaje evolutivo. Nosotros hemos seguido esta “música”, consciente o inconscientemente, desde que por primera vez nos manifestamos. La realización de la idealidad es el cumplimiento de las potencialidades a través de la expresión regenerada. Hasta tanto realicemos lo nuestro propio como individuos, seremos empujados a buscar su exteriorización en alguien o en alguna otra cosa. La evolución depende de la expresión; “no expresar” o “no actuar” es “no evolucionar”. Aun la persona que vive en condiciones de lo que llamamos “criminalidad” está evolucionando porque está expresando sus potencialidades; finalmente ella produce causas que han de reaccionar como pago Kármico del cual puede aprender más sobre los principios. La posesión de dinero es el símbolo del mayor bien de la vida para muchos y nada los detiene para realizar este ideal; sin embargo, con el tiempo y a través de la experiencia, ellos aprenden a conocer lo que es el dinero verdaderamente y entonces están condicionados para ajustar su conciencia y sus acciones de acuerdo con un esclarecimiento de principio en sus propias mentes. Gibrán dijo: “aun la palabra balbuceante fortalece una lengua débil”; abandonar la búsqueda del ideal es morir en la conciencia; continuar expresándose como un medio de buscar lo que es de más valor y más apreciado, es evolucionar.
 
-Nuestra reacción emocional a otra persona la identifica como un símbolo para
-nosotros. Si la reacción es de envidia, celos, odio, temor, etc., esa persona ha servido para
-estimular una de nuestras congestiones, confusiones o incumplimientos internos; la persona
-a quien “odiamos” (deseamos destruir) se presta por el estímulo de su vibración para
-recordarnos una culpa pasada muy seria, aún no reparada. Nosotros nunca “odiamos”
-(realmente) a otra persona; solamente podemos odiar nuestros incumplimientos y podemos
-destruirlos sólo por la expresión regenerada. Si nuestra reacción hacia otros es de armonía,
-de júbilo, amor, admiración, inspiración, etc., entonces no importa lo que ellos sean, su
-vibración ha servido para recordarnos nuestras propias regeneraciones internas. Esto
-explica el por qué la gente ama leal y hondamente a aquellos que podrían maltratarla y
-herirla; el lazo magnético de Karma proporciona “pábulo” a la persona que ama para verter
-su amor. Amamos el ideal que otra persona representa para nosotros y ese ideal
-“personalizado” es siempre un patrón de nuestro propio “sueño profundo de perfección”. El
-criminal de más edad que ha tenido éxito financiero puede constituir un “ideal” para el más
-joven y bisoño que ha decidido ejercitarse en lo que llamamos “conducta criminal”. No
-obstante, en sus acciones antisociales, destructivas y sin principios, él todavía expresa en su
-hondo impulso de emular, el símbolo del hombre más viejo. Haciendo justicia a los
-ignorantes y poco evolucionados, debemos recordar que la persona a quien llamamos
-“criminal” puede expresar una profunda devoción por aquellos para quienes trabaja o
-dentro de sus limitaciones particulares de conciencia, él puede tratar honorablemente a los
-de su “profesión” y utilizar su “ganancia mal adquirida” para que sea de verdadera ayuda.
-Nadie es completamente criminal porque todos estamos tratando de realizar un ideal. El
-parasítico “hace nada” es peor traductor de su propia naturaleza, que el criminal activo. Un
-ladrón o cualquier otro, puede poseer por lo menos un poco de valentía. El “hace nada” no
-tiene ni aún eso y por su propia naturaleza no es cooperador. El tendrá que hacer un
-esfuerzo vehemente en el futuro para compensar sus deficiencias del presente.
+Nuestra reacción emocional a otra persona la identifica como un símbolo para nosotros. Si la reacción es de envidia, celos, odio, temor, etc., esa persona ha servido para estimular una de nuestras congestiones, confusiones o incumplimientos internos; la persona a quien “odiamos” (deseamos destruir) se presta por el estímulo de su vibración para recordarnos una culpa pasada muy seria, aún no reparada. Nosotros nunca “odiamos” (realmente) a otra persona; solamente podemos odiar nuestros incumplimientos y podemos destruirlos sólo por la expresión regenerada. Si nuestra reacción hacia otros es de armonía, de júbilo, amor, admiración, inspiración, etc., entonces no importa lo que ellos sean, su vibración ha servido para recordarnos nuestras propias regeneraciones internas. Esto explica el por qué la gente ama leal y hondamente a aquellos que podrían maltratarla y herirla; el lazo magnético de Karma proporciona “pábulo” a la persona que ama para verter su amor. Amamos el ideal que otra persona representa para nosotros y ese ideal “personalizado” es siempre un patrón de nuestro propio “sueño profundo de perfección”. El criminal de más edad que ha tenido éxito financiero puede constituir un “ideal” para el más joven y bisoño que ha decidido ejercitarse en lo que llamamos “conducta criminal”. No obstante, en sus acciones antisociales, destructivas y sin principios, él todavía expresa en su hondo impulso de emular, el símbolo del hombre más viejo. Haciendo justicia a los ignorantes y poco evolucionados, debemos recordar que la persona a quien llamamos “criminal” puede expresar una profunda devoción por aquellos para quienes trabaja o dentro de sus limitaciones particulares de conciencia, él puede tratar honorablemente a los de su “profesión” y utilizar su “ganancia mal adquirida” para que sea de verdadera ayuda. Nadie es completamente criminal porque todos estamos tratando de realizar un ideal. El parasítico “hace nada” es peor traductor de su propia naturaleza, que el criminal activo. Un ladrón o cualquier otro, puede poseer por lo menos un poco de valentía. El “hace nada” no tiene ni aún eso y por su propia naturaleza no es cooperador. El tendrá que hacer un esfuerzo vehemente en el futuro para compensar sus deficiencias del presente.
 
-Por lo tanto, la persona cuyas potencialidades no han sido expresadas
-satisfactoriamente, o que se ha condicionado ajena a su ideal interno, puede acudir y con
-frecuencia lo hace, a las cintas cinematográficas para lograr un contacto viviente aunque
-artificial, con sus ideales personales. No es el propósito de esta disertación criticar o juzgar
-el trabajo de actores específicos, excepto como una evaluación concerniente a este tema,
-pero ciertos actores serán mencionados debido a la extraordinaria cualidad arquetípica de su
-personalidad y apariencia física, más cierto nivel de habilidad técnica, por las cuales ellos
-ejercitan el poder del simbolismo viviente en la subconciencia de individuos o grupos. De
-los muchos que han ejercitado una influencia duradera en el subconsciente del público
-citamos cuatro hombres de tipos opuestos cuyo trabajo en el cine americano representa
-ejemplos sobresalientes de la personalidad arquetípica simbólica: Lon Chaney, Bing
-Crosby, Rodolfo Valentino y Clark Cable.
+Por lo tanto, la persona cuyas potencialidades no han sido expresadas satisfactoriamente, o que se ha condicionado ajena a su ideal interno, puede acudir y con frecuencia lo hace, a las cintas cinematográficas para lograr un contacto viviente aunque artificial, con sus ideales personales. No es el propósito de esta disertación criticar o juzgar el trabajo de actores específicos, excepto como una evaluación concerniente a este tema, pero ciertos actores serán mencionados debido a la extraordinaria cualidad arquetípica de su personalidad y apariencia física, más cierto nivel de habilidad técnica, por las cuales ellos ejercitan el poder del simbolismo viviente en la subconciencia de individuos o grupos. De los muchos que han ejercitado una influencia duradera en el subconsciente del público citamos cuatro hombres de tipos opuestos cuyo trabajo en el cine americano representa ejemplos sobresalientes de la personalidad arquetípica simbólica: Lon Chaney, Bing Crosby, Rodolfo Valentino y Clark Cable.
 
-Lon Chaney, cuyo trabajo en el cine mudo lo clasificó como el más grande artista en
-maquillaje y uno de los más grandes pantomimos en el teatro americano, realizó como un
-arquetipo, el impulso universal, instintivo de la humanidad, de desear trascender la pasada
-monotonía de la “experiencia cotidiana”. Sus representaciones fueron casi sin excepción, de
-cuerpos deformes y personalidades torcidas. Dio al auditorio la satisfacción de la atracción
-subconsciente hacia lo misterioso y lo horripilante. Sus representaciones resultaban en un
-impacto emocional, pues él tenía grandes poderes de proyección y las mejores de sus
-representaciones tales como Quasimodo el Jorobado de Nuestra Señora fueron experiencias
-dramáticas inolvidables. Epitomó los “caprichos del Destino” por los cuales la humanidad
-sufre a causa de deformidades físicas o frustraciones terribles de los impulsos naturales. En
-resumen, su propósito oculto fue traer al público del cine la conciencia de lo trágico en el
-arte dramático. Su propósito y tipo de representación no fueron en absoluto para mero
-entretenimiento. Haber respondido verdaderamente y de todo corazón a la obra notable del
-señor Chaney significó una intensificación de conciencia del “pathos” del sufrimiento
-humano. Su propósito oculto fue dirigirse directamente hacia el estímulo de la compasión
-en el corazón humano.
+Lon Chaney, cuyo trabajo en el cine mudo lo clasificó como el más grande artista en maquillaje y uno de los más grandes pantomimos en el teatro americano, realizó como un arquetipo, el impulso universal, instintivo de la humanidad, de desear trascender la pasada monotonía de la “experiencia cotidiana”. Sus representaciones fueron casi sin excepción, de cuerpos deformes y personalidades torcidas. Dio al auditorio la satisfacción de la atracción subconsciente hacia lo misterioso y lo horripilante. Sus representaciones resultaban en un impacto emocional, pues él tenía grandes poderes de proyección y las mejores de sus representaciones tales como Quasimodo el Jorobado de Nuestra Señora fueron experiencias dramáticas inolvidables. Epitomó los “caprichos del Destino” por los cuales la humanidad sufre a causa de deformidades físicas o frustraciones terribles de los impulsos naturales. En resumen, su propósito oculto fue traer al público del cine la conciencia de lo trágico en el arte dramático. Su propósito y tipo de representación no fueron en absoluto para mero entretenimiento. Haber respondido verdaderamente y de todo corazón a la obra notable del señor Chaney significó una intensificación de conciencia del “pathos” del sufrimiento humano. Su propósito oculto fue dirigirse directamente hacia el estímulo de la compasión en el corazón humano.
 
-El autor siempre ha estimado que la obra del señor Bing Crosby en la pantalla ha
-sido uno de los influjos espirituales más extraordinarios en el mundo (1951). Con tanta
-religión organizada actual, en un estado de inquietud y de cambio, la vibración y el talento
-de este hombre nos traen a través de la canción y la comedia ligera, el estímulo
-“suavemente expresado” pero de mucho alcance hacia el ideal humano, de la sencilla
-bondad y la amistad natural. Su vibración, desde el punto de vista astrológico, es
-poderosamente Venusiana, teniendo a Libra como Ascendente, el Sol en Tauro y la Luna en
-trino con Mercurio y Venus. ¿Y quién puede personificar con mayor perfección el ideal de
-la obediencia pasiva constructiva? Para hacer una analogía imaginaria, podríamos llamarlo
-el “Francisco de Asís del siglo XX”, por ser tan imperiosas la bondad y sinceridad del
-arquetipo que él representa. Las palabras se escriben y las acciones se planean; pero él tiene
-en sí mismo la especialización de conciencia que proyecta esta cualidad arquetípica. Otros
-representan y cantan, ellos son deleitables e imponen el respeto del público, pero sólo existe
-un Bing Crosby, el “trovador del mundo” y arquetípicamente, el amigo de todos los que se
-relacionan con él. ¿Quién no desearía poseer el poder amigable que él simboliza?. El
-enternece los corazones más duros y con su gran serenidad logra las representaciones más
-naturales, simboliza la personalidad descongestionada, expresiva, bondadosa; persuasiva
-más que potente, con la percepción del bien inherente a todos. Si la gente que afluye a sus
-películas reconociera que ellos como individuos sólo necesitan emular este arquetipo y
-disolver residúos de malicia, de envidia, celos, impulsos dañinos, etc., no sólo disfrutarían
-más aún de sus representaciones, sino que seguirían sinceramente su ejemplo. El señor
-Crosby personifica verdades de la naturaleza humana regenerada - su obra es una serie de
-sermones a través de la representación y el canto -. La gente de todo el mundo lo ama
-porque les exterioriza las propias potencialidades internas de corazón y espíritu. ¿Considera
-usted al señor Crosby - en la pantalla - como una “invención imaginativa” completamente
-remota de usted y de su vida, o reconoce usted que se mira en un espejo el cual refleja
-aspectos de su propia delicadeza, amigabilidad y armonía innatas?. Piense sobre esto
-detenidamente.
+El autor siempre ha estimado que la obra del señor Bing Crosby en la pantalla ha sido uno de los influjos espirituales más extraordinarios en el mundo (1951). Con tanta religión organizada actual, en un estado de inquietud y de cambio, la vibración y el talento de este hombre nos traen a través de la canción y la comedia ligera, el estímulo “suavemente expresado” pero de mucho alcance hacia el ideal humano, de la sencilla bondad y la amistad natural. Su vibración, desde el punto de vista astrológico, es poderosamente Venusiana, teniendo a Libra como Ascendente, el Sol en Tauro y la Luna en trino con Mercurio y Venus. ¿Y quién puede personificar con mayor perfección el ideal de la obediencia pasiva constructiva? Para hacer una analogía imaginaria, podríamos llamarlo el “Francisco de Asís del siglo XX”, por ser tan imperiosas la bondad y sinceridad del arquetipo que él representa. Las palabras se escriben y las acciones se planean; pero él tiene en sí mismo la especialización de conciencia que proyecta esta cualidad arquetípica. Otros representan y cantan, ellos son deleitables e imponen el respeto del público, pero sólo existe un Bing Crosby, el “trovador del mundo” y arquetípicamente, el amigo de todos los que se relacionan con él. ¿Quién no desearía poseer el poder amigable que él simboliza?. El enternece los corazones más duros y con su gran serenidad logra las representaciones más naturales, simboliza la personalidad descongestionada, expresiva, bondadosa; persuasiva más que potente, con la percepción del bien inherente a todos. Si la gente que afluye a sus películas reconociera que ellos como individuos sólo necesitan emular este arquetipo y disolver residúos de malicia, de envidia, celos, impulsos dañinos, etc., no sólo disfrutarían más aún de sus representaciones, sino que seguirían sinceramente su ejemplo. El señor Crosby personifica verdades de la naturaleza humana regenerada - su obra es una serie de sermones a través de la representación y el canto -. La gente de todo el mundo lo ama porque les exterioriza las propias potencialidades internas de corazón y espíritu. ¿Considera usted al señor Crosby - en la pantalla - como una “invención imaginativa” completamente remota de usted y de su vida, o reconoce usted que se mira en un espejo el cual refleja aspectos de su propia delicadeza, amigabilidad y armonía innatas?. Piense sobre esto detenidamente.
 
-El señor Valentino, un europeo latino, de apariencia hermosa, extraordinaria,
-personificó en su tiempo un ideal romántico que sobrepasó en poder a todos los actores de
-su tipo. La psicología podría decir mucho concerniente al dominio que este hombre ejerció
-sobre el subconsciente de la mujer americana. Es cierto, aunque sea desagradable decirlo
-que la miasma del puritanismo ha sido una mancha en su influencia sobre las mentes y los
-corazones de la gente por muchos años y esta influencia ha desviado a muchas personas -
-millones de ellas - del logro del ideal de cumplimiento espontáneo de la relación de amor.
-El arquetipo representado por el señor Valentino fue la completa antítesis de esta
-“filosofía” falsa, materialista, corrupta y deficiente. Los factores combinados de
-temperamento latino ardiente, una cara y una figura hermosas, más una gran habilidad de
-proyectar la intensidad del magnetismo sexual, le hizo posible a este actor efectuar un
-arquetipo enfocado de personalidad masculina que exteriorizó el ideal de la
-complementación del amor al subconsciente femenino. Bajo el hechizo de su vibración las
-mujeres “redescubrieron” su condición básica e instintiva de mujer - el deseo de ser
-conquistada, oprimida y transfigurada por el poder de proyección del hombre diestro y
-culto -. En la vibración y personalidad de este hombre, nada en absoluto era “americano”;
-él representó un tipo de personalidad de gracia masculina, cortesía, habilidad erótica y el
-hechizo cultivado de una civilización más vieja. Puede haber o no, otros en la pantalla hoy
-día que puedan compararse favorablemente con la vibración y la habilidad particulares de
-este hombre, pero él fue en su tiempo, arquetípico de lo que muchas, sino la mayoría de las
-mujeres buscan como compañero amoroso ideal Nadie sugiere que ningún hombre modele
-su vida por la del señor Valentino, sino que lo que él simboliza se podría considerar y
-aprender por muchos hombres que han permitido que sus conceptos de la relación entre
-hombre y mujer se congestionen por la falta de gracia, por la ignorancia y el puritanismo -
-con sus complejos de culpabilidad - y la falta de percepción de lo que es verdadera belleza
-en la mujer. En sus representaciones en la pantalla el señor Valentino rindió homenaje al
-ideal de la belleza femenina. Por vanidad personal muchas mujeres tratan de forzar el
-homenaje masculino mediante ardides y artificios; pero finalmente el hombre rinde
-homenaje a sus ideales y nunca a máscaras y triquiñuelas. Hay una lección que los hombres
-deben aprender en consideración a la obra de este actor. El propósito oculto de la obra de
-este actor fue que el hombre percibiera y que encendiera por la percepción, la belleza real
-de la mujer a fin de que ésta se convirtiera en la hermosura que inspira.
+El señor Valentino, un europeo latino, de apariencia hermosa, extraordinaria, personificó en su tiempo un ideal romántico que sobrepasó en poder a todos los actores de su tipo. La psicología podría decir mucho concerniente al dominio que este hombre ejerció sobre el subconsciente de la mujer americana. Es cierto, aunque sea desagradable decirlo que la miasma del puritanismo ha sido una mancha en su influencia sobre las mentes y los corazones de la gente por muchos años y esta influencia ha desviado a muchas personas - millones de ellas - del logro del ideal de cumplimiento espontáneo de la relación de amor. El arquetipo representado por el señor Valentino fue la completa antítesis de esta “filosofía” falsa, materialista, corrupta y deficiente. Los factores combinados de temperamento latino ardiente, una cara y una figura hermosas, más una gran habilidad de proyectar la intensidad del magnetismo sexual, le hizo posible a este actor efectuar un arquetipo enfocado de personalidad masculina que exteriorizó el ideal de la complementación del amor al subconsciente femenino. Bajo el hechizo de su vibración las mujeres “redescubrieron” su condición básica e instintiva de mujer - el deseo de ser conquistada, oprimida y transfigurada por el poder de proyección del hombre diestro y culto -. En la vibración y personalidad de este hombre, nada en absoluto era “americano”; él representó un tipo de personalidad de gracia masculina, cortesía, habilidad erótica y el hechizo cultivado de una civilización más vieja. Puede haber o no, otros en la pantalla hoy día que puedan compararse favorablemente con la vibración y la habilidad particulares de este hombre, pero él fue en su tiempo, arquetípico de lo que muchas, sino la mayoría de las mujeres buscan como compañero amoroso ideal Nadie sugiere que ningún hombre modele su vida por la del señor Valentino, sino que lo que él simboliza se podría considerar y aprender por muchos hombres que han permitido que sus conceptos de la relación entre hombre y mujer se congestionen por la falta de gracia, por la ignorancia y el puritanismo - con sus complejos de culpabilidad - y la falta de percepción de lo que es verdadera belleza en la mujer. En sus representaciones en la pantalla el señor Valentino rindió homenaje al ideal de la belleza femenina. Por vanidad personal muchas mujeres tratan de forzar el homenaje masculino mediante ardides y artificios; pero finalmente el hombre rinde homenaje a sus ideales y nunca a máscaras y triquiñuelas. Hay una lección que los hombres deben aprender en consideración a la obra de este actor. El propósito oculto de la obra de este actor fue que el hombre percibiera y que encendiera por la percepción, la belleza real de la mujer a fin de que ésta se convirtiera en la hermosura que inspira.
 
-El señor Gable, la personificación del tipo de Marte-Saturno-Mercurio, es
-probablemente la mejor réplica americana de lo que el señor Valentino representó como
-europeo. Gable ha sido designado justamente el más grande arquetipo de la personalidad
-masculina en la pantalla de la actualidad, El es todos los hombres para toda la gente, su
-Luna en Cáncer designa su facultad oculta para “alimentar el inconsciente colectivo”, y su
-obra es acogida con entusiasmo tanto por los hombres como por las mujeres. En sus
-representaciones de la pantalla podemos considerarlo fácilmente como desempeñando una
-forma de “sacerdocio” hasta donde un sacerdote pueda considerarse como la
-personificación de los principios de vida en la religión ceremonial. Alambicada como
-podría parecer al principio la significación oculta de la obra de este actor, es profundamente
-religiosa porque él enciende en la subconciencia de la gente, una percepción intensificada
-de los principios masculinos de la personalidad.
+El señor Gable, la personificación del tipo de Marte-Saturno-Mercurio, es probablemente la mejor réplica americana de lo que el señor Valentino representó como europeo. Gable ha sido designado justamente el más grande arquetipo de la personalidad masculina en la pantalla de la actualidad, El es todos los hombres para toda la gente, su Luna en Cáncer designa su facultad oculta para “alimentar el inconsciente colectivo”, y su obra es acogida con entusiasmo tanto por los hombres como por las mujeres. En sus representaciones de la pantalla podemos considerarlo fácilmente como desempeñando una forma de “sacerdocio” hasta donde un sacerdote pueda considerarse como la personificación de los principios de vida en la religión ceremonial. Alambicada como podría parecer al principio la significación oculta de la obra de este actor, es profundamente religiosa porque él enciende en la subconciencia de la gente, una percepción intensificada de los principios masculinos de la personalidad.
 
-Los estudiantes puede que no vean conexión alguna entre las palabras “religiosa” o
-“espiritual” y las representaciones rudas, fuertes y por lo general toscas del señor Gable;
-pero su persona y su vibración transmiten un símbolo de recursos, tolerancia, confianza
-propia, fuerza física, buen humor genial y sobre todo la cualidad del valor que es la
-cualidad arquetípica regenerada de la vibración de Marte. (El tiene a Marte en el signo
-Ascendente haciendo cuatro aspectos mayores, dispositado por el regente del mapa y trino a
-Júpiter y Saturno). La gente tiende a veces a “enfermarse internamente” con sus propias
-futilidades, incompetencias y debilidades y con las de aquellos que lo rodean. El señor
-Gable somete a su consideración la actualidad de patrones de gran fuerza física, mental y de
-carácter. Su vibración enciende ciertamente un patrón de idealidad, puesto que el valor, la
-confianza propia, la paciencia y el poder físico son arquetipos de Marte y como tales, ellos
-representan cualidades que todos estamos tratando de realizar en nosotros mismos. La
-trinidad de la Luna, Marte y Saturno es la base planetaria de cada ciclo evolutivo; Luna-
-Saturno, como regentes del diámetro estructural de Cáncer-Capricornio, representa la
-fuente paternal del “Yo Soy” de Marte así como su cumplimiento en la madurez. Una
-madurez fuerte, bien integrada, presupone un Marte bien integrado y las cualidades
-dinámicas poderosamente individualizadas del arquetipo de Marte que el señor Cable
-simboliza es una esencia vibratoria que todos nosotros, hombres y mujeres poseemos como
-una potencialidad que debe ser cumplida y expresada. La atracción universal de sus
-representaciones está representada en la combinación de dos patrones distintos en su mapa:
-Luna-Cáncer y Saturno-Capricornio, con el Sol y el regente en Acuario en sextil a Urano; la
-ubicación de su Marte Ascendente en la duodécima casa nos da una clave para la
-significación oculta de su vibración como un símbolo de la personalidad arquetípica.
+Los estudiantes puede que no vean conexión alguna entre las palabras “religiosa” o “espiritual” y las representaciones rudas, fuertes y por lo general toscas del señor Gable; pero su persona y su vibración transmiten un símbolo de recursos, tolerancia, confianza propia, fuerza física, buen humor genial y sobre todo la cualidad del valor que es la cualidad arquetípica regenerada de la vibración de Marte. (El tiene a Marte en el signo Ascendente haciendo cuatro aspectos mayores, dispositado por el regente del mapa y trino a Júpiter y Saturno). La gente tiende a veces a “enfermarse internamente” con sus propias futilidades, incompetencias y debilidades y con las de aquellos que lo rodean. El señor Gable somete a su consideración la actualidad de patrones de gran fuerza física, mental y de carácter. Su vibración enciende ciertamente un patrón de idealidad, puesto que el valor, la confianza propia, la paciencia y el poder físico son arquetipos de Marte y como tales, ellos representan cualidades que todos estamos tratando de realizar en nosotros mismos. La trinidad de la Luna, Marte y Saturno es la base planetaria de cada ciclo evolutivo; Luna- Saturno, como regentes del diámetro estructural de Cáncer-Capricornio, representa la fuente paternal del “Yo Soy” de Marte así como su cumplimiento en la madurez. Una madurez fuerte, bien integrada, presupone un Marte bien integrado y las cualidades dinámicas poderosamente individualizadas del arquetipo de Marte que el señor Cable simboliza es una esencia vibratoria que todos nosotros, hombres y mujeres poseemos como una potencialidad que debe ser cumplida y expresada. La atracción universal de sus representaciones está representada en la combinación de dos patrones distintos en su mapa: Luna-Cáncer y Saturno-Capricornio, con el Sol y el regente en Acuario en sextil a Urano; la ubicación de su Marte Ascendente en la duodécima casa nos da una clave para la significación oculta de su vibración como un símbolo de la personalidad arquetípica.
 
-Si usted es uno de los que se han sentido inclinados a identificarse con las
-“representaciones cinematográficas” y desea libertarse de ese encarcelamiento simbólico,
-haga una copia de su mapa, sin el número de grados; esto es lo que el autor llama mapa de
-“Luz Blanca” - este es el cuadro simbólico de usted mismo corno arquetipo. Estúdielo con
-el propósito de determinar cuáles son sus puntos focales vibratorios (olvide las cuadraturas
-y oposiciones en este estudio) y comience por hacer algo para organizar su vida y poderle
-dar una expresión más completa y libre a sus potencialidades vibratorias esenciales. Estudie
-la obra del actor o la actriz cuyo trabajo en la pantalla le “fascina” y reconozca que algo de
-sus personalidades o vibraciones también está en usted. Es su derecho y su deber buscar su
-verdad como una expresión individualizada del arquetipo humanidad. Cuando comience
-esta reorganización, usted se encontrará gradualmente liberado de la compulsión de
-identificarse a través de otro - y su gozo del entretenimiento y el arte teatral cobrarán una
-mayor sinceridad porque usted estará más y más capacitado para disfrutarlo y apreciarlo
-por su propio mérito. El arte de vivir es descubrir a nuestro ser y lo que realizamos de
-nosotros mismos.
+Si usted es uno de los que se han sentido inclinados a identificarse con las “representaciones cinematográficas” y desea libertarse de ese encarcelamiento simbólico, haga una copia de su mapa, sin el número de grados; esto es lo que el autor llama mapa de “Luz Blanca” - este es el cuadro simbólico de usted mismo corno arquetipo. Estúdielo con el propósito de determinar cuáles son sus puntos focales vibratorios (olvide las cuadraturas y oposiciones en este estudio) y comience por hacer algo para organizar su vida y poderle dar una expresión más completa y libre a sus potencialidades vibratorias esenciales. Estudie la obra del actor o la actriz cuyo trabajo en la pantalla le “fascina” y reconozca que algo de sus personalidades o vibraciones también está en usted. Es su derecho y su deber buscar su verdad como una expresión individualizada del arquetipo humanidad. Cuando comience esta reorganización, usted se encontrará gradualmente liberado de la compulsión de identificarse a través de otro - y su gozo del entretenimiento y el arte teatral cobrarán una mayor sinceridad porque usted estará más y más capacitado para disfrutarlo y apreciarlo por su propio mérito. El arte de vivir es descubrir a nuestro ser y lo que realizamos de nosotros mismos.
 
 ### <h3 id="chapter-3">Capítulo III: Curación</h3>
 
-El arte de curar es una extensión impersonalizada del amor bipolar de los padres. La
-conservación del cuerpo engendrado es uno de los factores envueltos en la responsabilidad
-de los padres; la sabiduría que es el conocimiento destilado de la experiencia a través de
-encarnaciones, es sumada al instinto amoroso básico de la paternidad para formar la esencia
-de las artes de curación mediante las cuales la humanidad conserva y protege, en el
-servicio, el compuesto de sus miríadas de cuerpos. Consideraremos un mándala básico
-indicativo de esta extensión:
+El arte de curar es una extensión impersonalizada del amor bipolar de los padres. La conservación del cuerpo engendrado es uno de los factores envueltos en la responsabilidad de los padres; la sabiduría que es el conocimiento destilado de la experiencia a través de encarnaciones, es sumada al instinto amoroso básico de la paternidad para formar la esencia de las artes de curación mediante las cuales la humanidad conserva y protege, en el servicio, el compuesto de sus miríadas de cuerpos. Consideraremos un mándala básico indicativo de esta extensión:
 
-Primero, un círculo con el diámetro vertical, los símbolos de Cáncer y Capricornio
-en los puntos inferiores y superiores, respectivamente. Este es el mándala esencial de la
-paternidad o maternidad - lo maternal y paternal del Yo Soy abstracto del Ascendente -. En
-los estados primitivos la humanidad funcionó instintivamente en la paternidad o
-maternidad, siguiendo la llamada del instinto generador como cumplimiento de un deseo
-intensamente expresado - tal vez con un ápice de lo que podría llamarse “afecto”. Con la
-concepción, el alumbramiento y la conservación al azar de los niños, la humanidad
-primitiva cumplió la responsabilidad de engendrar formas. No obstante, con la evolución y
-el desenvolvimiento de la potencialidad del amor, los padres consideraron a los niños como
-individuos y con esta consideración nació el deseo de comprenderlos. Las artes de curación
-puede decirse que nacieron con el primer ser humano que ejercitó su pensamiento y su
-ingeniosidad, como expresión de un instinto protector paternal para la conservación de la
-vida de otro. Esta persona hipotética, quien fuera, proyectó de la potencialidad del amor-
-sabiduría, una imposición de la mente y la voluntad en los fenómenos de la Naturaleza para
-realizar la aurora del impulso del servicio amoroso impersonalizado. El hombre impele
-internamente hacia extensiones de relación sanguínea en el desenvolvimiento de sus
-potencialidades. Primero, sus padres, hermanos y hermanas, compañera e hijos; después,
-los miembros del clan o de la tribu a que pertenece; más tarde los miembros de otro clan y
-así sucesivamente, hasta que alcanza una octava de conciencia en la cual percibe un
-vislumbre de la relación de su vida con toda la gente. El “cuidó de sus animales” primero,
-porque dependía de ellos para el trabajo y el alimento; sin embargo, con el “vislumbre de
-las relaciones de la vida”, él percibió que estaba relacionado con sus animales al igual que
-con sus parientes humanos y otros seres humanos, y como consecuencia extendió su
-conocimiento de curación para beneficiar no sólo a la gente, sino también a la vida animal.
-El universalista está redimido hasta tal grado que cuanto tenga de potencialidad del servicio
-amoroso es radiado a todos los seres vivientes que lo necesiten.
+Primero, un círculo con el diámetro vertical, los símbolos de Cáncer y Capricornio en los puntos inferiores y superiores, respectivamente. Este es el mándala esencial de la paternidad o maternidad - lo maternal y paternal del Yo Soy abstracto del Ascendente -. En los estados primitivos la humanidad funcionó instintivamente en la paternidad o maternidad, siguiendo la llamada del instinto generador como cumplimiento de un deseo intensamente expresado - tal vez con un ápice de lo que podría llamarse “afecto”. Con la concepción, el alumbramiento y la conservación al azar de los niños, la humanidad primitiva cumplió la responsabilidad de engendrar formas. No obstante, con la evolución y el desenvolvimiento de la potencialidad del amor, los padres consideraron a los niños como individuos y con esta consideración nació el deseo de comprenderlos. Las artes de curación puede decirse que nacieron con el primer ser humano que ejercitó su pensamiento y su ingeniosidad, como expresión de un instinto protector paternal para la conservación de la vida de otro. Esta persona hipotética, quien fuera, proyectó de la potencialidad del amor- sabiduría, una imposición de la mente y la voluntad en los fenómenos de la Naturaleza para realizar la aurora del impulso del servicio amoroso impersonalizado. El hombre impele internamente hacia extensiones de relación sanguínea en el desenvolvimiento de sus potencialidades. Primero, sus padres, hermanos y hermanas, compañera e hijos; después, los miembros del clan o de la tribu a que pertenece; más tarde los miembros de otro clan y así sucesivamente, hasta que alcanza una octava de conciencia en la cual percibe un vislumbre de la relación de su vida con toda la gente. El “cuidó de sus animales” primero, porque dependía de ellos para el trabajo y el alimento; sin embargo, con el “vislumbre de las relaciones de la vida”, él percibió que estaba relacionado con sus animales al igual que con sus parientes humanos y otros seres humanos, y como consecuencia extendió su conocimiento de curación para beneficiar no sólo a la gente, sino también a la vida animal. El universalista está redimido hasta tal grado que cuanto tenga de potencialidad del servicio amoroso es radiado a todos los seres vivientes que lo necesiten.
 
-Ahora añada al mándala en consideración, el diámetro de Piscis-Virgo; los puntos
-similares en Cáncer-Piscis y Capricornio-Virgo son conectados por líneas curvas en
-dirección contraria a las agujas del reloj. En esta forma vemos una película compuesta del
-diámetro Cáncer-Capricornio volteada nueve signos, reposando en los signos que
-representan la octava de sabiduría de la paternidad. “La sabiduría que nace de la
-experiencia evolutiva” es la significación arquetípica de cualquier patrón del signo de la
-novena casa. Un padre devoto, pero ineducado puede hacer todo esfuerzo para sanar a un
-hijo amado; pero la sabiduría resulta en el arte de hacer las cosas de acuerdo con sus
-principios esenciales. Por lo tanto, los médicos especialistas, los diagnosticadores,
-cirujanos, enfermeras, dentistas, ginecólogos, dietistas, herbarios, veterinarios, psiquiatras,
-etc., abarcan la gran fraternidad de los terapeutas, los “padres impersonales” que consagran
-sus esfuerzos al mantenimiento de la salud interna y externa de todos los seres vivientes. De
-esta fraternidad hay dos tipos básicos que estudiaremos por medio de mándalas. El mándala
-del curador exotérico es el diámetro de Virgo-Piscis polarizado por Géminis, regido por
-Mercurio y tercera casa desde Aries. Géminis es conocimiento verdadero, es la
-comprensión derivada de la observación de los fenómenos físicos y del estudio de hechos y
-datos registrados. El acercamiento exotérico de las artes terapéuticas está basado en un
-acercamiento que el cuerpo mismo es el origen de sus propios males, y como tal, él fue el
-medio a través del cual el hombre fue impelido a familiarizarse con la estructura y las
-funciones de su vehículo físico. En sus primeras etapas de evolución, él conocía solamente
-lo que veía o percibía por los medios físicos; su conciencia y apreciación de la vida se
-enfocaban en su reacción al mundo objetivo que lo rodeaba. Por lo tanto, estudió su cuerpo
-observando lo que sucedía bajo ciertas condiciones y experiencias. Aprendió las diferentes
-clases de reacciones al dolor de que era capaz cuando su cuerpo era afectado en formas
-especializadas por fuerzas o medios externos. Este “mándala de curación” polarizado por
-Géminis, por ser esencialmente objetivo, es el mándala de todo arte diagnóstico que
-pertenezca a cualquier rama de curación, interna o externa. Se refiere también a las artes de
-la cirugía y al tratamiento médico que tienen aplicación directa en la condición física.
+Ahora añada al mándala en consideración, el diámetro de Piscis-Virgo; los puntos similares en Cáncer-Piscis y Capricornio-Virgo son conectados por líneas curvas en dirección contraria a las agujas del reloj. En esta forma vemos una película compuesta del diámetro Cáncer-Capricornio volteada nueve signos, reposando en los signos que representan la octava de sabiduría de la paternidad. “La sabiduría que nace de la experiencia evolutiva” es la significación arquetípica de cualquier patrón del signo de la novena casa. Un padre devoto, pero ineducado puede hacer todo esfuerzo para sanar a un hijo amado; pero la sabiduría resulta en el arte de hacer las cosas de acuerdo con sus principios esenciales. Por lo tanto, los médicos especialistas, los diagnosticadores, cirujanos, enfermeras, dentistas, ginecólogos, dietistas, herbarios, veterinarios, psiquiatras, etc., abarcan la gran fraternidad de los terapeutas, los “padres impersonales” que consagran sus esfuerzos al mantenimiento de la salud interna y externa de todos los seres vivientes. De esta fraternidad hay dos tipos básicos que estudiaremos por medio de mándalas. El mándala del curador exotérico es el diámetro de Virgo-Piscis polarizado por Géminis, regido por Mercurio y tercera casa desde Aries. Géminis es conocimiento verdadero, es la comprensión derivada de la observación de los fenómenos físicos y del estudio de hechos y datos registrados. El acercamiento exotérico de las artes terapéuticas está basado en un acercamiento que el cuerpo mismo es el origen de sus propios males, y como tal, él fue el medio a través del cual el hombre fue impelido a familiarizarse con la estructura y las funciones de su vehículo físico. En sus primeras etapas de evolución, él conocía solamente lo que veía o percibía por los medios físicos; su conciencia y apreciación de la vida se enfocaban en su reacción al mundo objetivo que lo rodeaba. Por lo tanto, estudió su cuerpo observando lo que sucedía bajo ciertas condiciones y experiencias. Aprendió las diferentes clases de reacciones al dolor de que era capaz cuando su cuerpo era afectado en formas especializadas por fuerzas o medios externos. Este “mándala de curación” polarizado por Géminis, por ser esencialmente objetivo, es el mándala de todo arte diagnóstico que pertenezca a cualquier rama de curación, interna o externa. Se refiere también a las artes de la cirugía y al tratamiento médico que tienen aplicación directa en la condición física.
 
-El hombre empezó a aprender sobre los efectos externos bastante temprano en las
-etapas evolutivas; pero no tardó mucho en darse cuenta de la significación de los estados
-internos que afectaban su bienestar físico. El primer ser humano (hipotético) en comprender
-que un estado emocional o mental tuviera una relación directa con la condición del cuerpo
-como la causa de una anomalía fue el primer terapeuta esotérico. El fue el primero en
-reconocer la coexistencia de la vida subjetiva y la vida objetiva. Sus observaciones fueron
-el origen de aquellas que se desarrollaron subsiguientemente relativas a la causa subjetiva
-de toda anomalía física o desarmonía - lesiones al igual que enfermedades -. En resumen,
-estas observaciones se refieren a la causa kármica de las desarmonías físicas. (El Faraón
-Alado, por Joan Grant, relata cómo percibían los grandes sacerdotes curadores del antiguo
-Egipto, por el examen clarividente, las causas internas de las desarmonías físicas). El
-inmortal Paracelso puede ser mencionado como un “epítome” (en la historia relativamente
-reciente) de este “primer terapeuta esotérico”. Ahora añadamos al mándala en
-consideración, el símbolo de Sagitario polarizando a Géminis, formando de ese modo, la
-cruz mudable de la instrumentación, la extensión del mándala del curador exotérico, la
-imagen del hombre como instrumento para su propia curación. La congestión principal
-envuelta es la congestión en la ignorancia, la “ceguera a los principios” que es
-fundamentalmente la causa de toda enfermedad y lesión física. El signo de fuego Sagitario
-es el punto iniciador de esta cruz correspondiente al Aries de la Cruz Cardinal. La identidad
-es: “yo soy un curador”.
+El hombre empezó a aprender sobre los efectos externos bastante temprano en las etapas evolutivas; pero no tardó mucho en darse cuenta de la significación de los estados internos que afectaban su bienestar físico. El primer ser humano (hipotético) en comprender que un estado emocional o mental tuviera una relación directa con la condición del cuerpo como la causa de una anomalía fue el primer terapeuta esotérico. El fue el primero en reconocer la coexistencia de la vida subjetiva y la vida objetiva. Sus observaciones fueron el origen de aquellas que se desarrollaron subsiguientemente relativas a la causa subjetiva de toda anomalía física o desarmonía - lesiones al igual que enfermedades -. En resumen, estas observaciones se refieren a la causa kármica de las desarmonías físicas. (El Faraón Alado, por Joan Grant, relata cómo percibían los grandes sacerdotes curadores del antiguo Egipto, por el examen clarividente, las causas internas de las desarmonías físicas). El inmortal Paracelso puede ser mencionado como un “epítome” (en la historia relativamente reciente) de este “primer terapeuta esotérico”. Ahora añadamos al mándala en consideración, el símbolo de Sagitario polarizando a Géminis, formando de ese modo, la cruz mudable de la instrumentación, la extensión del mándala del curador exotérico, la imagen del hombre como instrumento para su propia curación. La congestión principal envuelta es la congestión en la ignorancia, la “ceguera a los principios” que es fundamentalmente la causa de toda enfermedad y lesión física. El signo de fuego Sagitario es el punto iniciador de esta cruz correspondiente al Aries de la Cruz Cardinal. La identidad es: “yo soy un curador”.
 
-Ahora para aclarar, “construya” el mándala de Sagitario como sigue: Sagitario en la
-horizontal izquierda, Virgo en la vertical ascendente; Géminis en la horizontal derecha;
-Piscis en la vertical descendente. La irradiación curativa, conservadora de Sagitario es
-polarizada por el conocimiento de Géminis; el diámetro de los padres es el diámetro de
-servicio abstracto de Virgo-Piscis. El instinto primitivo maternal de Cáncer está demostrado
-aquí como la maternidad universal del compasivo Piscis; el instinto, primitivo paternal de
-Capricornio, exaltación del principio masculino, Marte, está demostrado aquí como la
-mayordomía del elemento de tierra por medio de Virgo, como sabiduría, expresándose a
-través del servicio amoroso. Ahora añada la quinta y novena cúspides y los signos
-apropiados, Aries y Leo respectivamente; conecte los tres puntos de fuego por medio de
-líneas rectas formando el trivio de la individualización dinámica que caracteriza a todos los
-grandes curadores esotéricos; cada uno de éstos, por la verdadera naturaleza de su propósito
-y cumplimiento de responsabilidad, es un precursor en tanto que cada uno añade un punto
-de entendimiento que se presta para trascender las limitaciones del conocimiento puramente
-exotérico. Todo curador, no importa la rama del arte en que él sirve, que aplica una
-percepción inspirada de las causas internas de las lesiones y las enfermedades es un curador
-esotérico; sólo aquellos que enfocan en el cuerpo solamente, deben ser considerados como
-“exoteristas puros” del arte de curar.
+Ahora para aclarar, “construya” el mándala de Sagitario como sigue: Sagitario en la horizontal izquierda, Virgo en la vertical ascendente; Géminis en la horizontal derecha; Piscis en la vertical descendente. La irradiación curativa, conservadora de Sagitario es polarizada por el conocimiento de Géminis; el diámetro de los padres es el diámetro de servicio abstracto de Virgo-Piscis. El instinto primitivo maternal de Cáncer está demostrado aquí como la maternidad universal del compasivo Piscis; el instinto, primitivo paternal de Capricornio, exaltación del principio masculino, Marte, está demostrado aquí como la mayordomía del elemento de tierra por medio de Virgo, como sabiduría, expresándose a través del servicio amoroso. Ahora añada la quinta y novena cúspides y los signos apropiados, Aries y Leo respectivamente; conecte los tres puntos de fuego por medio de líneas rectas formando el trivio de la individualización dinámica que caracteriza a todos los grandes curadores esotéricos; cada uno de éstos, por la verdadera naturaleza de su propósito y cumplimiento de responsabilidad, es un precursor en tanto que cada uno añade un punto de entendimiento que se presta para trascender las limitaciones del conocimiento puramente exotérico. Todo curador, no importa la rama del arte en que él sirve, que aplica una percepción inspirada de las causas internas de las lesiones y las enfermedades es un curador esotérico; sólo aquellos que enfocan en el cuerpo solamente, deben ser considerados como “exoteristas puros” del arte de curar.
 
-La potencialidad del amor (quinta cúspide) de este mándala enfoca la gran
-regeneración de la valentía y todo curador esotérico debe expresar esta virtud para poder
-cumplir. La mayoría de la humanidad es y siempre ha sido de “propensión exotérica” -
-congestionada en la apariencia externa y ciega a las realidades internas. Desgarrar el velo
-de la ignorancia para que la humanidad se ponga sobre aviso, como la causa de sus propias
-desarmonías ha requerido un valor intrépido y un celo ardiente de parte de los grandes
-curadores. “El miedo instintivo a lo desconocido” que caracteriza a la ignorancia ha sido
-siempre el mayor reto a la integridad personal de los curadores y este reto ha tenido que ser
-afrontado por el ejercicio del mayor impulso dinámico representado por Marte-Aries. Leo
-en la novena cúspide de este mándala enfoca la vibración de “poder y autoridad” del Sol en
-la casa que alude a la comprensión y a la enseñanza. ¿Quién, en las artes de curación
-presumiría o se atrevería a presentar especulaciones como verdades referentes a la curación
-subjetiva - esto es, sin la autoridad de la verdadera comprensión de los principios
-envueltos? En este factor del mándala, vemos el “reino de la verdadera comprensión”, la
-“nobleza de las percepciones iluminadas”. Las verdades de lo externo, importantes y
-significativas como son para el desarrollo de las artes curativas, son imágenes reflejadas de
-las verdades de lo interno. El Leo de la novena casa es la “sabiduría” que irradia amor y la
-expresión de verdades de lo interior realizadas, es la esencia de la curación en cualquier
-plano; esta sabiduría es una contribución vitalizante a las experiencias humanas en
-cualquier aspecto.
+La potencialidad del amor (quinta cúspide) de este mándala enfoca la gran regeneración de la valentía y todo curador esotérico debe expresar esta virtud para poder cumplir. La mayoría de la humanidad es y siempre ha sido de “propensión exotérica” - congestionada en la apariencia externa y ciega a las realidades internas. Desgarrar el velo de la ignorancia para que la humanidad se ponga sobre aviso, como la causa de sus propias desarmonías ha requerido un valor intrépido y un celo ardiente de parte de los grandes curadores. “El miedo instintivo a lo desconocido” que caracteriza a la ignorancia ha sido siempre el mayor reto a la integridad personal de los curadores y este reto ha tenido que ser afrontado por el ejercicio del mayor impulso dinámico representado por Marte-Aries. Leo en la novena cúspide de este mándala enfoca la vibración de “poder y autoridad” del Sol en la casa que alude a la comprensión y a la enseñanza. ¿Quién, en las artes de curación presumiría o se atrevería a presentar especulaciones como verdades referentes a la curación subjetiva - esto es, sin la autoridad de la verdadera comprensión de los principios envueltos? En este factor del mándala, vemos el “reino de la verdadera comprensión”, la “nobleza de las percepciones iluminadas”. Las verdades de lo externo, importantes y significativas como son para el desarrollo de las artes curativas, son imágenes reflejadas de las verdades de lo interno. El Leo de la novena casa es la “sabiduría” que irradia amor y la expresión de verdades de lo interior realizadas, es la esencia de la curación en cualquier plano; esta sabiduría es una contribución vitalizante a las experiencias humanas en cualquier aspecto.
 
-Así como Cáncer es el símbolo de lo que impele en la conciencia de la mujer a
-sacrificar su sustancia corporal para la encarnación de Egos, del mismo modo Piscis es,
-como signo de la cuarta casa del “mándala del curador”, el sacrificio espiritual hecho por
-todo curador verdadero. La “sustancia” de este sacrificio es la idealidad de todos los
-curadores, varones o hembras, ofrecida continuamente para que el ideal de la salud pueda
-ser manifestado en la experiencia humana. Así como la mujer primitiva ama
-instintivamente a su hijo, del mismo modo la polaridad femenina en todo ser humano, ama
-lo que es joven, indefenso y embrionario. Y “embrionario” quiere decir “ignorante”. El
-sacrificio ofrecido a través de la idealidad por los curadores es con frecuencia infinitamente
-peor que cualquier otro sufrimiento físico. La visión de una humanidad de salud radiante
-envilecida continuamente por las fuerzas congestionadas y negras del materialismo, el
-prejuicio, la estupidez y la envidia, es una crucifixión del espíritu que puede ser y ha sido
-sumamente abismática. El corazón maternal de todos los curadores resiste estas
-laceraciones en el servicio, así como en grado diferente, la mujer resiste el dolor de la
-gestación y el alumbramiento. Así se le muestra el cuadro a todos los que serán curadores:
-Estar dispuestos a neutralizar las fuerzas de la congestión por una efusión continua de su
-idealidad y de sus impulsos simpáticos. En este servicio de universalización, todo en
-vuestra naturaleza que es, o que ha sido “Madre” alcanza octavas de conciencia
-prolongadas a fin de que todos se beneficien con la efusión de sus impulsos compasivos y
-simpáticos.
+Así como Cáncer es el símbolo de lo que impele en la conciencia de la mujer a sacrificar su sustancia corporal para la encarnación de Egos, del mismo modo Piscis es, como signo de la cuarta casa del “mándala del curador”, el sacrificio espiritual hecho por todo curador verdadero. La “sustancia” de este sacrificio es la idealidad de todos los curadores, varones o hembras, ofrecida continuamente para que el ideal de la salud pueda ser manifestado en la experiencia humana. Así como la mujer primitiva ama instintivamente a su hijo, del mismo modo la polaridad femenina en todo ser humano, ama lo que es joven, indefenso y embrionario. Y “embrionario” quiere decir “ignorante”. El sacrificio ofrecido a través de la idealidad por los curadores es con frecuencia infinitamente peor que cualquier otro sufrimiento físico. La visión de una humanidad de salud radiante envilecida continuamente por las fuerzas congestionadas y negras del materialismo, el prejuicio, la estupidez y la envidia, es una crucifixión del espíritu que puede ser y ha sido sumamente abismática. El corazón maternal de todos los curadores resiste estas laceraciones en el servicio, así como en grado diferente, la mujer resiste el dolor de la gestación y el alumbramiento. Así se le muestra el cuadro a todos los que serán curadores: Estar dispuestos a neutralizar las fuerzas de la congestión por una efusión continua de su idealidad y de sus impulsos simpáticos. En este servicio de universalización, todo en vuestra naturaleza que es, o que ha sido “Madre” alcanza octavas de conciencia prolongadas a fin de que todos se beneficien con la efusión de sus impulsos compasivos y simpáticos.
 
-Si el impulso de sanar es derivado de la esencia femenina, maternal, entonces el
-verdadero trabajo de curación es derivado de la esencia paternal como una universalización
-prolongada del principio de mayordomía inherente al trino de tierra, iniciado por el
-Capricornio de Saturno, aunque enfocado en este mándala como el Virgo de Mercurio, la
-“ubicación masculina” de este planeta mental. Toda la simpatía en el mundo puede ser,
-desde el punto de vista vibratorio, un medio de curación; pero la totalidad de las artes
-curativas es tan compleja y tan variados son los factores con los cuales tratan que en los
-procesos evolutivos está asegurada la aplicación de mucho estudio y observación. La
-polarización de Sagitario por Géminis y de Piscis por Virgo nos indica que el conocimiento
-de los hechos de todos los planes de existencia representa en términos humanos, la
-terminación o el cumplimiento (complementación) del impulso básico o instinto por el cual
-el ser humano trata de convertirse en instrumento para los poderes curativos. Todo el
-estudio y lo que se aprende por la experiencia sirve finalmente el propósito de alertar la
-conciencia del curador hacia una percepción de salud como un atributo universal. Un padre
-humano, inteligente, no concibe que su responsabilidad abarque el “hacerlo todo por el
-niño”; él sabe que su responsabilidad es guiarlo y ponerlo alerta Sobre el ejercicio de sus
-potencialidades individuales. Así el sanador corno “padre universalizado”, estudia la
-enfermedad y las lesiones con el propósito de alertar al paciente (su hijo) para que se dé
-cuenta de su propia responsabilidad en el asunto. El “corazón de padre” del curador dice:
-“mi hijo, debes averiguar por qué tienes esta condición y ejercitarte de acuerdo con un
-entendimiento más claro de los principios de tu cuerpo”.
+Si el impulso de sanar es derivado de la esencia femenina, maternal, entonces el verdadero trabajo de curación es derivado de la esencia paternal como una universalización prolongada del principio de mayordomía inherente al trino de tierra, iniciado por el Capricornio de Saturno, aunque enfocado en este mándala como el Virgo de Mercurio, la “ubicación masculina” de este planeta mental. Toda la simpatía en el mundo puede ser, desde el punto de vista vibratorio, un medio de curación; pero la totalidad de las artes curativas es tan compleja y tan variados son los factores con los cuales tratan que en los procesos evolutivos está asegurada la aplicación de mucho estudio y observación. La polarización de Sagitario por Géminis y de Piscis por Virgo nos indica que el conocimiento de los hechos de todos los planes de existencia representa en términos humanos, la terminación o el cumplimiento (complementación) del impulso básico o instinto por el cual el ser humano trata de convertirse en instrumento para los poderes curativos. Todo el estudio y lo que se aprende por la experiencia sirve finalmente el propósito de alertar la conciencia del curador hacia una percepción de salud como un atributo universal. Un padre humano, inteligente, no concibe que su responsabilidad abarque el “hacerlo todo por el niño”; él sabe que su responsabilidad es guiarlo y ponerlo alerta Sobre el ejercicio de sus potencialidades individuales. Así el sanador corno “padre universalizado”, estudia la enfermedad y las lesiones con el propósito de alertar al paciente (su hijo) para que se dé cuenta de su propia responsabilidad en el asunto. El “corazón de padre” del curador dice: “mi hijo, debes averiguar por qué tienes esta condición y ejercitarte de acuerdo con un entendimiento más claro de los principios de tu cuerpo”.
 
-El curador, un ser humano en desarrollo con problemas como cualquier otro, puede
-y a veces logra congestionarse y “volver a las andadas” en el cumplimiento de su servicio
-universal. El es, como otro cualquiera, un aspecto del Gran Mándala el cual da pautas sobre
-ciertos peligros particulares si el sanador opera desde una base de congestiones en la
-conciencia.
+El curador, un ser humano en desarrollo con problemas como cualquier otro, puede y a veces logra congestionarse y “volver a las andadas” en el cumplimiento de su servicio universal. El es, como otro cualquiera, un aspecto del Gran Mándala el cual da pautas sobre ciertos peligros particulares si el sanador opera desde una base de congestiones en la conciencia.
 
-El signo de Cáncer no sólo simboliza el “hogar y la vida privada”, sino que es
-arquetipo de la conciencia de adhesión a una raza, nacionalidad, o religión particulares.
-Todos estos factores son parte de nuestra “conciencia del calor del hogar” y sirven de
-“modelos evolutivos”. El curador que se “congestiona en Cáncer” es el que hace un
-esfuerzo máximo para auxiliar a uno de los suyos, pero sin embargo rehúsa su ayuda a un
-relacionado “fuera de su límite”. A pesar de su habilidad tal acción muestra ignorancia de
-los principios de las artes de curación. El signo de Capricornio enfocado por Saturno, es
-ortodoxia, organización y normas convencionales. A través de la vibración por Saturno se
-desafía en ciertos patrones, la individualidad del sanador por “lo que se ha establecido
-como normas y éticas profesionales”. Todos los grandes curadores lo son gracias a su
-individualidad y el valor de sus convicciones inspiradas. La codicia por el dinero, el
-aplauso y la “reputación”, que caracteriza a los curadores “cristalizados” es una fuerza
-combinada que con frecuencia desafía la integridad del individuo. Si éste trasciende ese
-reto, su Luz seguirá ardiendo con brillo y fuerza; si sucumbe a cualquiera de sus factores,
-su Luz tarde o temprano se amortiguará y chisporroteará. El curador no puede defraudar su
-Luz en aprobación de lo cristalizado, y falto de principio y de esperanza de mantener esa
-Luz clara e iluminadora. La complementación de Sagitario por Géminis, irredimido, es
-congestión en el logro intelectual a expensas del impulso espiritual. Si el curador ha
-reaccionado a decepciones y dificultades con un incremento de cinismo y antipatía
-intensificada gradualmente, él puede ser tentado a buscar consuelo recurriendo a los “libros
-y alejándose de la gente”. El curador existe como tal, debido a las necesidades de otros
-seres vivientes y no por lo que está en los libros. El conocimiento debe “unirse” al ideal
-espiritual de completar plenamente el servicio de amor, ^ que es la razón de ser del curador.
+El signo de Cáncer no sólo simboliza el “hogar y la vida privada”, sino que es arquetipo de la conciencia de adhesión a una raza, nacionalidad, o religión particulares. Todos estos factores son parte de nuestra “conciencia del calor del hogar” y sirven de “modelos evolutivos”. El curador que se “congestiona en Cáncer” es el que hace un esfuerzo máximo para auxiliar a uno de los suyos, pero sin embargo rehúsa su ayuda a un relacionado “fuera de su límite”. A pesar de su habilidad tal acción muestra ignorancia de los principios de las artes de curación. El signo de Capricornio enfocado por Saturno, es ortodoxia, organización y normas convencionales. A través de la vibración por Saturno se desafía en ciertos patrones, la individualidad del sanador por “lo que se ha establecido como normas y éticas profesionales”. Todos los grandes curadores lo son gracias a su individualidad y el valor de sus convicciones inspiradas. La codicia por el dinero, el aplauso y la “reputación”, que caracteriza a los curadores “cristalizados” es una fuerza combinada que con frecuencia desafía la integridad del individuo. Si éste trasciende ese reto, su Luz seguirá ardiendo con brillo y fuerza; si sucumbe a cualquiera de sus factores, su Luz tarde o temprano se amortiguará y chisporroteará. El curador no puede defraudar su Luz en aprobación de lo cristalizado, y falto de principio y de esperanza de mantener esa Luz clara e iluminadora. La complementación de Sagitario por Géminis, irredimido, es congestión en el logro intelectual a expensas del impulso espiritual. Si el curador ha reaccionado a decepciones y dificultades con un incremento de cinismo y antipatía intensificada gradualmente, él puede ser tentado a buscar consuelo recurriendo a los “libros y alejándose de la gente”. El curador existe como tal, debido a las necesidades de otros seres vivientes y no por lo que está en los libros. El conocimiento debe “unirse” al ideal espiritual de completar plenamente el servicio de amor, ^ que es la razón de ser del curador.
 
-Cualquier estudiante de astrología deseoso de inaugurar un período de estudio
-relativo a los mapas de curadores o factores astrológicos relativos a las “habilidades
-curativas” debe preparar su mente para este estudio leyendo primeramente biografías de los
-grandes curadores como una armonización con el espíritu en la naturaleza humana que hace
-a la gente curadores. Debe familiarizarse “mercurialmente” con los pasos significantes en el
-desarrollo de las artes de curación a través de la evolución humana. Esto es comparable, en
-el plano intelectual, a la “meditación sobre mándalas puesto que la mente es de ese modo
-sensibilizada a la vibración” de los curadores. Se sugiere también la lectura de la exquisita
-Canción de Bernadette de Franz Werfel como una necesidad indispensable para todos los
-estudiantes que deseen sensibilizar su percepción de la instrumentación de todos los
-grandes curadores y los medios ocultos por los cuales se establecen los grandes centros de
-curación. La literatura Teosófica y Rosacruz es por supuesto un manantial insondable de
-conocimientos sobre los temas de curación.
+Cualquier estudiante de astrología deseoso de inaugurar un período de estudio relativo a los mapas de curadores o factores astrológicos relativos a las “habilidades curativas” debe preparar su mente para este estudio leyendo primeramente biografías de los grandes curadores como una armonización con el espíritu en la naturaleza humana que hace a la gente curadores. Debe familiarizarse “mercurialmente” con los pasos significantes en el desarrollo de las artes de curación a través de la evolución humana. Esto es comparable, en el plano intelectual, a la “meditación sobre mándalas puesto que la mente es de ese modo sensibilizada a la vibración” de los curadores. Se sugiere también la lectura de la exquisita Canción de Bernadette de Franz Werfel como una necesidad indispensable para todos los estudiantes que deseen sensibilizar su percepción de la instrumentación de todos los grandes curadores y los medios ocultos por los cuales se establecen los grandes centros de curación. La literatura Teosófica y Rosacruz es por supuesto un manantial insondable de conocimientos sobre los temas de curación.
 
-Algunas observaciones generales: Las artes quirúrgicas están caracterizadas por la
-vibración de Marte; las del tratamiento y el diagnóstico por Mercurio. La Luna y Venus son
-conspicuas en los patrones referentes a las especializaciones femeninas. Saturno, para las
-artes quiroprácticas y ortopédicas. Una persona dotada de poder vibratorio curador, tendrá
-por lo general, un Sol poderosamente aspectado y claro, con énfasis en los signos fijos,
-particularmente Escorpión y Leo. Los signes de Piscis y Cáncer y el planeta Júpiter son
-“básicos” en los mapas de curación. Si es un curador verdadero, el curador es un
-conservador - y Júpiter es el principio de la conservación y el mejoramiento. La duodécima
-casa - la casa del cumplimiento de responsabilidad kármica para aquellos que están
-limitados - debe ser configurada en los mapas de los que prestan servicio en los hospitales o
-en otras instituciones de curación. Venus puede ser o no ser conspicuo en tales mapas; pero
-la Luna tiene que serlo - puesto que ella es el símbolo de la simpatía maternal instintiva así
-como de la necesidad pública. En la conciencia de todo el que estudie el tema de la
-curación, puede ocurrir una forma de curación inspirativa - y el astrólogo “hermano
-gemelo” del curador esotérico, debe irradiar curación por su amigabilidad, sus percepciones
-y su amor impersonalizado. El funciona como un “sanador de la psique” por su atención
-vigilante de la conciencia de la humanidad a las verdades de los principios de vida.
+Algunas observaciones generales: Las artes quirúrgicas están caracterizadas por la vibración de Marte; las del tratamiento y el diagnóstico por Mercurio. La Luna y Venus son conspicuas en los patrones referentes a las especializaciones femeninas. Saturno, para las artes quiroprácticas y ortopédicas. Una persona dotada de poder vibratorio curador, tendrá por lo general, un Sol poderosamente aspectado y claro, con énfasis en los signos fijos, particularmente Escorpión y Leo. Los signes de Piscis y Cáncer y el planeta Júpiter son “básicos” en los mapas de curación. Si es un curador verdadero, el curador es un conservador - y Júpiter es el principio de la conservación y el mejoramiento. La duodécima casa - la casa del cumplimiento de responsabilidad kármica para aquellos que están limitados - debe ser configurada en los mapas de los que prestan servicio en los hospitales o en otras instituciones de curación. Venus puede ser o no ser conspicuo en tales mapas; pero la Luna tiene que serlo - puesto que ella es el símbolo de la simpatía maternal instintiva así como de la necesidad pública. En la conciencia de todo el que estudie el tema de la curación, puede ocurrir una forma de curación inspirativa - y el astrólogo “hermano gemelo” del curador esotérico, debe irradiar curación por su amigabilidad, sus percepciones y su amor impersonalizado. El funciona como un “sanador de la psique” por su atención vigilante de la conciencia de la humanidad a las verdades de los principios de vida.
 
 ### <h3 id="chapter-4">Capítulo IV: La Fraternidad del Astrólogo, el Artista, el Sacerdote y el Curador</h3>
 
-La “relación se puede definir como el sentido, el propósito y el significado de una
-cosa con referencia a la sincronización de su conciencia con la de otra cosa a la cual es
-atraída por las leyes de la vibración simpática”. Todas estas leyes están inherentes a la Ley
-de Causa y Efecto y a los principios de creación y epigénesis.
+La “relación se puede definir como el sentido, el propósito y el significado de una cosa con referencia a la sincronización de su conciencia con la de otra cosa a la cual es atraída por las leyes de la vibración simpática”. Todas estas leyes están inherentes a la Ley de Causa y Efecto y a los principios de creación y epigénesis.
 
-Existen solamente dos patrones de relación básicos, cada uno de los cuales se
-manifiesta a través de la difusión en octavas innumerables por todo el Cosmos. El primero
-de éstos es la relación creadora - la del macrocosmo y el microcosmo entre sí. El primer
-aspecto de esta relación es el de lo Incognoscible a (lo que podría llamarse) los Logos de
-las archi-galaxias. El compuesto de las archi-galaxias, en cualquier punto particular del
-tiempo, es el Cosmos manifestado totalmente; cada archi-galaxia es un “punto estructural”
-del Cuerpo Cósmico. El segundo aspecto (u octava) de esta relación es la del Logos de cada
-archi-galaxia a los Logos de sus galaxias; el tercero es la relación de los Logos galácticos a
-los Logos de sus sistemas solares; el cuarto es el de la relación de cada Logos Solar en una
-galaxia a los Logos planetarios de su sistema. Desde aquí, descendiendo a la difusión de la
-manifestación, la creación se convierte en epigénesis. Para recapitular: La identidad
-macrocósmica (desde la unidad a los logos solares) es a la identidad microcósmica (logos
-subsolares) como la creatividad (función de la vida) es a la epigénesis. En términos
-humanos, puesto que los humanos no son creadores sino epigenitores, la octava más
-trascendente de este patrón de relación es la del regenerador universal al superconsciente
-colectivo, la conciencia, y la subconciencia ; del arquetipo Humanidad; la octava más densa
-es la de la relación biológica (epigénesis sexual) de padre e hijo entre sí.
+Existen solamente dos patrones de relación básicos, cada uno de los cuales se manifiesta a través de la difusión en octavas innumerables por todo el Cosmos. El primero de éstos es la relación creadora - la del macrocosmo y el microcosmo entre sí. El primer aspecto de esta relación es el de lo Incognoscible a (lo que podría llamarse) los Logos de las archi-galaxias. El compuesto de las archi-galaxias, en cualquier punto particular del tiempo, es el Cosmos manifestado totalmente; cada archi-galaxia es un “punto estructural” del Cuerpo Cósmico. El segundo aspecto (u octava) de esta relación es la del Logos de cada archi-galaxia a los Logos de sus galaxias; el tercero es la relación de los Logos galácticos a los Logos de sus sistemas solares; el cuarto es el de la relación de cada Logos Solar en una galaxia a los Logos planetarios de su sistema. Desde aquí, descendiendo a la difusión de la manifestación, la creación se convierte en epigénesis. Para recapitular: La identidad macrocósmica (desde la unidad a los logos solares) es a la identidad microcósmica (logos subsolares) como la creatividad (función de la vida) es a la epigénesis. En términos humanos, puesto que los humanos no son creadores sino epigenitores, la octava más trascendente de este patrón de relación es la del regenerador universal al superconsciente colectivo, la conciencia, y la subconciencia ; del arquetipo Humanidad; la octava más densa es la de la relación biológica (epigénesis sexual) de padre e hijo entre sí.
 
-El segundo patrón de relación es el de la fraternidad y se puede definir como: “La
-relación de macrocosmos entre sí y la de microcosmos entre sí por el paralelismo de la
-facultad creadora o epigenética”; además como toda manifestación es “microcosmo”
-relativo a Lo Incognoscible, la fraternidad es la relación de las cosas entre sí por la
-atracción magnética a través de la sincronización de semejanzas y desemejanzas de los
-estados vibratorios. La esfera mínima de la fraternidad es una cosa en relación a otra; en
-toda relación fraternal, las dos cosas implicadas tienen por lo menos un punto de semejanza
-mutua y un punto de desemejanza. El punto de desemejanza mutua hace posible la acción
-epigenética en la vida de relación. La acción creadora es irradiación de una fusión tenaz de
-poderes de polaridad; la acción epigenética es irradiación de las potencialidades de
-polaridad de la respuesta al estímulo de poder desde una octava superior. Piense sobre esto.
-Un ser humano de evolución relativamente rudimentaria en un punto particular de
-conciencia es estimulado epigenéticamente por el contacto vibratorio con otro que está
-relativamente evolucionado en este punto. El uno en común es el punto en la conciencia o
-el punto de la facultad que cada uno está tratando de cumplir; ellos actúan de mutuo
-acuerdo en la aspiración de ese cumplimiento particular. El “punto de desemejanza” es el
-contraste entre el cumplimiento relativo del uno y el incumplimiento relativo del otro. El
-primero irradia al segundo; éste absorbe del primero. Por lo tanto puesto que el
-relativamente maduro debe dar y el relativamente inmaduro debe recibir, cada uno se presta
-para proporcionar el progreso al otro.
+El segundo patrón de relación es el de la fraternidad y se puede definir como: “La relación de macrocosmos entre sí y la de microcosmos entre sí por el paralelismo de la facultad creadora o epigenética”; además como toda manifestación es “microcosmo” relativo a Lo Incognoscible, la fraternidad es la relación de las cosas entre sí por la atracción magnética a través de la sincronización de semejanzas y desemejanzas de los estados vibratorios. La esfera mínima de la fraternidad es una cosa en relación a otra; en toda relación fraternal, las dos cosas implicadas tienen por lo menos un punto de semejanza mutua y un punto de desemejanza. El punto de desemejanza mutua hace posible la acción epigenética en la vida de relación. La acción creadora es irradiación de una fusión tenaz de poderes de polaridad; la acción epigenética es irradiación de las potencialidades de polaridad de la respuesta al estímulo de poder desde una octava superior. Piense sobre esto. Un ser humano de evolución relativamente rudimentaria en un punto particular de conciencia es estimulado epigenéticamente por el contacto vibratorio con otro que está relativamente evolucionado en este punto. El uno en común es el punto en la conciencia o el punto de la facultad que cada uno está tratando de cumplir; ellos actúan de mutuo acuerdo en la aspiración de ese cumplimiento particular. El “punto de desemejanza” es el contraste entre el cumplimiento relativo del uno y el incumplimiento relativo del otro. El primero irradia al segundo; éste absorbe del primero. Por lo tanto puesto que el relativamente maduro debe dar y el relativamente inmaduro debe recibir, cada uno se presta para proporcionar el progreso al otro.
 
-Lo Incognoscible no tiene fraternidad con ninguna cosa; El es El Uno, el Todo lo
-que es. Pero lo que podría llamarse la “energía esencial” es la esencia “biuna”, la polaridad.
-En la polaridad se halla la archi-octava macrocósmica de la fraternidad; su “biunidad”
-(dualidad en la unidad) se manifiesta como:
-(1) Voluntad: positiva, proyectante, impregnante, masculina, varón, y como:
-(2) Imaginación: negativa, magnética, receptiva, reactiva, femenina, hembra.
-La acción recíproca de esta “biunidad” hace posible toda función creadora y
-epigenética en todas las octavas y ciclos por todas las identidades específicas. Se le puede
-dar gran consideración al significado del número dos. No es realmente “dos uno”; es
-verdaderamente la exteriorización de las potencialidades de la polaridad del uno. Si la
-polaridad es la “energía esencial” “biuna” del Cosmos (la vida interna de la unidad),
-entonces el dos es archi-símbolo de difusión de las potencialidades de la polaridad. La
-“Humanidad” es un aspecto de la unidad porque es un arquetipo; la dualidad de este
-arquetipo es la “difusión” que llamamos hombre y mujer. El sexo (varón y hembra) es la
-representación física de la biunidad”; el género (masculino y femenino) es la difusión biuna
-del ser vibratorio. Cada macho y cada hembra contiene (o posee) el atributo biuno del
-género; el masculino de este atributo es expresión, el femenino es la reactividad. Estas dos
-palabras, a su vez componen lo que podría llamarse el “atributo de la aptitud para la
-experiencia”, y la experiencia, hablando humanamente, es epigénesis - el desenvolvimiento
-evolutivo de las potencialidades. Las cuatro palabras (dos dos) varón, hembra, masculino y
-femenino son los puntos de estructura de nuestro ser epigenético; por nuestra conciencia de
-ellos, nos identificamos nosotros y los demás como factores en la familia humana
-arquetípica, y por medio de ellos se manifiesta nuestra conciencia individualizada de todo
-patrón de relación humana posible, mientras pertenezcamos al arquetipo “humanidad”. El
-cumplimiento perfecto de conciencia a través de la experiencia como factores de relación,
-es el propósito de nuestra evolución.
+Lo Incognoscible no tiene fraternidad con ninguna cosa; El es El Uno, el Todo lo que es. Pero lo que podría llamarse la “energía esencial” es la esencia “biuna”, la polaridad. En la polaridad se halla la archi-octava macrocósmica de la fraternidad; su “biunidad” (dualidad en la unidad) se manifiesta como: (1) Voluntad: positiva, proyectante, impregnante, masculina, varón, y como: (2) Imaginación: negativa, magnética, receptiva, reactiva, femenina, hembra. La acción recíproca de esta “biunidad” hace posible toda función creadora y epigenética en todas las octavas y ciclos por todas las identidades específicas. Se le puede dar gran consideración al significado del número dos. No es realmente “dos uno”; es verdaderamente la exteriorización de las potencialidades de la polaridad del uno. Si la polaridad es la “energía esencial” “biuna” del Cosmos (la vida interna de la unidad), entonces el dos es archi-símbolo de difusión de las potencialidades de la polaridad. La “Humanidad” es un aspecto de la unidad porque es un arquetipo; la dualidad de este arquetipo es la “difusión” que llamamos hombre y mujer. El sexo (varón y hembra) es la representación física de la biunidad”; el género (masculino y femenino) es la difusión biuna del ser vibratorio. Cada macho y cada hembra contiene (o posee) el atributo biuno del género; el masculino de este atributo es expresión, el femenino es la reactividad. Estas dos palabras, a su vez componen lo que podría llamarse el “atributo de la aptitud para la experiencia”, y la experiencia, hablando humanamente, es epigénesis - el desenvolvimiento evolutivo de las potencialidades. Las cuatro palabras (dos dos) varón, hembra, masculino y femenino son los puntos de estructura de nuestro ser epigenético; por nuestra conciencia de ellos, nos identificamos nosotros y los demás como factores en la familia humana arquetípica, y por medio de ellos se manifiesta nuestra conciencia individualizada de todo patrón de relación humana posible, mientras pertenezcamos al arquetipo “humanidad”. El cumplimiento perfecto de conciencia a través de la experiencia como factores de relación, es el propósito de nuestra evolución.
 
-En el sentido absoluto, toda manifestación en el Cosmos tiene fraternidad con todas
-las otras puesto que todos son “hijos de lo Incognoscible”. Si optáramos por hacer el
-esfuerzo, nosotros los humanos podríamos palpar un sentimiento de fraternidad con los
-habitantes de planetas de otros sistemas solares así como con los de nuestro sistema.
-Podemos, no obstante, percibir intelectualmente, por analogía, la fraternidad de octavas
-más altas de Vida considerando la fraternidad recíproca de las fuentes creadoras en orden
-descendente hasta la identidad que llamamos el “Logos Solar”. Esto representa el aspecto
-exotérico de la relación fraternal arquetípica - el paralelismo por la identidad a través de la
-semejanza del atributo creador. Nombraremos, en orden descendente, las fraternidades de:
-Los Logos archi-galácticos, los Logos galácticos, los Logos Solares, los Regentes
-Planetarios, los Regentes de los Satélites y en términos de la Tierra, los miembros de cada
-ola de vida específica, de cada arquetipo, y de cada especie de cada arquetipo. La
-fraternidad de los mamíferos, por ejemplo, incluye a todos los humanos, a los gatos,
-ballenas, roedores, etc., pero cada una de estas especies, es, en sí misma, una fraternidad.
-Hay también dos fraternidades en cada arquetipo, de machos y de hembras. Este aspecto
-exotérico de fraternidad se refiere a la forma, a la identidad, al patrón de estructura, al
-patrón de instinto y a la potencialidad creadora o epigenética. Es el “quién y qué de la
-fraternidad manifestada”. Dele un poco de elasticidad a su mente para considerar esta
-“agrupación fraternal” dé las formas de Vida.
+En el sentido absoluto, toda manifestación en el Cosmos tiene fraternidad con todas las otras puesto que todos son “hijos de lo Incognoscible”. Si optáramos por hacer el esfuerzo, nosotros los humanos podríamos palpar un sentimiento de fraternidad con los habitantes de planetas de otros sistemas solares así como con los de nuestro sistema. Podemos, no obstante, percibir intelectualmente, por analogía, la fraternidad de octavas más altas de Vida considerando la fraternidad recíproca de las fuentes creadoras en orden descendente hasta la identidad que llamamos el “Logos Solar”. Esto representa el aspecto exotérico de la relación fraternal arquetípica - el paralelismo por la identidad a través de la semejanza del atributo creador. Nombraremos, en orden descendente, las fraternidades de: Los Logos archi-galácticos, los Logos galácticos, los Logos Solares, los Regentes Planetarios, los Regentes de los Satélites y en términos de la Tierra, los miembros de cada ola de vida específica, de cada arquetipo, y de cada especie de cada arquetipo. La fraternidad de los mamíferos, por ejemplo, incluye a todos los humanos, a los gatos, ballenas, roedores, etc., pero cada una de estas especies, es, en sí misma, una fraternidad. Hay también dos fraternidades en cada arquetipo, de machos y de hembras. Este aspecto exotérico de fraternidad se refiere a la forma, a la identidad, al patrón de estructura, al patrón de instinto y a la potencialidad creadora o epigenética. Es el “quién y qué de la fraternidad manifestada”. Dele un poco de elasticidad a su mente para considerar esta “agrupación fraternal” dé las formas de Vida.
 
-El aspecto esotérico de fraternidad tiene que ver con la relación mutua por el
-paralelismo del desarrollo evolutivo referente a la fuente creadora - en nuestro caso, nuestro
-Logos Solar. Nosotros, como habitantes de la Tierra, tenemos fraternidad con los habitantes
-de todos, los planetas de nuestro sistema - todos procedemos del mismo origen creador. En
-un sentido más condensado, nosotros (como el desarrollo epigenético más elevado en este
-planeta) tenemos una fraternidad más íntima con el desarrollo más elevado en cada uno de
-los otros planetas de nuestro sistema. Una mayor consideración subjetiva: Nosotros, en este
-planeta, somos más íntimamente fraternales con todos los otros cuyos cumplimientos e
-incumplimientos de idealidad son similares (paralelos) a los nuestros. Esta fraternidad
-trasciende en significación a todas las otras que se refieren al sexo, la raza, la nacionalidad,
-etcétera. Es la fraternidad de octavas de conciencia, y todos los miembros de fraternidades
-de almas están mutuamente magnetizados por medio de la atracción de sus similitudes más
-las desemejanzas para el desarrollo epigenético. Todos los músicos, por ejemplo, desde los
-más primitivos hasta los más cultivados, son fraternales entre sí porque todos los que
-pertenecen a esta fraternidad tienen en común una semejanza de expresión estética - no
-importa el grado de diferencia en su esfera. La archi-fraternidad de trabajadores tiene su
-difusión “biuna” en el patrono y el empleado; pero todos los miembros de ambas
-clasificaciones (general o específicamente) son paralelos entre sí en la clase de servicio que
-rinden para el progreso de la vida humana. Esta fraternidad, en su estado rudimentario, está
-congestionada en el concepto de que “el dinero es la razón para el trabajo”; en su estado
-evolucionado, la realización lograda es que “el dinero es una evaluación externa y una
-expresión de intercambio entre la gente - y que el servicio amoroso es el ideal que debe ser
-realizado”. En cada factor de la experiencia humana, un principio une a la gente en
-agrupaciones por medio de la relación mutua - el principio de lo “interno” de la actividad
-del trabajo; la acción externa es el medio por el cual la realización de principio es
-evolucionada. Cada principio de vida pone al abrigo (como hace el Gran Maestro de una
-logia o de una organización espiritual) a toda fraternidad humana en la cual y mediante la
-cual la realización de la verdad es destilada.
+El aspecto esotérico de fraternidad tiene que ver con la relación mutua por el paralelismo del desarrollo evolutivo referente a la fuente creadora - en nuestro caso, nuestro Logos Solar. Nosotros, como habitantes de la Tierra, tenemos fraternidad con los habitantes de todos, los planetas de nuestro sistema - todos procedemos del mismo origen creador. En un sentido más condensado, nosotros (como el desarrollo epigenético más elevado en este planeta) tenemos una fraternidad más íntima con el desarrollo más elevado en cada uno de los otros planetas de nuestro sistema. Una mayor consideración subjetiva: Nosotros, en este planeta, somos más íntimamente fraternales con todos los otros cuyos cumplimientos e incumplimientos de idealidad son similares (paralelos) a los nuestros. Esta fraternidad trasciende en significación a todas las otras que se refieren al sexo, la raza, la nacionalidad, etcétera. Es la fraternidad de octavas de conciencia, y todos los miembros de fraternidades de almas están mutuamente magnetizados por medio de la atracción de sus similitudes más las desemejanzas para el desarrollo epigenético. Todos los músicos, por ejemplo, desde los más primitivos hasta los más cultivados, son fraternales entre sí porque todos los que pertenecen a esta fraternidad tienen en común una semejanza de expresión estética - no importa el grado de diferencia en su esfera. La archi-fraternidad de trabajadores tiene su difusión “biuna” en el patrono y el empleado; pero todos los miembros de ambas clasificaciones (general o específicamente) son paralelos entre sí en la clase de servicio que rinden para el progreso de la vida humana. Esta fraternidad, en su estado rudimentario, está congestionada en el concepto de que “el dinero es la razón para el trabajo”; en su estado evolucionado, la realización lograda es que “el dinero es una evaluación externa y una expresión de intercambio entre la gente - y que el servicio amoroso es el ideal que debe ser realizado”. En cada factor de la experiencia humana, un principio une a la gente en agrupaciones por medio de la relación mutua - el principio de lo “interno” de la actividad del trabajo; la acción externa es el medio por el cual la realización de principio es evolucionada. Cada principio de vida pone al abrigo (como hace el Gran Maestro de una logia o de una organización espiritual) a toda fraternidad humana en la cual y mediante la cual la realización de la verdad es destilada.
 
-Considerando de ese modo la naturaleza de la fraternidad, nos damos cuenta
-claramente del hecho que lo que llamamos “entidad” es una designación de nuestro
-sentimiento sobre alguien; no es ni podría serlo nunca una designación de identidad
-específica. Los sentimientos de entidad son congestiones de conciencia del amor,
-congestiones de poderes epigenéticos, etc., que nosotros sentimos cuando nuestros
-incumplimientos son estimulados por la vibración de otro. Ninguna parte de un horóscopo
-humano representa una delineación de “enemigos declarados o secretos” porque ningún ser
-humano es enemigo de otro. Esas partes del horóscopo que se nos ha enseñado a delinear
-de esta manera (filosóficamente falsa) son aquellas que cuando se estimulan por puntos
-similares en el horóscopo de otro nos hacen darnos cuenta de nuestros sentimientos de
-culpabilidad, de frustración e inseguridad. Mientras no nos demos cuenta de nuestro
-paralelismo con la otra persona identificaremos estos sentimientos con palabras tales como
-odio, miedo, detestación, disgusto, etcétera. Decimos que odiamos, tememos, o detestamos
-a la persona. Eso no es verdaderamente cierto; odiamos nuestra ignorancia, nuestras
-congestiones y nuestros ideales falsos; no odiamos a la gente. Desde el momento en que
-nos percatamos de la verdad que algo en esa persona se asemeja a algo en nosotros,
-empezamos a vislumbrar nuestra fraternidad (unión) con ella; algo en nuestra conciencia
-que quiere (aspira) disolverse y evolucionar, inmediatamente empieza a trabajar en ese
-punto para hacernos conscientes de nuestro paralelismo regenerado con esa persona. Un
-ejemplo, no menos, de la misericordia de la vida. En la opinión del autor, dada en un
-artículo previo, las congestiones intensas epitomizadas por el signo fijo de Escorpión,
-regido por Plutón, encuentran su gran disolución en el signo de Géminis porque Géminis es
-el símbolo astrológico de la esencia de la percepción fraternal.
+Considerando de ese modo la naturaleza de la fraternidad, nos damos cuenta claramente del hecho que lo que llamamos “entidad” es una designación de nuestro sentimiento sobre alguien; no es ni podría serlo nunca una designación de identidad específica. Los sentimientos de entidad son congestiones de conciencia del amor, congestiones de poderes epigenéticos, etc., que nosotros sentimos cuando nuestros incumplimientos son estimulados por la vibración de otro. Ninguna parte de un horóscopo humano representa una delineación de “enemigos declarados o secretos” porque ningún ser humano es enemigo de otro. Esas partes del horóscopo que se nos ha enseñado a delinear de esta manera (filosóficamente falsa) son aquellas que cuando se estimulan por puntos similares en el horóscopo de otro nos hacen darnos cuenta de nuestros sentimientos de culpabilidad, de frustración e inseguridad. Mientras no nos demos cuenta de nuestro paralelismo con la otra persona identificaremos estos sentimientos con palabras tales como odio, miedo, detestación, disgusto, etcétera. Decimos que odiamos, tememos, o detestamos a la persona. Eso no es verdaderamente cierto; odiamos nuestra ignorancia, nuestras congestiones y nuestros ideales falsos; no odiamos a la gente. Desde el momento en que nos percatamos de la verdad que algo en esa persona se asemeja a algo en nosotros, empezamos a vislumbrar nuestra fraternidad (unión) con ella; algo en nuestra conciencia que quiere (aspira) disolverse y evolucionar, inmediatamente empieza a trabajar en ese punto para hacernos conscientes de nuestro paralelismo regenerado con esa persona. Un ejemplo, no menos, de la misericordia de la vida. En la opinión del autor, dada en un artículo previo, las congestiones intensas epitomizadas por el signo fijo de Escorpión, regido por Plutón, encuentran su gran disolución en el signo de Géminis porque Géminis es el símbolo astrológico de la esencia de la percepción fraternal.
 
-Teniendo en mente que (hablando simbólicamente) las líneas rectas son
-abstracciones de las curvas, considere el hecho que el símbolo para este signo común de
-aire es el único de los doce formado por cuatro líneas - dos horizontales y dos verticales.
-Como tales ellas son las abstracciones de los cuatro semicírculos iniciados por los puntos
-de estructura cardinales del Gran Mándala Astrológico. Representan también desde otro
-acercamiento, la “cuadriplicidad” de lo que es inherente a los diámetros vertical y
-horizontal del Gran Mándala - el compuesto cuádruple del sexo genérico de la familia
-humana arquetípica; doble Procreador y doble Engendrado - macho y hembra como
-manifestadores y como reactores. Representa la esencia del paralelismo de los padres con
-los hijos en el sentido que todos los padres han sido niños y los niños tienen la
-potencialidad epi-genética de convertirse en padres, o “dadores de vida”.
-Por lo tanto representan el paralelismo de todas las manifestaciones porque todos
-los creadores han sido epigenitores y todos los epigenitores tienen las potencialidades de
-convertirse en creadores. El creador es “hermano mayor” para el epigenitor; el epigenitor es
-“hermano menor” para el creador. El mayor, en cualquier arquetipo, es el que está más
-próximo a la unidad. La fraternidad del matrimonio se observa en la semejanza de poder
-epigenético del macho y hembra humanos sincronizados con la complementación de
-desemejanza de la función física. La acción fusionada de dos unidades sexuales humanas
-proporciona el reactivo de la sincronización cuádruple (expresiva) de macho y hembra, la
-fraternidad epigenética de la transmisión de la vida. Marido y esposa son “hermano y
-Hermana” en el servicio amoroso de la paternidad. Piense sobre esto si usted se siente
-inclinado a arrojar toda la culpa de su infelicidad material (si la tiene) sobre su compañera.
-Tal vez usted debe recordar la fraternidad profunda e intrínsecamente inherente a la
-relación. Aquellos de ustedes que estuvieran congestionados en un mal sentimiento hacia
-uno de los padres: recuerde que usted y el padre o la madre son fraternales por ser
-miembros del mismo grupo de familia; sus semejanzas y desemejanzas son lo que los
-magnetizaron entre sí para el cumplimiento mutuo. Aprenda de usted mismo, estudiando y
-percibiendo estas semejanzas; usted no tiene mejor fuente de instrucción.
+Teniendo en mente que (hablando simbólicamente) las líneas rectas son abstracciones de las curvas, considere el hecho que el símbolo para este signo común de aire es el único de los doce formado por cuatro líneas - dos horizontales y dos verticales. Como tales ellas son las abstracciones de los cuatro semicírculos iniciados por los puntos de estructura cardinales del Gran Mándala Astrológico. Representan también desde otro acercamiento, la “cuadriplicidad” de lo que es inherente a los diámetros vertical y horizontal del Gran Mándala - el compuesto cuádruple del sexo genérico de la familia humana arquetípica; doble Procreador y doble Engendrado - macho y hembra como manifestadores y como reactores. Representa la esencia del paralelismo de los padres con los hijos en el sentido que todos los padres han sido niños y los niños tienen la potencialidad epi-genética de convertirse en padres, o “dadores de vida”. Por lo tanto representan el paralelismo de todas las manifestaciones porque todos los creadores han sido epigenitores y todos los epigenitores tienen las potencialidades de convertirse en creadores. El creador es “hermano mayor” para el epigenitor; el epigenitor es “hermano menor” para el creador. El mayor, en cualquier arquetipo, es el que está más próximo a la unidad. La fraternidad del matrimonio se observa en la semejanza de poder epigenético del macho y hembra humanos sincronizados con la complementación de desemejanza de la función física. La acción fusionada de dos unidades sexuales humanas proporciona el reactivo de la sincronización cuádruple (expresiva) de macho y hembra, la fraternidad epigenética de la transmisión de la vida. Marido y esposa son “hermano y Hermana” en el servicio amoroso de la paternidad. Piense sobre esto si usted se siente inclinado a arrojar toda la culpa de su infelicidad material (si la tiene) sobre su compañera. Tal vez usted debe recordar la fraternidad profunda e intrínsecamente inherente a la relación. Aquellos de ustedes que estuvieran congestionados en un mal sentimiento hacia uno de los padres: recuerde que usted y el padre o la madre son fraternales por ser miembros del mismo grupo de familia; sus semejanzas y desemejanzas son lo que los magnetizaron entre sí para el cumplimiento mutuo. Aprenda de usted mismo, estudiando y percibiendo estas semejanzas; usted no tiene mejor fuente de instrucción.
 
-En referencia al tema en cuestión, la fraternidad del astrólogo, el artista, el sacerdote
-y el curador abarca la fraternidad de regeneradores epigenéticos. En relación con la fuente,
-éstos son representados como la cruz mudable, los dispensadores de encauzamientos de
-sabiduría y de poder regenerador. Como tales, ellos son los “hermanos menores de Dios” en
-este plano. Pero en relación con los ignorantes, congestionados cristalizados, etc., ellos
-están representados por la cruz fija, iniciada por el signo de fuego Leo, un símbolo de
-aquello que corresponde a nuestra Fuente Creadora, la “humanización de la Divinidad”.
-Los Radiadores de Poder inspirados de este plano son los “reyes de la Tierra”; aunque
-Capricornio-Cáncer representa abstractamente el principio de “paternidad de las formas”,
-Leo-Acuario representa el principio de “paternidad de los Espíritus” porque es por medio
-de este diámetro que el poder solar creador es liberado a través de esta manifestación. (En
-la instrucción oculta se ha dado que nuestro sistema solar tuvo su incepción, o comenzó su
-manifestación, cuando el Sol por precesión, estaba en el signo Leo - el signo de la fuente
-radiante -. Tauro-Escorpión es el aspecto del deseo, de la creación, es el símbolo bipolar de
-nuestra creación como epigenitores. Leo-Acuario, sin embargo, es la Fuente del poder
-epigenético, es el atributo del amor en el cual y a través del cual encontramos nuestro
-Centro Divino. Antes que el sexo fuera, fue el amor, y la fraternidad de regeneradores son
-los que revitalizan la conciencia espiritual de la humanidad por sus liberaciones del poder
-fusionado de Sol-Urano. Como tal, ellos son nuestros hermanos y hermanas mayores, y
-fraternales a nuestros Espíritus como son nuestros padres y madres a nuestra expresión
-como cuerpos en este plano.
+En referencia al tema en cuestión, la fraternidad del astrólogo, el artista, el sacerdote y el curador abarca la fraternidad de regeneradores epigenéticos. En relación con la fuente, éstos son representados como la cruz mudable, los dispensadores de encauzamientos de sabiduría y de poder regenerador. Como tales, ellos son los “hermanos menores de Dios” en este plano. Pero en relación con los ignorantes, congestionados cristalizados, etc., ellos están representados por la cruz fija, iniciada por el signo de fuego Leo, un símbolo de aquello que corresponde a nuestra Fuente Creadora, la “humanización de la Divinidad”. Los Radiadores de Poder inspirados de este plano son los “reyes de la Tierra”; aunque Capricornio-Cáncer representa abstractamente el principio de “paternidad de las formas”, Leo-Acuario representa el principio de “paternidad de los Espíritus” porque es por medio de este diámetro que el poder solar creador es liberado a través de esta manifestación. (En la instrucción oculta se ha dado que nuestro sistema solar tuvo su incepción, o comenzó su manifestación, cuando el Sol por precesión, estaba en el signo Leo - el signo de la fuente radiante -. Tauro-Escorpión es el aspecto del deseo, de la creación, es el símbolo bipolar de nuestra creación como epigenitores. Leo-Acuario, sin embargo, es la Fuente del poder epigenético, es el atributo del amor en el cual y a través del cual encontramos nuestro Centro Divino. Antes que el sexo fuera, fue el amor, y la fraternidad de regeneradores son los que revitalizan la conciencia espiritual de la humanidad por sus liberaciones del poder fusionado de Sol-Urano. Como tal, ellos son nuestros hermanos y hermanas mayores, y fraternales a nuestros Espíritus como son nuestros padres y madres a nuestra expresión como cuerpos en este plano.
 
-Los grandes Regeneradores de este planeta pueden parecer y a veces ciertamente
-parecen Dioses para aquellos menos evolucionados. Ellos conocen su fuente de poder y han
-destilado la sabiduría para irradiar ese poder conforme a los principios del cumplimiento.
-Poseen extensiones de nuestros propios atributos por los cuales asumen la semejanza de
-superhombres. Hacen patente nuestra Idealidad Interna como individualizaciones de
-nuestro arquetipo y nosotros somos propensos a “reverenciarlos” como reverenciamos el
-concepto de Dios. Sus irradiaciones de poder como iluminación por la sabiduría, el amor, la
-belleza y la curación, alcanzan lo más íntimo de nuestro ser. Ellos encienden un fragmento
-del Ser que mora eternamente dentro de cada uno de nosotros; por consiguiente, nosotros
-nos damos cuenta de nuestra divinidad inherente, por medio de sus servicios y
-experimentamos una transfiguración de conciencia que nos hace sentirnos como habitantes
-de un mundo celestial. Debido a nuestra naturaleza de personalizar nuestras reacciones y
-sentimientos, decimos que amamos a esta gente: así es, pero lo que realmente queremos
-decir con esto, es que por la respuesta a su ignición de nuestra conciencia, percibimos más
-claramente que nunca ese amor que es Dios, la gloria trascendente, transformadora, la cual
-es nuestra armonización - al menos por un corto tiempo - de lo que realmente deben ser
-nuestras vidas. Mantener viva esa “magia” es parte del servicio que nos concierne como
-humanos, y por su regeneración de nuestra conciencia, irradiar la inspiración, el regocijo y
-el amor sanador a los relacionados y conocidos de nuestra esfera inmediata. Cada uno de
-nosotros a su manera y conforme a su desarrollo y aspiración, puede ser también un canal
-para los poderes mágicos del Bien.
+Los grandes Regeneradores de este planeta pueden parecer y a veces ciertamente parecen Dioses para aquellos menos evolucionados. Ellos conocen su fuente de poder y han destilado la sabiduría para irradiar ese poder conforme a los principios del cumplimiento. Poseen extensiones de nuestros propios atributos por los cuales asumen la semejanza de superhombres. Hacen patente nuestra Idealidad Interna como individualizaciones de nuestro arquetipo y nosotros somos propensos a “reverenciarlos” como reverenciamos el concepto de Dios. Sus irradiaciones de poder como iluminación por la sabiduría, el amor, la belleza y la curación, alcanzan lo más íntimo de nuestro ser. Ellos encienden un fragmento del Ser que mora eternamente dentro de cada uno de nosotros; por consiguiente, nosotros nos damos cuenta de nuestra divinidad inherente, por medio de sus servicios y experimentamos una transfiguración de conciencia que nos hace sentirnos como habitantes de un mundo celestial. Debido a nuestra naturaleza de personalizar nuestras reacciones y sentimientos, decimos que amamos a esta gente: así es, pero lo que realmente queremos decir con esto, es que por la respuesta a su ignición de nuestra conciencia, percibimos más claramente que nunca ese amor que es Dios, la gloria trascendente, transformadora, la cual es nuestra armonización - al menos por un corto tiempo - de lo que realmente deben ser nuestras vidas. Mantener viva esa “magia” es parte del servicio que nos concierne como humanos, y por su regeneración de nuestra conciencia, irradiar la inspiración, el regocijo y el amor sanador a los relacionados y conocidos de nuestra esfera inmediata. Cada uno de nosotros a su manera y conforme a su desarrollo y aspiración, puede ser también un canal para los poderes mágicos del Bien.
 
-Recordemos que (aunque semejantes a Dios) aún los altamente evolucionados de
-esta Fraternidad de Regeneradores, son humanos en este plano. Y es justamente posible que
-cualquiera de ellos pueda congestionarse en algún factor específico de su conciencia. No
-importa lo devotos y adoradores que seamos, debemos liberar aún a los más hondamente
-amados a ser ellos mismos como individuos, a cometer sus “faltas humanas” y ejercitar el
-derecho de esos errores. Cuando amamos hasta el punto de guardar una gratitud de todo
-corazón por los servicios inspiradores rendidos y liberar los dolores de la desilusión y el
-desengaño cuando nuestros “mayores” muestran pies de barro, nosotros elevamos y
-purificamos la cualidad de nuestra respuesta vibratoria y liberándolos de las congestiones
-personales, hacemos posible su libertad para regenerarse y curarse ellos mismos. La
-“liberación” que extendemos en verdadera devoción amorosa es la esencia de lo que ellos
-han tratado de enseñarnos; la evolución regeneradora es el proceso de liberación de
-congestiones y ya sea a través de la respuesta al arte, a la religión o la enseñanza filosófica,
-a los medios de curación, etc., experimentamos liberación en toda respuesta a los medios
-regeneradores. El regenerador que se congestiona en el falso orgullo, la codicia por el
-aplauso y la aclamación, la cristalización intelectual, menoscabando sus poderes radiantes
-al usarlos como sustituto de una frustración personal en vez de servicio amoroso, está
-reaccionando simplemente con algo en su ser que se refiere a su parte “aún humana”. El
-astrólogo, el sacerdote, el artista y el curador, pueden encontrarse con estos puntos en su
-experiencia; la tendencia a permitir que la decepción personal los saque de línea, la
-tentación a la congestión por el autoaislamiento y de congestionarse por la terquedad y el
-prejuicio, los retos del mundo material de las finanzas y los medios materiales, etc., son
-todos, para los miembros de esta fraternidad, puntos críticos en la experiencia; mucho
-depende de ellos - tanto ha de ser enfrentado para que la claridad de la canalización y el
-poder radiante puedan ser mantenidos. El astrólogo debe buscar siempre las verdades de
-la vida tal como están representadas en su mapa; él no puede en verdad, percibir los valores
-completos del mapa de otro hasta tanto haya manifestado su deseo de ver lo suyo con
-desprendimiento y discernimiento. Esta es la primera de sus responsabilidades ocultas; de
-la cualidad de su determinación de cumplirla a su paso por la vida, dependerá la cualidad de
-su sabiduría de servicio amoroso para los otros.
+Recordemos que (aunque semejantes a Dios) aún los altamente evolucionados de esta Fraternidad de Regeneradores, son humanos en este plano. Y es justamente posible que cualquiera de ellos pueda congestionarse en algún factor específico de su conciencia. No importa lo devotos y adoradores que seamos, debemos liberar aún a los más hondamente amados a ser ellos mismos como individuos, a cometer sus “faltas humanas” y ejercitar el derecho de esos errores. Cuando amamos hasta el punto de guardar una gratitud de todo corazón por los servicios inspiradores rendidos y liberar los dolores de la desilusión y el desengaño cuando nuestros “mayores” muestran pies de barro, nosotros elevamos y purificamos la cualidad de nuestra respuesta vibratoria y liberándolos de las congestiones personales, hacemos posible su libertad para regenerarse y curarse ellos mismos. La “liberación” que extendemos en verdadera devoción amorosa es la esencia de lo que ellos han tratado de enseñarnos; la evolución regeneradora es el proceso de liberación de congestiones y ya sea a través de la respuesta al arte, a la religión o la enseñanza filosófica, a los medios de curación, etc., experimentamos liberación en toda respuesta a los medios regeneradores. El regenerador que se congestiona en el falso orgullo, la codicia por el aplauso y la aclamación, la cristalización intelectual, menoscabando sus poderes radiantes al usarlos como sustituto de una frustración personal en vez de servicio amoroso, está reaccionando simplemente con algo en su ser que se refiere a su parte “aún humana”. El astrólogo, el sacerdote, el artista y el curador, pueden encontrarse con estos puntos en su experiencia; la tendencia a permitir que la decepción personal los saque de línea, la tentación a la congestión por el autoaislamiento y de congestionarse por la terquedad y el prejuicio, los retos del mundo material de las finanzas y los medios materiales, etc., son todos, para los miembros de esta fraternidad, puntos críticos en la experiencia; mucho depende de ellos - tanto ha de ser enfrentado para que la claridad de la canalización y el poder radiante puedan ser mantenidos. El astrólogo debe buscar siempre las verdades de la vida tal como están representadas en su mapa; él no puede en verdad, percibir los valores completos del mapa de otro hasta tanto haya manifestado su deseo de ver lo suyo con desprendimiento y discernimiento. Esta es la primera de sus responsabilidades ocultas; de la cualidad de su determinación de cumplirla a su paso por la vida, dependerá la cualidad de su sabiduría de servicio amoroso para los otros.
 
-En conclusión, un pensamiento fraternal para todos los regeneradores que han
-escogido el sendero de la guía astrológica: Que el loto de vuestra alma desenvuelva Sus
-perfecciones del blanco y del oro en las aguas apacibles de la simpatía ilimitada y
-verdadera; que la rosa roja del amor y el valor inspirativo florezca en la Cruz de sus
-identidades y la glorifique.
+En conclusión, un pensamiento fraternal para todos los regeneradores que han escogido el sendero de la guía astrológica: Que el loto de vuestra alma desenvuelva Sus perfecciones del blanco y del oro en las aguas apacibles de la simpatía ilimitada y verdadera; que la rosa roja del amor y el valor inspirativo florezca en la Cruz de sus identidades y la glorifique.
 
 ### <h3 id="chapter-5">Capítulo V: Alegrías Planetarias</h3>
 
-La polaridad de nuestras acciones físicas es un estudio muy fascinador. Por ejemplo:
-la Comunicación: masculina, el hablar; femenina, el escuchar; la Instrucción: masculina, la
-enseñanza; femenina, el aprendizaje; la Nutrición: masculina, la masticación y la deglución;
-femenina, la digestión y la absorción; el Ser Físico: masculino, acción y expresión
-conscientes; femenino, reacción y reflexión, y así sucesivamente. En el primero de éstos
-mostramos las cualidades y atributos de nuestra polaridad proyectante, el segundo muestra
-nuestros niveles reactivos y subconscientes de la seidad. La conciencia espiritualizada tiene
-el “regocijo” como polaridad masculina y la “felicidad” como la polaridad femenina
-reactiva. La “felicidad” es el resultado, como reacción, de la acción y la expresión alegres.
-El regocijo es la cualidad del Espíritu que impulsa nuestras expresiones de Amor y
-Sabiduría.
+La polaridad de nuestras acciones físicas es un estudio muy fascinador. Por ejemplo: la Comunicación: masculina, el hablar; femenina, el escuchar; la Instrucción: masculina, la enseñanza; femenina, el aprendizaje; la Nutrición: masculina, la masticación y la deglución; femenina, la digestión y la absorción; el Ser Físico: masculino, acción y expresión conscientes; femenino, reacción y reflexión, y así sucesivamente. En el primero de éstos mostramos las cualidades y atributos de nuestra polaridad proyectante, el segundo muestra nuestros niveles reactivos y subconscientes de la seidad. La conciencia espiritualizada tiene el “regocijo” como polaridad masculina y la “felicidad” como la polaridad femenina reactiva. La “felicidad” es el resultado, como reacción, de la acción y la expresión alegres. El regocijo es la cualidad del Espíritu que impulsa nuestras expresiones de Amor y Sabiduría.
 
-Podría exponerse de esta manera: Nos movemos a través de la experiencia en el
-regocijo de felicidad en felicidad. La experiencia es, por supuesto, el resultado de nuestras
-acciones y reacciones durante todas nuestras encarnaciones. El regocijo no es desemejante
-a la “facultad” - es un poder de conciencia. Lo que llamamos “dolor” es una reacción a
-algo establecido por la tristeza - expresiones de energías congestionadas en el deseo
-negativo y en la ignorancia. El “dolor” (como una cualidad de nuestra facultad reactiva)
-podría denominarse la “gestación y los forcejeos del nacimiento de la felicidad” - es la
-felicidad “gritando por su reconocimiento”.
+Podría exponerse de esta manera: Nos movemos a través de la experiencia en el regocijo de felicidad en felicidad. La experiencia es, por supuesto, el resultado de nuestras acciones y reacciones durante todas nuestras encarnaciones. El regocijo no es desemejante a la “facultad” - es un poder de conciencia. Lo que llamamos “dolor” es una reacción a algo establecido por la tristeza - expresiones de energías congestionadas en el deseo negativo y en la ignorancia. El “dolor” (como una cualidad de nuestra facultad reactiva) podría denominarse la “gestación y los forcejeos del nacimiento de la felicidad” - es la felicidad “gritando por su reconocimiento”.
 
-En la simbología astrológica, el aspecto de sextil es el mecanismo para la
-transformación de la “potencialidad del dolor” a la “potencialidad de la dicha”. Cuando el
-ser humano ejercita sus poderes de los sextiles alegremente él hace la transformación más
-rápida de sus energías congestionadas en aquello que se registrará como trino la próxima
-vez o en una encarnación futura. Los aspectos de trino son patrones de conciencia que
-registran los resultados de ejercicio espiritualizador previo y son “cuentas bancarias” para
-un futuro y mayor ejercicio espiritual. Cada planeta, como un “órgano en el cuerpo
-vibratorio” es una liberación potencial de conciencia de júbilo porque cada planeta como
-“enfocador” de un signo zodiacal, es un “punto distributivo” para las expresiones del
-espíritu. Cada planeta en un mapa particular, debe comprenderse de esta manera para que el
-lector e interpretador astrológico pueda determinar intuitivamente las espiritualizaciones
-que las necesidades evolutivas de la persona requieran de ella en esta encarnación.
+En la simbología astrológica, el aspecto de sextil es el mecanismo para la transformación de la “potencialidad del dolor” a la “potencialidad de la dicha”. Cuando el ser humano ejercita sus poderes de los sextiles alegremente él hace la transformación más rápida de sus energías congestionadas en aquello que se registrará como trino la próxima vez o en una encarnación futura. Los aspectos de trino son patrones de conciencia que registran los resultados de ejercicio espiritualizador previo y son “cuentas bancarias” para un futuro y mayor ejercicio espiritual. Cada planeta, como un “órgano en el cuerpo vibratorio” es una liberación potencial de conciencia de júbilo porque cada planeta como “enfocador” de un signo zodiacal, es un “punto distributivo” para las expresiones del espíritu. Cada planeta en un mapa particular, debe comprenderse de esta manera para que el lector e interpretador astrológico pueda determinar intuitivamente las espiritualizaciones que las necesidades evolutivas de la persona requieran de ella en esta encarnación.
 
-Para aclarar este pensamiento por medio de mándalas, trace dos círculos. En uno de
-éstos coloque los grandes trinos entrelazados que representan las cúspides de los signos de
-fuego y de aire del Gran Mándala. Este diseño está iniciado por la cualidad proyectora y
-dinámica de Aries en el Gran Mándala o por el signo Ascendente del horóscopo natal. Este
-es el mandala del regocijo humano, como varón y como hembra; es la potencialidad de
-todo ser humano, para expresar por la identidad como un “hijo del Padre-Madre Dios”, las
-irradiaciones de Amor y Sabiduría. Cualquier signo puede ser el signo Ascendente, por lo
-tanto, cualquier planeta puede ser el enfocador vibratorio de esta energía espiritualizada.
+Para aclarar este pensamiento por medio de mándalas, trace dos círculos. En uno de éstos coloque los grandes trinos entrelazados que representan las cúspides de los signos de fuego y de aire del Gran Mándala. Este diseño está iniciado por la cualidad proyectora y dinámica de Aries en el Gran Mándala o por el signo Ascendente del horóscopo natal. Este es el mandala del regocijo humano, como varón y como hembra; es la potencialidad de todo ser humano, para expresar por la identidad como un “hijo del Padre-Madre Dios”, las irradiaciones de Amor y Sabiduría. Cualquier signo puede ser el signo Ascendente, por lo tanto, cualquier planeta puede ser el enfocador vibratorio de esta energía espiritualizada.
 
-En el segundo círculo, coloque los gran trinos entrelazados que son análogos a los
-signos de tierra y de agua. Este diseño es la facultad del varón y la hembra de la reacción a
-expresiones espiritualizadas de los recursos de conciencia espiritualizada. Es el mandala
-de la felicidad - la facultad de reaccionar y de realizar en términos de las octavas superiores
-de conciencia -. Como la vertical (Capricornio-Cáncer) es la línea de linaje está
-demostrado que a lo que el hombre reacciona con felicidad lo ha construido (“procreado”)
-él mismo por expresiones de su propia conciencia. La “verticalidad” es reproducida en el
-mándala de fuego y aire en las líneas de Leo-Sagitario y Acuario-Géminis. Estas líneas
-verticales “encierran” o “modelan” la “irradiación” doble del fuego y cardinal de aire al de
-fuego y fijo de aire y al mudable.
+En el segundo círculo, coloque los gran trinos entrelazados que son análogos a los signos de tierra y de agua. Este diseño es la facultad del varón y la hembra de la reacción a expresiones espiritualizadas de los recursos de conciencia espiritualizada. Es el mandala de la felicidad - la facultad de reaccionar y de realizar en términos de las octavas superiores de conciencia -. Como la vertical (Capricornio-Cáncer) es la línea de linaje está demostrado que a lo que el hombre reacciona con felicidad lo ha construido (“procreado”) él mismo por expresiones de su propia conciencia. La “verticalidad” es reproducida en el mándala de fuego y aire en las líneas de Leo-Sagitario y Acuario-Géminis. Estas líneas verticales “encierran” o “modelan” la “irradiación” doble del fuego y cardinal de aire al de fuego y fijo de aire y al mudable.
 
-Interpretado: La Identidad (varón expresivo y hembra expresiva) - irradiando poder
-Divino como amor y sabiduría -. Estos dos trinos dinámicos simbolizan la polaridad
-expresiva de las octavas superiores de la conciencia humana individualizada; representan
-abstractamente, los “epítomes de las virtudes en la expresión”. La horizontal del mándala
-fuego-aire es reproducida en los trinos de tierra y agua por las líneas de Tauro-Virgo y
-Escorpión-Piscis. Puesto que la horizontal Aries-Libra, en relación a Capricornio-Cáncer
-simboliza “aquello que es engendrado”, las horizontales de los trinos de tierra y agua
-“modelan” las irradiaciones a los fijos y mudables de los dos puntos de linaje cardinales. La
-horizontal de Tauro-Virgo es la base del símbolo que usamos en astrología para el aspecto
-de trino. Este es el más perfectamente estático de los cuatro triángulos y el que simboliza el
-resultado con mayor perfección.
+Interpretado: La Identidad (varón expresivo y hembra expresiva) - irradiando poder Divino como amor y sabiduría -. Estos dos trinos dinámicos simbolizan la polaridad expresiva de las octavas superiores de la conciencia humana individualizada; representan abstractamente, los “epítomes de las virtudes en la expresión”. La horizontal del mándala fuego-aire es reproducida en los trinos de tierra y agua por las líneas de Tauro-Virgo y Escorpión-Piscis. Puesto que la horizontal Aries-Libra, en relación a Capricornio-Cáncer simboliza “aquello que es engendrado”, las horizontales de los trinos de tierra y agua “modelan” las irradiaciones a los fijos y mudables de los dos puntos de linaje cardinales. La horizontal de Tauro-Virgo es la base del símbolo que usamos en astrología para el aspecto de trino. Este es el más perfectamente estático de los cuatro triángulos y el que simboliza el resultado con mayor perfección.
 
-El estudio de los tres signos de la trinidad de tierra nos indica que esta trinidad es
-generada (iniciada) por el signo de Capricornio, el cual hablando esotéricamente, es el
-poder de asumir y cumplir responsabilidades - la insignia de la conciencia humana madura-.
-Este punto iniciador es la exaltación de Marte: Expresión autodirigida y control
-autoiniciado de los poderes de la energía. La irradiación de Capricornio a Tauro, fijo de
-tierra y signo de la quinta casa de Capricornio, “conecta” o “canaliza” el principio y el
-poder del cumplimiento de responsabilidad al principio de mayordomía y de intercambios
-equilibrados. Tauro está regido por Venus, el principio del equilibrio, y este signo es el
-punto de exaltación de la polaridad planetaria de Capricornio - la Luna, regente de Cáncer.
+El estudio de los tres signos de la trinidad de tierra nos indica que esta trinidad es generada (iniciada) por el signo de Capricornio, el cual hablando esotéricamente, es el poder de asumir y cumplir responsabilidades - la insignia de la conciencia humana madura-. Este punto iniciador es la exaltación de Marte: Expresión autodirigida y control autoiniciado de los poderes de la energía. La irradiación de Capricornio a Tauro, fijo de tierra y signo de la quinta casa de Capricornio, “conecta” o “canaliza” el principio y el poder del cumplimiento de responsabilidad al principio de mayordomía y de intercambios equilibrados. Tauro está regido por Venus, el principio del equilibrio, y este signo es el punto de exaltación de la polaridad planetaria de Capricornio - la Luna, regente de Cáncer.
 
-Tauro, además es, el signo de la casa undécima del Cáncer de Luna y la liberación
-del engendrado de sus cumplimientos individualizados es la iniciación a través del principio
-de mayordomía. La segunda “irradiación” de Capricornio es a Virgo, abstrayendo dos
-terceras partes del círculo representado por el arco de Capricornio a Virgo a través de
-Tauro. Virgo es la dignidad de tierra de Mercurio y es la octava de sabiduría (signo de la
-novena casa) del poder de cumplimiento de responsabilidad de Capricornio. Esta
-responsabilidad canalizada a través del poder de Mercurio, es la de poner en recto uso y
-servicio lo que ha sido aprendido. La dignidad de aire de Mercurio es Géminis, la polaridad
-femenina del diámetro de la educación (Sagitario-Géminis) y, como tal, es el principio del
-aprendizaje, la “inhalación de conocimiento” y la “respuesta al estímulo del saber interno”.
-Como se ha dicho antes, la convicción del autor es que Mercurio, como regente de Virgo,
-está exaltado en Acuario, signo fijo de aire, la octava del amor de la trinidad de aire
-iniciada por Libra, signo cardinal de aire, regido por Venus. Como tal, la conciencia de
-fraternidad del trino de aire está correlacionada y sintetizada con el trino de tierra como la
-responsabilidad espiritual de cumplir relaciones humanas por medio del poder del amor
-como “fraternidad”, la esencia del regocijo en la relación humana y el epítome de las
-aspiraciones más elevadas del corazón humano.
+Tauro, además es, el signo de la casa undécima del Cáncer de Luna y la liberación del engendrado de sus cumplimientos individualizados es la iniciación a través del principio de mayordomía. La segunda “irradiación” de Capricornio es a Virgo, abstrayendo dos terceras partes del círculo representado por el arco de Capricornio a Virgo a través de Tauro. Virgo es la dignidad de tierra de Mercurio y es la octava de sabiduría (signo de la novena casa) del poder de cumplimiento de responsabilidad de Capricornio. Esta responsabilidad canalizada a través del poder de Mercurio, es la de poner en recto uso y servicio lo que ha sido aprendido. La dignidad de aire de Mercurio es Géminis, la polaridad femenina del diámetro de la educación (Sagitario-Géminis) y, como tal, es el principio del aprendizaje, la “inhalación de conocimiento” y la “respuesta al estímulo del saber interno”. Como se ha dicho antes, la convicción del autor es que Mercurio, como regente de Virgo, está exaltado en Acuario, signo fijo de aire, la octava del amor de la trinidad de aire iniciada por Libra, signo cardinal de aire, regido por Venus. Como tal, la conciencia de fraternidad del trino de aire está correlacionada y sintetizada con el trino de tierra como la responsabilidad espiritual de cumplir relaciones humanas por medio del poder del amor como “fraternidad”, la esencia del regocijo en la relación humana y el epítome de las aspiraciones más elevadas del corazón humano.
 
-En este estudio estamos bregando con la astrología de los humanos mientras están
-encarnados - “la conciencia fusionada con el universo material”. Usamos el triángulo de
-base horizontal como nuestro archi-símbolo de la conciencia humana espiritualizada porque
-es aquí en este plano que percibimos las exteriorizaciones de nuestros esfuerzos alquímicos
-pasados y tenemos la responsabilidad de expresarlos más ampliamente en relación con
-nuestros congéneres. No obstante, en la representación del trino de tierra está implicada la
-trinidad de fuego - del mismo modo que Capricornio o cualquier otro signo de una cúspide
-está implicado en las potencialidades de Aries, el Ascendente abstracto. La trinidad de
-fuego fue expresada hasta cierto grado; la trinidad de tierra es la destilación resultante en la
-conciencia y las condiciones externas. Capricornio, como un signo de exaltación, tiene
-inherentes los poderes de Marte madurados por la “afilación” con los poderes de Saturno.
+En este estudio estamos bregando con la astrología de los humanos mientras están encarnados - “la conciencia fusionada con el universo material”. Usamos el triángulo de base horizontal como nuestro archi-símbolo de la conciencia humana espiritualizada porque es aquí en este plano que percibimos las exteriorizaciones de nuestros esfuerzos alquímicos pasados y tenemos la responsabilidad de expresarlos más ampliamente en relación con nuestros congéneres. No obstante, en la representación del trino de tierra está implicada la trinidad de fuego - del mismo modo que Capricornio o cualquier otro signo de una cúspide está implicado en las potencialidades de Aries, el Ascendente abstracto. La trinidad de fuego fue expresada hasta cierto grado; la trinidad de tierra es la destilación resultante en la conciencia y las condiciones externas. Capricornio, como un signo de exaltación, tiene inherentes los poderes de Marte madurados por la “afilación” con los poderes de Saturno.
 
-Un aspecto de trino entre dos planetas implica la condición de un gran trino en
-formación. Todos los gran trinos son “altas marcas de agua evolutivas” porque tres puntos
-de un elemento (fuego, tierra, aire, agua) son modelados o “estructurados” como
-consecuencia de expresiones previas regeneradas. Un trino de dos planetas es (para hacer
-una analogía) la nota de ciento por ciento en su papel de examen en una asignatura
-particular durante el período escolar; un gran trino es la nota de ciento por ciento en su
-examen de semestre que lo califica para la promoción con honores. La implicación es que,
-habiendo destilado el gran trino, usted califica para expresar esos poderes, no simplemente
-“disfrutar de la promoción con honores”. Cualquier mapa que muestre un gran trino
-despliega pábulo espiritual para ser usado para la regeneración de las congestiones en el
-mapa. En efecto, algunos astrólogos han dicho: “No me gusta ver un gran trino en un mapa;
-la persona trata siempre de tomar las cosas con holgura - no hace esfuerzo” -. Eso es así
-sólo porque la persona (representada por el mapa) no ha sido instruida en que los estados de
-desarrollo son poderes que se deben usar. Cualquiera que simplemente disfrute su gran
-trino e ignore las medidas correctivas es como la persona que se gradúa con altos honores,
-pero que no aplica lo que ha aprendido cuando entra en la vida de los negocios o de la
-profesión - ella simplemente “vive jactándose de sus notas altas” -. Los trinos y gran trinos
-no implican maestría - sólo maestría relativa en términos del estado evolutivo -. El
-horóscopo de un habitante de las junglas de Borneo podría registrar un trino, pero ello sólo
-significaría que la persona posee una cualidad superior en comparación con sus
-conciudadanos de la jungla. Los principios básicos tienen aplicación sin consideración de la
-identidad externa, pero algún conocimiento de la identidad externa ayuda al astrólogo a
-interpretar la cualidad evolutiva de los aspectos de trino.
+Un aspecto de trino entre dos planetas implica la condición de un gran trino en formación. Todos los gran trinos son “altas marcas de agua evolutivas” porque tres puntos de un elemento (fuego, tierra, aire, agua) son modelados o “estructurados” como consecuencia de expresiones previas regeneradas. Un trino de dos planetas es (para hacer una analogía) la nota de ciento por ciento en su papel de examen en una asignatura particular durante el período escolar; un gran trino es la nota de ciento por ciento en su examen de semestre que lo califica para la promoción con honores. La implicación es que, habiendo destilado el gran trino, usted califica para expresar esos poderes, no simplemente “disfrutar de la promoción con honores”. Cualquier mapa que muestre un gran trino despliega pábulo espiritual para ser usado para la regeneración de las congestiones en el mapa. En efecto, algunos astrólogos han dicho: “No me gusta ver un gran trino en un mapa; la persona trata siempre de tomar las cosas con holgura - no hace esfuerzo” -. Eso es así sólo porque la persona (representada por el mapa) no ha sido instruida en que los estados de desarrollo son poderes que se deben usar. Cualquiera que simplemente disfrute su gran trino e ignore las medidas correctivas es como la persona que se gradúa con altos honores, pero que no aplica lo que ha aprendido cuando entra en la vida de los negocios o de la profesión - ella simplemente “vive jactándose de sus notas altas” -. Los trinos y gran trinos no implican maestría - sólo maestría relativa en términos del estado evolutivo -. El horóscopo de un habitante de las junglas de Borneo podría registrar un trino, pero ello sólo significaría que la persona posee una cualidad superior en comparación con sus conciudadanos de la jungla. Los principios básicos tienen aplicación sin consideración de la identidad externa, pero algún conocimiento de la identidad externa ayuda al astrólogo a interpretar la cualidad evolutiva de los aspectos de trino.
 
-Los planetas en su relación recíproca están “dignificados” o “dispositados”. Cuando
-están dignificados, se hallan en los signos que ellos rigen; cuando están dispositados, se
-hallan en signos regidos por otro planeta. Un planeta dignificado que está en trino (trino
-“sencillo” o gran trino) nos indica que la persona tendrá en esta encarnación, una gran
-variedad de experiencia en aquellas cosas relacionadas con el planeta. Un planeta
-dignificado está ubicado en un signo de la primera casa; su “condición de trino” informa
-que el nativo va a expresar dinámicamente en esta encarnación un fuerte residuo de poderes
-destilados de muchas encarnaciones pasadas. El nativo, en cuanto a ese planeta concierne
-ha “retornado a la base original después de una excursión por el Zodíaco” y está calificado
-ahora, por indicación del registro del trino para irradiar con gran efecto - y para un gran
-bien - en términos de los principios de ese planeta. Semejante persona sería provista de
-muchos objetivos hacia los cuales podría “irradiar” así como de muchos “medios
-reflexivos” por reacción a los cuales podría gozar comprendiendo los resultados de sus
-pasadas expresiones espiritualizadas. Un planeta dignificado y que está en gran trino es uno
-de los factores más importantes que deben estudiarse en el mapa. Tal planeta es un “archi-
-poder” para el ajuste regenerador de la rueda completa. Un planeta exaltado y en gran trino
-representa la expresión planetaria máxima en la astrología humana. Semejante posición es
-indicativa del fruto de la iniciación espiritual en el pasado; un planeta exaltado y que tiene
-un trino sencillo indica lo mismo; pero en una octava inferior.
+Los planetas en su relación recíproca están “dignificados” o “dispositados”. Cuando están dignificados, se hallan en los signos que ellos rigen; cuando están dispositados, se hallan en signos regidos por otro planeta. Un planeta dignificado que está en trino (trino “sencillo” o gran trino) nos indica que la persona tendrá en esta encarnación, una gran variedad de experiencia en aquellas cosas relacionadas con el planeta. Un planeta dignificado está ubicado en un signo de la primera casa; su “condición de trino” informa que el nativo va a expresar dinámicamente en esta encarnación un fuerte residuo de poderes destilados de muchas encarnaciones pasadas. El nativo, en cuanto a ese planeta concierne ha “retornado a la base original después de una excursión por el Zodíaco” y está calificado ahora, por indicación del registro del trino para irradiar con gran efecto - y para un gran bien - en términos de los principios de ese planeta. Semejante persona sería provista de muchos objetivos hacia los cuales podría “irradiar” así como de muchos “medios reflexivos” por reacción a los cuales podría gozar comprendiendo los resultados de sus pasadas expresiones espiritualizadas. Un planeta dignificado y que está en gran trino es uno de los factores más importantes que deben estudiarse en el mapa. Tal planeta es un “archi- poder” para el ajuste regenerador de la rueda completa. Un planeta exaltado y en gran trino representa la expresión planetaria máxima en la astrología humana. Semejante posición es indicativa del fruto de la iniciación espiritual en el pasado; un planeta exaltado y que tiene un trino sencillo indica lo mismo; pero en una octava inferior.
 
-Sin embargo, es un poder tremendo que si es expresado correcta y progresivamente,
-hace aparecer a la persona, en el mundo de los otros humanos, como una personificación de
-luz blanca. Los planetas dignificados y exaltados (en trinos y gran trinos) representan
-generalmente una amplitud notable en circunstancias externas porque esos patrones y
-poderes representan nuestra conciencia de la infinitud del poder y el amor de Dios. Por lo
-tanto se percibirá cierta abundancia de lo bueno en las circunstancias externas. Otro “patrón
-de trino” que merece mucho estudio es la colocación de planetas en sus propios signos de la
-quinta y novena casas. Designe el signo de dignidad de planeta como “uno” y en cada caso
-cuente alrededor de la rueda hacia la izquierda (o en dirección zodiacal) y vea, si alguno de
-sus planetas está colocado así en relación a su signo de dignidad. El autor cree que todos los
-planetas así ubicados, sin tener en consideración la colocación de los signos o los aspectos
-planetarios tienen cierta significación espiritual especializada porque en la “excursión
-zodiacal” del planeta, éste ha alcanzado aquellos “puntos” que representan el momento de
-expresar sus principios en términos de poder de amor y poder de sabiduría. Ejercite gran
-elasticidad en el acercamiento de palabras clave en este estudio. Es complicado y tarde o
-temprano la intuición surgirá para hacerse cargo donde el intelecto no puede llegar. El uso
-de mándalas simplificadas es una técnica esclarecedora que hace posible a su intelecto y a
-su intuición enfocar puntos específicos.
+Sin embargo, es un poder tremendo que si es expresado correcta y progresivamente, hace aparecer a la persona, en el mundo de los otros humanos, como una personificación de luz blanca. Los planetas dignificados y exaltados (en trinos y gran trinos) representan generalmente una amplitud notable en circunstancias externas porque esos patrones y poderes representan nuestra conciencia de la infinitud del poder y el amor de Dios. Por lo tanto se percibirá cierta abundancia de lo bueno en las circunstancias externas. Otro “patrón de trino” que merece mucho estudio es la colocación de planetas en sus propios signos de la quinta y novena casas. Designe el signo de dignidad de planeta como “uno” y en cada caso cuente alrededor de la rueda hacia la izquierda (o en dirección zodiacal) y vea, si alguno de sus planetas está colocado así en relación a su signo de dignidad. El autor cree que todos los planetas así ubicados, sin tener en consideración la colocación de los signos o los aspectos planetarios tienen cierta significación espiritual especializada porque en la “excursión zodiacal” del planeta, éste ha alcanzado aquellos “puntos” que representan el momento de expresar sus principios en términos de poder de amor y poder de sabiduría. Ejercite gran elasticidad en el acercamiento de palabras clave en este estudio. Es complicado y tarde o temprano la intuición surgirá para hacerse cargo donde el intelecto no puede llegar. El uso de mándalas simplificadas es una técnica esclarecedora que hace posible a su intelecto y a su intuición enfocar puntos específicos.
 
-Aclarando su conciencia de las diferencias básicas entre las palabras “regocijo” y
-“felicidad” se obtiene una flexibilidad de su acercamiento a los aspectos trinos que trae
-resultados notables. Así como el nacimiento en el plano físico marca una culminación (del
-proceso de gestación), del mismo modo, marca la iniciación de la encarnación con sus
-posibilidades para el crecimiento, la expresión y la realización. Podríamos hablar de la
-alegría de la unión amorosa (expresión mutua) y la felicidad experimentada por los padres
-cuando su niño nace normal y saludable; o el júbilo de la práctica y la educación musical y
-la felicidad de un primer recital airoso. Y así sucesivamente - hay muchos ejemplos que se
-podrían considerar como representativos del aspecto de trino exteriorizado en términos de
-registro activo y pasivo.
+Aclarando su conciencia de las diferencias básicas entre las palabras “regocijo” y “felicidad” se obtiene una flexibilidad de su acercamiento a los aspectos trinos que trae resultados notables. Así como el nacimiento en el plano físico marca una culminación (del proceso de gestación), del mismo modo, marca la iniciación de la encarnación con sus posibilidades para el crecimiento, la expresión y la realización. Podríamos hablar de la alegría de la unión amorosa (expresión mutua) y la felicidad experimentada por los padres cuando su niño nace normal y saludable; o el júbilo de la práctica y la educación musical y la felicidad de un primer recital airoso. Y así sucesivamente - hay muchos ejemplos que se podrían considerar como representativos del aspecto de trino exteriorizado en términos de registro activo y pasivo.
 
-Así es que el regocijo crea la felicidad. Aún el esfuerzo intenso, la lucha, la agonía
-mental y anímica y todos los estados emocionales intensos semejantes pueden ser
-básicamente alegres. Es el júbilo lo que nos hace posible cumplir con nuestras exigencias,
-no importa los aparentes obstáculos externos e internos. Con la alegría vitalizamos nuestras
-expresiones con nuestro mayor poder amoroso, poder devocional, poder de lealtad, poder
-de mejoramiento, poder de armonización, poder estético, poder de simpatía, poder de
-inteligencia, poder físico, etc. Los grandes de este mundo, no importa cuan desdichadas nos
-parezcan sus vidas, son básicamente alegres, porque los Poderes Divinos del Amor y la
-Sabiduría son canalizados a través de ellos. Sus “elementos personales” pueden registrar
-incumplimientos de muchas maneras, pero la gente Verdaderamente Grande justamente son
-mucho más que “personas con hogares, esposas, esposos y empleos”. Ellos, y lo que hacen
-para expresar su conciencia, son gestos de lo divino para este plano - los grandes
-terapeutas, artistas, escritores, maestros, filántropos - afirman él poder invencible de la
-alegría para cumplir la realización de los ideales. Ellos no toman la vida en términos de
-“algo que se debe disfrutar” en la forma fácil en que la mayoría de nosotros interpretamos
-el “gozo”; abordan la vida como su oportunidad para expresar al máximo lo mejor y más
-elevado en ellos, para cumplir sus patrones especializados de la ley evolutiva y el progreso.
+Así es que el regocijo crea la felicidad. Aún el esfuerzo intenso, la lucha, la agonía mental y anímica y todos los estados emocionales intensos semejantes pueden ser básicamente alegres. Es el júbilo lo que nos hace posible cumplir con nuestras exigencias, no importa los aparentes obstáculos externos e internos. Con la alegría vitalizamos nuestras expresiones con nuestro mayor poder amoroso, poder devocional, poder de lealtad, poder de mejoramiento, poder de armonización, poder estético, poder de simpatía, poder de inteligencia, poder físico, etc. Los grandes de este mundo, no importa cuan desdichadas nos parezcan sus vidas, son básicamente alegres, porque los Poderes Divinos del Amor y la Sabiduría son canalizados a través de ellos. Sus “elementos personales” pueden registrar incumplimientos de muchas maneras, pero la gente Verdaderamente Grande justamente son mucho más que “personas con hogares, esposas, esposos y empleos”. Ellos, y lo que hacen para expresar su conciencia, son gestos de lo divino para este plano - los grandes terapeutas, artistas, escritores, maestros, filántropos - afirman él poder invencible de la alegría para cumplir la realización de los ideales. Ellos no toman la vida en términos de “algo que se debe disfrutar” en la forma fácil en que la mayoría de nosotros interpretamos el “gozo”; abordan la vida como su oportunidad para expresar al máximo lo mejor y más elevado en ellos, para cumplir sus patrones especializados de la ley evolutiva y el progreso.
 
-Los “descontentos” son los apáticos, los descuidados, indiferentes, los desaliñados
-mental y emocionalmente; ellos existen en la moción por la respuesta a las cosas en sí, las
-cuales no comprenden en su mayor parte. Los alegres son conscientes, por supuesto
-profundamente conscientes y objetivos; expresan sus recursos y cumplen sus propósitos
-con un foco de poder, de inteligencia y devoción que los califica para hacer girar el curso
-de la evolución humana hacia arriba y hacia adelante. Existen relativamente pocos genios
-encarnados en cualquier época; pero todo ser humano puede aprender a vivir alegremente
-en el sentido que todos los que lo deseen pueden darse cuenta más claramente de su
-identidad y sus recursos divinos. Cuando nos consideramos como '“gusanos ante los ojos de
-Dios” es que nos apartamos de nuestra identidad como “Seres jubilosos”. Nosotros somos
-en verdad, “chispas de la llama de Dios” y la chispa tiene los atributos de la luz, del calor y
-del movimiento hacia arriba.
+Los “descontentos” son los apáticos, los descuidados, indiferentes, los desaliñados mental y emocionalmente; ellos existen en la moción por la respuesta a las cosas en sí, las cuales no comprenden en su mayor parte. Los alegres son conscientes, por supuesto profundamente conscientes y objetivos; expresan sus recursos y cumplen sus propósitos con un foco de poder, de inteligencia y devoción que los califica para hacer girar el curso de la evolución humana hacia arriba y hacia adelante. Existen relativamente pocos genios encarnados en cualquier época; pero todo ser humano puede aprender a vivir alegremente en el sentido que todos los que lo deseen pueden darse cuenta más claramente de su identidad y sus recursos divinos. Cuando nos consideramos como '“gusanos ante los ojos de Dios” es que nos apartamos de nuestra identidad como “Seres jubilosos”. Nosotros somos en verdad, “chispas de la llama de Dios” y la chispa tiene los atributos de la luz, del calor y del movimiento hacia arriba.
 
-Reconocer que cualquier planeta puede ser el regente de un horóscopo y que todo
-signo tiene su lugar en el símbolo del trino nos ayuda a comprender que ningún ser humano
-está excluido del privilegio de vivir alegremente. La vieja “imagen” que la miseria es
-nuestro sino es cierto solamente cuando nosotros expresamos miserable, limitada, temerosa,
-congestivamente y sin el reconocimiento de las potencialidades divina y los objetos
-espirituales. Toda acción que ejecutamos, toda reacción que experimentamos, toda
-expresión emocional y todo pensamiento que sostenemos, tiene una calificación vibratoria
-particular y eso significa que todas estas cosas pueden ser transformadas a octavas
-superiores de júbilo en expresión y felicidad en la reacción si optamos por hacerlas así.
+Reconocer que cualquier planeta puede ser el regente de un horóscopo y que todo signo tiene su lugar en el símbolo del trino nos ayuda a comprender que ningún ser humano está excluido del privilegio de vivir alegremente. La vieja “imagen” que la miseria es nuestro sino es cierto solamente cuando nosotros expresamos miserable, limitada, temerosa, congestivamente y sin el reconocimiento de las potencialidades divina y los objetos espirituales. Toda acción que ejecutamos, toda reacción que experimentamos, toda expresión emocional y todo pensamiento que sostenemos, tiene una calificación vibratoria particular y eso significa que todas estas cosas pueden ser transformadas a octavas superiores de júbilo en expresión y felicidad en la reacción si optamos por hacerlas así.
 
 #### <h4 id="part-2">Segunda Parte</h4>
 
-El signo de Leo, regido por el Sol, como signo de la quinta casa del Gran Mándala,
-será considerado en esta disertación, como el arquetipo de la conciencia de la alegría.
-Nosotros reconocemos una mayor amplitud de aptitudes y objetivos cuando se revela en
-mayor grado una comprensión más clara de nuestra identidad solar y los poderes solares a
-través del funcionamiento alquímico. Nuestro Padre Solar es la Fuente de Todo lo que
-somos, tenemos, o podemos alcanzar en nuestro funcionamiento humano y la percepción de
-nuestra unidad con esta Fuente nos armoniza en la conciencia con la presencia y
-accesibilidad de la abundancia solar en todos los planos. Una persona de corazón
-verdaderamente alegre, es así porque está consciente hasta cierto punto del alcance de esta
-abundancia - ella está relativamente libre de los temores constrictores, los cuales reducen la
-cantidad y cualidad de nuestra expresión y nuestra reacción mientras pasamos por una
-encarnación.
-Por medio del ejercicio de la conciencia Solar se practican la conciencia y la
-orientación propias que son las raíces de toda seguridad; se aprenden los errores, los cuales
-son la esencia de toda educación verdadera. La expresión de la conciencia Solar es una
-mayor amplitud del dar, lo contrario del instinto natural de recibir de la persona limitada e
-insegura. Con la neutralización de estas limitaciones e inseguridades, la conciencia amorosa
-florece como una rosa roja en su mata, la percepción del bien esencial en otros seres
-humanos toma el lugar en mayor grado, del prejuicio, la represalia, los celos y la envidia. El
-tiempo es percibido como un “aliado”, no como una limitación; las responsabilidades
-legítimas se ven como canalizaciones para la madurez, no como cargas pesadas y
-degradantes. Todos los poderes planetarios son derivaciones del Poder Solar; vamos a
-considerar cada uno a su vez, como un canal - singularmente calificado - para la expresión
-de la alegría.
+El signo de Leo, regido por el Sol, como signo de la quinta casa del Gran Mándala, será considerado en esta disertación, como el arquetipo de la conciencia de la alegría. Nosotros reconocemos una mayor amplitud de aptitudes y objetivos cuando se revela en mayor grado una comprensión más clara de nuestra identidad solar y los poderes solares a través del funcionamiento alquímico. Nuestro Padre Solar es la Fuente de Todo lo que somos, tenemos, o podemos alcanzar en nuestro funcionamiento humano y la percepción de nuestra unidad con esta Fuente nos armoniza en la conciencia con la presencia y accesibilidad de la abundancia solar en todos los planos. Una persona de corazón verdaderamente alegre, es así porque está consciente hasta cierto punto del alcance de esta abundancia - ella está relativamente libre de los temores constrictores, los cuales reducen la cantidad y cualidad de nuestra expresión y nuestra reacción mientras pasamos por una encarnación. Por medio del ejercicio de la conciencia Solar se practican la conciencia y la orientación propias que son las raíces de toda seguridad; se aprenden los errores, los cuales son la esencia de toda educación verdadera. La expresión de la conciencia Solar es una mayor amplitud del dar, lo contrario del instinto natural de recibir de la persona limitada e insegura. Con la neutralización de estas limitaciones e inseguridades, la conciencia amorosa florece como una rosa roja en su mata, la percepción del bien esencial en otros seres humanos toma el lugar en mayor grado, del prejuicio, la represalia, los celos y la envidia. El tiempo es percibido como un “aliado”, no como una limitación; las responsabilidades legítimas se ven como canalizaciones para la madurez, no como cargas pesadas y degradantes. Todos los poderes planetarios son derivaciones del Poder Solar; vamos a considerar cada uno a su vez, como un canal - singularmente calificado - para la expresión de la alegría.
 
-MARTE. Regente de Aries: La alegría como acción física y desarrollo físico, el
-júbilo de afrontar valientemente retos internos y externos, equidad en el deporte por la cual
-el instinto competidor se preste para el estímulo de mejores esfuerzos, la alegría de la niñez,
-la actitud de interés hacia las “cosas nuevas”, el regocijo de explorar y “labrar nuevos
-caminos” - en la conciencia más elevada este regocijo es valor moral -. Poderes dinámicos
-expresados a través de la integración personal para abogar por el derecho, tal como es
-comprendido por los individuos; es esa cualidad en el aspirante que lo capacita para
-“afrontar al enemigo en sí mismo y sobreponerse a ese enemigo” por medio del vivir
-regenerado; es el instinto de propia protección transformado en la “alegría de proteger a los
-seres amados, un trabajo amado o ideales amados”; es el valor como canal para la expresión
-del amor.
+MARTE. Regente de Aries: La alegría como acción física y desarrollo físico, el júbilo de afrontar valientemente retos internos y externos, equidad en el deporte por la cual el instinto competidor se preste para el estímulo de mejores esfuerzos, la alegría de la niñez, la actitud de interés hacia las “cosas nuevas”, el regocijo de explorar y “labrar nuevos caminos” - en la conciencia más elevada este regocijo es valor moral -. Poderes dinámicos expresados a través de la integración personal para abogar por el derecho, tal como es comprendido por los individuos; es esa cualidad en el aspirante que lo capacita para “afrontar al enemigo en sí mismo y sobreponerse a ese enemigo” por medio del vivir regenerado; es el instinto de propia protección transformado en la “alegría de proteger a los seres amados, un trabajo amado o ideales amados”; es el valor como canal para la expresión del amor.
 
-VENUS. Regente de Tauro: La alegría como sentido de “identificación con la
-naturaleza”, expresión propia en términos de cumplimiento de las necesidades físicas
-propias, por el intercambio con la naturaleza y con otras persona, el amor a las cosas de la
-tierra, el cultivo de las plantas por su utilidad y belleza, el uso recto de los servicios de la
-vida animal, el regocijo como expresión de buena voluntad en los intercambios financieros,
-para expresar el corazón por medios financieros, la devoción al principio de la recta
-mayordomía en todos los planos para mantener el equilibrio, el júbilo como forma de
-expresión por la cual hacemos nuestras aportaciones a los aspectos físicos de la vida
-humana en términos de valores y normas estéticos.
+VENUS. Regente de Tauro: La alegría como sentido de “identificación con la naturaleza”, expresión propia en términos de cumplimiento de las necesidades físicas propias, por el intercambio con la naturaleza y con otras persona, el amor a las cosas de la tierra, el cultivo de las plantas por su utilidad y belleza, el uso recto de los servicios de la vida animal, el regocijo como expresión de buena voluntad en los intercambios financieros, para expresar el corazón por medios financieros, la devoción al principio de la recta mayordomía en todos los planos para mantener el equilibrio, el júbilo como forma de expresión por la cual hacemos nuestras aportaciones a los aspectos físicos de la vida humana en términos de valores y normas estéticos.
 
-MERCURIO. Regente de Géminis: La alegría como ejercicio de una mente
-receptiva en las funciones del aprendizaje, los regocijos de la comunicación por la palabra
-escrita o hablada, los intercambios de pensamientos e ideas por la fraternidad de lenguajes
-en los cuales las mentes se juntan en mutualidad y las diferencias externas son disminuidas,
-la alegría de expresar lo que se ha aprendido por el estudio de la Ley de Causa y Efecto, la
-base de toda educación espiritualizada, las acciones basadas en la respuesta a todas las
-oportunidades de aprender, exotérica o esotéricamente, la archi-octava de esta vibración es
-la alegría de la comunicación, que es la fraternidad activada.
+MERCURIO. Regente de Géminis: La alegría como ejercicio de una mente receptiva en las funciones del aprendizaje, los regocijos de la comunicación por la palabra escrita o hablada, los intercambios de pensamientos e ideas por la fraternidad de lenguajes en los cuales las mentes se juntan en mutualidad y las diferencias externas son disminuidas, la alegría de expresar lo que se ha aprendido por el estudio de la Ley de Causa y Efecto, la base de toda educación espiritualizada, las acciones basadas en la respuesta a todas las oportunidades de aprender, exotérica o esotéricamente, la archi-octava de esta vibración es la alegría de la comunicación, que es la fraternidad activada.
 
-LA LUNA. Regente de Cáncer: La alegría como cualidad del corazón que nos
-mueve a expresar en conceptos de alimentación, bienestar y protección; esta alegría está
-basada primitivamente en el sacrificio propio, la “alimentación de la vida por la renuncia
-del yo”; es el regocijo del amor material y en su cualidad se ve la alegría arquetípica de dar;
-el dar verdaderamente, nutrir y proteger dependen de la armonización simpática con las
-verdades, y el regocijo del sacrificio de dar es elevado a muchos más altos niveles cuando
-se ejerce el discernimiento de modo que el bien en los otros sea lo que nos mueva a
-nutrirlos. La simpatía hacia las verdaderas necesidades de otro incitan nuestras mejores
-expresiones a través de este regocijo - entonces nos damos cuenta de nuestras capacidades
-máximas de proveer un grado de cumplimiento para la necesidad requerida -. El sacrificio -
-en cualquier nivel - hecho en respuesta a la compulsión podrá hacerse con entereza notable;
-pero es el sacrificio voluntario iniciado por sí mismo el cual es verdaderamente alegre
-porque tal expresión está basada en la integridad. Esta vibración es la base esencial de todas
-las contribuciones nutritivas a la familia y al bienestar y progreso nacional e internacional.
-Aquellos que dan a la raza misma son crucificados frecuentemente por su dar; pero la
-“posible oportunidad de crucifixión” no menoscaba la cualidad de la contribución ofrecida,
-para un corazón alegre.
+LA LUNA. Regente de Cáncer: La alegría como cualidad del corazón que nos mueve a expresar en conceptos de alimentación, bienestar y protección; esta alegría está basada primitivamente en el sacrificio propio, la “alimentación de la vida por la renuncia del yo”; es el regocijo del amor material y en su cualidad se ve la alegría arquetípica de dar; el dar verdaderamente, nutrir y proteger dependen de la armonización simpática con las verdades, y el regocijo del sacrificio de dar es elevado a muchos más altos niveles cuando se ejerce el discernimiento de modo que el bien en los otros sea lo que nos mueva a nutrirlos. La simpatía hacia las verdaderas necesidades de otro incitan nuestras mejores expresiones a través de este regocijo - entonces nos damos cuenta de nuestras capacidades máximas de proveer un grado de cumplimiento para la necesidad requerida -. El sacrificio - en cualquier nivel - hecho en respuesta a la compulsión podrá hacerse con entereza notable; pero es el sacrificio voluntario iniciado por sí mismo el cual es verdaderamente alegre porque tal expresión está basada en la integridad. Esta vibración es la base esencial de todas las contribuciones nutritivas a la familia y al bienestar y progreso nacional e internacional. Aquellos que dan a la raza misma son crucificados frecuentemente por su dar; pero la “posible oportunidad de crucifixión” no menoscaba la cualidad de la contribución ofrecida, para un corazón alegre.
 
-EL SOL. Regente de Leo: El regocijo en la radiación pura, sin mezcla, del poder
-del amor, sin consideraciones de respuesta o pago; la administración del poder en términos
-de equidad y de honor; este regocijo es verdaderamente el de la hospitalidad, expresándose
-a través de lo que se había establecido en Cáncer; es la cualidad particular del regocijo que
-caracteriza a todos los grandes amenizadores - cuyas expresiones de talento nos capacitan
-para responder con la risa y la concurrente liberación de tenciones -. Leo es esencialmente,
-la alegría como amplitud, de cualquier clase en la expresión.
+EL SOL. Regente de Leo: El regocijo en la radiación pura, sin mezcla, del poder del amor, sin consideraciones de respuesta o pago; la administración del poder en términos de equidad y de honor; este regocijo es verdaderamente el de la hospitalidad, expresándose a través de lo que se había establecido en Cáncer; es la cualidad particular del regocijo que caracteriza a todos los grandes amenizadores - cuyas expresiones de talento nos capacitan para responder con la risa y la concurrente liberación de tenciones -. Leo es esencialmente, la alegría como amplitud, de cualquier clase en la expresión.
 
-MERCURIO. Regente de Virgo: La alegría como utilización de lo que ha sido
-aprendido; tales expresiones resultan un verdadero servicio - el ejercicio discerniente del
-conocimiento -. Por medio de Virgo comenzamos a “tocar lo impersonal” porque es la
-modulación de los seis signos inferiores de las casas del Gran Mándala a los seis signos
-superiores. Es la alegría de hacer el trabajo que a uno le gusta y es también la alegría de
-amar a los compañeros de trabajo - ya sean patronos, colegas o empleados -. Estas personas
-son fraternales a nosotros de manera especializada e impersonal. Virgo es la alegría del
-entrenamiento especializado, físico, mental y psicológico, que nos equipa para el
-cumplimiento relativamente perfecto del servicio que hemos seleccionado en la vida y del
-“total entusiasmo” por el cual llevarnos a cabo ese cumplimiento.
+MERCURIO. Regente de Virgo: La alegría como utilización de lo que ha sido aprendido; tales expresiones resultan un verdadero servicio - el ejercicio discerniente del conocimiento -. Por medio de Virgo comenzamos a “tocar lo impersonal” porque es la modulación de los seis signos inferiores de las casas del Gran Mándala a los seis signos superiores. Es la alegría de hacer el trabajo que a uno le gusta y es también la alegría de amar a los compañeros de trabajo - ya sean patronos, colegas o empleados -. Estas personas son fraternales a nosotros de manera especializada e impersonal. Virgo es la alegría del entrenamiento especializado, físico, mental y psicológico, que nos equipa para el cumplimiento relativamente perfecto del servicio que hemos seleccionado en la vida y del “total entusiasmo” por el cual llevarnos a cabo ese cumplimiento.
 
-VENUS. Regente de Libra: El regocijo de expresar la conciencia de “nosotros
-somos - extensión por polaridad, del Yo Soy individualizado; la alegría de aspirar a incluir
-lo bueno de los otros, en nuestros planos y expresiones como ampliación de nuestros deseos
-de realizar nuestro bien individualizado -. Este es el regocijo del intercambio del amor,
-expresión mutua y reflexión mutua de la percepción de la idealidad humana; es nuestra
-alegría de ser de tal forma que la belleza del arquetipo humado pueda ser percibida hasta
-cierto punto en nosotros por otras personas para que su sueño profundo de la belleza sea
-satisfecho aunque sea relativamente. El júbilo - así como Libra - es aquella expresión de
-poder del alma que llamamos cooperación; es una de las archi-virtudes y las personas que
-ejercitan el poder de la cooperación con amplitud y generosidad son aquellas para quienes
-el júbilo es un compañero de toda la vida: la integridad de corazones verdaderamente
-buenos suena una nota clave simpática en los corazones de otros con un “poder elevador”.
-Como resultado, la canción de “nosotros somos” es cantada con mayor belleza.
+VENUS. Regente de Libra: El regocijo de expresar la conciencia de “nosotros somos - extensión por polaridad, del Yo Soy individualizado; la alegría de aspirar a incluir lo bueno de los otros, en nuestros planos y expresiones como ampliación de nuestros deseos de realizar nuestro bien individualizado -. Este es el regocijo del intercambio del amor, expresión mutua y reflexión mutua de la percepción de la idealidad humana; es nuestra alegría de ser de tal forma que la belleza del arquetipo humado pueda ser percibida hasta cierto punto en nosotros por otras personas para que su sueño profundo de la belleza sea satisfecho aunque sea relativamente. El júbilo - así como Libra - es aquella expresión de poder del alma que llamamos cooperación; es una de las archi-virtudes y las personas que ejercitan el poder de la cooperación con amplitud y generosidad son aquellas para quienes el júbilo es un compañero de toda la vida: la integridad de corazones verdaderamente buenos suena una nota clave simpática en los corazones de otros con un “poder elevador”. Como resultado, la canción de “nosotros somos” es cantada con mayor belleza.
 
-PLUTÓN. Regente de Escorpio: Sin amor y sin belleza, el ejercicio generador es
-una compulsión frenética concentrada en sí mismo; pero como una expresión de amor
-mutuo se convierte en un regocijo intenso, transformador y cooperador; es como tal, una
-expresión dinámica de liberación de profundos recursos de poder vibratorio a fin de que las
-“idealidades de asociación” de cada persona concernida puedan ser realizadas lo más
-vivamente posible; como expresión de amor, es la “Vida dándose vida”. Las dos personas
-implicadas se identifican con el atributo procreador del Cosmos para la procreación de
-nuevos vehículos de vida o para la generación de conciencia amorosa más profunda de uno
-para el otro. En los planos subjetivos, Escorpión representa expresiones de los más
-profundos alcances de potencialidad y de conciencia: las devociones y consagraciones más
-intensas. Es el regocijo del mártir, del devoto y del ascético, de cualquiera en quien los
-juegos del deseo personalizado han sido transmutados a octavas más altas de amor
-impersonalizado. Tal persona no sólo es el sacerdote - ella es su propio altar y su vida es su
-Misa -. Sus regeneraciones son el sacrificio que ofrece “diariamente para que la vida sea
-más hacia adelante y hacia arriba. La alegría de Escorpión es éxtasis porque sus
-expresiones son liberadas de nuestras potencialidades y aspiraciones más intensamente
-comprimidas y enfocadas.
+PLUTÓN. Regente de Escorpio: Sin amor y sin belleza, el ejercicio generador es una compulsión frenética concentrada en sí mismo; pero como una expresión de amor mutuo se convierte en un regocijo intenso, transformador y cooperador; es como tal, una expresión dinámica de liberación de profundos recursos de poder vibratorio a fin de que las “idealidades de asociación” de cada persona concernida puedan ser realizadas lo más vivamente posible; como expresión de amor, es la “Vida dándose vida”. Las dos personas implicadas se identifican con el atributo procreador del Cosmos para la procreación de nuevos vehículos de vida o para la generación de conciencia amorosa más profunda de uno para el otro. En los planos subjetivos, Escorpión representa expresiones de los más profundos alcances de potencialidad y de conciencia: las devociones y consagraciones más intensas. Es el regocijo del mártir, del devoto y del ascético, de cualquiera en quien los juegos del deseo personalizado han sido transmutados a octavas más altas de amor impersonalizado. Tal persona no sólo es el sacerdote - ella es su propio altar y su vida es su Misa -. Sus regeneraciones son el sacrificio que ofrece “diariamente para que la vida sea más hacia adelante y hacia arriba. La alegría de Escorpión es éxtasis porque sus expresiones son liberadas de nuestras potencialidades y aspiraciones más intensamente comprimidas y enfocadas.
 
-JÚPITER. El júbilo de la enseñanza: Este planeta es la polaridad del Géminis de
-Mercurio y como tal es la irradiación de la sabiduría; su posición como signo de la novena
-casa del Gran Mándala y signo de la quinta casa de Leo nos indica que toda enseñanza
-verdadera es una expresión de amor. El estudiante (Mercurio-Géminis), siendo amado es
-enseñado; el maestro (Júpiter-Sagitario), amando, enseña. Júpiter significa el regocijo de
-todos los ejercicios, ceremonias, rituales y fiestas religiosas - dramatizaciones simbólicas
-que armonizan la conciencia humana con percepciones más elevadas de los principios de
-vida -. Júpiter, exaltado en Cáncer, signo de la Luna, representa un regocijo de dirección
-propia más pura en actos de dar - el verdadero dar es el que está libre de motivos ulteriores
--. El es el júbilo de todas las expresiones verídicas por el cual los miasmas y distorsiones de
-la ignorancia se disipan por el poder de la enseñanza verdadera; la instrucción concerniente
-a la existencia y naturaleza de la Ley de Causa y Efecto, representa la alegría de la
-enseñanza de Júpiter en su forma básica más pura.
+JÚPITER. El júbilo de la enseñanza: Este planeta es la polaridad del Géminis de Mercurio y como tal es la irradiación de la sabiduría; su posición como signo de la novena casa del Gran Mándala y signo de la quinta casa de Leo nos indica que toda enseñanza verdadera es una expresión de amor. El estudiante (Mercurio-Géminis), siendo amado es enseñado; el maestro (Júpiter-Sagitario), amando, enseña. Júpiter significa el regocijo de todos los ejercicios, ceremonias, rituales y fiestas religiosas - dramatizaciones simbólicas que armonizan la conciencia humana con percepciones más elevadas de los principios de vida -. Júpiter, exaltado en Cáncer, signo de la Luna, representa un regocijo de dirección propia más pura en actos de dar - el verdadero dar es el que está libre de motivos ulteriores -. El es el júbilo de todas las expresiones verídicas por el cual los miasmas y distorsiones de la ignorancia se disipan por el poder de la enseñanza verdadera; la instrucción concerniente a la existencia y naturaleza de la Ley de Causa y Efecto, representa la alegría de la enseñanza de Júpiter en su forma básica más pura.
 
-SATURNO. Regente de Capricornio: El regocijo silencioso del cumplimiento
-legítimo de responsabilidad; los poderes de una conciencia madura que capacitan al ser
-humano para funcionar como “piedra angular” de la familia, la nación y la raza. El gozo de
-planear por medio del ejercicio de la gente madura y de llevar a cabo el plan punto por
-puntó, eficaz y cabalmente hasta lograr el cumplimiento. El gozo de la conciencia de
-capacidades para asumir sin compulsión externa aquello que debe cumplirse. El regocijo de
-vivir con la rectitud que no “limita ni inhibe” - él madura la conciencia para el progreso
-evolutivo -. El júbilo es profundamente paternal en esencia; es el regocijo del padre en
-términos humanos - y del Redentor en octavas superiores de conciencia.
+SATURNO. Regente de Capricornio: El regocijo silencioso del cumplimiento legítimo de responsabilidad; los poderes de una conciencia madura que capacitan al ser humano para funcionar como “piedra angular” de la familia, la nación y la raza. El gozo de planear por medio del ejercicio de la gente madura y de llevar a cabo el plan punto por puntó, eficaz y cabalmente hasta lograr el cumplimiento. El gozo de la conciencia de capacidades para asumir sin compulsión externa aquello que debe cumplirse. El regocijo de vivir con la rectitud que no “limita ni inhibe” - él madura la conciencia para el progreso evolutivo -. El júbilo es profundamente paternal en esencia; es el regocijo del padre en términos humanos - y del Redentor en octavas superiores de conciencia.
 
-URANO. Regente de Acuario: Cuando el ser humano ha integrado su conciencia a
-través de muchas encarnaciones de adhesión a la Ley Espiritual, el regocijo de Urano
-florece como la alegría del alma liberada; tal persona “baila donde le place, pero sin
-molestar al otro”. Este es el regocijo del genio creador y de la profecía; es el “Amor que
-percibe el Alma de otro” - ya no es el “amor que adora al cuerpo” -. Es el júbilo de toda
-cooperación grupal impersonalizada; es la irradiación del compañerismo el cual es la
-fraternidad extendida a una esfera sin límites. Es “creación” o “manifestación” por las
-cuales las hermosas verdades del arquetipo humano son reconocidas y admitidas. Esta
-vibración es la alegría de la sublevación del ser humano contra las cosas en sí mismo que
-han impedido su realización del verdadero compañerismo; es la alegría del ejercicio
-alquímico por medio del cual las congestiones e inhibiciones son liberadas a octavas de
-mayor expresión. Es la alegría de todas las resurrecciones - la “trascendencia de todos los
-sepulcros”.
+URANO. Regente de Acuario: Cuando el ser humano ha integrado su conciencia a través de muchas encarnaciones de adhesión a la Ley Espiritual, el regocijo de Urano florece como la alegría del alma liberada; tal persona “baila donde le place, pero sin molestar al otro”. Este es el regocijo del genio creador y de la profecía; es el “Amor que percibe el Alma de otro” - ya no es el “amor que adora al cuerpo” -. Es el júbilo de toda cooperación grupal impersonalizada; es la irradiación del compañerismo el cual es la fraternidad extendida a una esfera sin límites. Es “creación” o “manifestación” por las cuales las hermosas verdades del arquetipo humano son reconocidas y admitidas. Esta vibración es la alegría de la sublevación del ser humano contra las cosas en sí mismo que han impedido su realización del verdadero compañerismo; es la alegría del ejercicio alquímico por medio del cual las congestiones e inhibiciones son liberadas a octavas de mayor expresión. Es la alegría de todas las resurrecciones - la “trascendencia de todos los sepulcros”.
 
-NEPTUNO. Regente de Piscis: El júbilo de la oración dinámica; el “respirar
-Amoroso del Yo Superior en los éteres”; la expansión de conciencia que resulta de la
-meditación enfocada y la percepción más clara resultante de las idealidades. El regocijo de
-toda expresión artística inspirada - particularmente la del músico y del actor. Es la alegría
-de la armonización inspiradora y de la reverencia más profunda y pura del corazón. Por la
-exaltación de Venus aquí, este es el júbilo de amar la vida misma y de amar todo lo que la
-vida expresa. Es el amor que crea la hermosura y la alegría de percibir las bellezas más
-sutiles y más puras de la vida. Es la percepción verídica por medio de la cual son redimidos
-todos los infiernos - por medio de ella, los santos y los salvadores sanan las heridas del
-cuerpo, de la mente y del Espíritu. Es el júbilo de renunciar a “lo que ya no es necesario”,
-para “abrazar lo requerido ahora”. Es la fe en que se toma todo paso progresivo verdadero,
-una fe que ha sido posible porque el amor a la vida misma ha revitalizado la conciencia y
-transformado las perturbaciones del miedo, del odio y de la inseguridad, en la serenidad de
-paz y sabiduría, a través del regocijo.
+NEPTUNO. Regente de Piscis: El júbilo de la oración dinámica; el “respirar Amoroso del Yo Superior en los éteres”; la expansión de conciencia que resulta de la meditación enfocada y la percepción más clara resultante de las idealidades. El regocijo de toda expresión artística inspirada - particularmente la del músico y del actor. Es la alegría de la armonización inspiradora y de la reverencia más profunda y pura del corazón. Por la exaltación de Venus aquí, este es el júbilo de amar la vida misma y de amar todo lo que la vida expresa. Es el amor que crea la hermosura y la alegría de percibir las bellezas más sutiles y más puras de la vida. Es la percepción verídica por medio de la cual son redimidos todos los infiernos - por medio de ella, los santos y los salvadores sanan las heridas del cuerpo, de la mente y del Espíritu. Es el júbilo de renunciar a “lo que ya no es necesario”, para “abrazar lo requerido ahora”. Es la fe en que se toma todo paso progresivo verdadero, una fe que ha sido posible porque el amor a la vida misma ha revitalizado la conciencia y transformado las perturbaciones del miedo, del odio y de la inseguridad, en la serenidad de paz y sabiduría, a través del regocijo.
 
 ### <h3 id="chapter-6">Capítulo VI: Descripción de Personajes Famosos de Shakespeare</h3>
 
-El dramaturgo escoge de los recursos de su imaginación y su conocimiento, aquellos
-elementos del espectro de la personalidad y la experiencia humanas que son apropiados
-para su concepto de un tema y organiza esos elementos en forma dramática para ser
-interpretados por actores, actrices y todos los demás ejecutantes de teatro. Todas las formas
-del arte son representaciones destiladas de la conciencia humana; las obras de arte, como
-espejos, le reflejan a la humanidad representaciones intensas de sí misma y de sus
-experiencias. El dramaturgo trata sobre la conciencia, la emoción y la experiencia humanas
-en términos de las expresiones objetivas de la humanidad; el hombre representa e interpreta
-temas dramáticos en términos de patrones de apariencia, de personalidad, de actividad y
-relación que son reconocibles objetivamente. En la representación los actores y las actrices
-son microcosmos simbólicos del propio ser humano; cada papel desempeñado por un actor
-o actriz es simbólico de un fragmento de la conciencia de identidad y existencia humanas
-en este plano.
+El dramaturgo escoge de los recursos de su imaginación y su conocimiento, aquellos elementos del espectro de la personalidad y la experiencia humanas que son apropiados para su concepto de un tema y organiza esos elementos en forma dramática para ser interpretados por actores, actrices y todos los demás ejecutantes de teatro. Todas las formas del arte son representaciones destiladas de la conciencia humana; las obras de arte, como espejos, le reflejan a la humanidad representaciones intensas de sí misma y de sus experiencias. El dramaturgo trata sobre la conciencia, la emoción y la experiencia humanas en términos de las expresiones objetivas de la humanidad; el hombre representa e interpreta temas dramáticos en términos de patrones de apariencia, de personalidad, de actividad y relación que son reconocibles objetivamente. En la representación los actores y las actrices son microcosmos simbólicos del propio ser humano; cada papel desempeñado por un actor o actriz es simbólico de un fragmento de la conciencia de identidad y existencia humanas en este plano.
 
-Por lo tanto, en las creaciones de un verdadero genio como lo fue William
-Shakespeare (o quien quiera que escribió bajo ese nombre) la cualidad proteica de habilidad
-y comprensión artísticas hizo posible las representaciones dramáticas que reflejan el
-arquetipo humano, localizado por el nombre, el sexo, época y nacionalidad; pero que
-realmente simboliza patrones universales de naturaleza humana y de experiencia. Tarde o
-temprano nos encontramos frente a frente con el Hamlet, la Cordelia, el Ótelo, Lady
-Macbeth, el Romeo y la Julieta en nosotros mismos. Lloramos o reímos en respuesta a estas
-y otras representaciones porque algo en nuestro profundo subconsciente es estimulado
-cuando vemos una gran representación que interpreta las concepciones creadoras de un
-genial dramaturgo. Nuestra propia existencia - pasada o presente es repasada hasta cierto
-punto -. Viejas memorias ya olvidadas, de sentimientos de dolor y de gozo, son encendidas.
-Nuestra conciencia de egoidad individualizada en muchas encarnaciones es despertada
-nuevamente y lo que vemos en el escenario es nosotros mismos, condensados y enfocados
-por las exigencias dramáticas del tema interpretado. Nosotros somos hombre-mujer, todas
-las profesiones, todas las nacionalidades, las relaciones, las luchas, los fracasos, los gozos y
-los sufrimientos. El dramaturgo, por medio de los principios estéticos inherentes al arte
-dramático creador y los actores a través de los principios estéticos inherentes al arte
-dramático interpretativo, revitalizan la conciencia de nuestro ser total, de nuestra identidad
-total como individuos, y nuestra relación total con todos los otros individuos.
+Por lo tanto, en las creaciones de un verdadero genio como lo fue William Shakespeare (o quien quiera que escribió bajo ese nombre) la cualidad proteica de habilidad y comprensión artísticas hizo posible las representaciones dramáticas que reflejan el arquetipo humano, localizado por el nombre, el sexo, época y nacionalidad; pero que realmente simboliza patrones universales de naturaleza humana y de experiencia. Tarde o temprano nos encontramos frente a frente con el Hamlet, la Cordelia, el Ótelo, Lady Macbeth, el Romeo y la Julieta en nosotros mismos. Lloramos o reímos en respuesta a estas y otras representaciones porque algo en nuestro profundo subconsciente es estimulado cuando vemos una gran representación que interpreta las concepciones creadoras de un genial dramaturgo. Nuestra propia existencia - pasada o presente es repasada hasta cierto punto -. Viejas memorias ya olvidadas, de sentimientos de dolor y de gozo, son encendidas. Nuestra conciencia de egoidad individualizada en muchas encarnaciones es despertada nuevamente y lo que vemos en el escenario es nosotros mismos, condensados y enfocados por las exigencias dramáticas del tema interpretado. Nosotros somos hombre-mujer, todas las profesiones, todas las nacionalidades, las relaciones, las luchas, los fracasos, los gozos y los sufrimientos. El dramaturgo, por medio de los principios estéticos inherentes al arte dramático creador y los actores a través de los principios estéticos inherentes al arte dramático interpretativo, revitalizan la conciencia de nuestro ser total, de nuestra identidad total como individuos, y nuestra relación total con todos los otros individuos.
 
-Estudiantes de astrología: preparen una copia del Gran Mándala Astrológico, un
-círculo de doce casas con Aries en el Ascendente, los otros signos en orden - 30° para cada
-casa; el Sol, la Luna y los otros planetas en los signos y casas de su dignidad. Medite un
-poco sobre este mándala como el cuadro simbólico compuesto de la humanidad. De este
-diseño y arreglo de símbolos es que se derivan todos los horóscopos humanos y representa
-la totalidad de lo que es interpretado creadoramente o de otra forma en todas las bellas
-artes. Es el cuadro de las identidades y experiencias de la conciencia humana. Ahora, para
-especializarse en el arte dramático, “personifique” al Sol, la Luna y los planetas como
-personajes en el Drama de la Vida Humana; deje que su mente recorra la esfera de estas
-“personalidades” imaginando a cada planeta (enfocador vibratorio) en cada uno de los
-signos zodiacales, en cada una de las casas ambientales, cada uno en aspecto (por
-conjunción, textil, trino, cuadratura y oposición) entre sí. Añada los factores de ambos
-sexos, todas las épocas, todas las nacionalidades, todos los períodos- históricos y usted
-vislumbrará el tremendo espectro de lo que es suministro para el molino del dramaturgo.
-Usted y yo estamos en este cuadro - cómo somos, cómo hemos sido y cómo seremos
-mientras nuestra identidad sea el “ser humano” -. Usted está desempeñando ahora el papel
-que su conciencia de la vida ha creado. Los humanos, en su vida Terrestre son autores
-dramáticos y actores - cada uno usa su conciencia para interpretar la vida.
+Estudiantes de astrología: preparen una copia del Gran Mándala Astrológico, un círculo de doce casas con Aries en el Ascendente, los otros signos en orden - 30° para cada casa; el Sol, la Luna y los otros planetas en los signos y casas de su dignidad. Medite un poco sobre este mándala como el cuadro simbólico compuesto de la humanidad. De este diseño y arreglo de símbolos es que se derivan todos los horóscopos humanos y representa la totalidad de lo que es interpretado creadoramente o de otra forma en todas las bellas artes. Es el cuadro de las identidades y experiencias de la conciencia humana. Ahora, para especializarse en el arte dramático, “personifique” al Sol, la Luna y los planetas como personajes en el Drama de la Vida Humana; deje que su mente recorra la esfera de estas “personalidades” imaginando a cada planeta (enfocador vibratorio) en cada uno de los signos zodiacales, en cada una de las casas ambientales, cada uno en aspecto (por conjunción, textil, trino, cuadratura y oposición) entre sí. Añada los factores de ambos sexos, todas las épocas, todas las nacionalidades, todos los períodos- históricos y usted vislumbrará el tremendo espectro de lo que es suministro para el molino del dramaturgo. Usted y yo estamos en este cuadro - cómo somos, cómo hemos sido y cómo seremos mientras nuestra identidad sea el “ser humano” -. Usted está desempeñando ahora el papel que su conciencia de la vida ha creado. Los humanos, en su vida Terrestre son autores dramáticos y actores - cada uno usa su conciencia para interpretar la vida.
 
-El Arte del Teatro, hace posible el estímulo a las lágrimas y la risa en el corazón
-humano, más directamente que ninguna otra forma de arte. El llanto y la risa son dos de las
-maneras por medio de las cuales la vida nos capacita para disolver la cristalización de las
-tensiones y congestiones del plexo solar. En respuesta a las agonías, sufrimientos, anhelos y
-desesperanzas creadas en la tragedia dramática, nos inclinamos a llorar al recuerdo de
-nuestras propias agonías y sufrimientos. En respuesta a la bufonería, la sátira y la
-caricatura, nuestros intelectos son excitados de tal modo que nos desternillamos de risa al
-presenciar las reflexiones de nuestros despropósitos, torpezas e impedimentos. Cuando
-presenciamos un drama romántico (de los de buen final) nos conmovemos en emociones
-intensas, amor profundo, aspiraciones, esfuerzos y la realización de ideales. El propósito
-oculto del drama trágico es inducir sentimientos de compasión por otros seres humanos - no
-la intensificación de la compasión de sí mismo. El propósito oculto de la comedia y la
-sátira es disolver las congestiones de la ostentación, de la justificación propia, la hipocresía
-y la excesiva seriedad - para “sacudirnos de nuestras maneras imperiosas”. El drama
-romántico tiene su propósito interno de intensificar nuestra conciencia del “tono, del color y
-del diseño de nuestro modo de vivir”, para destellar una conciencia de mayores capacidades
-para el amor, la devoción, el esfuerzo y la aspiración. El “final feliz” de los dramas
-románticos es simbolismo dramatizado de la aspiración en todo ser humano de realizar
-ideales y evolucionar por medio de la regeneración y la transmutación. El “final feliz” nos
-recuerda la bondad de la vida.
+El Arte del Teatro, hace posible el estímulo a las lágrimas y la risa en el corazón humano, más directamente que ninguna otra forma de arte. El llanto y la risa son dos de las maneras por medio de las cuales la vida nos capacita para disolver la cristalización de las tensiones y congestiones del plexo solar. En respuesta a las agonías, sufrimientos, anhelos y desesperanzas creadas en la tragedia dramática, nos inclinamos a llorar al recuerdo de nuestras propias agonías y sufrimientos. En respuesta a la bufonería, la sátira y la caricatura, nuestros intelectos son excitados de tal modo que nos desternillamos de risa al presenciar las reflexiones de nuestros despropósitos, torpezas e impedimentos. Cuando presenciamos un drama romántico (de los de buen final) nos conmovemos en emociones intensas, amor profundo, aspiraciones, esfuerzos y la realización de ideales. El propósito oculto del drama trágico es inducir sentimientos de compasión por otros seres humanos - no la intensificación de la compasión de sí mismo. El propósito oculto de la comedia y la sátira es disolver las congestiones de la ostentación, de la justificación propia, la hipocresía y la excesiva seriedad - para “sacudirnos de nuestras maneras imperiosas”. El drama romántico tiene su propósito interno de intensificar nuestra conciencia del “tono, del color y del diseño de nuestro modo de vivir”, para destellar una conciencia de mayores capacidades para el amor, la devoción, el esfuerzo y la aspiración. El “final feliz” de los dramas románticos es simbolismo dramatizado de la aspiración en todo ser humano de realizar ideales y evolucionar por medio de la regeneración y la transmutación. El “final feliz” nos recuerda la bondad de la vida.
 
-La poesía y la nobleza de la obra dramática de Shakespeare sostienen un espejo
-inmenso en el cual la humanidad puede mirarse. Disfrutemos de la consideración de
-algunos personajes de Shakespeare tal como ellos representan “puntos enfocados” de la
-naturaleza y patrones de experiencia humana correlacionados con el simbolismo astrológico
-básico simple.
+La poesía y la nobleza de la obra dramática de Shakespeare sostienen un espejo inmenso en el cual la humanidad puede mirarse. Disfrutemos de la consideración de algunos personajes de Shakespeare tal como ellos representan “puntos enfocados” de la naturaleza y patrones de experiencia humana correlacionados con el simbolismo astrológico básico simple.
 
-ROMEO Y JULIETA: Desde el punto de vista de un “reencarnacionista”, este
-drama hubiera sido verdaderamente mucho más trágico en tono y efecto si los dos astros
-amantes de destinos opuestos hubieran permitido que la adhesión cristalizada a los
-prejuicios de familia evitara o desintegrara su unión amorosa. El “Romeo y Julieta” en cada
-ser humano es aquel que ansia la polarización total llamada Bodas Herméticas; pero esta
-“unión interna del yo con el Yo Superior”, sólo puede realizarse por el cumplimiento de
-uniones y patrones de relación a través del amor. Las “casas de Montague y Capulet” son
-las imágenes gravadas de prejuicio de familia y posición social, las cuales están
-representadas astrológicamente por el diámetro de Cáncer-Capricornio y los aspectos
-congestionados a la Luna y Saturno. Todos nosotros derivamos nuestra encarnación de un
-patrón de familia al cual somos atraídos por las leyes de simpatía vibratoria y del karma.
-No obstante, cada uno debe disolver de octava en octava-y en su debido tiempo, las
-congestiones de este patrón por una expresión de amor más puramente individualizada.
-Romeo “saltó por encima de las paredes” para estar con su Julieta; este “salto por encima”
-es Urano rompiendo las cristalizaciones o trascendiendo las fronteras puestas por Saturno,
-símbolo de la “congestión de las formas”. Personalizando un poquito - Romeo y Julieta
-fueron convocados, hablando evolutivamente, para probar el poder de su amor recíproco; su
-reto fue a través de la enemistad, la rivalidad y prejuicio de sus grupos de familia -. Aunque
-ellos murieron, su tragedia fue aminorada por su mutua devoción - en vez de serlo bajo el
-temor a la “imagen de familia” -. Todos nosotros, en algún tiempo, tenemos una
-encarnación en la cual hallamos la oportunidad de probar la sinceridad de las aspiraciones e
-ideales más elevados de nuestros corazones. Para hacerlo, tenemos que utilizar los poderes
-representados abstractamente por el diámetro de Leo-Acuario para trascender las fijaciones
-de Cáncer-Capricornio. Permanecer fijos en Cáncer-Capricornio es retroceder en los
-poderes evolutivos que trabajan para la liberación y el progreso. La poesía luminosa de la
-Escena del Balcón representa la pureza radiante de la reanudación del verdadero amor;
-Romeo y Julieta se amaron desde una encarnación pasada justamente como amamos
-nuestro yo ideal a través de todas nuestras encarnaciones. La belleza inspiradora del drama
-- como poesía - representa el esplendor interno que acompaña al reconocimiento de
-nuestros ideales.
+ROMEO Y JULIETA: Desde el punto de vista de un “reencarnacionista”, este drama hubiera sido verdaderamente mucho más trágico en tono y efecto si los dos astros amantes de destinos opuestos hubieran permitido que la adhesión cristalizada a los prejuicios de familia evitara o desintegrara su unión amorosa. El “Romeo y Julieta” en cada ser humano es aquel que ansia la polarización total llamada Bodas Herméticas; pero esta “unión interna del yo con el Yo Superior”, sólo puede realizarse por el cumplimiento de uniones y patrones de relación a través del amor. Las “casas de Montague y Capulet” son las imágenes gravadas de prejuicio de familia y posición social, las cuales están representadas astrológicamente por el diámetro de Cáncer-Capricornio y los aspectos congestionados a la Luna y Saturno. Todos nosotros derivamos nuestra encarnación de un patrón de familia al cual somos atraídos por las leyes de simpatía vibratoria y del karma. No obstante, cada uno debe disolver de octava en octava-y en su debido tiempo, las congestiones de este patrón por una expresión de amor más puramente individualizada. Romeo “saltó por encima de las paredes” para estar con su Julieta; este “salto por encima” es Urano rompiendo las cristalizaciones o trascendiendo las fronteras puestas por Saturno, símbolo de la “congestión de las formas”. Personalizando un poquito - Romeo y Julieta fueron convocados, hablando evolutivamente, para probar el poder de su amor recíproco; su reto fue a través de la enemistad, la rivalidad y prejuicio de sus grupos de familia -. Aunque ellos murieron, su tragedia fue aminorada por su mutua devoción - en vez de serlo bajo el temor a la “imagen de familia” -. Todos nosotros, en algún tiempo, tenemos una encarnación en la cual hallamos la oportunidad de probar la sinceridad de las aspiraciones e ideales más elevados de nuestros corazones. Para hacerlo, tenemos que utilizar los poderes representados abstractamente por el diámetro de Leo-Acuario para trascender las fijaciones de Cáncer-Capricornio. Permanecer fijos en Cáncer-Capricornio es retroceder en los poderes evolutivos que trabajan para la liberación y el progreso. La poesía luminosa de la Escena del Balcón representa la pureza radiante de la reanudación del verdadero amor; Romeo y Julieta se amaron desde una encarnación pasada justamente como amamos nuestro yo ideal a través de todas nuestras encarnaciones. La belleza inspiradora del drama - como poesía - representa el esplendor interno que acompaña al reconocimiento de nuestros ideales.
 
-EL REY LEAR: Este drama es la tragedia del juicio corrompido por la codicia de
-aprobación, doblemente trágico porque cuando se percibe la verdad, los negativos internos
-están demasiado gravados para que se puedan contrarrestar por el esfuerzo constructivo o
-regenerador. La comprensión de la hipocresía y deshonor de las dos hijas mayores a
-quienes él había valorado en exceso y la sinceridad y fidelidad de Cordelia, a quien él había
-subestimado y menospreciado, hicieron que Lear reaccionara con sumo autoaislamiento, el
-cual resultó en la demencia. Astrológicamente parecía que Lear era un retrato de “Júpiter
-afligido”. El basaba su estimación favorable de las hijas mayores en las protestas de ellas
-sobre la devoción y el afecto - indicativas que la sinceridad de la propia naturaleza de Lear
-era duplicada por la falsedad de sus hijas -. La codicia de ellas por las tierras, el dinero y
-maridos de elevada posición era duplicada por su codicia de aprobación. Nosotros podemos
-llorar - y lloramos- al presenciar la tragedia dolorosa del Rey demente en a excesiva
-repugnancia de sí mismo, porque nosotros también hemos sido conmovidos por el deseo y
-la codicia de reclamar lo falso y despreciar lo verdadero. La apreciación de tal evaluación
-mal dirigida, causa una de las desilusiones más terribles, aquella que puede desintegrar
-nuestro dominio propio si somos incapaces de aprender por la experiencia de la desilusión.
-Lear adoraba su propia falsa imagen, sincronizada hasta cierto grado por la falsedad de sus
-dos hijas. Puesto que nosotros podemos ser Lear, nos incumbe ejercitar oposición a los
-patrones negativos de Júpiter por medio del discernimiento, la sinceridad y el
-desprendimiento de los símbolos de credos y compensaciones subconscientes. Cordelia
-personifica la sinceridad de la evaluación propia - el completo conocimiento de lo que es
-verdadero y, real -. Cuando menospreciamos a Cordelia nos esclavizamos a imágenes falsas
-y traicioneras; cuando amamos y valuamos a Cordelia, rechazamos lo falso y nos
-adherimos a lo puro y verdadero.
+EL REY LEAR: Este drama es la tragedia del juicio corrompido por la codicia de aprobación, doblemente trágico porque cuando se percibe la verdad, los negativos internos están demasiado gravados para que se puedan contrarrestar por el esfuerzo constructivo o regenerador. La comprensión de la hipocresía y deshonor de las dos hijas mayores a quienes él había valorado en exceso y la sinceridad y fidelidad de Cordelia, a quien él había subestimado y menospreciado, hicieron que Lear reaccionara con sumo autoaislamiento, el cual resultó en la demencia. Astrológicamente parecía que Lear era un retrato de “Júpiter afligido”. El basaba su estimación favorable de las hijas mayores en las protestas de ellas sobre la devoción y el afecto - indicativas que la sinceridad de la propia naturaleza de Lear era duplicada por la falsedad de sus hijas -. La codicia de ellas por las tierras, el dinero y maridos de elevada posición era duplicada por su codicia de aprobación. Nosotros podemos llorar - y lloramos- al presenciar la tragedia dolorosa del Rey demente en a excesiva repugnancia de sí mismo, porque nosotros también hemos sido conmovidos por el deseo y la codicia de reclamar lo falso y despreciar lo verdadero. La apreciación de tal evaluación mal dirigida, causa una de las desilusiones más terribles, aquella que puede desintegrar nuestro dominio propio si somos incapaces de aprender por la experiencia de la desilusión. Lear adoraba su propia falsa imagen, sincronizada hasta cierto grado por la falsedad de sus dos hijas. Puesto que nosotros podemos ser Lear, nos incumbe ejercitar oposición a los patrones negativos de Júpiter por medio del discernimiento, la sinceridad y el desprendimiento de los símbolos de credos y compensaciones subconscientes. Cordelia personifica la sinceridad de la evaluación propia - el completo conocimiento de lo que es verdadero y, real -. Cuando menospreciamos a Cordelia nos esclavizamos a imágenes falsas y traicioneras; cuando amamos y valuamos a Cordelia, rechazamos lo falso y nos adherimos a lo puro y verdadero.
 
-OTELO: Este estudio dramático de la destructividad de los celos justifica alguna
-consideración psicológica. Nunca estamos - en el verdadero sentido de la palabra - celosos
-de otra persona. Los celos son odio a sí mismo basado en una inferioridad real o imaginaria,
-la cual a su vez, está basada en alguna fase de incumplimiento de una potencialidad o de
-algún aspecto descolorido de la evaluación propia. Otelo, si lo personalizamos un poco,
-puede haber sentido inferioridad debido a su piel negra particularmente en relación con
-Desdémona, su esposa blanca que lo amó verdaderamente. Yago simboliza la astucia y la
-doblez de la justificación propia, la aversión a ejercer la honestidad propia. El asesinato de
-Desdémona por Otelo simboliza el “asesinato que cometemos en la conciencia, cuando
-aguijoneados por racionalizaciones y justificaciones negativas intensas”, “asesinamos” la
-verdadera evaluación propia. Por el ejercicio de estas racionalizaciones negativas, le
-atribuimos la verdad a una mentira, y caminamos por sendero enredado hasta que caemos.
-Las cualidades de nobleza que Desdémona amaba en Otelo representan aquellas virtudes
-humanas que inspiran amor y honor; pero Otelo, cegado por el negativo interno no podía
-comprender y valorar la verdad de sí mismo. Yago, símbolo del odio de Otelo dentro de sí
-mismo recalcó la mentira - representando a Desdémona como si hubiera sido infiel -. Otelo,
-bajo la presión del negativo psicológico prefirió creer la mentira.
-Aguijoneado hasta la impaciencia por la presión interna, él asesinó aquello que más
-había amado - la verdad de su matrimonio con Desdémona -. Marte, como corregente de
-Escorpión, es la acción matadora destructiva por la cual expresamos nuestras liberaciones
-de los negativos intensamente comprimidos de Escorpión, los niveles y áreas de deseos
-irredimidos y de poderes emocionales. La salvación de Marte es la transmutación por
-medio de la expresión constructiva e inteligente en la acción. Otelo se traicionó dos veces:
-dando oídos a la sugestión de Yago y luego poniendo en acción lo que representaba su
-deseo de “matar” lo que éste lo indujo a creer. Un hombre noble, digno de amor y de honor,
-lo había botado todo, por el enfoque en su yo falso, en vez del enfoque en su Realidad.
-“Matamos” cuando ponemos en acción nuestra creencia en una mentira acerca de nosotros
-mismos. Un tema verdaderamente trágico.
+OTELO: Este estudio dramático de la destructividad de los celos justifica alguna consideración psicológica. Nunca estamos - en el verdadero sentido de la palabra - celosos de otra persona. Los celos son odio a sí mismo basado en una inferioridad real o imaginaria, la cual a su vez, está basada en alguna fase de incumplimiento de una potencialidad o de algún aspecto descolorido de la evaluación propia. Otelo, si lo personalizamos un poco, puede haber sentido inferioridad debido a su piel negra particularmente en relación con Desdémona, su esposa blanca que lo amó verdaderamente. Yago simboliza la astucia y la doblez de la justificación propia, la aversión a ejercer la honestidad propia. El asesinato de Desdémona por Otelo simboliza el “asesinato que cometemos en la conciencia, cuando aguijoneados por racionalizaciones y justificaciones negativas intensas”, “asesinamos” la verdadera evaluación propia. Por el ejercicio de estas racionalizaciones negativas, le atribuimos la verdad a una mentira, y caminamos por sendero enredado hasta que caemos. Las cualidades de nobleza que Desdémona amaba en Otelo representan aquellas virtudes humanas que inspiran amor y honor; pero Otelo, cegado por el negativo interno no podía comprender y valorar la verdad de sí mismo. Yago, símbolo del odio de Otelo dentro de sí mismo recalcó la mentira - representando a Desdémona como si hubiera sido infiel -. Otelo, bajo la presión del negativo psicológico prefirió creer la mentira. Aguijoneado hasta la impaciencia por la presión interna, él asesinó aquello que más había amado - la verdad de su matrimonio con Desdémona -. Marte, como corregente de Escorpión, es la acción matadora destructiva por la cual expresamos nuestras liberaciones de los negativos intensamente comprimidos de Escorpión, los niveles y áreas de deseos irredimidos y de poderes emocionales. La salvación de Marte es la transmutación por medio de la expresión constructiva e inteligente en la acción. Otelo se traicionó dos veces: dando oídos a la sugestión de Yago y luego poniendo en acción lo que representaba su deseo de “matar” lo que éste lo indujo a creer. Un hombre noble, digno de amor y de honor, lo había botado todo, por el enfoque en su yo falso, en vez del enfoque en su Realidad. “Matamos” cuando ponemos en acción nuestra creencia en una mentira acerca de nosotros mismos. Un tema verdaderamente trágico.
 
-CLEOPATRA: La muerte de Cleopatra por suicidio no neutraliza de modo alguno
-el poder de la obra Antonio y Cleopatra como un ejemplo de drama romántico superior.
-Cleopatra, como personaje femenino, simboliza la combinación de los elementos del Sol y
-Venus en la naturaleza humana. De acuerdo con la representación histórica y la de
-Shakespeare, ella estaba dotada perfectamente de atributos de belleza y encanto físicos, de
-inteligencia, cultura y pericia: una mujer tan consciente de los poderes internos que siempre
-vivió en términos de grandeza. Ella tenía una fortuna enorme - y la usaba sin restricción -.
-Tenía gran capacidad para el amor y se entregó al amor con realeza y plenitud. No importa
-cuáles fueran sus defectos, no había en su naturaleza nada vil, mezquino, sórdido y vulgar.
-Una gran actriz - tal como Katherine Cornell - hubiera proyectado estas cualidades del
-carácter y la personalidad en tal forma que el público hubiera experimentado una nueva
-electrización de su deseo y aspiración de “vivir pomposamente” - en términos de poder,
-riqueza, belleza, cultura, inteligencia y habilidad -. Antes que continuar viviendo bajo la
-ignorancia de la captura y la degradación, Cleopatra prefirió terminar su vida por sus
-propias manos, de ese modo simbolizó AQUELLO en la naturaleza humana que desea
-aprender a vivir en términos de dignidad y estimación propias. Algunos de nosotros nos
-arrastramos de cuando en cuando por el miedo o sentimientos de inferioridad; pero eso no
-nos gusta y tarde o temprano nos rebelamos contra el negativo interno. La “Cleopatra en
-nosotros” simboliza nuestro desdén hacia lo mezquino y vil; “ella” es aquello en nosotros
-que nos hace anhelar la experiencia vivida, afrontada y cumplida con valor y confianza en
-nuestras habilidades. Todos tenemos talentos, ambiciones, aspiraciones y anhelos; la
-vibración del Sol - como regente del signo real Leo - es lo que usamos como poder de
-propia determinación confundido por las degradaciones de los “sentimientos y
-pensamientos mezquinos”.
+CLEOPATRA: La muerte de Cleopatra por suicidio no neutraliza de modo alguno el poder de la obra Antonio y Cleopatra como un ejemplo de drama romántico superior. Cleopatra, como personaje femenino, simboliza la combinación de los elementos del Sol y Venus en la naturaleza humana. De acuerdo con la representación histórica y la de Shakespeare, ella estaba dotada perfectamente de atributos de belleza y encanto físicos, de inteligencia, cultura y pericia: una mujer tan consciente de los poderes internos que siempre vivió en términos de grandeza. Ella tenía una fortuna enorme - y la usaba sin restricción -. Tenía gran capacidad para el amor y se entregó al amor con realeza y plenitud. No importa cuáles fueran sus defectos, no había en su naturaleza nada vil, mezquino, sórdido y vulgar. Una gran actriz - tal como Katherine Cornell - hubiera proyectado estas cualidades del carácter y la personalidad en tal forma que el público hubiera experimentado una nueva electrización de su deseo y aspiración de “vivir pomposamente” - en términos de poder, riqueza, belleza, cultura, inteligencia y habilidad -. Antes que continuar viviendo bajo la ignorancia de la captura y la degradación, Cleopatra prefirió terminar su vida por sus propias manos, de ese modo simbolizó AQUELLO en la naturaleza humana que desea aprender a vivir en términos de dignidad y estimación propias. Algunos de nosotros nos arrastramos de cuando en cuando por el miedo o sentimientos de inferioridad; pero eso no nos gusta y tarde o temprano nos rebelamos contra el negativo interno. La “Cleopatra en nosotros” simboliza nuestro desdén hacia lo mezquino y vil; “ella” es aquello en nosotros que nos hace anhelar la experiencia vivida, afrontada y cumplida con valor y confianza en nuestras habilidades. Todos tenemos talentos, ambiciones, aspiraciones y anhelos; la vibración del Sol - como regente del signo real Leo - es lo que usamos como poder de propia determinación confundido por las degradaciones de los “sentimientos y pensamientos mezquinos”.
 
-BEATRIZ Y BENEDICTO: Mucho Ruido y Pocas Nueces es una de las comedias
-más agradables y exquisitas. Presenta de modo vivo y brillante la “vieja historia de la
-batalla entre los sexos” - fuente de gran parte de lo que ha sido representado en el drama
-cómico a través de los siglos -. Las posturas, ardides e invenciones, que los hombres y las
-mujeres despliegan en su relación mutua son representadas por la vuelta hacia la izquierda
-del diámetro horizontal - Aries-Libra del Gran Mándala -. Estos dos signos representan la
-polarización de la individualidad expresiva de la humanidad - como “varón” y como
-“hembra” -. Cada uno de estos dos signos de este diámetro simboliza facetas de la
-personalidad que son peculiares a la masculinidad y a la feminidad; pero juntas forman un
-diámetro; aparecen como si fueran “diferentes” pero cada una duplica la otra. El drama
-Cósmico, en relación con este asunto, nos hace posible llegar a una apreciación más
-provechosa sobre nuestra polaridad subjetiva a través de la risa. Los humanos somos
-bipolares innatos - todos hemos tenido mucha experiencia en el sexo opuesto al que
-expresamos ahora -. Cuando reconocemos que el “sexo opuesto” es simplemente nuestro
-“yo subjetivo” podemos gozar y apreciar nuestro “yo oculto” tal como somos representados
-en el escenario cómico. Con la risa relajamos sentimientos subconscientes de tensión y
-cuando reímos a carcajadas, rugimos y chillamos ante las travesuras de los actores y
-actrices cómicas que interpretan la acción recíproca - a veces ridícula, de los hombres y las
-mujeres en su relación mutua - refrescamos nuestro punto de vista hacia la polaridad
-humana. Beatriz y Benedicto son los protagonistas de la Humanidad destinados a
-enamorarse y tener experiencias juntos - haciendo caso omiso de prejuicios tontos, falsa
-estimación propia e “imágenes de aversión” -. La vida trabaja continuamente inclinándose
-el uno hacia el otro para nuestro desarrollo y cumplimiento mutuos de potencialidades
-simbolizadas por Aries-Libra. Benedicto es el Marte que ve en Beatriz el encanto y el amor
-de Venus; Beatriz es la Venus que necesita el “beso de Marte” que la despierte a la clara
-apreciación de su valor como mujer. En cada uno de nosotros hay algo de Benedicto y
-Beatriz - podemos reñir y pelear por un tiempo, pero tarde o temprano Benedicto-Marte y
-Beatriz-Venus llevan el drama - de nuestra experiencia de relación - a un final dichoso por
-medio de su unión.
+BEATRIZ Y BENEDICTO: Mucho Ruido y Pocas Nueces es una de las comedias más agradables y exquisitas. Presenta de modo vivo y brillante la “vieja historia de la batalla entre los sexos” - fuente de gran parte de lo que ha sido representado en el drama cómico a través de los siglos -. Las posturas, ardides e invenciones, que los hombres y las mujeres despliegan en su relación mutua son representadas por la vuelta hacia la izquierda del diámetro horizontal - Aries-Libra del Gran Mándala -. Estos dos signos representan la polarización de la individualidad expresiva de la humanidad - como “varón” y como “hembra” -. Cada uno de estos dos signos de este diámetro simboliza facetas de la personalidad que son peculiares a la masculinidad y a la feminidad; pero juntas forman un diámetro; aparecen como si fueran “diferentes” pero cada una duplica la otra. El drama Cósmico, en relación con este asunto, nos hace posible llegar a una apreciación más provechosa sobre nuestra polaridad subjetiva a través de la risa. Los humanos somos bipolares innatos - todos hemos tenido mucha experiencia en el sexo opuesto al que expresamos ahora -. Cuando reconocemos que el “sexo opuesto” es simplemente nuestro “yo subjetivo” podemos gozar y apreciar nuestro “yo oculto” tal como somos representados en el escenario cómico. Con la risa relajamos sentimientos subconscientes de tensión y cuando reímos a carcajadas, rugimos y chillamos ante las travesuras de los actores y actrices cómicas que interpretan la acción recíproca - a veces ridícula, de los hombres y las mujeres en su relación mutua - refrescamos nuestro punto de vista hacia la polaridad humana. Beatriz y Benedicto son los protagonistas de la Humanidad destinados a enamorarse y tener experiencias juntos - haciendo caso omiso de prejuicios tontos, falsa estimación propia e “imágenes de aversión” -. La vida trabaja continuamente inclinándose el uno hacia el otro para nuestro desarrollo y cumplimiento mutuos de potencialidades simbolizadas por Aries-Libra. Benedicto es el Marte que ve en Beatriz el encanto y el amor de Venus; Beatriz es la Venus que necesita el “beso de Marte” que la despierte a la clara apreciación de su valor como mujer. En cada uno de nosotros hay algo de Benedicto y Beatriz - podemos reñir y pelear por un tiempo, pero tarde o temprano Benedicto-Marte y Beatriz-Venus llevan el drama - de nuestra experiencia de relación - a un final dichoso por medio de su unión.
 
 ### <h3 id="chapter-7">Capítulo VII: La Facultad de la Intuición</h3>
 
-La Intuición: Nuestro alado sentido interno, el poder perceptivo mágico por el cual
-un ser humano después de innumerables vidas de regeneración, purificación y
-simplificación conscientes, es capaz de efectuar una realización instantánea del hecho o
-ley espiritual inherente a cualquier expresión de fenómenos, experiencia o relación. La
-presencia de este poder perceptivo o facultad en la conciencia de un ser humano es
-evidencia de su dedicada prosecución de la verdad y el esfuerzo dedicado de espiritualizar
-su autonomía (regencia de sí mismo) a través del Amor.
+La Intuición: Nuestro alado sentido interno, el poder perceptivo mágico por el cual un ser humano después de innumerables vidas de regeneración, purificación y simplificación conscientes, es capaz de efectuar una realización instantánea del hecho o ley espiritual inherente a cualquier expresión de fenómenos, experiencia o relación. La presencia de este poder perceptivo o facultad en la conciencia de un ser humano es evidencia de su dedicada prosecución de la verdad y el esfuerzo dedicado de espiritualizar su autonomía (regencia de sí mismo) a través del Amor.
 
-Han aparecido en muchos lugares a través de la historia humana, Egos que han
-desarrollado esta facultad; pero están encarnando ahora en mayor número que antes. Estas
-personas, representan hasta cierto punto, la vanguardia en la preparación evolutiva para la
-Nueva Era; ellos traen de sus evoluciones en pasadas vidas la evidencia de la potencialidad
-de la Intuición que poseen todos los seres humanos y que eventualmente éstos desarrollarán
-y expresarán. La presente expansión en la exploración e invención científicas exterioriza
-este “advenimiento de la Nueva Era porque la habilidad humana de inventar mecanismos e
-instrumentos está basada en la percepción intuitiva de principios. Considere por un
-momento ese mecanismo que con mayor perfección exterioriza la facultad intuitiva: el
-calculador electrónico. Este mecanismo produce, casi instantáneamente, la solución exacta
-de combinaciones y problemas matemáticos tan complicados que para resolverlos les
-requiere horas a las personas debidamente entrenadas. Reconozca, por correspondencia,
-que la intuición humana en acción está basada en el mismo poder de sintetizar exactamente
-la percepción que es exteriorizada por esta máquina fabulosa.
+Han aparecido en muchos lugares a través de la historia humana, Egos que han desarrollado esta facultad; pero están encarnando ahora en mayor número que antes. Estas personas, representan hasta cierto punto, la vanguardia en la preparación evolutiva para la Nueva Era; ellos traen de sus evoluciones en pasadas vidas la evidencia de la potencialidad de la Intuición que poseen todos los seres humanos y que eventualmente éstos desarrollarán y expresarán. La presente expansión en la exploración e invención científicas exterioriza este “advenimiento de la Nueva Era porque la habilidad humana de inventar mecanismos e instrumentos está basada en la percepción intuitiva de principios. Considere por un momento ese mecanismo que con mayor perfección exterioriza la facultad intuitiva: el calculador electrónico. Este mecanismo produce, casi instantáneamente, la solución exacta de combinaciones y problemas matemáticos tan complicados que para resolverlos les requiere horas a las personas debidamente entrenadas. Reconozca, por correspondencia, que la intuición humana en acción está basada en el mismo poder de sintetizar exactamente la percepción que es exteriorizada por esta máquina fabulosa.
 
-La palabra “intuición” se deriva directamente de dos raíces del latín que juntas
-significan inspeccionar atentamente. Por la acción sincronizada de nuestros dos ojos - la
-expresión física polarizada de la percepción visual - miramos las cosas. Aún el estudio de
-una radiografía revela solamente el aspecto de lo físico que está bajo la superficie exterior.
-Es por medio de la acción del ojo único de la percepción verídica, exteriorizada en lo
-físico por la glándula pituitaria, que nosotros percibimos intuitivamente aquello que está
-dentro de lo físico, aquello de lo cual procede lo físico. Todo mecanismo simple que haya
-sido inventado por los humanos representa la exteriorización de la percepción intuitiva de
-un principio del cosmos. Piense sobre el genio poseído por el ser humano que por primera
-vez percibió intuitivamente el principio de la rueda y reprodujo ese principio en forma
-física; o el principio del bote, el uso del fuego, el principio del radio o del cinematógrafo.
-Todos estos inventos, desde el más simple hasta el más complejo fueron percibidos como
-la aplicación de principios cósmicos a la forma, y la percepción en cada caso, fue
-experimentada internamente como funcionamiento intuitivo. Se ha dicho con certeza, que
-un ser humano no puede inventar un aparato o mecanismo cuyo principio no tenga
-correspondencia con una facultad, real o potencial del ser humano. Lo inverso puede
-decirse: el poder interno de los humanos puede descubrir formas y medios de exteriorizar
-todos los principios del cosmos, que tengan correspondencia con las potencialidades del
-ser humano. El viejo proverbio mantiene su certeza: no hay nada nuevo bajo el Sol; sólo
-existen maneras diferentes de exteriorizar lo que es percibido “bajo el Sol” y la percepción
-es siempre algún grado de acción intuitiva. Sólo las facultades más elevadas hacen posible
-la percepción de lo que es “nuevo”, y de todas éstas, la Intuición es la que más directamente
-da evidencia de la “regeneración del yo por el Yo”. 
+La palabra “intuición” se deriva directamente de dos raíces del latín que juntas significan inspeccionar atentamente. Por la acción sincronizada de nuestros dos ojos - la expresión física polarizada de la percepción visual - miramos las cosas. Aún el estudio de una radiografía revela solamente el aspecto de lo físico que está bajo la superficie exterior. Es por medio de la acción del ojo único de la percepción verídica, exteriorizada en lo físico por la glándula pituitaria, que nosotros percibimos intuitivamente aquello que está dentro de lo físico, aquello de lo cual procede lo físico. Todo mecanismo simple que haya sido inventado por los humanos representa la exteriorización de la percepción intuitiva de un principio del cosmos. Piense sobre el genio poseído por el ser humano que por primera vez percibió intuitivamente el principio de la rueda y reprodujo ese principio en forma física; o el principio del bote, el uso del fuego, el principio del radio o del cinematógrafo. Todos estos inventos, desde el más simple hasta el más complejo fueron percibidos como la aplicación de principios cósmicos a la forma, y la percepción en cada caso, fue experimentada internamente como funcionamiento intuitivo. Se ha dicho con certeza, que un ser humano no puede inventar un aparato o mecanismo cuyo principio no tenga correspondencia con una facultad, real o potencial del ser humano. Lo inverso puede decirse: el poder interno de los humanos puede descubrir formas y medios de exteriorizar todos los principios del cosmos, que tengan correspondencia con las potencialidades del ser humano. El viejo proverbio mantiene su certeza: no hay nada nuevo bajo el Sol; sólo existen maneras diferentes de exteriorizar lo que es percibido “bajo el Sol” y la percepción es siempre algún grado de acción intuitiva. Sólo las facultades más elevadas hacen posible la percepción de lo que es “nuevo”, y de todas éstas, la Intuición es la que más directamente da evidencia de la “regeneración del yo por el Yo”. 
 
-Una de las correlaciones de más
-perfecta pureza que se pueden hallar en todo el campo de la Astro-filosofía es la correlación
-de la facultad de la Intuición con el planeta Urano. Existe completa correspondencia en
-todos los puntos de esta doble identificación. Urano es el principio liberador en el cosmos.
-La Intuición es la facultad más liberada del Ego. Urano es el principio de la síntesis; la
-facultad de la Intuición provee al Ego de la percepción sintética más completa de las cosas
-bajo consideración; Urano simboliza la pureza del amor impersonal; la Intuición es ese
-poder puro del Ego cuando está completamente libre de las predisposiciones del prejuicio -
-la aprobación y desaprobación personales; Urano, en el reino de la conciencia genérica
-simboliza el balance polárico básico perfecto del verdadero andrógino (hombre-mujer) -.
-La Intuición es el poder del Ego de sacar de los recursos profundamente escondidos del
-conocimiento y la comprensión derivados de muchas encarnaciones pasadas como varón
-y como hembra; Urano, como regente de Acuario, simboliza la apoteosis de la conciencia
-de fraternidad; la Intuición hace posible al ser humano percibir verídicamente las
-semejanzas y correspondencias entre sus propias experiencias y las de otro ser humano;
-Urano simboliza la apercepción libre y liberadora del Amor; la Intuición es la apercepción
-libre y liberadora de la verdad inherente a cualquier fase de fenómenos o de experiencia.
-De todos los planetas en nuestro sistema solar, Urano representa la tendencia de actuar o de
-afectar con la prontitud máxima - la trascendencia de las limitaciones del tiempo; la
-Intuición actúa con una rapidez que es designada como “fuera del tiempo” - cuando surge
-en la conciencia para cumplir las demandas de la atención dirigida, “sencillamente ocurre y
-no hay palabras en nuestro lenguaje que puedan describir lo “instantáneo” de su acción.
-Sólo la experiencia en sí misma puede servir para “describirla”. La Intuición, como
-espiritualización del amor unida al poder aperceptivo de la mente, puede revelar todas las
-cosas, del mismo modo que el Amor realiza todas las cosas.
+Una de las correlaciones de más perfecta pureza que se pueden hallar en todo el campo de la Astro-filosofía es la correlación de la facultad de la Intuición con el planeta Urano. Existe completa correspondencia en todos los puntos de esta doble identificación. Urano es el principio liberador en el cosmos. La Intuición es la facultad más liberada del Ego. Urano es el principio de la síntesis; la facultad de la Intuición provee al Ego de la percepción sintética más completa de las cosas bajo consideración; Urano simboliza la pureza del amor impersonal; la Intuición es ese poder puro del Ego cuando está completamente libre de las predisposiciones del prejuicio - la aprobación y desaprobación personales; Urano, en el reino de la conciencia genérica simboliza el balance polárico básico perfecto del verdadero andrógino (hombre-mujer) -. La Intuición es el poder del Ego de sacar de los recursos profundamente escondidos del conocimiento y la comprensión derivados de muchas encarnaciones pasadas como varón y como hembra; Urano, como regente de Acuario, simboliza la apoteosis de la conciencia de fraternidad; la Intuición hace posible al ser humano percibir verídicamente las semejanzas y correspondencias entre sus propias experiencias y las de otro ser humano; Urano simboliza la apercepción libre y liberadora del Amor; la Intuición es la apercepción libre y liberadora de la verdad inherente a cualquier fase de fenómenos o de experiencia. De todos los planetas en nuestro sistema solar, Urano representa la tendencia de actuar o de afectar con la prontitud máxima - la trascendencia de las limitaciones del tiempo; la Intuición actúa con una rapidez que es designada como “fuera del tiempo” - cuando surge en la conciencia para cumplir las demandas de la atención dirigida, “sencillamente ocurre y no hay palabras en nuestro lenguaje que puedan describir lo “instantáneo” de su acción. Sólo la experiencia en sí misma puede servir para “describirla”. La Intuición, como espiritualización del amor unida al poder aperceptivo de la mente, puede revelar todas las cosas, del mismo modo que el Amor realiza todas las cosas.
 
-El estudio de un horóscopo natal con respecto a la determinación del poder o la
-inclinación intuitiva debe incluir una correlación de Urano, el símbolo de esta facultad
-misma, con los equivalentes mentales de otros planetas en términos de patrones de aspecto
-y el dispositor. Todos los puntos planetarios tienen equivalentes mentales, tal como tienen
-equivalentes físicos, astrales y espirituales; cada punto planetario designa cierta “manera de
-pensar” porque cada uno pinta variedades de cosas sobre las cuales se puede enfocar la
-atención mental de un ser humano ya sea sobre un objeto en el mundo material, una
-persona, un ambiente, un evento, o una relación.
+El estudio de un horóscopo natal con respecto a la determinación del poder o la inclinación intuitiva debe incluir una correlación de Urano, el símbolo de esta facultad misma, con los equivalentes mentales de otros planetas en términos de patrones de aspecto y el dispositor. Todos los puntos planetarios tienen equivalentes mentales, tal como tienen equivalentes físicos, astrales y espirituales; cada punto planetario designa cierta “manera de pensar” porque cada uno pinta variedades de cosas sobre las cuales se puede enfocar la atención mental de un ser humano ya sea sobre un objeto en el mundo material, una persona, un ambiente, un evento, o una relación.
 
-De los otros nueve puntos planetarios, tres son específicamente representativos de
-facultades mentales. Puede sobreentenderse que, en términos de equivalentes mentales, los
-otros seis representan atributos mentales. Los tres “planetas de facultades mentales” son la
-Luna, Mercurio y Neptuno. La Luna simboliza la mente instintiva, el depósito de memorias
-de vidas pasadas, el mecanismo de producción de la facultad mental. Mercurio simboliza
-la mente consciente, la correlación entre el cerebro y las percepciones sensoriales por
-medio de las cuales el humano obtiene información del mundo externo, el poder mental de
-identificar específicamente, de computar, de analizar, de estudiar y de comunicar por medio
-de la palabra y la escritura. Neptuno simboliza la facultad de la mente inspiradora; es el
-principio mental especial que caracteriza al artista creador y al interpretador; es la facultad
-mental sutil por la cual un ser humano recibe y percibe la comunicación de los Planos
-Superiores. Estos tres planetas pueden ser considerados como la tríada mental que
-caracteriza la acción comunicativa: la Luna, como mente instintiva, comunica los secretos
-del pasado a la conciencia del presente por la producción de efectos que corresponden a
-las memorias almacenadas; Mercurio, corno la mente consciente, comunica los secretos
-del mundo externo a la conciencia mental de la persona y representa la comunicación
-mutua entre personas; Neptuno, como el símbolo de la mente inspiradora, es la facultad
-mental que identifica la canalización entre lo relativamente superior y lo relativamente
-inferior.
+De los otros nueve puntos planetarios, tres son específicamente representativos de facultades mentales. Puede sobreentenderse que, en términos de equivalentes mentales, los otros seis representan atributos mentales. Los tres “planetas de facultades mentales” son la Luna, Mercurio y Neptuno. La Luna simboliza la mente instintiva, el depósito de memorias de vidas pasadas, el mecanismo de producción de la facultad mental. Mercurio simboliza la mente consciente, la correlación entre el cerebro y las percepciones sensoriales por medio de las cuales el humano obtiene información del mundo externo, el poder mental de identificar específicamente, de computar, de analizar, de estudiar y de comunicar por medio de la palabra y la escritura. Neptuno simboliza la facultad de la mente inspiradora; es el principio mental especial que caracteriza al artista creador y al interpretador; es la facultad mental sutil por la cual un ser humano recibe y percibe la comunicación de los Planos Superiores. Estos tres planetas pueden ser considerados como la tríada mental que caracteriza la acción comunicativa: la Luna, como mente instintiva, comunica los secretos del pasado a la conciencia del presente por la producción de efectos que corresponden a las memorias almacenadas; Mercurio, corno la mente consciente, comunica los secretos del mundo externo a la conciencia mental de la persona y representa la comunicación mutua entre personas; Neptuno, como el símbolo de la mente inspiradora, es la facultad mental que identifica la canalización entre lo relativamente superior y lo relativamente inferior.
 
-En referencia a los aspectos trinos como representantes de la realización relativa del
-desarrollo intuitivo, la Luna en trino con Urano identifica la conciencia intuitiva de
-necesidades y su cumplimiento; la conciencia de cómo fomentar el progreso de grupos
-humanos, la conciencia de la “nueva era”, de los principios de la vida doméstica, la
-provisión y la protección; más que ningún otro aspecto aislado, la Luna en trino a Urano es
-la insignia de la “emancipación de las mujeres”, la liberación de la conciencia colectiva, de
-la ignorancia, del prejuicio y la dureza, la reforma electrizante de la conciencia personal
-instintiva por la apercepción interna.
+En referencia a los aspectos trinos como representantes de la realización relativa del desarrollo intuitivo, la Luna en trino con Urano identifica la conciencia intuitiva de necesidades y su cumplimiento; la conciencia de cómo fomentar el progreso de grupos humanos, la conciencia de la “nueva era”, de los principios de la vida doméstica, la provisión y la protección; más que ningún otro aspecto aislado, la Luna en trino a Urano es la insignia de la “emancipación de las mujeres”, la liberación de la conciencia colectiva, de la ignorancia, del prejuicio y la dureza, la reforma electrizante de la conciencia personal instintiva por la apercepción interna.
 
-Mercurio en trino a Urano identifica más que ningún otro aspecto, el conocimiento
-intuitivo del genio científico; él es la base en el cuerpo mental de aquello que hace posible
-todo descubrimiento e invención. Los niños con este aspecto revelan frecuentemente una
-gran habilidad en sus estudios escolares. Esto es evidencia de conocimiento especializado
-traído de estudios e investigaciones hechas en vidas pasadas. Estas personas han ejercitado
-una gran independencia de espíritu en sus dedicaciones intelectuales del pasado. A menudo
-revelan una gran habilidad para los idiomas extranjeros, en cuyo caso se muestra la
-evidencia que en sus estudios actuales ellos están recapitulando realmente – “trayendo a la
-superficie” - gran conocimiento de lenguajes obtenidos en el pasado.
+Mercurio en trino a Urano identifica más que ningún otro aspecto, el conocimiento intuitivo del genio científico; él es la base en el cuerpo mental de aquello que hace posible todo descubrimiento e invención. Los niños con este aspecto revelan frecuentemente una gran habilidad en sus estudios escolares. Esto es evidencia de conocimiento especializado traído de estudios e investigaciones hechas en vidas pasadas. Estas personas han ejercitado una gran independencia de espíritu en sus dedicaciones intelectuales del pasado. A menudo revelan una gran habilidad para los idiomas extranjeros, en cuyo caso se muestra la evidencia que en sus estudios actuales ellos están recapitulando realmente – “trayendo a la superficie” - gran conocimiento de lenguajes obtenidos en el pasado.
 
-Los aspectos de Urano-Neptuno deben ser evaluados por la correlación de todo el
-mapa; estos aspectos son de naturaleza cíclica o de épocas y sólo mediante el análisis y
-síntesis cuidadosos de las tendencias básicas del mapa en conjunto puede determinarse el
-predominio de las habilidades intuitivas e inspiradoras. Todos los humanos que vienen con
-el aspecto de Urano trino a Neptuno, comprenden una ola de vida que está en sentido
-general más armonizada con los efectos de las fuerzas superiores. Ellos representan, como
-un grupo universal, un énfasis cíclico de conciencia relativamente progresiva y
-espiritualizadora. Los de evolución más elevada - sin tomar en cuenta el momento histórico
-de la encarnación - aportan una gran contribución al progreso de la raza por medio de sus
-poderes reveladores e inspiradores. Aquellos altamente evolucionados que vienen cuando
-Urano está en cuadratura o en oposición con Neptuno son transponedores evolutivos y su
-momento de encarnación los trae cuando la raza necesita la disolución de lo que está
-pasado de moda y cristalizado. Estos momentos están caracterizados siempre por
-condiciones de cataclismos, revoluciones, tensiones y conflictos terribles; pero el factor
-Uraniano de las personas altamente evolucionadas las identifica como “trabajadoras para el
-futuro”. Ellas tienen la apercepción de lo que ha de ser y cómo poseen iluminación
-intuitiva, trabajan para iniciar aquellos pasos, métodos y procedimientos que han de resultar
-en las nuevas manifestaciones que caracterizan al futuro.
+Los aspectos de Urano-Neptuno deben ser evaluados por la correlación de todo el mapa; estos aspectos son de naturaleza cíclica o de épocas y sólo mediante el análisis y síntesis cuidadosos de las tendencias básicas del mapa en conjunto puede determinarse el predominio de las habilidades intuitivas e inspiradoras. Todos los humanos que vienen con el aspecto de Urano trino a Neptuno, comprenden una ola de vida que está en sentido general más armonizada con los efectos de las fuerzas superiores. Ellos representan, como un grupo universal, un énfasis cíclico de conciencia relativamente progresiva y espiritualizadora. Los de evolución más elevada - sin tomar en cuenta el momento histórico de la encarnación - aportan una gran contribución al progreso de la raza por medio de sus poderes reveladores e inspiradores. Aquellos altamente evolucionados que vienen cuando Urano está en cuadratura o en oposición con Neptuno son transponedores evolutivos y su momento de encarnación los trae cuando la raza necesita la disolución de lo que está pasado de moda y cristalizado. Estos momentos están caracterizados siempre por condiciones de cataclismos, revoluciones, tensiones y conflictos terribles; pero el factor Uraniano de las personas altamente evolucionadas las identifica como “trabajadoras para el futuro”. Ellas tienen la apercepción de lo que ha de ser y cómo poseen iluminación intuitiva, trabajan para iniciar aquellos pasos, métodos y procedimientos que han de resultar en las nuevas manifestaciones que caracterizan al futuro.
 
-Hay otros tres planetas que, cuando son correlacionados con Urano, representan
-características intuitivas marcadas: Júpiter, Saturno y Venus. Urano correlacionado con
-Júpiter o con la influencia de la novena casa da un alto grado de genio artístico
-interpretador, es intuitivo e imaginativo, cualidades espirituales poseídas por el Gurú, el
-Maestro, el Intérprete de la ley espiritual y en sumo grado, el Sanador. Urano trino a Júpiter
-da evidencia de un desarrollo superior de la mente abstracta, la apercepción intuitiva del
-simbolismo y el principio. Urano-Saturno identifica la clariaudiencia y aquella cualidad de
-la intuición que hace posible las reformas necesarias en la vida social, política y financiera
-de la humanidad. Urano-Venus, una de las insignias del genio artístico creador o
-interpretador, es la apercepción intuitiva dirigida particularmente hacia la comprensión de
-la relación; Urano trino a Venus da evidencia del poder de percibir los valores impersonales
-de la relación y la habilidad de responder a una cualidad muy elevada de afinidad espiritual
-en la relación; es una de las insignias, tal vez la insignia principal, del “amor biuno” o
-“bodas del alma”.
+Hay otros tres planetas que, cuando son correlacionados con Urano, representan características intuitivas marcadas: Júpiter, Saturno y Venus. Urano correlacionado con Júpiter o con la influencia de la novena casa da un alto grado de genio artístico interpretador, es intuitivo e imaginativo, cualidades espirituales poseídas por el Gurú, el Maestro, el Intérprete de la ley espiritual y en sumo grado, el Sanador. Urano trino a Júpiter da evidencia de un desarrollo superior de la mente abstracta, la apercepción intuitiva del simbolismo y el principio. Urano-Saturno identifica la clariaudiencia y aquella cualidad de la intuición que hace posible las reformas necesarias en la vida social, política y financiera de la humanidad. Urano-Venus, una de las insignias del genio artístico creador o interpretador, es la apercepción intuitiva dirigida particularmente hacia la comprensión de la relación; Urano trino a Venus da evidencia del poder de percibir los valores impersonales de la relación y la habilidad de responder a una cualidad muy elevada de afinidad espiritual en la relación; es una de las insignias, tal vez la insignia principal, del “amor biuno” o “bodas del alma”.
 
-Considerando a Marte como el corregente de Escorpión - acción que libera los
-recursos Escorpiónicos del poder del deseo - podemos considerar el aspecto de Urano trino
-a Marte primordialmente como una evidencia de gran capacidad para la acción por la cual
-las tendencias intuitivas son dirigidas para emprender una obra. Marte “piensa” en
-términos de “cómo, qué, dónde y cuándo puedo yo obrar”; por lo tanto, Urano trino a
-Marte, se sobreentiende que representa una percepción intuitiva de recta acción. Si se
-considera a Plutón como regente planetario de Escorpión, entonces Urano trino a Plutón
-indica la facultad intuitiva “respaldada” por un recurso enorme de .poder del deseo y de
-fuerza emocional. Este aspecto podría tomarse como una “insignia planetaria” de un mago -
-negro o blanco -. En el mapa de un ser humano altamente evolucionado, de propensión
-espiritual, Urano trino a Plutón podría representar a uno cuyo poder reformador es
-tremendo, refiriéndose a su propia regeneración personal y al poder que pueda dirigir hacia
-la regeneración o transformación de otro individuo o de la sociedad en conjunto. Este
-aspecto exteriorizado podría considerarse como la explosión de la primera bomba atómica,
-abriendo una nueva era en la experiencia humana referente al conocimiento y uso de
-octavas de poder percibidas recientemente.
+Considerando a Marte como el corregente de Escorpión - acción que libera los recursos Escorpiónicos del poder del deseo - podemos considerar el aspecto de Urano trino a Marte primordialmente como una evidencia de gran capacidad para la acción por la cual las tendencias intuitivas son dirigidas para emprender una obra. Marte “piensa” en términos de “cómo, qué, dónde y cuándo puedo yo obrar”; por lo tanto, Urano trino a Marte, se sobreentiende que representa una percepción intuitiva de recta acción. Si se considera a Plutón como regente planetario de Escorpión, entonces Urano trino a Plutón indica la facultad intuitiva “respaldada” por un recurso enorme de .poder del deseo y de fuerza emocional. Este aspecto podría tomarse como una “insignia planetaria” de un mago - negro o blanco -. En el mapa de un ser humano altamente evolucionado, de propensión espiritual, Urano trino a Plutón podría representar a uno cuyo poder reformador es tremendo, refiriéndose a su propia regeneración personal y al poder que pueda dirigir hacia la regeneración o transformación de otro individuo o de la sociedad en conjunto. Este aspecto exteriorizado podría considerarse como la explosión de la primera bomba atómica, abriendo una nueva era en la experiencia humana referente al conocimiento y uso de octavas de poder percibidas recientemente.
 
-Daremos consideración especial respecto a Urano y el Sol porque el Gran Mándala
-Astrológico (la rueda de doce casas, Aries Ascendente, los planetas en los signos y casas de
-su dignidad) nos da la clave para la raíz evolutiva y esencial y la significación espiritual de
-la facultad de la intuición, como una potencialidad poseída por todos los humanos. El Gran
-Mándala Astrológico es la significación astrológica abstracta de la humanidad terrestre y
-cualquier punto de facultad o experiencia que los humanos tengan en común puede ser
-estudiado por este diseño. Haga una copia del Gran Mándala Astrológico, intensifique el
-diámetro Leo-Acuario y trace líneas rectas conectando las cúspides de Leo-Aries y
-Acuario-Escorpión.
+Daremos consideración especial respecto a Urano y el Sol porque el Gran Mándala Astrológico (la rueda de doce casas, Aries Ascendente, los planetas en los signos y casas de su dignidad) nos da la clave para la raíz evolutiva y esencial y la significación espiritual de la facultad de la intuición, como una potencialidad poseída por todos los humanos. El Gran Mándala Astrológico es la significación astrológica abstracta de la humanidad terrestre y cualquier punto de facultad o experiencia que los humanos tengan en común puede ser estudiado por este diseño. Haga una copia del Gran Mándala Astrológico, intensifique el diámetro Leo-Acuario y trace líneas rectas conectando las cúspides de Leo-Aries y Acuario-Escorpión.
 
-Ningún signo del zodíaco puede comprenderse completamente sin una
-consideración de su signo opuesto, así como dos seres humanos de sexo opuesto se
-percatan de su polaridad subjetiva por la relación íntima en una fuerte atracción magnética
-Para “conocer a Acuario” tenemos que “conocer también a Leo”, el signo de fuego
-regido por el Sol, símbolo de la voluntad, el propósito, la irradiación y la autonomía
-individual. Si el Sol es la irradiación del amor, Urano es la cualidad liberadora,
-transformadora de la irradiación del amor, si el Sol es el poder de la Mente, Urano es la
-forma del individualismo por la cual ha sido desarrollada la independencia del
-pensamiento; si el Sol es la potencialidad de la Maestría, Urano es la potencialidad
-realizada en y a través de todas las relaciones por el incremento de espiritualización y
-regeneración de la naturaleza emocional. Acuario, como amor espiritualizado, polariza y
-“redime” el amor egotista de Leo no evolucionado. Acuario a través de Urano, su regente,
-como intuición, polariza y redime la mente “concentrada en sí mismo” de Leo
-rudimentario. Cuando el sol y Urano son considerados en sus exaltaciones - Aries y
-Escorpión respectivamente - vemos la apoteosis simbólica del humano como un Hijo de
-Dios y la potencialidad del ser humano de realizar su identidad espiritual a través de la
-regeneración interna, la “magia divina”, la “alquimia creadora”, la transmutación por
-medio de la cual la escoria del Ego personal es transformada en la Luz Blanca del Ser
-Espiritual. La prosecución inequívoca de la Verdad, la disciplina y refinamiento
-autodirigidos de las facultades emocionales y mentales, la expansión del poder del Amor a
-través de la impersonalización y la realización más y más clara de la identidad espiritual
-verdadera son los pasos por los cuales el Poder Maestro de la Intuición es enfocado,
-evolucionado y perfeccionado en la conciencia humana. El astrólogo mira los símbolos y
-números de un horóscopo, pero él mira intuitivamente en el mapa para aprender las
-verdades de la conciencia del nativo. El estudio astrológico para el uso servicial y la
-iluminación humana es una de las formas principales por medio de la cual la Facultad de la
-Intuición es desarrollada en el ser humano.
+Ningún signo del zodíaco puede comprenderse completamente sin una consideración de su signo opuesto, así como dos seres humanos de sexo opuesto se percatan de su polaridad subjetiva por la relación íntima en una fuerte atracción magnética Para “conocer a Acuario” tenemos que “conocer también a Leo”, el signo de fuego regido por el Sol, símbolo de la voluntad, el propósito, la irradiación y la autonomía individual. Si el Sol es la irradiación del amor, Urano es la cualidad liberadora, transformadora de la irradiación del amor, si el Sol es el poder de la Mente, Urano es la forma del individualismo por la cual ha sido desarrollada la independencia del pensamiento; si el Sol es la potencialidad de la Maestría, Urano es la potencialidad realizada en y a través de todas las relaciones por el incremento de espiritualización y regeneración de la naturaleza emocional. Acuario, como amor espiritualizado, polariza y “redime” el amor egotista de Leo no evolucionado. Acuario a través de Urano, su regente, como intuición, polariza y redime la mente “concentrada en sí mismo” de Leo rudimentario. Cuando el sol y Urano son considerados en sus exaltaciones - Aries y Escorpión respectivamente - vemos la apoteosis simbólica del humano como un Hijo de Dios y la potencialidad del ser humano de realizar su identidad espiritual a través de la regeneración interna, la “magia divina”, la “alquimia creadora”, la transmutación por medio de la cual la escoria del Ego personal es transformada en la Luz Blanca del Ser Espiritual. La prosecución inequívoca de la Verdad, la disciplina y refinamiento autodirigidos de las facultades emocionales y mentales, la expansión del poder del Amor a través de la impersonalización y la realización más y más clara de la identidad espiritual verdadera son los pasos por los cuales el Poder Maestro de la Intuición es enfocado, evolucionado y perfeccionado en la conciencia humana. El astrólogo mira los símbolos y números de un horóscopo, pero él mira intuitivamente en el mapa para aprender las verdades de la conciencia del nativo. El estudio astrológico para el uso servicial y la iluminación humana es una de las formas principales por medio de la cual la Facultad de la Intuición es desarrollada en el ser humano.
 
 ### <h3 id="chapter-8">Capítulo VIII: Experiencia Animal</h3>
 
-Se somete esta disertación a la consideración de los estudiantes que frecuentemente
-indagan en sus estudios sobre los “horóscopos de animales”. Estas investigaciones son por
-supuesto, perfectamente legítimas, siendo afines a un factor familiar de experiencia de la
-vida y el cual es de gran interés e incumbencia para muchas personas.
+Se somete esta disertación a la consideración de los estudiantes que frecuentemente indagan en sus estudios sobre los “horóscopos de animales”. Estas investigaciones son por supuesto, perfectamente legítimas, siendo afines a un factor familiar de experiencia de la vida y el cual es de gran interés e incumbencia para muchas personas.
 
-La astrología, por ser esencialmente un estudio de la conciencia, es aplicable como
-ciencia vibratoria a cualquier forma o plano de vida y a la conciencia que le da alma y
-forma a esa vida. Si nuestro conocimiento de la astrología en sí, fuera grandemente
-extendido más allá de su esfera actual, nosotros podríamos - siendo iguales todos los demás
-factores - hacer el horóscopo de animales individuales como hacemos los de los humanos;
-podríamos hacer los horóscopos de los planetas, sistemas solares y galaxias, al igual que de
-las formas de vida diminutas que habitan el planeta. Cuando la astrología sea comprendida
-como el estudio de esos principios o leyes por los cuales evoluciona toda conciencia,
-entonces podría percibirse su aplicación provechosa a la vida por todo el cosmos, por
-correspondencia con la vida que conocemos como los humanos.
+La astrología, por ser esencialmente un estudio de la conciencia, es aplicable como ciencia vibratoria a cualquier forma o plano de vida y a la conciencia que le da alma y forma a esa vida. Si nuestro conocimiento de la astrología en sí, fuera grandemente extendido más allá de su esfera actual, nosotros podríamos - siendo iguales todos los demás factores - hacer el horóscopo de animales individuales como hacemos los de los humanos; podríamos hacer los horóscopos de los planetas, sistemas solares y galaxias, al igual que de las formas de vida diminutas que habitan el planeta. Cuando la astrología sea comprendida como el estudio de esos principios o leyes por los cuales evoluciona toda conciencia, entonces podría percibirse su aplicación provechosa a la vida por todo el cosmos, por correspondencia con la vida que conocemos como los humanos.
 
-No obstante, y aquí está la dificultad para comprender la astrología de otras formas
-y olas de vida, debemos conocer la conciencia perteneciente a esas formas y olas.
-Observamos y estudiamos las evidencias de otros tipos de conciencia diferentes a los
-nuestros, pero nosotros que somos particular y “peculiarmente Humanos Terrestres”, no
-podemos comprender los planos de conciencia a que están sujetas otras formas,
-subhumanas y superhumanas. En verdad muchos humanos sólo tienen una comprensión
-confusa y deformada de la conciencia de sus congéneres. La vida animal toma forma de un
-centro diferente al nuestro: nosotros los humanos, siendo mucho más autónomos y los
-animales estando mucho más bajo la guía especializada.
+No obstante, y aquí está la dificultad para comprender la astrología de otras formas y olas de vida, debemos conocer la conciencia perteneciente a esas formas y olas. Observamos y estudiamos las evidencias de otros tipos de conciencia diferentes a los nuestros, pero nosotros que somos particular y “peculiarmente Humanos Terrestres”, no podemos comprender los planos de conciencia a que están sujetas otras formas, subhumanas y superhumanas. En verdad muchos humanos sólo tienen una comprensión confusa y deformada de la conciencia de sus congéneres. La vida animal toma forma de un centro diferente al nuestro: nosotros los humanos, siendo mucho más autónomos y los animales estando mucho más bajo la guía especializada.
 
-Se nos ha dicho que de las líneas evolutivas subhumanas, aquellos que ahora son
-mamíferos alcanzarán su máxima evolución a través del patrón humano. Así pues, no sólo
-es de interés sino de gran importancia que aprendamos a espiritualizar nuestra conciencia
-de los miembros del reino animal y nuestra relación con ellos; ellos son nuestros hermanos
-como habitantes de este planeta y nosotros como la expresión evolutiva más elevada,
-tenemos una responsabilidad decidida hacia ellos, tal como la tienen los hermanos
-mayores hacia los jóvenes en una familia; la correspondencia es casi exacta en la relación.
+Se nos ha dicho que de las líneas evolutivas subhumanas, aquellos que ahora son mamíferos alcanzarán su máxima evolución a través del patrón humano. Así pues, no sólo es de interés sino de gran importancia que aprendamos a espiritualizar nuestra conciencia de los miembros del reino animal y nuestra relación con ellos; ellos son nuestros hermanos como habitantes de este planeta y nosotros como la expresión evolutiva más elevada, tenemos una responsabilidad decidida hacia ellos, tal como la tienen los hermanos mayores hacia los jóvenes en una familia; la correspondencia es casi exacta en la relación.
 
-Por lo tanto, aunque no podemos “hacer los mapas” de animales, podemos estudiar
-los nuestros con respecto a nuestras experiencias y sentimientos sobre la vida sub-humana y
-de ese modo ampliar nuestra conciencia de la evolución en este planeta. Si usamos los
-factores astrológicos que acostumbramos, un mapa calculado para la hora de nacimiento,
-por ejemplo, de un gatito o de un perrito, representaría la significación del animal para
-nuestra experiencia; lo mismo se aplicaría a la hora en que tomamos la decisión de traer un
-nuevo animalito a la casa o de cualquier animal a nuestra experiencia personal. En el último
-caso, la motivación y el propósito representarían las notas claves de la lectura astrológica;
-ese mapa, por estar correlacionado con nuestro mapa natal, representa los factores,
-relacionados recíprocamente, de la experiencia que pudiéramos tener con el animal. Un
-mapa calculado en el que seleccionamos el animal podría indicar puntos básicos
-concernientes a la conveniencia del animal para nuestro propósito. Muchas personas
-encuentran que su relación con un animal inicia una experiencia de gran significación, y
-son estas posibilidades de experiencia lo que nosotros estudiaremos.
+Por lo tanto, aunque no podemos “hacer los mapas” de animales, podemos estudiar los nuestros con respecto a nuestras experiencias y sentimientos sobre la vida sub-humana y de ese modo ampliar nuestra conciencia de la evolución en este planeta. Si usamos los factores astrológicos que acostumbramos, un mapa calculado para la hora de nacimiento, por ejemplo, de un gatito o de un perrito, representaría la significación del animal para nuestra experiencia; lo mismo se aplicaría a la hora en que tomamos la decisión de traer un nuevo animalito a la casa o de cualquier animal a nuestra experiencia personal. En el último caso, la motivación y el propósito representarían las notas claves de la lectura astrológica; ese mapa, por estar correlacionado con nuestro mapa natal, representa los factores, relacionados recíprocamente, de la experiencia que pudiéramos tener con el animal. Un mapa calculado en el que seleccionamos el animal podría indicar puntos básicos concernientes a la conveniencia del animal para nuestro propósito. Muchas personas encuentran que su relación con un animal inicia una experiencia de gran significación, y son estas posibilidades de experiencia lo que nosotros estudiaremos.
 
-La conciencia de relación humana individual no respeta persona ni cosas. Un
-hombre puede amar a su mujer y a sus hijos con devoción tierna y solícita; pero si su
-conciencia de relación contiene un área de odio, de miedo, o de prejuicio hacia otro hombre
-- o hacia otras personas - que sean por casualidad de otra raza o nacionalidad, su conciencia
-de relación no es clara ni pura. Una mujer puede cumplir con los requisitos de su trabajo
-profesional con una conciencia firme; pero si su actitud hacia sus colegas - o hacia un
-colega - está manchada de envidia o de falsa superioridad, entonces, su conciencia de
-relación hacia su profesión está manchada correspondientemente.
+La conciencia de relación humana individual no respeta persona ni cosas. Un hombre puede amar a su mujer y a sus hijos con devoción tierna y solícita; pero si su conciencia de relación contiene un área de odio, de miedo, o de prejuicio hacia otro hombre - o hacia otras personas - que sean por casualidad de otra raza o nacionalidad, su conciencia de relación no es clara ni pura. Una mujer puede cumplir con los requisitos de su trabajo profesional con una conciencia firme; pero si su actitud hacia sus colegas - o hacia un colega - está manchada de envidia o de falsa superioridad, entonces, su conciencia de relación hacia su profesión está manchada correspondientemente.
 
-Podrían considerarse muchos ejemplos semejantes; el punto que se debe tener en
-cuenta es éste: nuestra relación con otra persona está calificada principalmente por nuestro
-sentimiento acerca de ella; esa área de sentimiento es encendida por el contacto vibratorio
-con la persona. En otras palabras, otras personas simbolizan cualidades de conciencia para
-nosotros porque por la acción de la simpatía vibratoria, cualquier persona puede servir para
-estimular cualquier punto de sentimiento en nuestra conciencia de relación. Hasta que
-alcancemos la verdadera comprensión, nosotros estafemos propensos a identificar a la
-persona con la cualidad estimulada en nuestra conciencia de relación: cuando hayamos
-logrado la sabiduría de la relación sabremos que nuestras reacciones de naturaleza
-desagradable deben ser transmutadas en la potencia espiritual de buena voluntad (Amor).
-Por lo tanto, todos los puntos en la conciencia de relación que nosotros identificamos como
-odio, envidia, celos, temor, falsa superioridad, tiranía, etc., pueden comprenderse como
-“materiales” para el ejercicio transmutador. El hecho que muchísimas personas han
-probado la ley de buena voluntad a través de sus esfuerzos transmutadores, puede
-determinarse por unos minutos de seria consideración.
+Podrían considerarse muchos ejemplos semejantes; el punto que se debe tener en cuenta es éste: nuestra relación con otra persona está calificada principalmente por nuestro sentimiento acerca de ella; esa área de sentimiento es encendida por el contacto vibratorio con la persona. En otras palabras, otras personas simbolizan cualidades de conciencia para nosotros porque por la acción de la simpatía vibratoria, cualquier persona puede servir para estimular cualquier punto de sentimiento en nuestra conciencia de relación. Hasta que alcancemos la verdadera comprensión, nosotros estafemos propensos a identificar a la persona con la cualidad estimulada en nuestra conciencia de relación: cuando hayamos logrado la sabiduría de la relación sabremos que nuestras reacciones de naturaleza desagradable deben ser transmutadas en la potencia espiritual de buena voluntad (Amor). Por lo tanto, todos los puntos en la conciencia de relación que nosotros identificamos como odio, envidia, celos, temor, falsa superioridad, tiranía, etc., pueden comprenderse como “materiales” para el ejercicio transmutador. El hecho que muchísimas personas han probado la ley de buena voluntad a través de sus esfuerzos transmutadores, puede determinarse por unos minutos de seria consideración.
 
-Cualquier foco magnético de atracción en la relación puede utilizarse para
-intensificar negativos existentes en la conciencia o para alimentar las cualidades
-regeneradas que han sido desarrolladas. Y la “relación” es vuestro punto de vista de
-usted mismo en ajuste vibratorio con cualquier otra persona, cualquier criatura, cosa,
-actividad, acontecimiento, esfuerzo o ambiente. Su horóscopo natal desempeña su mayor
-servicio para usted al representarle las tendencias básicas de su punto de vista en la
-conciencia de relación. Verdaderamente, la comprensión de estas tendencias y las formas
-de usarlas rectamente es obtener la llave maestra para todas las otras fases en el estudio de
-su mapa. La evolución de la Conciencia de la Humanidad es adelantada en proporción
-directa a medida que cada humano aprende a ajustarse rectamente en la relación con
-sus congéneres y sus compañeros animales.
+Cualquier foco magnético de atracción en la relación puede utilizarse para intensificar negativos existentes en la conciencia o para alimentar las cualidades regeneradas que han sido desarrolladas. Y la “relación” es vuestro punto de vista de usted mismo en ajuste vibratorio con cualquier otra persona, cualquier criatura, cosa, actividad, acontecimiento, esfuerzo o ambiente. Su horóscopo natal desempeña su mayor servicio para usted al representarle las tendencias básicas de su punto de vista en la conciencia de relación. Verdaderamente, la comprensión de estas tendencias y las formas de usarlas rectamente es obtener la llave maestra para todas las otras fases en el estudio de su mapa. La evolución de la Conciencia de la Humanidad es adelantada en proporción directa a medida que cada humano aprende a ajustarse rectamente en la relación con sus congéneres y sus compañeros animales.
 
-Observe cuidadosamente las últimas veintidós palabras de la oración previa. Lo que
-es ahora fue determinado por lo que fue; lo que ha de ser será determinado por lo que es
-ahora. Cada ser humano del período presente de manifestación de la Tierra, estaba en
-cierta época en el “status animal”; todo animal es ahora potencialmente un humano. En
-ningún sentido absoluto es un humano “superior” a otro animal; la diferencia es
-simplemente de tiempo de evolución. La veracidad de esta aseveración será percibida
-inmediatamente al considerar el hecho que todos los iniciados, maestros y adeptos - la
-vanguardia espiritual de la Humanidad presente - sirven por la inspiración y el aliento de
-nuestro desenvolvimiento y progreso espirituales. Empleando una hipótesis absurda, si la
-relación de ellos con nosotros fuera de “superioridad absoluta”, ¿por qué habríamos
-nosotros de ser estimulados en forma alguna a “recorrer el sendero que ellos han trillado”?
-Si estuviéramos relacionados con animales por una “superioridad absoluta”, no habría
-ningún impulso en el corazón humano para mejorar las condiciones de los animales, no
-habría el ímpetu inspirador de amarlos. No obstante, muchos humanos aman a los
-animales con devoción desinteresada y compasiva. ¿No es eso en sí una prueba de que
-nosotros sabemos internamente que los animales recorrerán el sendero que nosotros
-estamos trillando ahora?. La comprensión por un ser humano de su confraternidad con los
-animales, es un punto culminante en el curso de su morada evolutiva; es una expresión
-tremenda de su conciencia de Amor, y semejante punto en la experiencia está acompañado
-inevitablemente de una comprensión incrementada de la naturaleza del amor divino.
+Observe cuidadosamente las últimas veintidós palabras de la oración previa. Lo que es ahora fue determinado por lo que fue; lo que ha de ser será determinado por lo que es ahora. Cada ser humano del período presente de manifestación de la Tierra, estaba en cierta época en el “status animal”; todo animal es ahora potencialmente un humano. En ningún sentido absoluto es un humano “superior” a otro animal; la diferencia es simplemente de tiempo de evolución. La veracidad de esta aseveración será percibida inmediatamente al considerar el hecho que todos los iniciados, maestros y adeptos - la vanguardia espiritual de la Humanidad presente - sirven por la inspiración y el aliento de nuestro desenvolvimiento y progreso espirituales. Empleando una hipótesis absurda, si la relación de ellos con nosotros fuera de “superioridad absoluta”, ¿por qué habríamos nosotros de ser estimulados en forma alguna a “recorrer el sendero que ellos han trillado”? Si estuviéramos relacionados con animales por una “superioridad absoluta”, no habría ningún impulso en el corazón humano para mejorar las condiciones de los animales, no habría el ímpetu inspirador de amarlos. No obstante, muchos humanos aman a los animales con devoción desinteresada y compasiva. ¿No es eso en sí una prueba de que nosotros sabemos internamente que los animales recorrerán el sendero que nosotros estamos trillando ahora?. La comprensión por un ser humano de su confraternidad con los animales, es un punto culminante en el curso de su morada evolutiva; es una expresión tremenda de su conciencia de Amor, y semejante punto en la experiencia está acompañado inevitablemente de una comprensión incrementada de la naturaleza del amor divino.
 
-Toda posición y aspecto en su mapa natal puede estudiarse como si representara una
-fase o tendencia en su conciencia de relación. Por lo tanto, sus actitudes y sus sentimientos
-hacia la vida subhumana son representadas también por estos factores del horóscopo. Ya
-que la relación con la vida subhumana está entrelazada inextricablemente en el tejido de la
-experiencia humana, consideraremos este asunto tal como está representado abstractamente
-por el Gran Mándala Astrológico. Para referencia recíproca, haga una copia como sigue: el
-círculo de doce casas con el símbolo tradicional del Sol en el centro; Aries como signo
-Ascendente con 30° de cada signo para cada casa; los regentes planetarios de los signos
-colocados apropiadamente en las casas que ellos “rigen”. Este es el horóscopo abstracto de
-la humanidad, del cual su horóscopo natal es una variación individualizada.
+Toda posición y aspecto en su mapa natal puede estudiarse como si representara una fase o tendencia en su conciencia de relación. Por lo tanto, sus actitudes y sus sentimientos hacia la vida subhumana son representadas también por estos factores del horóscopo. Ya que la relación con la vida subhumana está entrelazada inextricablemente en el tejido de la experiencia humana, consideraremos este asunto tal como está representado abstractamente por el Gran Mándala Astrológico. Para referencia recíproca, haga una copia como sigue: el círculo de doce casas con el símbolo tradicional del Sol en el centro; Aries como signo Ascendente con 30° de cada signo para cada casa; los regentes planetarios de los signos colocados apropiadamente en las casas que ellos “rigen”. Este es el horóscopo abstracto de la humanidad, del cual su horóscopo natal es una variación individualizada.
 
-Para entrar en un entendimiento más profundo de la confraternidad de los humanos
-y los animales, consideraremos primero el diámetro de Sagitario-Géminis, los signos de la
-novena y tercera casas del Gran Mándala, las cuales están regidas por Júpiter y Mercurio
-respectivamente. Júpiter es el Principio de la Función Orgánica en el sentido cósmico y el
-Principio de la Jerarquía. Es el poder de la Mente Divina por el cual cada factor de un
-arquetipo es concebido en relación perfecta con todos los demás factores, para la función,
-la expresión y el uso. (La opinión deliberada del autor es que Venus como regente de
-Libra, está exaltado en Sagitario; su exaltación en Piscis deriva de su regencia de Tauro,
-Júpiter representa, como Principio de la Función Orgánica, el crecimiento de las partes de
-una cosa en términos del prepósito y la relación recíproca de éstas con las otras partes de la
-misma cosa. Júpiter representa, como Principio de la Jerarquía, la función de relación
-recíproca de las cosas en términos de inteligencia relativa o de susceptibilidad relativa a
-las fuerzas de la inteligencia.
+Para entrar en un entendimiento más profundo de la confraternidad de los humanos y los animales, consideraremos primero el diámetro de Sagitario-Géminis, los signos de la novena y tercera casas del Gran Mándala, las cuales están regidas por Júpiter y Mercurio respectivamente. Júpiter es el Principio de la Función Orgánica en el sentido cósmico y el Principio de la Jerarquía. Es el poder de la Mente Divina por el cual cada factor de un arquetipo es concebido en relación perfecta con todos los demás factores, para la función, la expresión y el uso. (La opinión deliberada del autor es que Venus como regente de Libra, está exaltado en Sagitario; su exaltación en Piscis deriva de su regencia de Tauro, Júpiter representa, como Principio de la Función Orgánica, el crecimiento de las partes de una cosa en términos del prepósito y la relación recíproca de éstas con las otras partes de la misma cosa. Júpiter representa, como Principio de la Jerarquía, la función de relación recíproca de las cosas en términos de inteligencia relativa o de susceptibilidad relativa a las fuerzas de la inteligencia.
 
-En estos términos vemos la ubicación de las partes de una cosa en relación con otras
-partes correspondientes a la afinidad con la inteligencia directiva. Sagitario está polarizado
-por Géminis, el tercer signo del Gran Mandala en sucesión hacia la izquierda desde Aries,
-el significador zodiacal de la raíz de la conciencia fraternal, siendo la conciencia
-fraternal esa apercepción de “paralelismo” o de “similitud correspondiente” en la relación.
-Todas las células de su cuerpo son fraternales en sí, siendo partes celulares del mismo
-cuerpo; pero las células de sus dos ojos son fraternales por la especialización. Todos los
-habitantes de este planeta son fraternales entre sí; pero todos los mamíferos son fraternales
-por especialización; los humanos son “especialmente fraternos” entre sí, los cuadrúpedos
-son “especialmente fraternos” entre sí, los pájaros son “especialmente fraternos”, etcétera.
-Cada especialización tiene especialización adicional, pero todas las especializaciones están
-agrupadas en la unidad: El Morador Terrestre. Los planetas de nuestro sistema son
-“fraternos entre sí” y el nuestro es especialmente fraternal con los otros seis sistemas que
-comprenden nuestra galaxia inmediata. La función orgánica en concepto de jerarquía y de
-fraternidad está ilustrada en cualquier plano de dimensión que usted considere. Eso
-significa que la conciencia de fraternidad del humano no está completa hasta que él haya
-percibido el valor de esta convivencia de mutua relación en este planeta con todas las
-demás criaturas subhumanas y superhumanas. En este punto surge naturalmente una
-pregunta: ¿Qué podemos hacer los humanos, o qué debemos hacer, concerniente a nuestros
-sentimientos sobre los habitantes de otros planetas? Esta pregunta puede ser resuelta por
-cada humano, por sí mismo, en su debido tiempo.
+En estos términos vemos la ubicación de las partes de una cosa en relación con otras partes correspondientes a la afinidad con la inteligencia directiva. Sagitario está polarizado por Géminis, el tercer signo del Gran Mandala en sucesión hacia la izquierda desde Aries, el significador zodiacal de la raíz de la conciencia fraternal, siendo la conciencia fraternal esa apercepción de “paralelismo” o de “similitud correspondiente” en la relación. Todas las células de su cuerpo son fraternales en sí, siendo partes celulares del mismo cuerpo; pero las células de sus dos ojos son fraternales por la especialización. Todos los habitantes de este planeta son fraternales entre sí; pero todos los mamíferos son fraternales por especialización; los humanos son “especialmente fraternos” entre sí, los cuadrúpedos son “especialmente fraternos” entre sí, los pájaros son “especialmente fraternos”, etcétera. Cada especialización tiene especialización adicional, pero todas las especializaciones están agrupadas en la unidad: El Morador Terrestre. Los planetas de nuestro sistema son “fraternos entre sí” y el nuestro es especialmente fraternal con los otros seis sistemas que comprenden nuestra galaxia inmediata. La función orgánica en concepto de jerarquía y de fraternidad está ilustrada en cualquier plano de dimensión que usted considere. Eso significa que la conciencia de fraternidad del humano no está completa hasta que él haya percibido el valor de esta convivencia de mutua relación en este planeta con todas las demás criaturas subhumanas y superhumanas. En este punto surge naturalmente una pregunta: ¿Qué podemos hacer los humanos, o qué debemos hacer, concerniente a nuestros sentimientos sobre los habitantes de otros planetas? Esta pregunta puede ser resuelta por cada humano, por sí mismo, en su debido tiempo.
 
-El servicio es también una cosa de acción recíproca; el que desee ser bien servido,
-debe a su vez servir bien. La vida animal ha sido utilizada por los humanos para el servicio
-durante innumerables épocas y el Hombre ha engendrado mucho karma penoso en el abuso
-de los principios del servicio. La sexta casa y el signo de Virgo simbolizan la conciencia
-del principio del servicio del ser humano; es exteriorizado por sus experiencias como un
-servidor y por sus relaciones con aquellos que le sirven, tanto los animales como los
-humanos. La vida ha sido y es sacrificada para servir de alimento al reino humano, pero ¿y
-que será del ser humano que abusa del servicio (inconsciente) de la vida animal por la
-destructibilidad insensata y desenfrenada?. La sexta casa está polarizada por la duodécima
-casa y el signo de Piscis; ¿puede usted ver la posibilidad que muchos seres humanos, a
-causa de un acto de pasión desenfrenada en esta vida, pasen muchos años recluidos en
-prisión como resultado kármico por la destrucción maliciosa o daño a la vida
-suhhumana en una encarnación previa?. La malicia y la destructibilidad están en la
-conciencia y ya sean dirigidas en la acción hacia los humanos o hacia los subhumanos no
-invalida la potencia kármica.
+El servicio es también una cosa de acción recíproca; el que desee ser bien servido, debe a su vez servir bien. La vida animal ha sido utilizada por los humanos para el servicio durante innumerables épocas y el Hombre ha engendrado mucho karma penoso en el abuso de los principios del servicio. La sexta casa y el signo de Virgo simbolizan la conciencia del principio del servicio del ser humano; es exteriorizado por sus experiencias como un servidor y por sus relaciones con aquellos que le sirven, tanto los animales como los humanos. La vida ha sido y es sacrificada para servir de alimento al reino humano, pero ¿y que será del ser humano que abusa del servicio (inconsciente) de la vida animal por la destructibilidad insensata y desenfrenada?. La sexta casa está polarizada por la duodécima casa y el signo de Piscis; ¿puede usted ver la posibilidad que muchos seres humanos, a causa de un acto de pasión desenfrenada en esta vida, pasen muchos años recluidos en prisión como resultado kármico por la destrucción maliciosa o daño a la vida suhhumana en una encarnación previa?. La malicia y la destructibilidad están en la conciencia y ya sean dirigidas en la acción hacia los humanos o hacia los subhumanos no invalida la potencia kármica.
 
-La vida provee restricción en una u otra forma a aquellos que mediante la acción
-han demostrado que no están capacitados para disfrutar de la libertad. Por lo tanto, si
-usted contempla la compra de animales - o alguna otra experiencia - para el servicio,
-incluya en su proyecto el darle buen servicio a aquellos que han de servirle. Si usted
-depende de ellos para llevar a cabo programas de trabajo, ellos dependen de usted
-correspondientemente para su cuidado y protección. Si su actitud hacia su servidor
-subhumano es de respeto - la cual es Amor - usted no malogrará su responsabilidad y él
-estará capacitado para rendirle el máximo de servicio. Además, por la mutua experiencia en
-el Amor, usted fomentará la evolución del animal por el entrenamiento y adelantará sus
-requisitos humanos sin usted engendrar karma retributivo.
+La vida provee restricción en una u otra forma a aquellos que mediante la acción han demostrado que no están capacitados para disfrutar de la libertad. Por lo tanto, si usted contempla la compra de animales - o alguna otra experiencia - para el servicio, incluya en su proyecto el darle buen servicio a aquellos que han de servirle. Si usted depende de ellos para llevar a cabo programas de trabajo, ellos dependen de usted correspondientemente para su cuidado y protección. Si su actitud hacia su servidor subhumano es de respeto - la cual es Amor - usted no malogrará su responsabilidad y él estará capacitado para rendirle el máximo de servicio. Además, por la mutua experiencia en el Amor, usted fomentará la evolución del animal por el entrenamiento y adelantará sus requisitos humanos sin usted engendrar karma retributivo.
 
-Muchas personas le brindan una atención cuidadosa a sus compañeros animales,
-quienes, a la vez revelan actitudes muy limitadas y estrechas hacia los compañeros
-humanos. Parece que el karma del mundo animal ha sido expiado por este tipo de programa
-de vida. Estas personas han sido enfocadas en la vida presente en una especialización de
-la conciencia de vida y amor; es posible que sólo expresándoles amor y dándoles servicio a
-sus “compañeros animales” puedan estas personas polarizar espiritualmente su conciencia
-de relación para desenvolver subsiguientemente más ricas y elevadas apercepciones de
-respeto y buena voluntad hacia los humanos. Esta faceta de la experiencia humana está
-ilustrada por la polarización cruzada del diámetro Leo-Acuario por el diámetro Escorpión-
-Tauro. La regeneración de residuos emocionales negativos representados por Escorpión y
-que son exteriorizados por la mayordomía de la vida animal, representada por Tauro, es la
-manera por la cual la conciencia de Amor Leo-Acuario, temporalmente restringida, es
-polarizada internamente de nuevo para mejor liberación subsiguiente.
+Muchas personas le brindan una atención cuidadosa a sus compañeros animales, quienes, a la vez revelan actitudes muy limitadas y estrechas hacia los compañeros humanos. Parece que el karma del mundo animal ha sido expiado por este tipo de programa de vida. Estas personas han sido enfocadas en la vida presente en una especialización de la conciencia de vida y amor; es posible que sólo expresándoles amor y dándoles servicio a sus “compañeros animales” puedan estas personas polarizar espiritualmente su conciencia de relación para desenvolver subsiguientemente más ricas y elevadas apercepciones de respeto y buena voluntad hacia los humanos. Esta faceta de la experiencia humana está ilustrada por la polarización cruzada del diámetro Leo-Acuario por el diámetro Escorpión- Tauro. La regeneración de residuos emocionales negativos representados por Escorpión y que son exteriorizados por la mayordomía de la vida animal, representada por Tauro, es la manera por la cual la conciencia de Amor Leo-Acuario, temporalmente restringida, es polarizada internamente de nuevo para mejor liberación subsiguiente.
 
-En conclusión, consideraremos la significación del trino de aire para las relaciones
-de los humanos con los animales. Libra, cardinal de aire, regido por Venus es la
-apercepción de la relatividad, el núcleo básico, esencial, de la conciencia de relación; es
-la apercepción que hace posible a cualquier humano realizar la relación con la vida
-subhumana, humana y superhumana. Acuario, el signo de aire fijo, regido por Urano, es
-el recurso de la conciencia amorosa impersonal, trascendental por el cual el humano
-realiza un impulso y una capacidad para amar la vida misma, a través de cualquiera de sus
-formas externas. Acuario ilustra el amor que sentía Luther Eurbank por la vida de las
-plantas, el lazo de amor que une a un ser humano ciego a su perro amaestrado para
-conducirlo; es la conciencia de amor regenerada que une a humanos en grupos para ponerse
-al servicio del fomento del bienestar subhumano. Géminis, el signo común de aire, recogido
-por Mercurio, y noveno signo desde Libra es la apercepción de la relación como
-fraternidad, esa sabia conciencia de similitud por la cual los humanos perciben su unión
-con otros humanos y con cualquiera o todas las formas de vida. San Francisco, el inspirado
-místico y amante de la vida llamó “hermanos” a todos los seres vivientes; él sabía que era
-“hermano mayor” de aquellos que se arrastran y de los que vuelan y al amarlos como los
-amaba, percibió el amor de Dios hacia él. Que la Luz y el Amor penetren la conciencia de
-todos nuestros compañeros en la vida.
+En conclusión, consideraremos la significación del trino de aire para las relaciones de los humanos con los animales. Libra, cardinal de aire, regido por Venus es la apercepción de la relatividad, el núcleo básico, esencial, de la conciencia de relación; es la apercepción que hace posible a cualquier humano realizar la relación con la vida subhumana, humana y superhumana. Acuario, el signo de aire fijo, regido por Urano, es el recurso de la conciencia amorosa impersonal, trascendental por el cual el humano realiza un impulso y una capacidad para amar la vida misma, a través de cualquiera de sus formas externas. Acuario ilustra el amor que sentía Luther Eurbank por la vida de las plantas, el lazo de amor que une a un ser humano ciego a su perro amaestrado para conducirlo; es la conciencia de amor regenerada que une a humanos en grupos para ponerse al servicio del fomento del bienestar subhumano. Géminis, el signo común de aire, recogido por Mercurio, y noveno signo desde Libra es la apercepción de la relación como fraternidad, esa sabia conciencia de similitud por la cual los humanos perciben su unión con otros humanos y con cualquiera o todas las formas de vida. San Francisco, el inspirado místico y amante de la vida llamó “hermanos” a todos los seres vivientes; él sabía que era “hermano mayor” de aquellos que se arrastran y de los que vuelan y al amarlos como los amaba, percibió el amor de Dios hacia él. Que la Luz y el Amor penetren la conciencia de todos nuestros compañeros en la vida.

@@ -23,1982 +23,270 @@ por Elman Bacher
 
 ### <h3 id="chapter-1">Capítulo I: El Astrólogo como Científico, como Artista, y como Sacerdote-Maestro</h3>
 
-Los símbolos del círculo, sus cuadrantes, los signos zodiacales, los planetas y sus
-aspectos deben sobrentenderse como símbolos de las esencias de la vida, de sus propósitos
-y funciones, para que la astrología ocupe su puesto legítimo en la familia de las
-Iluminaciones. El acercamiento que considera todo lo escrito en la astrología como
-esencialmente malo, hace relativamente imposible el cumplimiento adecuado de la labor
-constructiva; además, semejante acercamiento corresponde a las verdades astrológicas tanto
-como la versión cristiana del “infierno, el fuego y la condenación” a las enseñanzas
-sencillas y luminosas de Jesús.
+Los símbolos del círculo, sus cuadrantes, los signos zodiacales, los planetas y sus aspectos deben sobrentenderse como símbolos de las esencias de la vida, de sus propósitos y funciones, para que la astrología ocupe su puesto legítimo en la familia de las Iluminaciones. El acercamiento que considera todo lo escrito en la astrología como esencialmente malo, hace relativamente imposible el cumplimiento adecuado de la labor constructiva; además, semejante acercamiento corresponde a las verdades astrológicas tanto como la versión cristiana del “infierno, el fuego y la condenación” a las enseñanzas sencillas y luminosas de Jesús.
 
-La palabra filosofía significa “amor a la Sabiduría” y son muchos los senderos del
-hombre hacia el logro de la comprensión. Como la astrología es uno de los senderos
-principales para la humanidad adquirir la iluminación, ofrecemos este material para que los
-estudiantes alcancen un reconocimiento más claro de los tres senderos que hasta cierto
-punto deben atravesar y que tienen que atravesarse si es que ellos han de cumplir sus
-propósitos como “Astro-Filósofos”.
+La palabra filosofía significa “amor a la Sabiduría” y son muchos los senderos del hombre hacia el logro de la comprensión. Como la astrología es uno de los senderos principales para la humanidad adquirir la iluminación, ofrecemos este material para que los estudiantes alcancen un reconocimiento más claro de los tres senderos que hasta cierto punto deben atravesar y que tienen que atravesarse si es que ellos han de cumplir sus propósitos como “Astro-Filósofos”.
 
-La rueda del horóscopo y sus “ingredientes vibratorios” contienen los secretos
-esenciales de toda clase de patrones del hombre - y en todos los grados y niveles -. El
-progreso de la rueda, desde el ascendente a la duodécima casa - en dirección contraria a las
-agujas del reloj - pone al alcance de nuestro entendimiento, el “hacia adelante y hada
-arriba” del desarrollo evolutivo tal como éste expresa la canción de “YO SOY” en los
-cuatro cuadrantes. La “Triunidad” Cósmica se manifiesta físicamente por lo que
-usualmente llamamos las “tres dimensiones” de largo, ancho y altura; pero ninguna de estas
-tres puede manifestarse sin las otras dos. Esta triunidad de una dimensión física compuesta
-tiene su correspondencia astrológica en la triunidad de la división de cada cuadrante de tres
-casas; los cuatro cuadrantes se ve entonces que expresan la totalidad de la rueda en doce
-casas - cuatro niveles dimensionales triunos de conciencia y desenvolvimiento. Ésta es la
-representación simbólica del “Progreso de los Peregrinos”.
+La rueda del horóscopo y sus “ingredientes vibratorios” contienen los secretos esenciales de toda clase de patrones del hombre - y en todos los grados y niveles -. El progreso de la rueda, desde el ascendente a la duodécima casa - en dirección contraria a las agujas del reloj - pone al alcance de nuestro entendimiento, el “hacia adelante y hada arriba” del desarrollo evolutivo tal como éste expresa la canción de “YO SOY” en los cuatro cuadrantes. La “Triunidad” Cósmica se manifiesta físicamente por lo que usualmente llamamos las “tres dimensiones” de largo, ancho y altura; pero ninguna de estas tres puede manifestarse sin las otras dos. Esta triunidad de una dimensión física compuesta tiene su correspondencia astrológica en la triunidad de la división de cada cuadrante de tres casas; los cuatro cuadrantes se ve entonces que expresan la totalidad de la rueda en doce casas - cuatro niveles dimensionales triunos de conciencia y desenvolvimiento. Ésta es la representación simbólica del “Progreso de los Peregrinos”.
 
-Entonces, como el patrón de la rueda de doce casas describe el progreso
-fundamental de todo desenvolvimiento humano, se desprende naturalmente que sus
-símbolos pueden referirse a nuestras experiencias como astrólogos. En otras palabras,
-ciertas facultades y cualidades especializadas de la conciencia, en combinación, abarcan la
-“parte de astrólogo” de nuestro ser y por cierto número de encarnaciones esta región de la
-conciencia es ejercitada en determinada forma como un factor en nuestro
-desenvolvimiento.
+Entonces, como el patrón de la rueda de doce casas describe el progreso fundamental de todo desenvolvimiento humano, se desprende naturalmente que sus símbolos pueden referirse a nuestras experiencias como astrólogos. En otras palabras, ciertas facultades y cualidades especializadas de la conciencia, en combinación, abarcan la “parte de astrólogo” de nuestro ser y por cierto número de encarnaciones esta región de la conciencia es ejercitada en determinada forma como un factor en nuestro desenvolvimiento.
 
-Nuestra “conciencia astrológica”, debido a sus especializaciones, puede compararse
-a una “sub-entidad” en la entidad de nuestra conciencia compuesta - semejantemente, por
-decirlo así, al “amarillo” o “púrpura” como sub-entidades en la entidad vibratoria
-compuesta que llamamos “color”. Cada sub-entidad tiene, por supuesto, sus divisiones
-principales y éstas, a su vez, sus miríadas de expresiones variantes. Así también sucede con
-la rueda y los signos por su división en decanatos, grados, minutos y segundos.
+Nuestra “conciencia astrológica”, debido a sus especializaciones, puede compararse a una “sub-entidad” en la entidad de nuestra conciencia compuesta - semejantemente, por decirlo así, al “amarillo” o “púrpura” como sub-entidades en la entidad vibratoria compuesta que llamamos “color”. Cada sub-entidad tiene, por supuesto, sus divisiones principales y éstas, a su vez, sus miríadas de expresiones variantes. Así también sucede con la rueda y los signos por su división en decanatos, grados, minutos y segundos.
 
-La “parte de astrólogo” de la conciencia humana es un compuesto de aquellos
-factores que hacen de nosotros un científico, un artista, o un instructor sacerdote. Así como
-las vibraciones de color cardinales están enlazadas entre sí por sus gradaciones, del mismo
-modo estos tres correlativos humanos se funden entre sí para formar el “espectro” de la
-conciencia astrológica. Todas las personas que trabajan en la astrología pueden tender hasta
-cierto punto, a alinearse esencialmente en una de las tres clasificaciones; pero nosotros
-debemos llegar al punto de “sintetizarnos” con las tres para que el “capítulo de
-desenvolvimiento” astrológico sea completo y bien terminado.
+La “parte de astrólogo” de la conciencia humana es un compuesto de aquellos factores que hacen de nosotros un científico, un artista, o un instructor sacerdote. Así como las vibraciones de color cardinales están enlazadas entre sí por sus gradaciones, del mismo modo estos tres correlativos humanos se funden entre sí para formar el “espectro” de la conciencia astrológica. Todas las personas que trabajan en la astrología pueden tender hasta cierto punto, a alinearse esencialmente en una de las tres clasificaciones; pero nosotros debemos llegar al punto de “sintetizarnos” con las tres para que el “capítulo de desenvolvimiento” astrológico sea completo y bien terminado.
 
-Las significaciones fundamentales de las primeras casas contienen los secretos de
-los tres cuadrantes restantes, el segundo, el tercero y el cuarto cuadrantes siendo
-“extensiones” del primero. Nos parece que mediante la consideración “radiológica” del
-primer cuadrante podemos revelar el secreto de estas cualidades y capacidades de la
-conciencia humana, las cuales definen, en expresión especializada, nuestro “ser
-astrológico” - cuya suma total representa a la humanidad como “astro-filósofo”.
+Las significaciones fundamentales de las primeras casas contienen los secretos de los tres cuadrantes restantes, el segundo, el tercero y el cuarto cuadrantes siendo “extensiones” del primero. Nos parece que mediante la consideración “radiológica” del primer cuadrante podemos revelar el secreto de estas cualidades y capacidades de la conciencia humana, las cuales definen, en expresión especializada, nuestro “ser astrológico” - cuya suma total representa a la humanidad como “astro-filósofo”.
 
-Primera Casa: El Ascendente de todo horóscopo; el primer grito de “YO SOY”; la
-envoltura física que instrumenta a la conciencia; la conciencia del ser y de la manifestación
-física; la conciencia de la “seidad” de todas las cosas; la conciencia exotérica que identifica
-a la humanidad como un factor en el universo manifestado; en el principio, el hombre
-percibe esta manifestación como forma exterior a si mismo: subsiguientemente, en el
-desenvolvimiento de la crisálida de la conciencia de la primera casa, él percibe la “multi-
-dimensionalidad” de la vida por la percepción y la realización “esotérica” o “subjetiva”.
+Primera Casa: El Ascendente de todo horóscopo; el primer grito de “YO SOY”; la envoltura física que instrumenta a la conciencia; la conciencia del ser y de la manifestación física; la conciencia de la “seidad” de todas las cosas; la conciencia exotérica que identifica a la humanidad como un factor en el universo manifestado; en el principio, el hombre percibe esta manifestación como forma exterior a si mismo: subsiguientemente, en el desenvolvimiento de la crisálida de la conciencia de la primera casa, él percibe la “multi- dimensionalidad” de la vida por la percepción y la realización “esotérica” o “subjetiva”.
 
-Como expresión de la primera casa, el astro-filósofo es “astrólogo como científico”.
-Su acercamiento al asunto esta basado en el deseo de comprender la expresión física de la
-vida desde una base diferente de cualquiera que haya tenido antes. Como su atención está
-enfocada en la forma, él presta, naturalmente, atención cuidadosa a la cualidad y a la
-medida. Él se entrena con exactitud escrupulosa en los cálculos matemáticos envueltos
-porque éstos son la forma esquelética sobre la cual han de desarrollarse sus habilidades
-interpretativas. Además, él trata de descubrir los secretos de los símbolos abstractos
-conforme ellos sirven para delinear los procesos por los cuales se manifiesta el Mundo
-Físico. El reconoce que la humanidad funciona por medio de sus principios especializados
-así como funciona una máquina, de acuerdo con sus principios mecánicos. El estudia
-acontecimientos según ellos representan el “lado de la forma” de patrones astrológicos en
-acción. El estudia su propio mapa en términos de la sincronización del acontecimiento con
-el aspecto; en los estados de desarrollo temprano, él identifica sus aspectos relacionándolos
-con la acción vibratoria fuera de sí mismo.
+Como expresión de la primera casa, el astro-filósofo es “astrólogo como científico”. Su acercamiento al asunto esta basado en el deseo de comprender la expresión física de la vida desde una base diferente de cualquiera que haya tenido antes. Como su atención está enfocada en la forma, él presta, naturalmente, atención cuidadosa a la cualidad y a la medida. Él se entrena con exactitud escrupulosa en los cálculos matemáticos envueltos porque éstos son la forma esquelética sobre la cual han de desarrollarse sus habilidades interpretativas. Además, él trata de descubrir los secretos de los símbolos abstractos conforme ellos sirven para delinear los procesos por los cuales se manifiesta el Mundo Físico. El reconoce que la humanidad funciona por medio de sus principios especializados así como funciona una máquina, de acuerdo con sus principios mecánicos. El estudia acontecimientos según ellos representan el “lado de la forma” de patrones astrológicos en acción. El estudia su propio mapa en términos de la sincronización del acontecimiento con el aspecto; en los estados de desarrollo temprano, él identifica sus aspectos relacionándolos con la acción vibratoria fuera de sí mismo.
 
-Puesto que él es una “expresión de la primera casa”, el astrólogo es el pionero
-astrológico. El es el que abre el camino en el sentido de “proyectar” la conciencia de
-verdades astrológicas sobre su círculo de relaciones y asociaciones. Él es un “estimulador”
-que trae conocimiento de un “tema nuevo” a su esfera inmediata o al mundo en conjunto.
+Puesto que él es una “expresión de la primera casa”, el astrólogo es el pionero astrológico. El es el que abre el camino en el sentido de “proyectar” la conciencia de verdades astrológicas sobre su círculo de relaciones y asociaciones. Él es un “estimulador” que trae conocimiento de un “tema nuevo” a su esfera inmediata o al mundo en conjunto.
 
-Los desenvolvimientos del astro-científico están indicados por la primera casa del
-segundo y tercer cuadrantes; esto es, la cuarta y séptima casas. A través de estos capítulos
-es que el astro-científico comienza a desarrollar su conciencia subjetiva, porque en estos
-niveles, él debe volver sus “ojos astro-científicos” a los mapas de aquellos hacia quienes es
-atraído en patrones de familia y en patrones de relación. El carácter científico de su
-acercamiento lo impele, naturalmente, a buscar la comprensión de los mapas de aquellos
-más cercanos y queridos por él en la relación personal. El astro-científico falla en este
-punto si permite que su conciencia astrológica sea perturbada y deformada por sus
-sentimientos hacia los mapas - y sus contextos - de aquellos cercanos a él. Su parte
-científica, objetiva, no emocional, debe ser entrenada y disciplinada para adherirse a su
-propia verdad, sin tomar en consideración los sentimientos que él tenga hacia la persona
-cuyo mapa está estudiando. La astro-filosofía, en esta forma, demuestra su valor como
-“impersonalizador” de la naturaleza de deseos; ella hace posible una técnica por la cual la
-mente puede entrenarse a “ver claramente” a pesar de las demandas de la naturaleza de
-deseos; como astro-filósofos todos debemos adquirir y mantener este acercamiento
-científico impersonal con respecto a todos los mapas.
+Los desenvolvimientos del astro-científico están indicados por la primera casa del segundo y tercer cuadrantes; esto es, la cuarta y séptima casas. A través de estos capítulos es que el astro-científico comienza a desarrollar su conciencia subjetiva, porque en estos niveles, él debe volver sus “ojos astro-científicos” a los mapas de aquellos hacia quienes es atraído en patrones de familia y en patrones de relación. El carácter científico de su acercamiento lo impele, naturalmente, a buscar la comprensión de los mapas de aquellos más cercanos y queridos por él en la relación personal. El astro-científico falla en este punto si permite que su conciencia astrológica sea perturbada y deformada por sus sentimientos hacia los mapas - y sus contextos - de aquellos cercanos a él. Su parte científica, objetiva, no emocional, debe ser entrenada y disciplinada para adherirse a su propia verdad, sin tomar en consideración los sentimientos que él tenga hacia la persona cuyo mapa está estudiando. La astro-filosofía, en esta forma, demuestra su valor como “impersonalizador” de la naturaleza de deseos; ella hace posible una técnica por la cual la mente puede entrenarse a “ver claramente” a pesar de las demandas de la naturaleza de deseos; como astro-filósofos todos debemos adquirir y mantener este acercamiento científico impersonal con respecto a todos los mapas.
 
-En la expresión de su décima casa el astro-científico completa sus estudios
-incluyendo la comprensión de muchos, sino de todos, de los patrones de interpretación. El
-estudia la astrología horaria, los mapas de naciones y gobiernos, grupos, instituciones y
-sucesos pertenecientes a mucha gente junta. Él estudia astro-biología y astro-diagnóstico; él
-sabe algo de cómo los diferentes sistemas presentan el asunto.
-En otras palabras, su carácter científico se extiende en alcance de acción para incluir
-la comprensión de los elementos esenciales vibratorios a toda clase de manifestaciones de
-la vida objetiva de la humanidad. El astro-científico que mantiene su interés en el asunto sin
-comercializarlo, tiene la mejor oportunidad de desenvolverse en forma rítmica y natural.
+En la expresión de su décima casa el astro-científico completa sus estudios incluyendo la comprensión de muchos, sino de todos, de los patrones de interpretación. El estudia la astrología horaria, los mapas de naciones y gobiernos, grupos, instituciones y sucesos pertenecientes a mucha gente junta. Él estudia astro-biología y astro-diagnóstico; él sabe algo de cómo los diferentes sistemas presentan el asunto. En otras palabras, su carácter científico se extiende en alcance de acción para incluir la comprensión de los elementos esenciales vibratorios a toda clase de manifestaciones de la vida objetiva de la humanidad. El astro-científico que mantiene su interés en el asunto sin comercializarlo, tiene la mejor oportunidad de desenvolverse en forma rítmica y natural.
 
-Segunda casa: Regida abstractamente por Venus, la segunda casa es el correlativo
-femenino de la primera. Es la primera de las casas fijas, su cúspide es el punto de arranque
-del símbolo del trino y ella inicia esos niveles de conciencia por los cuales nace el astro-
-artista. Como éste es el único signo femenino del primer cuadrante, él inicia las dos
-triplicidades de los trinos de tierra y de agua que abarcan las simbolizaciones de recursos y
-respuestas emocionales de la humanidad, su instinto de amar y su impulso de transmutar; su
-impulso hacia la belleza, con todas las inspiraciones y aspiraciones, visiones, sueños e
-ideales concomitantes a ese impulso.
+Segunda casa: Regida abstractamente por Venus, la segunda casa es el correlativo femenino de la primera. Es la primera de las casas fijas, su cúspide es el punto de arranque del símbolo del trino y ella inicia esos niveles de conciencia por los cuales nace el astro- artista. Como éste es el único signo femenino del primer cuadrante, él inicia las dos triplicidades de los trinos de tierra y de agua que abarcan las simbolizaciones de recursos y respuestas emocionales de la humanidad, su instinto de amar y su impulso de transmutar; su impulso hacia la belleza, con todas las inspiraciones y aspiraciones, visiones, sueños e ideales concomitantes a ese impulso.
 
-El término “astro-artista” es usado para designar la parte de nuestra conciencia que
-“proyecta” la primera casa a regiones de identidad con la gente, no simplemente a la
-“comprensión de las cosas”. Toda habilidad artística es cultivada, todo servicio verdadero
-proyectado y todo refinamiento realizado, desde el centro del amor. El astro-artista ve en la
-astrología una canalización para la liberación de sus impulsos emocionales; también, a
-través del conocimiento acumulado en su “etapa científica”, él expresa el deseo de
-armonizar y embellecer la vida humana trayendo a la gente la conciencia de las bondades y
-las bellezas esenciales inherentes a los grandes Principios de la Vida según son designados
-en la simbología.
+El término “astro-artista” es usado para designar la parte de nuestra conciencia que “proyecta” la primera casa a regiones de identidad con la gente, no simplemente a la “comprensión de las cosas”. Toda habilidad artística es cultivada, todo servicio verdadero proyectado y todo refinamiento realizado, desde el centro del amor. El astro-artista ve en la astrología una canalización para la liberación de sus impulsos emocionales; también, a través del conocimiento acumulado en su “etapa científica”, él expresa el deseo de armonizar y embellecer la vida humana trayendo a la gente la conciencia de las bondades y las bellezas esenciales inherentes a los grandes Principios de la Vida según son designados en la simbología.
 
-El móvil principal de la motivación del astro-artista es la compasión, atributo básico
-de la conciencia femenina (la segunda casa: Tauro, regido por Venus, punto de exaltación
-de la Luna). El astro-artista desea ayudar, alentar, consolar, elevar e inspirar. Si él no se ha
-establecido firmemente en los requisitos de la “etapa científica”, su impulso de auxiliar y de
-expresar su sentimiento de simpatía, puede ser, hasta cierto punto impedido porque él ha
-dejado de entrenarse en los tecnicismos del asunto. En otras palabras, puesto que él está
-funcionando desde el centro del sentimiento - una motivación intensamente personal - él
-debe desarrollar el “lado de la forma” del asunto para que sus interpretaciones sean hechas
-de cuadros exactos. Por la adhesión a la sinceridad de motivación, el astro-artista evita las
-trampas que pueden presentarse en el camino de toda la gente cuya reacción emocional es
-la nota clave de su naturaleza. Este peligro latente puede ser compasión sin control por el
-conocimiento, falsa piedad que tiende a alejar al astro-artista de cuadros de reorientación
-necesitada demostrados en el mapa, y la privación de percibir como CADA INDIVIDUO
-PUEDE APRENDER A AYUDARSE A SI MISMO POR MEDIO DE LA
-COMPRENSIÓN DE SI MISMO. El astro-artista “terminado” cultiva el desapego de la
-implicación emocional en los problemas de su cliente; él utiliza su conciencia del Principio
-de Causa y Efecto según éste se manifiesta en el horóscopo y ve la Ley en operación en
-todo respecto. No obstante, su corazón, su mente y sus manos son extendidos a todos los
-que necesitan su guía; adhiriéndose a la verdad del arte astrológico, él despliega aquellas
-áreas trascendentes de la conciencia y la facultad por medio de las cuales nacen la intuición
-y la inspiración.
+El móvil principal de la motivación del astro-artista es la compasión, atributo básico de la conciencia femenina (la segunda casa: Tauro, regido por Venus, punto de exaltación de la Luna). El astro-artista desea ayudar, alentar, consolar, elevar e inspirar. Si él no se ha establecido firmemente en los requisitos de la “etapa científica”, su impulso de auxiliar y de expresar su sentimiento de simpatía, puede ser, hasta cierto punto impedido porque él ha dejado de entrenarse en los tecnicismos del asunto. En otras palabras, puesto que él está funcionando desde el centro del sentimiento - una motivación intensamente personal - él debe desarrollar el “lado de la forma” del asunto para que sus interpretaciones sean hechas de cuadros exactos. Por la adhesión a la sinceridad de motivación, el astro-artista evita las trampas que pueden presentarse en el camino de toda la gente cuya reacción emocional es la nota clave de su naturaleza. Este peligro latente puede ser compasión sin control por el conocimiento, falsa piedad que tiende a alejar al astro-artista de cuadros de reorientación necesitada demostrados en el mapa, y la privación de percibir como CADA INDIVIDUO PUEDE APRENDER A AYUDARSE A SI MISMO POR MEDIO DE LA COMPRENSIÓN DE SI MISMO. El astro-artista “terminado” cultiva el desapego de la implicación emocional en los problemas de su cliente; él utiliza su conciencia del Principio de Causa y Efecto según éste se manifiesta en el horóscopo y ve la Ley en operación en todo respecto. No obstante, su corazón, su mente y sus manos son extendidos a todos los que necesitan su guía; adhiriéndose a la verdad del arte astrológico, él despliega aquellas áreas trascendentes de la conciencia y la facultad por medio de las cuales nacen la intuición y la inspiración.
 
-Tercera Casa: En esta expresión el astro-filósofo combina las cualidades de las dos
-primeras casas y les añade el conocimiento de la conciencia humana que lo capacita para
-interpretar los patrones astrológicos en sus fases más profundamente subjetivas. El tiene
-habilidad, una mente entrenada y una buena técnica. A esto le añade un corazón
-comprensivo - una conciencia que responde ardientemente a las necesidades internas de sus
-congéneres. A esto, a su vez, él añade una comprensión mental abarcadora del significado
-de los símbolos y patrones astrológicos conforme ellos representan estados de existencia,
-estados de relación y estados de evolución - no simplemente sucesos y sufrimientos.
-Puesto que la tercera casa es polarizada en la novena, vemos que el astro-filósofo
-del tipo de la tercera casa es científico, artista y maestro. Su conciencia compuesta le
-permite que se le designe como maestro sacerdote o “astro-sacerdote”. Él es el “hermano
-mayor” para todos los que buscan su guía, porque él ha atravesado los patrones de
-experiencia de aquellos que vienen a él; él comprende porque ha realizado por medio de su
-propia experiencia.
+Tercera Casa: En esta expresión el astro-filósofo combina las cualidades de las dos primeras casas y les añade el conocimiento de la conciencia humana que lo capacita para interpretar los patrones astrológicos en sus fases más profundamente subjetivas. El tiene habilidad, una mente entrenada y una buena técnica. A esto le añade un corazón comprensivo - una conciencia que responde ardientemente a las necesidades internas de sus congéneres. A esto, a su vez, él añade una comprensión mental abarcadora del significado de los símbolos y patrones astrológicos conforme ellos representan estados de existencia, estados de relación y estados de evolución - no simplemente sucesos y sufrimientos. Puesto que la tercera casa es polarizada en la novena, vemos que el astro-filósofo del tipo de la tercera casa es científico, artista y maestro. Su conciencia compuesta le permite que se le designe como maestro sacerdote o “astro-sacerdote”. Él es el “hermano mayor” para todos los que buscan su guía, porque él ha atravesado los patrones de experiencia de aquellos que vienen a él; él comprende porque ha realizado por medio de su propia experiencia.
 
-Él conoce el sexo y el matrimonio porque ha destilado comprensión de sus
-encarnaciones como varón y como hembra; él conoce el estado de marido y el de esposa, la
-pasión y el sacrificio, la niñez y la paternidad o maternidad. Él sabe que lo exterior es un
-reflejo de lo interno y busca siempre, alinear las mentes de las personas, con esta verdad.
-Debido a que él ocupa la posición de intermediario entre la ignorancia y la instrucción del
-hombre, el astro-sacerdote realiza la misma función en su servicio astrológico que pueda
-desempeñar cualquier sacerdote en una religión ceremonial; como sacerdote, él “ve el
-problema” desde la posición ventajosa de la sabiduría. El astro-científico conoce el efecto
-de las fuerzas vibratorias en individuos y grupos; el astro-sacerdote comprende la vida
-vibratoria de la humanidad. El científico es objetivo, el sacerdote es subjetivo; el artista
-puede ser lo uno o lo otro, dependiendo en cuál de las dos clasificaciones él se alinea más
-fuertemente. No obstante, la motivación del astro-sacerdote no es científica; él incluye ese
-nivel; pero sus extensiones incluyen los niveles superiores trascendentes de mente y
-corazón.
+Él conoce el sexo y el matrimonio porque ha destilado comprensión de sus encarnaciones como varón y como hembra; él conoce el estado de marido y el de esposa, la pasión y el sacrificio, la niñez y la paternidad o maternidad. Él sabe que lo exterior es un reflejo de lo interno y busca siempre, alinear las mentes de las personas, con esta verdad. Debido a que él ocupa la posición de intermediario entre la ignorancia y la instrucción del hombre, el astro-sacerdote realiza la misma función en su servicio astrológico que pueda desempeñar cualquier sacerdote en una religión ceremonial; como sacerdote, él “ve el problema” desde la posición ventajosa de la sabiduría. El astro-científico conoce el efecto de las fuerzas vibratorias en individuos y grupos; el astro-sacerdote comprende la vida vibratoria de la humanidad. El científico es objetivo, el sacerdote es subjetivo; el artista puede ser lo uno o lo otro, dependiendo en cuál de las dos clasificaciones él se alinea más fuertemente. No obstante, la motivación del astro-sacerdote no es científica; él incluye ese nivel; pero sus extensiones incluyen los niveles superiores trascendentes de mente y corazón.
 
-Los desenvolvimientos del astro-filósofo como maestro-sacerdote son muy
-interesantes porque la última fase de su “cruz” (los signos mutables) es la duodécima casa
-el final de la rueda. Como él es un compuesto de los dos primeros tipos, más otra cosa, sus
-estados de desarrollo envuelven pruebas y recompensas que son comparativamente
-mayores que aquellas de los otros dos.
+Los desenvolvimientos del astro-filósofo como maestro-sacerdote son muy interesantes porque la última fase de su “cruz” (los signos mutables) es la duodécima casa el final de la rueda. Como él es un compuesto de los dos primeros tipos, más otra cosa, sus estados de desarrollo envuelven pruebas y recompensas que son comparativamente mayores que aquellas de los otros dos.
 
-El astro-sacerdote, en su “estado primitivo” es el moralista, expresión secundaria de
-la novena casa. Sus interpretaciones literales de principio son necesarias porque él aún no
-ha tenido suficiente experiencia para completar su comprensión. En este nivel, el astro-
-sacerdote ve el mapa como la “representación del bien contra el mal”. Puesto que él mismo
-representa un punto de diferenciación de estos dos factores en la mente de sus clientes - y
-ellos son atraídos hacia él por el poder de la simpatía vibratoria - su “conciencia moral” es
-el punto focal de, sus interpretaciones. Él, con gran frecuencia, no puede percibir en este
-nivel, la “relatividad” de lo que él llama “bueno y malo” y lee en el mapa de sus clientes,
-sus propias normas. Él puede poseer lo mejor de los primeros dos tipos; pero su propia
-verdad aún no está desarrollada. La polaridad de la tercera casa es la novena y ésta, a su
-vez, es el resultado del cuadrante iniciado por la séptima casa y realizado por las
-transmutaciones de la octava casa. La comprensión resultante es lo que está representado
-por la novena y por eso es que el astro-filósofo, como maestro-sacerdote, se esfuerza, en su
-desenvolvimiento, como la puerta al cuarto cuadrante.
+El astro-sacerdote, en su “estado primitivo” es el moralista, expresión secundaria de la novena casa. Sus interpretaciones literales de principio son necesarias porque él aún no ha tenido suficiente experiencia para completar su comprensión. En este nivel, el astro- sacerdote ve el mapa como la “representación del bien contra el mal”. Puesto que él mismo representa un punto de diferenciación de estos dos factores en la mente de sus clientes - y ellos son atraídos hacia él por el poder de la simpatía vibratoria - su “conciencia moral” es el punto focal de, sus interpretaciones. Él, con gran frecuencia, no puede percibir en este nivel, la “relatividad” de lo que él llama “bueno y malo” y lee en el mapa de sus clientes, sus propias normas. Él puede poseer lo mejor de los primeros dos tipos; pero su propia verdad aún no está desarrollada. La polaridad de la tercera casa es la novena y ésta, a su vez, es el resultado del cuadrante iniciado por la séptima casa y realizado por las transmutaciones de la octava casa. La comprensión resultante es lo que está representado por la novena y por eso es que el astro-filósofo, como maestro-sacerdote, se esfuerza, en su desenvolvimiento, como la puerta al cuarto cuadrante.
 
-La tercera casa alcanza sus “florecimientos” en la séptima y undécima casas; en
-estos capítulos, el astro-sacerdote reconoce su paralelismo con toda la gente, a medida que
-su desenvolvimiento progresa por la trascendencia de la experiencia, él realiza la sabiduría
-del amor. Él conoce que el ser humano es una suspensión de lo cósmico en todas sus
-expresiones y en él mismo encuentra aquello que refleja la solución de los problemas de sus
-clientes. Luego vemos que la finalidad combinada del astro-filósofo es la apreciación que lo
-peor en su cliente ha sido lo peor suyo propio, en alguna época del pasado; lo mejor suyo es
-una iluminación en los rincones oscuros de las condiciones de su cliente y las reacciones a
-esas condiciones. Su sabiduría y su amor se vuelven insondables recursos para la
-reorientación de patrones humanos.
+La tercera casa alcanza sus “florecimientos” en la séptima y undécima casas; en estos capítulos, el astro-sacerdote reconoce su paralelismo con toda la gente, a medida que su desenvolvimiento progresa por la trascendencia de la experiencia, él realiza la sabiduría del amor. Él conoce que el ser humano es una suspensión de lo cósmico en todas sus expresiones y en él mismo encuentra aquello que refleja la solución de los problemas de sus clientes. Luego vemos que la finalidad combinada del astro-filósofo es la apreciación que lo peor en su cliente ha sido lo peor suyo propio, en alguna época del pasado; lo mejor suyo es una iluminación en los rincones oscuros de las condiciones de su cliente y las reacciones a esas condiciones. Su sabiduría y su amor se vuelven insondables recursos para la reorientación de patrones humanos.
 
 ### <h3 id="chapter-2">Capítulo II: La Astrología Trata sobre el Gobierno</h3>
 
-El gobierno es el “funcionamiento del Universo en conformidad con los Principios
-Cósmicos”. Es el Directivo Único que impele la causa de toda acción creadora y
-epigenética en el Cosmos y organiza y armoniza sus efectos. Siendo la expresión de la Sola
-Voluntad, el gobierno cósmico es Autocracia arquetípica; es el patrón raíz por el cual todo
-Logos ordena microcósmicamente la vida de su manifestación y es lo que en términos
-humanos designamos maestría. El gobierno, en cualquier octava, es un aspecto del Poder
-Directivo simbolizado por el Sol; todos los poderes planetarios son derivados de esta
-Unidad.
+El gobierno es el “funcionamiento del Universo en conformidad con los Principios Cósmicos”. Es el Directivo Único que impele la causa de toda acción creadora y epigenética en el Cosmos y organiza y armoniza sus efectos. Siendo la expresión de la Sola Voluntad, el gobierno cósmico es Autocracia arquetípica; es el patrón raíz por el cual todo Logos ordena microcósmicamente la vida de su manifestación y es lo que en términos humanos designamos maestría. El gobierno, en cualquier octava, es un aspecto del Poder Directivo simbolizado por el Sol; todos los poderes planetarios son derivados de esta Unidad.
 
-El diseño simbólico que llamamos “aspecto de cuadratura” - un cuadrado asentado
-sobre su base horizontal - es el gran símbolo de congestión comprimida de potencialidades.
-Está hecho de dos expresiones de la vertical dinámica y dos expresiones de la horizontal
-receptiva; representa la contigüidad de opuestos diametrales aparentemente en contienda
-mutua. La congestión tiene un efecto de degradación gravitante, de inhibición, de supresión
-de posibilidades de expresión y retraso de la acción expresiva y respondiente. Ella pinta una
-intensificación de la tendencia a la inercia que, después de cierto grado, es la muerte de la
-forma como vehículo del Espíritu. Esto describe el “reino del Diablo”, el dominio de la
-expresión por la supresión, la sumisión de la “marcha hacia adelante y hacia arriba” a la
-“marcha hacia adentro y hacia abajo”. El Espíritu, Poder Solar, en su expresión doble de
-Amor-Sabiduría, busca siempre, en la conciencia humana, destronar y desintegrar este
-“reinado de las tinieblas”.
+El diseño simbólico que llamamos “aspecto de cuadratura” - un cuadrado asentado sobre su base horizontal - es el gran símbolo de congestión comprimida de potencialidades. Está hecho de dos expresiones de la vertical dinámica y dos expresiones de la horizontal receptiva; representa la contigüidad de opuestos diametrales aparentemente en contienda mutua. La congestión tiene un efecto de degradación gravitante, de inhibición, de supresión de posibilidades de expresión y retraso de la acción expresiva y respondiente. Ella pinta una intensificación de la tendencia a la inercia que, después de cierto grado, es la muerte de la forma como vehículo del Espíritu. Esto describe el “reino del Diablo”, el dominio de la expresión por la supresión, la sumisión de la “marcha hacia adelante y hacia arriba” a la “marcha hacia adentro y hacia abajo”. El Espíritu, Poder Solar, en su expresión doble de Amor-Sabiduría, busca siempre, en la conciencia humana, destronar y desintegrar este “reinado de las tinieblas”.
 
-El símbolo del gobierno como Ordenamiento Cósmico o Arquetípico es el cuadrado
-diagonal. Éste es el cuadrado simétricamente balanceado, colocado sobre su ángulo
-inferior. Cada una de sus cuatro líneas es una diagonal simétrica, por lo tanto, cada una
-combina verticalidad y horizontalidad. Aquí vemos la diferencia, como símbolo de la
-conciencia, entre este cuadrado y el cuadrado estático. Por lo tanto, se representa un orden
-rítmico por el recorrido alrededor de su circunferencia. Cuando la cruz de los diámetros
-horizontal y vertical es incluida en este cuadrado, cada una de las dos líneas biseca un par
-de ángulos opuestos y la polaridad de cada punto del ángulo es de tal modo objetivada. Por
-medio de esta bisección cuádruple de los ángulos es exteriorizado el Masculino-Femenino
-del Varón-Hembra del Inmaduro-Maduro de microcosmos de cualquier arquetipo. Nosotros
-estamos interesados en seres humanos como individualizaciones del arquetipo
-“Humanidad”, así que, este cuadrado diagonal describe macrocósmicamente el gobierno de
-este arquetipo, y microcósmicamente la “conciencia de gobierno”, pasiva y activa, del ser
-humano individual.
+El símbolo del gobierno como Ordenamiento Cósmico o Arquetípico es el cuadrado diagonal. Éste es el cuadrado simétricamente balanceado, colocado sobre su ángulo inferior. Cada una de sus cuatro líneas es una diagonal simétrica, por lo tanto, cada una combina verticalidad y horizontalidad. Aquí vemos la diferencia, como símbolo de la conciencia, entre este cuadrado y el cuadrado estático. Por lo tanto, se representa un orden rítmico por el recorrido alrededor de su circunferencia. Cuando la cruz de los diámetros horizontal y vertical es incluida en este cuadrado, cada una de las dos líneas biseca un par de ángulos opuestos y la polaridad de cada punto del ángulo es de tal modo objetivada. Por medio de esta bisección cuádruple de los ángulos es exteriorizado el Masculino-Femenino del Varón-Hembra del Inmaduro-Maduro de microcosmos de cualquier arquetipo. Nosotros estamos interesados en seres humanos como individualizaciones del arquetipo “Humanidad”, así que, este cuadrado diagonal describe macrocósmicamente el gobierno de este arquetipo, y microcósmicamente la “conciencia de gobierno”, pasiva y activa, del ser humano individual.
 
-Ahora transportamos este símbolo a la octava del simbolismo astrológico. Coloque
-el símbolo circular del Sol en el centro (la unión de las dos líneas de la cruz) y los símbolos
-de Aries, Capricornio, Libra y Cáncer en los puntos angulares izquierdo, superior, derecho
-e inferior, respectivamente. El resultado es el Gran Mándala sin su círculo circundante - el
-“esqueleto” de la Humanidad como un arquetipo en evolución - no evolucionado - y el ser
-humano individual como un microcosmo en evolución epigenética. Trataremos sobre los
-“problemas” de “Gobierno de humanos por humanos” conforme se especializan en los tres
-tipos básicos de “ser gobernado”.
+Ahora transportamos este símbolo a la octava del simbolismo astrológico. Coloque el símbolo circular del Sol en el centro (la unión de las dos líneas de la cruz) y los símbolos de Aries, Capricornio, Libra y Cáncer en los puntos angulares izquierdo, superior, derecho e inferior, respectivamente. El resultado es el Gran Mándala sin su círculo circundante - el “esqueleto” de la Humanidad como un arquetipo en evolución - no evolucionado - y el ser humano individual como un microcosmo en evolución epigenética. Trataremos sobre los “problemas” de “Gobierno de humanos por humanos” conforme se especializan en los tres tipos básicos de “ser gobernado”.
 
-Considerando la esencia dinámica de Aries-Marte con la “personalidad” del
-arquetipo humano encarnado, nosotros estamos susceptibles a los “medios reguladores”
-representados por los otros tres puntos estructurales, todos los cuales son, hablando
-genéricamente, más femeninos que Aries. La polaridad femenina del Cosmos es la que
-recibe y da forma a las esencias dinámicas. Así como Aries, a través de Marte, “sopla sus
-energías desde el punto del Ascendente”. Capricornio-Saturno, Libra-Venus y Cáncer-Luna
-representan los organizadores y coordinadores de las expresiones vitales. “Aquello de
-donde Aries proviene - como la “cosa encarnada” en este mándala - es paternidad y
-maternidad por medio de la paternidad o maternidad, la forma individualizada es procreada,
-sostenida, protegida y alimentada.
-Por lo tanto, Cáncer-Capricornio como paternidad o maternidad arquetípica, es el
-primer coordinador – gobernador - de la expresión del individuo. El primero, de éstos, no
-obstante, es Cáncer el símbolo de la Matriz y el gran símbolo de la fuente seminal. Esto, en
-términos de grupo, es gobierno para la perpetuación y preservación de las formas; es la
-forma más primitiva de gobierno de grupo. El ser humano primitivo fue sometido por
-completo al poder directivo de los jefes de la tribu y su significación no era como un
-individuo para sí mismo, sino como un factor de la unidad tribal. Su evaluación para la
-tribu era física; su fuerza, proezas, habilidad combativa y generadora eran las señales
-inequívocas de su valor para la vida de la tribu. Su identidad era tribal, su virtud constituía
-la obediencia a los directivos de los jefes. En relación con ese directivo estrecho, él era un
-“niño” y niño permanecía hasta que, con el tiempo, él empezaba a realizar la conciencia de
-sí mismo como individuo. Aceptar el directivo externo incuestionable, irreflexivamente, es
-estar sujeto al principio paternal o maternal de gobierno, secular o religioso Y esto se aplica
-a la gente que vive ahora, al igual que a la gente que habitaba las junglas hace miles de
-años.
+Considerando la esencia dinámica de Aries-Marte con la “personalidad” del arquetipo humano encarnado, nosotros estamos susceptibles a los “medios reguladores” representados por los otros tres puntos estructurales, todos los cuales son, hablando genéricamente, más femeninos que Aries. La polaridad femenina del Cosmos es la que recibe y da forma a las esencias dinámicas. Así como Aries, a través de Marte, “sopla sus energías desde el punto del Ascendente”. Capricornio-Saturno, Libra-Venus y Cáncer-Luna representan los organizadores y coordinadores de las expresiones vitales. “Aquello de donde Aries proviene - como la “cosa encarnada” en este mándala - es paternidad y maternidad por medio de la paternidad o maternidad, la forma individualizada es procreada, sostenida, protegida y alimentada. Por lo tanto, Cáncer-Capricornio como paternidad o maternidad arquetípica, es el primer coordinador – gobernador - de la expresión del individuo. El primero, de éstos, no obstante, es Cáncer el símbolo de la Matriz y el gran símbolo de la fuente seminal. Esto, en términos de grupo, es gobierno para la perpetuación y preservación de las formas; es la forma más primitiva de gobierno de grupo. El ser humano primitivo fue sometido por completo al poder directivo de los jefes de la tribu y su significación no era como un individuo para sí mismo, sino como un factor de la unidad tribal. Su evaluación para la tribu era física; su fuerza, proezas, habilidad combativa y generadora eran las señales inequívocas de su valor para la vida de la tribu. Su identidad era tribal, su virtud constituía la obediencia a los directivos de los jefes. En relación con ese directivo estrecho, él era un “niño” y niño permanecía hasta que, con el tiempo, él empezaba a realizar la conciencia de sí mismo como individuo. Aceptar el directivo externo incuestionable, irreflexivamente, es estar sujeto al principio paternal o maternal de gobierno, secular o religioso Y esto se aplica a la gente que vive ahora, al igual que a la gente que habitaba las junglas hace miles de años.
 
-Los gobiernos que fomentan tales actitudes en su pueblo como adhesión ciega,
-irreflexiva, en cualquier forma, a semejante concepto como el de la “Madre Iglesia”,
-patriotismo fanático, dependencia de la opinión grupal y del sentimiento grupal para su
-guía, prejuicio y odio racial, o propensión habitual a la subvención del gobierno para el
-sostenimiento material, son los que están funcionando como moldes externos de una
-conciencia muy limitada. Ellos tienen su destino kármico y evolutivo, y Como Tales Ellos
-Son Buenos. Pero ningún gobierno de esta clase fue, ni puede ser, un patrón permanente
-para ningún grupo porque su función esencial es coordinar y enfocar un estado primitivo
-colectivo. La evolución sirve para trascender el estado primitivo en cualquier octava.
-Cáncer-Capricornio es estructura arquetípica; es el símbolo de la seguridad para el
-subconsciente de la humanidad. Simboliza “aquello que fue”, y la gente primitiva
-(ignorante, temerosa) se apega a un estado externo establecido (padres, hogar, iglesia,
-concepto de nacionalidad, etcétera) para lograr la seguridad. El gobierno que se congestiona
-en esta función, desalienta el esfuerzo y el pensamiento del individuo; y en ese rumbo se
-halla el sendero hacia la dictadura, que es “gobierno paternal” que se ha dejado convertir en
-instrumento para una conciencia de poder negativa, intensamente centralizada (de un
-individuo o un grupo de individuos o naciones aliados). En tiempos primitivos la gente
-medraba y progresaba bajo la administración protectora de hombres relativamente sabios;
-pero el mismo tipo básico de gobierno, en manos de personas sin conciencia y sin corazón,
-convierte la cualidad paternal en tiranía, por la cual los residuos colectivos de odios, codicia
-y crueldades se enfocan en las ansias de poder del gobernador que personifica una nación
-semejante. Este tipo de gobierno se Degenera desde el momento en que el bienestar del
-pueblo en conjunto es desconsiderado o cuando la iniciativa y la expresión individuales son
-debilitadas por la prodigalidad. El exceso de protección y liberalidad están tan en
-desacuerdo con los principios gubernamentales como lo son la supresión cruel y la
-desconsideración a los derechos humanos. Nadie evoluciona si copia en su vida personal el
-ejemplo degenerado de malos gobernantes; él simplemente acrecienta poder negativo al
-“poder para el mal” del gobernante y añade a la colectividad, el mal congestionado, de sus
-semejantes. Aceptar la munificencia nacional o gubernamental como una “asistencia
-oportuna” y usarla para su propósito (para continuar de nuevo) está de acuerdo con el
-principio del tipo de gobierno; habituarse a aceptar auxilio del “Gobierno-Padre-Madre” es
-traicionar los incentivos de uno para el crecimiento, la realización y la madurez. (Padre -
-gobernantes de sus círculos familiares - ¿alientan ustedes la dependencia en sus hijos? ¿O
-alientan ustedes el ejercicio de la razón y la habilidad para que sus hijos puedan desarrollar
-rítmicamente la madurez de la confianza propia?).
-En verdad, algunos adultos están tan condicionados que ellos se sienten que no
-tienen razón de existir a menos que alguien esté recostado sobre ellos; prefieren “sentirse
-fuertes por la comparación” que tratar de estimular las habilidades individuales del más
-débil. Ellos están funcionando, subconscientemente, para tratar de compensar un complejo
-de culpabilidad (responsabilidad incumplida). Ellos resienten cualquier intento de la
-“persona más débil” de desarrollar sus propias potencialidades y son en este respecto, no
-muy diferentes de algunos políticos que prometen darlo todo por un voto. Piense sobre esto
-en término de las condiciones actuales. Ser prominente y estar altamente colocado, ser
-llamado maravilloso, grande, bondadoso, generoso, etcétera, es el todo y el fin de lo que
-ellos llaman felicidad; y ellos están condicionados - y deseosos - de dar cualquier cosa en
-pago de esta clase de aprobación. Una familia formada por dos padres semejantes, una
-nación dirigida por un gobernante tal, lograrán casi los mismos resultados: un hijo parásito,
-inseguro, por una parte, y una masa de ciudadanos inseguros e irresponsables por la otra.
+Los gobiernos que fomentan tales actitudes en su pueblo como adhesión ciega, irreflexiva, en cualquier forma, a semejante concepto como el de la “Madre Iglesia”, patriotismo fanático, dependencia de la opinión grupal y del sentimiento grupal para su guía, prejuicio y odio racial, o propensión habitual a la subvención del gobierno para el sostenimiento material, son los que están funcionando como moldes externos de una conciencia muy limitada. Ellos tienen su destino kármico y evolutivo, y Como Tales Ellos Son Buenos. Pero ningún gobierno de esta clase fue, ni puede ser, un patrón permanente para ningún grupo porque su función esencial es coordinar y enfocar un estado primitivo colectivo. La evolución sirve para trascender el estado primitivo en cualquier octava. Cáncer-Capricornio es estructura arquetípica; es el símbolo de la seguridad para el subconsciente de la humanidad. Simboliza “aquello que fue”, y la gente primitiva (ignorante, temerosa) se apega a un estado externo establecido (padres, hogar, iglesia, concepto de nacionalidad, etcétera) para lograr la seguridad. El gobierno que se congestiona en esta función, desalienta el esfuerzo y el pensamiento del individuo; y en ese rumbo se halla el sendero hacia la dictadura, que es “gobierno paternal” que se ha dejado convertir en instrumento para una conciencia de poder negativa, intensamente centralizada (de un individuo o un grupo de individuos o naciones aliados). En tiempos primitivos la gente medraba y progresaba bajo la administración protectora de hombres relativamente sabios; pero el mismo tipo básico de gobierno, en manos de personas sin conciencia y sin corazón, convierte la cualidad paternal en tiranía, por la cual los residuos colectivos de odios, codicia y crueldades se enfocan en las ansias de poder del gobernador que personifica una nación semejante. Este tipo de gobierno se Degenera desde el momento en que el bienestar del pueblo en conjunto es desconsiderado o cuando la iniciativa y la expresión individuales son debilitadas por la prodigalidad. El exceso de protección y liberalidad están tan en desacuerdo con los principios gubernamentales como lo son la supresión cruel y la desconsideración a los derechos humanos. Nadie evoluciona si copia en su vida personal el ejemplo degenerado de malos gobernantes; él simplemente acrecienta poder negativo al “poder para el mal” del gobernante y añade a la colectividad, el mal congestionado, de sus semejantes. Aceptar la munificencia nacional o gubernamental como una “asistencia oportuna” y usarla para su propósito (para continuar de nuevo) está de acuerdo con el principio del tipo de gobierno; habituarse a aceptar auxilio del “Gobierno-Padre-Madre” es traicionar los incentivos de uno para el crecimiento, la realización y la madurez. (Padre - gobernantes de sus círculos familiares - ¿alientan ustedes la dependencia en sus hijos? ¿O alientan ustedes el ejercicio de la razón y la habilidad para que sus hijos puedan desarrollar rítmicamente la madurez de la confianza propia?). En verdad, algunos adultos están tan condicionados que ellos se sienten que no tienen razón de existir a menos que alguien esté recostado sobre ellos; prefieren “sentirse fuertes por la comparación” que tratar de estimular las habilidades individuales del más débil. Ellos están funcionando, subconscientemente, para tratar de compensar un complejo de culpabilidad (responsabilidad incumplida). Ellos resienten cualquier intento de la “persona más débil” de desarrollar sus propias potencialidades y son en este respecto, no muy diferentes de algunos políticos que prometen darlo todo por un voto. Piense sobre esto en término de las condiciones actuales. Ser prominente y estar altamente colocado, ser llamado maravilloso, grande, bondadoso, generoso, etcétera, es el todo y el fin de lo que ellos llaman felicidad; y ellos están condicionados - y deseosos - de dar cualquier cosa en pago de esta clase de aprobación. Una familia formada por dos padres semejantes, una nación dirigida por un gobernante tal, lograrán casi los mismos resultados: un hijo parásito, inseguro, por una parte, y una masa de ciudadanos inseguros e irresponsables por la otra.
 
-La polarización de este tipo gubernamental es Capricornio. La vibración de Saturno,
-símbolo del tipo aristocrático de gobierno. Su palabra clave es Jerarquía: es el primer tipo
-extendido a mucho más difusión de expresión por muchas clases que, congestionadas e
-irredimidas, resulta en infamia de casta. Cuando está cultivada ella proporciona la
-manifestación de la cultura y el refinamiento (externamente, por lo menos) y el ejercicio de
-la abundancia a través de riqueza para propósitos artísticos y educativos. El vicio de este
-tipo de gobierno se observa en el énfasis de la superficialidad (ascendencia, antecedentes de
-familia, el dinero) como normas por las cuales es valorado el individuo. La regla o lema:
-“Mientras tanto que aparezca bien, ello es bueno”, es típico de la evolución superficial de
-este tipo. La ambición de lograr un puesto en la jerarquía toma el lugar de la aspiración de
-realizar el mejoramiento propio; la adherencia a normas cristalizadas formales de conducta,
-de pensamiento y de creencia, puede designar la identidad de un “miembro en buena
-reputación”, pero escasamente puede tomarse como la identidad de una persona que está
-ejercitando sus valores y capacidades individuales. Saturno, la condensación de matriz,
-caracteriza este tipo a través de la tendencia de resistir tercamente a los cambios
-necesitados; el mantenimiento de formas establecidas se convierte en un propósito tan fijo
-que los adelantos de beneficio para todos son ignorados o desdeñados. La práctica por
-largos períodos de tiempo, del capital congestionarse en puntos específicos de la jerarquía
-engendra la corrupción, porque desalienta el ejercicio individual. El “fluido” monetario - la
-sangre vital del cambio práctico - es un medio por el cual los ser-es humanos pueden lograr
-ciertos beneficios mediante el uso de sus facultades e inteligencia individuales. Cuando es
-transmitido a través de generaciones en una esfera relativamente limitada se convierte en
-una “prueba kármica” para individuos tomarla y usarla sin hacer esfuerzo para ellos
-mismos y de ese modo debilitarse, o hace posible una compensación material, de naturaleza
-kármica, a aquellos que están condicionados a usar sabiamente el mejoramiento, el
-progreso y el bienestar de ellos mismos y de otros. Sin embargo, un verdadero aristócrata
-no necesita antecedentes de familia, esto y aquello de linaje, tanta riqueza heredada y tal o
-cual “posición” para demostrar el refinamiento de su naturaleza y sus inclinaciones. Él
-agracia y embellece cualquier “puesto que Dios haya creído propio para él”, su influencia
-es de refinamiento, en todos los que lo conocen. El gobierno aristocrático que utiliza al
-público, pero que ha olvidado que él también tiene un patrón de servicio que cumplir al
-público, traiciona sus mejores cualidades. El tener las ventajas de la educación y no usarlas
-para mayor bien, tener acceso a grandes sumas de dinero y congestionarse en trivialidades,
-desdeñar a sus semejantes por diferencia de posición, no es aristocracia: tan sólo es una
-sombra de su máscara. Y la máscara sonríe cínica y feamente. La aristocracia da a la
-humanidad la oportunidad de observar su conciencia colectiva de la separatividad en la
-acción.
-El estudio de gobiernos aristocráticos a través de varios períodos históricos y en
-diferentes naciones nos dice lo que finalmente ocurre cuando nosotros, por un concepto
-ilusorio, tratamos de separar de nuestros semejantes, nuestros patrones de destino comunes.
-Este concepto difundido a través del mecanismo de la religión organizada, cristiana u otra,
-ha resultado en algunas de las más terribles causas kármicas porque por su propia
-naturaleza, trata de combatir aquello mismo que toda religión trata de establecer: el siempre
-clarificado sentido de la Unidad (de Dios y de la Vida) en la conciencia humana. El padre,
-separado en su conciencia, de su hijo como semejante humano, dice: “Haz lo que te digo.
-Yo soy tu padre”. No hay nada en una manifestación semejante que apele a la razón o al
-corazón del niño. Ello sirve para intensificar su sentimiento de diferencia de inferioridad en
-relación subordinada a su padre en lugar de aumentar la confraternidad.
+La polarización de este tipo gubernamental es Capricornio. La vibración de Saturno, símbolo del tipo aristocrático de gobierno. Su palabra clave es Jerarquía: es el primer tipo extendido a mucho más difusión de expresión por muchas clases que, congestionadas e irredimidas, resulta en infamia de casta. Cuando está cultivada ella proporciona la manifestación de la cultura y el refinamiento (externamente, por lo menos) y el ejercicio de la abundancia a través de riqueza para propósitos artísticos y educativos. El vicio de este tipo de gobierno se observa en el énfasis de la superficialidad (ascendencia, antecedentes de familia, el dinero) como normas por las cuales es valorado el individuo. La regla o lema: “Mientras tanto que aparezca bien, ello es bueno”, es típico de la evolución superficial de este tipo. La ambición de lograr un puesto en la jerarquía toma el lugar de la aspiración de realizar el mejoramiento propio; la adherencia a normas cristalizadas formales de conducta, de pensamiento y de creencia, puede designar la identidad de un “miembro en buena reputación”, pero escasamente puede tomarse como la identidad de una persona que está ejercitando sus valores y capacidades individuales. Saturno, la condensación de matriz, caracteriza este tipo a través de la tendencia de resistir tercamente a los cambios necesitados; el mantenimiento de formas establecidas se convierte en un propósito tan fijo que los adelantos de beneficio para todos son ignorados o desdeñados. La práctica por largos períodos de tiempo, del capital congestionarse en puntos específicos de la jerarquía engendra la corrupción, porque desalienta el ejercicio individual. El “fluido” monetario - la sangre vital del cambio práctico - es un medio por el cual los ser-es humanos pueden lograr ciertos beneficios mediante el uso de sus facultades e inteligencia individuales. Cuando es transmitido a través de generaciones en una esfera relativamente limitada se convierte en una “prueba kármica” para individuos tomarla y usarla sin hacer esfuerzo para ellos mismos y de ese modo debilitarse, o hace posible una compensación material, de naturaleza kármica, a aquellos que están condicionados a usar sabiamente el mejoramiento, el progreso y el bienestar de ellos mismos y de otros. Sin embargo, un verdadero aristócrata no necesita antecedentes de familia, esto y aquello de linaje, tanta riqueza heredada y tal o cual “posición” para demostrar el refinamiento de su naturaleza y sus inclinaciones. Él agracia y embellece cualquier “puesto que Dios haya creído propio para él”, su influencia es de refinamiento, en todos los que lo conocen. El gobierno aristocrático que utiliza al público, pero que ha olvidado que él también tiene un patrón de servicio que cumplir al público, traiciona sus mejores cualidades. El tener las ventajas de la educación y no usarlas para mayor bien, tener acceso a grandes sumas de dinero y congestionarse en trivialidades, desdeñar a sus semejantes por diferencia de posición, no es aristocracia: tan sólo es una sombra de su máscara. Y la máscara sonríe cínica y feamente. La aristocracia da a la humanidad la oportunidad de observar su conciencia colectiva de la separatividad en la acción. El estudio de gobiernos aristocráticos a través de varios períodos históricos y en diferentes naciones nos dice lo que finalmente ocurre cuando nosotros, por un concepto ilusorio, tratamos de separar de nuestros semejantes, nuestros patrones de destino comunes. Este concepto difundido a través del mecanismo de la religión organizada, cristiana u otra, ha resultado en algunas de las más terribles causas kármicas porque por su propia naturaleza, trata de combatir aquello mismo que toda religión trata de establecer: el siempre clarificado sentido de la Unidad (de Dios y de la Vida) en la conciencia humana. El padre, separado en su conciencia, de su hijo como semejante humano, dice: “Haz lo que te digo. Yo soy tu padre”. No hay nada en una manifestación semejante que apele a la razón o al corazón del niño. Ello sirve para intensificar su sentimiento de diferencia de inferioridad en relación subordinada a su padre en lugar de aumentar la confraternidad.
 
-La “Egoidad” de Aries como Ascendente de este mándala pinta a la Humanidad
-como un gobernador propio potencial porque por atributo es un manifestador
-individualizado. La mayor parte de nosotros por lo general no tenemos la conciencia de
-poder para gobernarnos a nosotros mismos, menos aún para gobernar a otros. Pero, como
-somos manifestadores, nosotros influimos (una octava microcósmica de gobernación) en
-otros por todo lo que pensamos, sentimos, decimos y hacemos. Hay sólo un Ascendente,
-arquetípico o concretamente, y como la gobernación es el ordenamiento del Cosmos,
-nosotros podemos mejorar la cualidad de nuestra influencia sobre otras personas. Es cierto,
-y éste es un punto interesante, que nosotros no podemos gobernar ni influir sobre nadie que
-nos es indiferente o que está más perfectamente organizado que nosotros: estamos influidos
-por esas personas mucho más de lo que podemos afectarlas. Por lo tanto, tenemos que
-gobernarnos mejor a nosotros mismos para que podamos atraer mejor “influencia de
-gobernación” de los otros. Aplique esto a la relación de la colectividad de una nación a sus
-regentes hereditarios o electos. Fíjese a la historia de la civilización de Francia bajo los
-reinados de Luis XIV, XV y XVI. La corrupción y el cinismo de los dos primeros
-exteriorizaba perfectamente gran parte de lo que estaba degenerado en los conceptos de
-vida generales del pueblo. La ineficacia de Luis XVI hizo posible a las fuerzas
-disgregativas de la rebelión - él no podía defender ni aún la clase que representaba -
-disolver la cristalización de esa fuerza particular de gobierno aristocrático y preparar el
-terreno para la forma más democrática.
+La “Egoidad” de Aries como Ascendente de este mándala pinta a la Humanidad como un gobernador propio potencial porque por atributo es un manifestador individualizado. La mayor parte de nosotros por lo general no tenemos la conciencia de poder para gobernarnos a nosotros mismos, menos aún para gobernar a otros. Pero, como somos manifestadores, nosotros influimos (una octava microcósmica de gobernación) en otros por todo lo que pensamos, sentimos, decimos y hacemos. Hay sólo un Ascendente, arquetípico o concretamente, y como la gobernación es el ordenamiento del Cosmos, nosotros podemos mejorar la cualidad de nuestra influencia sobre otras personas. Es cierto, y éste es un punto interesante, que nosotros no podemos gobernar ni influir sobre nadie que nos es indiferente o que está más perfectamente organizado que nosotros: estamos influidos por esas personas mucho más de lo que podemos afectarlas. Por lo tanto, tenemos que gobernarnos mejor a nosotros mismos para que podamos atraer mejor “influencia de gobernación” de los otros. Aplique esto a la relación de la colectividad de una nación a sus regentes hereditarios o electos. Fíjese a la historia de la civilización de Francia bajo los reinados de Luis XIV, XV y XVI. La corrupción y el cinismo de los dos primeros exteriorizaba perfectamente gran parte de lo que estaba degenerado en los conceptos de vida generales del pueblo. La ineficacia de Luis XVI hizo posible a las fuerzas disgregativas de la rebelión - él no podía defender ni aún la clase que representaba - disolver la cristalización de esa fuerza particular de gobierno aristocrático y preparar el terreno para la forma más democrática.
 
-Si nuestro propósito de vida requiere que ejerzamos poder en puestos públicos,
-entonces sabemos que tenemos la oportunidad de colocarnos como símbolos de buena
-influencia o de mala influencia; nosotros simbolizaremos lo que concibamos que son los
-principios de gobierno. Podemos permanecer congestionados en nuestra ignorancia de estos
-principios y por lo tanto reflejar la ignorancia de la gente que representamos o podemos
-adaptarnos para aprender y así simbolizar una cualidad de vibración de poder en
-mejoramiento continuo.
+Si nuestro propósito de vida requiere que ejerzamos poder en puestos públicos, entonces sabemos que tenemos la oportunidad de colocarnos como símbolos de buena influencia o de mala influencia; nosotros simbolizaremos lo que concibamos que son los principios de gobierno. Podemos permanecer congestionados en nuestra ignorancia de estos principios y por lo tanto reflejar la ignorancia de la gente que representamos o podemos adaptarnos para aprender y así simbolizar una cualidad de vibración de poder en mejoramiento continuo.
 
-Tomando en consideración el Gran Mándala vemos que el diámetro Cáncer-
-Capricornio - como “línea de los padres” - ejemplifica el patrón de “gobierno del pueblo
-por el pueblo”: los dos tipos de gobierno representado son el comunal (Cáncer) y el
-aristocrático (Capricornio). Consideremos ahora la significación de Aries como expresión
-de regencia individual:
+Tomando en consideración el Gran Mándala vemos que el diámetro Cáncer- Capricornio - como “línea de los padres” - ejemplifica el patrón de “gobierno del pueblo por el pueblo”: los dos tipos de gobierno representado son el comunal (Cáncer) y el aristocrático (Capricornio). Consideremos ahora la significación de Aries como expresión de regencia individual:
 
-La cualidad de “YO SOY” de este signo simboliza el sentido de la seidad
-individualizada. Puesto que es aquello que hace posible toda expresión como
-individualización personal, es también aquello por medio de lo cual todas las octavas de
-regencia humana se hacen posibles. Un gobernante - de cualquier clase - no puede ser en
-ningún momento más de lo que él es como ser humano individual: la expresión de su
-regencia es proyectada a través de la conciencia de sí mismo como persona. Tenga en
-mente que la gobernación, en el sentido político, es una extensión de la paternidad o
-maternidad. Las mismas palabras claves que se aplican a diferentes tipos de gobernadores,
-se aplican también, en su sentido más localizado, a diferentes tipos de padres. Esto es así
-porque la cualidad matriz del diámetro Cáncer-Capricornio designa nuestra ciudadanía en
-el grupo de la familia y en el grupo de la nación en los cuales encarnamos por ley kármica y
-atracción vibratoria.
+La cualidad de “YO SOY” de este signo simboliza el sentido de la seidad individualizada. Puesto que es aquello que hace posible toda expresión como individualización personal, es también aquello por medio de lo cual todas las octavas de regencia humana se hacen posibles. Un gobernante - de cualquier clase - no puede ser en ningún momento más de lo que él es como ser humano individual: la expresión de su regencia es proyectada a través de la conciencia de sí mismo como persona. Tenga en mente que la gobernación, en el sentido político, es una extensión de la paternidad o maternidad. Las mismas palabras claves que se aplican a diferentes tipos de gobernadores, se aplican también, en su sentido más localizado, a diferentes tipos de padres. Esto es así porque la cualidad matriz del diámetro Cáncer-Capricornio designa nuestra ciudadanía en el grupo de la familia y en el grupo de la nación en los cuales encarnamos por ley kármica y atracción vibratoria.
 
-La octava vibratoria más baja de Marte se ve que está en su función como liberador
-de las compresiones de Plutón-Escorpión. Éste es el regente como dictador autocrático. Su
-“YO SOY” es “Yo Soy un símbolo personalizado de las congestiones de ignorancias, odios
-y codicias de mis súbditos”. El zar ruso, Iván el Terrible, fue un perfecto ejemplo de este
-tipo de gobernante; su pueblo fue un lote bárbaro, ignorante y brutal, y su subordinación a
-su gobierno infamemente despótico era el epítome de la esclavitud. La siguiente octava -
-sincronizando con las necesidades evolutivas del pueblo ruso - fue ejemplificada por Pedro
-el Grande. Todo lo despótico que fue “el Terrible”, este hombre funcionó en una octava
-más alta de percepción y propósito. Su voluntad, enfocada enormemente, sirvió para
-coordinar su pueblo y él trabajó durante años para desarrollar y extender el poder
-económico de su país y traerle a éste, por lo menos, los vestigios de la cultura occidental
-europea. En este tipo de gobernante las características de insensibilidad, brutalidad violenta,
-egotismo, y la falta de compasión, están fuertemente pronunciadas. Su egotismo, sin
-embargo, sirve un propósito muy importante: el de soldar la nación en una identidad y
-unidad coherentes. El “Yo Soy” latente de la vibración grupal de la nación es encendido por
-el poder del “Yo Soy” personal del regente autocrático. El “Yo Soy” de un regente
-aristocrático degenerado está ejemplificado en el carácter y personalidad del rey Luis XV
-de Francia. La vacuidad y el cinismo de este hombre, símbolo del gobernante de uno de los
-períodos más degenerados y corruptos en la historia de esta nación, exteriorizó
-perfectamente los negativos cristalizados de este tipo de gobierno - el de la jerarquía - la
-forma que provee puntos de concentración de poder dentro del edificio nacional. Un
-ejemplo de este tipo de gobierno regenerado - y ella fue un ejemplo notable - fue la gran
-reina Isabel de Inglaterra. Culta, de una erudición enorme, consagrada al progreso y
-bienestar de su país con todas las fibras de su ser, esta brillante e intrépida mujer simbolizó
-las aspiraciones culturales y económicas de su pueblo vigoroso y emprendedor. Ella fue
-definitivamente una figura superior a muchos de esos gobernantes de sociedades con la
-conciencia de clases, en que su intenso amor patriótico la hacía aborrecer la guerra y la
-destrucción; ella ha sido considerada como la más humanamente motivada e iluminada
-regente de su época y una de las soberanas más sobresalientes en la historia humana. La
-unificación de su país como poder mundial, bajo una motivación de intenso orgullo
-nacional, recalcó la cualidad Capricorniana de superioridad que caracteriza a esta nación:
-un ejemplo interesante de la modalidad de personalidad nacional. Degradaciones
-adicionales de concepto jerárquico - y éste en la forma más cristalizada - se ven en el
-concepto milenario de casta en la India, disuelto tan sólo recientemente. Este concepto
-(derivado de la idea humana imaginaría sobre la Jerarquía Cósmica) proporcionó esclavitud
-kármica a millones de seres humanos por muchas épocas.
+La octava vibratoria más baja de Marte se ve que está en su función como liberador de las compresiones de Plutón-Escorpión. Éste es el regente como dictador autocrático. Su “YO SOY” es “Yo Soy un símbolo personalizado de las congestiones de ignorancias, odios y codicias de mis súbditos”. El zar ruso, Iván el Terrible, fue un perfecto ejemplo de este tipo de gobernante; su pueblo fue un lote bárbaro, ignorante y brutal, y su subordinación a su gobierno infamemente despótico era el epítome de la esclavitud. La siguiente octava - sincronizando con las necesidades evolutivas del pueblo ruso - fue ejemplificada por Pedro el Grande. Todo lo despótico que fue “el Terrible”, este hombre funcionó en una octava más alta de percepción y propósito. Su voluntad, enfocada enormemente, sirvió para coordinar su pueblo y él trabajó durante años para desarrollar y extender el poder económico de su país y traerle a éste, por lo menos, los vestigios de la cultura occidental europea. En este tipo de gobernante las características de insensibilidad, brutalidad violenta, egotismo, y la falta de compasión, están fuertemente pronunciadas. Su egotismo, sin embargo, sirve un propósito muy importante: el de soldar la nación en una identidad y unidad coherentes. El “Yo Soy” latente de la vibración grupal de la nación es encendido por el poder del “Yo Soy” personal del regente autocrático. El “Yo Soy” de un regente aristocrático degenerado está ejemplificado en el carácter y personalidad del rey Luis XV de Francia. La vacuidad y el cinismo de este hombre, símbolo del gobernante de uno de los períodos más degenerados y corruptos en la historia de esta nación, exteriorizó perfectamente los negativos cristalizados de este tipo de gobierno - el de la jerarquía - la forma que provee puntos de concentración de poder dentro del edificio nacional. Un ejemplo de este tipo de gobierno regenerado - y ella fue un ejemplo notable - fue la gran reina Isabel de Inglaterra. Culta, de una erudición enorme, consagrada al progreso y bienestar de su país con todas las fibras de su ser, esta brillante e intrépida mujer simbolizó las aspiraciones culturales y económicas de su pueblo vigoroso y emprendedor. Ella fue definitivamente una figura superior a muchos de esos gobernantes de sociedades con la conciencia de clases, en que su intenso amor patriótico la hacía aborrecer la guerra y la destrucción; ella ha sido considerada como la más humanamente motivada e iluminada regente de su época y una de las soberanas más sobresalientes en la historia humana. La unificación de su país como poder mundial, bajo una motivación de intenso orgullo nacional, recalcó la cualidad Capricorniana de superioridad que caracteriza a esta nación: un ejemplo interesante de la modalidad de personalidad nacional. Degradaciones adicionales de concepto jerárquico - y éste en la forma más cristalizada - se ven en el concepto milenario de casta en la India, disuelto tan sólo recientemente. Este concepto (derivado de la idea humana imaginaría sobre la Jerarquía Cósmica) proporcionó esclavitud kármica a millones de seres humanos por muchas épocas.
 
-Ha habido varios ejemplos extraordinarios de gobierno de Cáncer. Éste es el tipo de
-gobierno que está enfocado en la perpetuidad del bienestar, material o espiritual. La
-corrupción de este patrón se observa cuando se da dinero, alimentos, entretenimientos,
-etcétera, al populacho, por individuos como los gobernantes romanos Nerón y Calígula. En
-estos casos, un gesto externo de interés por el público, enmascaraba un temor y una codicia
-horribles. Ellos ejemplificaban, en su política de dar, los peores aspectos de este patrón de
-gobierno. En el gobierno regenerado de la religión humana de los cuáqueros, vemos uno de
-los mejores ejemplos de este tipo de gobierno en los tiempos modernos. Su política de
-pacifismo universal, es, por supuesto, una motivación espiritual de tremendo poder para el
-bien en el mundo. Su contribución al bienestar humano ha sido extraordinaria. La
-administración del Ejército de Salvación es otro ejemplo. El servicio de enseñanza y
-curación prestado por ciertas órdenes religiosas representa un excelente aspecto de este
-concepto de gobierno. Aún aquellos que funcionan completamente en las llamadas
-“ordenes contemplativas”, efectúan, si están suficientemente evolucionados, una
-contribución redentora notable por medio de su trabajo en los planos internos; este servicio
-no es percibido u observado por el mundo exterior: es un nutrimento, vibratorio basado en
-la renunciación de la conciencia de la personalidad. En verdad, podemos considerar que la
-vibración de Júpiter, como significador de la casa novena abstracta, está mezclada con la
-vibración de la Luna-Cáncer para designar la esencia de gobernación por la organización de
-la autoridad religiosa. Usted puede disfrutar del estudio de biografías de gobernantes desde
-el iluminado Faraón Aknatón, a través de las edades y llegar a una comprensión más clara
-de cómo los gobernantes, como seres humanos individuales, personifican el inconsciente
-colectivo, la ignorancia y congestión colectiva y las necesidades evolutivas de la plebe. Es
-un estudio fascinante al que todo estudiante de ocultismo y filosofía debe prestarle algún
-tiempo y consideración.
+Ha habido varios ejemplos extraordinarios de gobierno de Cáncer. Éste es el tipo de gobierno que está enfocado en la perpetuidad del bienestar, material o espiritual. La corrupción de este patrón se observa cuando se da dinero, alimentos, entretenimientos, etcétera, al populacho, por individuos como los gobernantes romanos Nerón y Calígula. En estos casos, un gesto externo de interés por el público, enmascaraba un temor y una codicia horribles. Ellos ejemplificaban, en su política de dar, los peores aspectos de este patrón de gobierno. En el gobierno regenerado de la religión humana de los cuáqueros, vemos uno de los mejores ejemplos de este tipo de gobierno en los tiempos modernos. Su política de pacifismo universal, es, por supuesto, una motivación espiritual de tremendo poder para el bien en el mundo. Su contribución al bienestar humano ha sido extraordinaria. La administración del Ejército de Salvación es otro ejemplo. El servicio de enseñanza y curación prestado por ciertas órdenes religiosas representa un excelente aspecto de este concepto de gobierno. Aún aquellos que funcionan completamente en las llamadas “ordenes contemplativas”, efectúan, si están suficientemente evolucionados, una contribución redentora notable por medio de su trabajo en los planos internos; este servicio no es percibido u observado por el mundo exterior: es un nutrimento, vibratorio basado en la renunciación de la conciencia de la personalidad. En verdad, podemos considerar que la vibración de Júpiter, como significador de la casa novena abstracta, está mezclada con la vibración de la Luna-Cáncer para designar la esencia de gobernación por la organización de la autoridad religiosa. Usted puede disfrutar del estudio de biografías de gobernantes desde el iluminado Faraón Aknatón, a través de las edades y llegar a una comprensión más clara de cómo los gobernantes, como seres humanos individuales, personifican el inconsciente colectivo, la ignorancia y congestión colectiva y las necesidades evolutivas de la plebe. Es un estudio fascinante al que todo estudiante de ocultismo y filosofía debe prestarle algún tiempo y consideración.
 
-Ahora acometeremos el estudio de los principios de gobierno según están
-designados simbólicamente por la exaltación de los planetas. Éstos representan el gobierno
-por maestría relativa: la expresión, como regencia, del poder solar por seres humanos de
-alto nivel evolutivo (de dignidad real) que tiene, como propósito, la iluminación de la
-conciencia humana. Este abordaje a la gobernación revela los atributos espirituales
-inherentes a cada tipo así como las obligaciones espirituales concurrentes a esta forma de
-servicio.
+Ahora acometeremos el estudio de los principios de gobierno según están designados simbólicamente por la exaltación de los planetas. Éstos representan el gobierno por maestría relativa: la expresión, como regencia, del poder solar por seres humanos de alto nivel evolutivo (de dignidad real) que tiene, como propósito, la iluminación de la conciencia humana. Este abordaje a la gobernación revela los atributos espirituales inherentes a cada tipo así como las obligaciones espirituales concurrentes a esta forma de servicio.
 
-La primera de éstas es la exaltación del Sol mismo, en el signo de Aries. La
-identidad es “Yo Soy un Hijo Engendrado, o Hija, del Padre-Madre Dios”. Ésta es la
-identidad del nacimiento espiritual y la conciencia de poseer atributos divinos. La regencia
-implicada por esta vibración es el dominio propio que es la fuente de la cual son derivados
-todos los demás gobiernos espirituales y de la cual son emanadas toda expresión de amor y
-de sabiduría trascendentes. Los reyes-sacerdotes del antiguo Egipto, bellamente descritos
-por Joan Grant en su magnífico libro El Faraón Alado, ejemplifica este tipo. Estos grandes
-gobernantes fueron probados espiritualmente por sus cualificaciones de servir como
-regentes de sus pueblos en lo que fue una de las épocas más sobresalientes de la historia
-humana. Puesto que las especializaciones son emanadas del Uno, este punto de exaltación
-del Sol enriquece todos los tipos de gobierno espiritual. El regente de Aries, Marte, está
-exaltado en Capricornio. En este estudio, aparece que Capricornio simboliza el concepto
-jerárquico del gobierno aristocrático; la especialización de “clases” refleja (lo que debiera
-ser) las gradaciones de evolución espiritual. La religión Brahamánica de la India fue basada
-originalmente sobre este concepto. Platón habló del “mando por los elegidos filosóficos”.
-La exaltación de Marte en Capricornio, en términos genéticos, es la madurez del principio
-masculino en el cumplimiento de la responsabilidad. Ahí se ve la cualificación espiritual
-que designa a los verdaderos gobernantes en un gobierno jerárquico: la responsabilidad de
-mantener vivo al “Yo Soy” espiritual para que las funciones de gobernar a los menos
-evolucionados puedan llevarse a cabo con positividad, valentía y un sentido de amor
-paternal como la motivación amorosa protectora. El dar la vida es el atributo de los padres;
-mantener los principios de gobierno que contribuyan al bienestar y progreso comunes
-(materialmente, intelectualmente y culturalmente) es esa vida que el verdadero gobernante
-aristocrático contribuye a su pueblo. Su atributo de Marte le hace posible defenderse y por
-consiguiente, defender a su pueblo, de las cristalizaciones del prejuicio, la congestión de
-castas y las evaluaciones superficiales. Mantiene vivo en su conciencia el sentido de
-evaluarse y apreciarse como trabajador en el mundo Porque Marte es la gran vibración
-masculina, como derivado del Sol. El vigor, virilidad y positividad de Marte regenerado es
-dador de salud en sus efectos; el ejercicio de este atributo neutraliza los peligros de
-congestión en la indolencia, el lujo y el parasitismo que se filtran en una sociedad fundada
-en el principio de dinero, posición y valía heredados. Marte en Capricornio es vitalización
-del sentido del amor de padre: su ejercicio exige autodisciplina y trabajo.
+La primera de éstas es la exaltación del Sol mismo, en el signo de Aries. La identidad es “Yo Soy un Hijo Engendrado, o Hija, del Padre-Madre Dios”. Ésta es la identidad del nacimiento espiritual y la conciencia de poseer atributos divinos. La regencia implicada por esta vibración es el dominio propio que es la fuente de la cual son derivados todos los demás gobiernos espirituales y de la cual son emanadas toda expresión de amor y de sabiduría trascendentes. Los reyes-sacerdotes del antiguo Egipto, bellamente descritos por Joan Grant en su magnífico libro El Faraón Alado, ejemplifica este tipo. Estos grandes gobernantes fueron probados espiritualmente por sus cualificaciones de servir como regentes de sus pueblos en lo que fue una de las épocas más sobresalientes de la historia humana. Puesto que las especializaciones son emanadas del Uno, este punto de exaltación del Sol enriquece todos los tipos de gobierno espiritual. El regente de Aries, Marte, está exaltado en Capricornio. En este estudio, aparece que Capricornio simboliza el concepto jerárquico del gobierno aristocrático; la especialización de “clases” refleja (lo que debiera ser) las gradaciones de evolución espiritual. La religión Brahamánica de la India fue basada originalmente sobre este concepto. Platón habló del “mando por los elegidos filosóficos”. La exaltación de Marte en Capricornio, en términos genéticos, es la madurez del principio masculino en el cumplimiento de la responsabilidad. Ahí se ve la cualificación espiritual que designa a los verdaderos gobernantes en un gobierno jerárquico: la responsabilidad de mantener vivo al “Yo Soy” espiritual para que las funciones de gobernar a los menos evolucionados puedan llevarse a cabo con positividad, valentía y un sentido de amor paternal como la motivación amorosa protectora. El dar la vida es el atributo de los padres; mantener los principios de gobierno que contribuyan al bienestar y progreso comunes (materialmente, intelectualmente y culturalmente) es esa vida que el verdadero gobernante aristocrático contribuye a su pueblo. Su atributo de Marte le hace posible defenderse y por consiguiente, defender a su pueblo, de las cristalizaciones del prejuicio, la congestión de castas y las evaluaciones superficiales. Mantiene vivo en su conciencia el sentido de evaluarse y apreciarse como trabajador en el mundo Porque Marte es la gran vibración masculina, como derivado del Sol. El vigor, virilidad y positividad de Marte regenerado es dador de salud en sus efectos; el ejercicio de este atributo neutraliza los peligros de congestión en la indolencia, el lujo y el parasitismo que se filtran en una sociedad fundada en el principio de dinero, posición y valía heredados. Marte en Capricornio es vitalización del sentido del amor de padre: su ejercicio exige autodisciplina y trabajo.
 
-La exaltación de la Luna en Tauro, segundo signo de Tierra, eleva el instinto de
-alimentar y proteger al inmaturo hacia la conciencia de mayordomía. Los débiles han de
-volverse fuertes. Los inmaduros han de volverse maduros. El negativo de la vibración de
-Cáncer es para sobreproteger y sobrealimentar a aquellos que en cierto punto, son
-dependientes. La mayordomía del desarrollo del débil y el inmaturo es la octava exaltada
-del poder Lunar. Proteger el desarrollo es una contribución al progreso evolutivo;
-amamantar la debilidad es contribuir al atraso. La gran Isabel de Inglaterra tenía la Luna en
-Tauro, cuarta casa, y ciertamente, ningún gobernante en ninguna época ha sido nunca más
-respetablemente alerta y sensible a la potencialidad evolutiva vigorosa de la nación regida.
-Un factor psicológico muy importante se observa en esta posición: Tauro es el signo de la
-casa undécima de la Luna; como tal se relaciona con Cáncer-Luna así como Acuario-Urano
-se relaciona con Aries. Esta posición de la Luna (relación del signo de la casa undécima a
-su dignificación), impone en la persona espiritualmente madura, la necesidad de disolver la
-cristalización del sentido de poseer a los inmaduros y débiles. Tratar maternalmente
-(Lunarmente) de poseer a otra persona es identificar a Tauro como la polarización de
-Escorpión; los dos juntos forman el diámetro del poder del deseo. Cualquier individuo o
-gobernante que tiene la responsabilidad de alimentar a través de la posición de la Luna en
-Tauro es prevenido de abstenerse de considerar al más débil y más inmaturo, como una
-posesión personal. La nación y la riqueza de la nación no son posesiones del organismo
-gobernante. El gobernante recibe recompensa por su trabajo como, cualquier otro
-trabajador; esa recompensa debe ser una expresión de cambio, de la gente de la nación
-como pago por su servicio como un custodio coordinador. La “influencia protectora” de
-Urano que debe encontrarse en este patrón es la ruptura de la cristalización en la congestión
-creada por el deseo y la posesividad, en mayordomía de crecimiento y desarrollo por el
-respeto a las potencialidades del individuo para el crecimiento y la realización. Aplique esta
-enseñanza personal o nacionalmente: el patrón es arquetípico. La aspiración evolutiva de
-los Logos Solar Mismo hace posible la acción epigenética en los microcosmos: de esa
-manera es representado el respeto del Padre-Madre Dios por sus hijos. El poder Solar
-liberado a través del principio Lunar dice: Dejad que el microcosmo engendrado crezca, se
-desarrolle, se exprese y realice sus potencialidades; ayudadlo, guiadlo, instruidlo,
-alimentadlo, nutridlo, protegedlo; pero dejad fluir por él mi poder en fuerza siempre
-creciente; no lo sobreprotejáis por el acceso a mi Estímulo Creador. Alentad siempre la
-radiación en continua expansión del amor por el microcosmo; no pongáis barreras a esta
-expresión por la posesividad congestiva.
+La exaltación de la Luna en Tauro, segundo signo de Tierra, eleva el instinto de alimentar y proteger al inmaturo hacia la conciencia de mayordomía. Los débiles han de volverse fuertes. Los inmaduros han de volverse maduros. El negativo de la vibración de Cáncer es para sobreproteger y sobrealimentar a aquellos que en cierto punto, son dependientes. La mayordomía del desarrollo del débil y el inmaturo es la octava exaltada del poder Lunar. Proteger el desarrollo es una contribución al progreso evolutivo; amamantar la debilidad es contribuir al atraso. La gran Isabel de Inglaterra tenía la Luna en Tauro, cuarta casa, y ciertamente, ningún gobernante en ninguna época ha sido nunca más respetablemente alerta y sensible a la potencialidad evolutiva vigorosa de la nación regida. Un factor psicológico muy importante se observa en esta posición: Tauro es el signo de la casa undécima de la Luna; como tal se relaciona con Cáncer-Luna así como Acuario-Urano se relaciona con Aries. Esta posición de la Luna (relación del signo de la casa undécima a su dignificación), impone en la persona espiritualmente madura, la necesidad de disolver la cristalización del sentido de poseer a los inmaduros y débiles. Tratar maternalmente (Lunarmente) de poseer a otra persona es identificar a Tauro como la polarización de Escorpión; los dos juntos forman el diámetro del poder del deseo. Cualquier individuo o gobernante que tiene la responsabilidad de alimentar a través de la posición de la Luna en Tauro es prevenido de abstenerse de considerar al más débil y más inmaturo, como una posesión personal. La nación y la riqueza de la nación no son posesiones del organismo gobernante. El gobernante recibe recompensa por su trabajo como, cualquier otro trabajador; esa recompensa debe ser una expresión de cambio, de la gente de la nación como pago por su servicio como un custodio coordinador. La “influencia protectora” de Urano que debe encontrarse en este patrón es la ruptura de la cristalización en la congestión creada por el deseo y la posesividad, en mayordomía de crecimiento y desarrollo por el respeto a las potencialidades del individuo para el crecimiento y la realización. Aplique esta enseñanza personal o nacionalmente: el patrón es arquetípico. La aspiración evolutiva de los Logos Solar Mismo hace posible la acción epigenética en los microcosmos: de esa manera es representado el respeto del Padre-Madre Dios por sus hijos. El poder Solar liberado a través del principio Lunar dice: Dejad que el microcosmo engendrado crezca, se desarrolle, se exprese y realice sus potencialidades; ayudadlo, guiadlo, instruidlo, alimentadlo, nutridlo, protegedlo; pero dejad fluir por él mi poder en fuerza siempre creciente; no lo sobreprotejáis por el acceso a mi Estímulo Creador. Alentad siempre la radiación en continua expansión del amor por el microcosmo; no pongáis barreras a esta expresión por la posesividad congestiva.
 
-La exaltación de Saturno en Libra de Venus es la fusión espiritual alquímica de la
-justicia y la misericordia. Es la disolución de la severidad excesiva y la cristalización del
-concepto por el ejercicio de los impulsos humanos. Es también (porque Libra simboliza en
-este mándala el concepto de gobierno democrático) la nivelación de la expresión propia en
-el gobierno por la conciencia de la responsabilidad de los ciudadanos entre sí a través de su
-identidad fraternal como nacionalidades idénticas. La exaltación de Saturno en este signo es
-el símbolo astrológico del concepto de justicia para todos: la ley se aplica al pobre y al rico,
-al erudito y al ignorante, y significa que las leyes verdaderas son aquellas que copian las
-leyes divinas en el sentido que nadie está exento de ellas. Las leyes que protegen a uno a
-expensas del otro representan las degradaciones características de la aristocracia Saturnina
-corrupta: la ilusión de superioridad de casta y las injusticias por la adhesión a evaluaciones
-por la posesión de riqueza. En este sentido, la administración de determinado gobierno
-religioso mundial, aparece ser cuando más, un devoto de esta ley de justicia para todos. Sus
-puertas están abiertas para todos, sus medidas correctivas se aplican a todos, sin
-consideración de la ocupación o posesión mundanas. En sus peores circunstancias el
-símbolo de Saturno en Libra balancea errores por el pago material. En sociedades donde la
-posesión financiera es considerada como la norma de evaluación, una trasgresión espiritual
-contra un individuo o un grupo de individuos o una nación misma se considera redimida si
-se hace cierta negociación financiera. Esta congestión en la ignorancia ha jugado un papel
-infame en la historia humana: es una de las acciones más blasfemas de las cuales es capaz
-el hombre. Es una congestión en tal ignorancia que puede requerir karma de toda la vida
-para disolver la cristalización y ajustar el desbalance. En la conciencia humana - eso es, en
-la conciencia de individuos que son gobernantes - esta posición de Saturno en el mándala
-despliega la Luz Blanca de Saturno cuando el gobernante reconoce su fraternidad - como
-conciudadano - con sus súbditos. Ésta es la justicia y equilibrio balanceados de la relación
-del regente con el ciudadano. Que ningún gobernante olvide este principio; de él depende el
-recurso del valor espiritual del servicio gubernamental.
+La exaltación de Saturno en Libra de Venus es la fusión espiritual alquímica de la justicia y la misericordia. Es la disolución de la severidad excesiva y la cristalización del concepto por el ejercicio de los impulsos humanos. Es también (porque Libra simboliza en este mándala el concepto de gobierno democrático) la nivelación de la expresión propia en el gobierno por la conciencia de la responsabilidad de los ciudadanos entre sí a través de su identidad fraternal como nacionalidades idénticas. La exaltación de Saturno en este signo es el símbolo astrológico del concepto de justicia para todos: la ley se aplica al pobre y al rico, al erudito y al ignorante, y significa que las leyes verdaderas son aquellas que copian las leyes divinas en el sentido que nadie está exento de ellas. Las leyes que protegen a uno a expensas del otro representan las degradaciones características de la aristocracia Saturnina corrupta: la ilusión de superioridad de casta y las injusticias por la adhesión a evaluaciones por la posesión de riqueza. En este sentido, la administración de determinado gobierno religioso mundial, aparece ser cuando más, un devoto de esta ley de justicia para todos. Sus puertas están abiertas para todos, sus medidas correctivas se aplican a todos, sin consideración de la ocupación o posesión mundanas. En sus peores circunstancias el símbolo de Saturno en Libra balancea errores por el pago material. En sociedades donde la posesión financiera es considerada como la norma de evaluación, una trasgresión espiritual contra un individuo o un grupo de individuos o una nación misma se considera redimida si se hace cierta negociación financiera. Esta congestión en la ignorancia ha jugado un papel infame en la historia humana: es una de las acciones más blasfemas de las cuales es capaz el hombre. Es una congestión en tal ignorancia que puede requerir karma de toda la vida para disolver la cristalización y ajustar el desbalance. En la conciencia humana - eso es, en la conciencia de individuos que son gobernantes - esta posición de Saturno en el mándala despliega la Luz Blanca de Saturno cuando el gobernante reconoce su fraternidad - como conciudadano - con sus súbditos. Ésta es la justicia y equilibrio balanceados de la relación del regente con el ciudadano. Que ningún gobernante olvide este principio; de él depende el recurso del valor espiritual del servicio gubernamental.
 
-Libra, como significador del principio gubernamental democrático, es la fusión de
-los principios del matrimonio con los principios del gobierno propio cooperante. En una
-democracia los varones y las hembras tienen el privilegio de expresarse y este concepto
-gubernamental es uno que probablemente más que ningún otro patrón grupal ha servido al
-máximo para desintegrar la ilusión de superioridad e inferioridad de los sexos, en su
-relación entre sí. El matrimonio es una ciudadanía de dos puntos de cambio recíproco,
-mutuo desarrollo y mutuo cumplimiento. La democracia es una ciudadanía de muchos
-puntos, de cambio mutuo, desarrollo mutuo y cumplimiento mutuo. Una pareja de casados
-es un microcosmo de todos los varones y hembras en una nación particular; la polaridad de
-la nación es la extensión de la polaridad de la pareja. Encarnar en un gobierno democrático
-es realizar un resultado de muchas encarnaciones de esfuerzo regenerador como individuo;
-al igual que el aspecto de trino, tal realización impone la responsabilidad (Saturno) de
-contribuir para el bien y la justicia de todos.
+Libra, como significador del principio gubernamental democrático, es la fusión de los principios del matrimonio con los principios del gobierno propio cooperante. En una democracia los varones y las hembras tienen el privilegio de expresarse y este concepto gubernamental es uno que probablemente más que ningún otro patrón grupal ha servido al máximo para desintegrar la ilusión de superioridad e inferioridad de los sexos, en su relación entre sí. El matrimonio es una ciudadanía de dos puntos de cambio recíproco, mutuo desarrollo y mutuo cumplimiento. La democracia es una ciudadanía de muchos puntos, de cambio mutuo, desarrollo mutuo y cumplimiento mutuo. Una pareja de casados es un microcosmo de todos los varones y hembras en una nación particular; la polaridad de la nación es la extensión de la polaridad de la pareja. Encarnar en un gobierno democrático es realizar un resultado de muchas encarnaciones de esfuerzo regenerador como individuo; al igual que el aspecto de trino, tal realización impone la responsabilidad (Saturno) de contribuir para el bien y la justicia de todos.
 
-La exaltación de Venus en Piscis (como regente de Libra) es la conciencia de
-poderes espirituales como los medios gobernantes de los asuntos de la humanidad. Percibir
-las verdades que están detrás de la colocación de los gobernantes, las experiencias de las
-naciones y la alquimia espiritual operante continuamente para realizar el ideal de la
-Humanidad, hace posible la realización de la fraternidad mutua entre la humanidad y otra
-vida terrestre.
+La exaltación de Venus en Piscis (como regente de Libra) es la conciencia de poderes espirituales como los medios gobernantes de los asuntos de la humanidad. Percibir las verdades que están detrás de la colocación de los gobernantes, las experiencias de las naciones y la alquimia espiritual operante continuamente para realizar el ideal de la Humanidad, hace posible la realización de la fraternidad mutua entre la humanidad y otra vida terrestre.
 
-La naturaleza esencial de la Ciudadanía es la “Fraternidad localizada”. Como
-habitantes de este sistema solar, nuestra primera identidad de ciudadanía es (lo que nosotros
-llamaremos) la de “solarianos”. Esta identidad es derivada del hecho que todas las
-expresiones de vida en este planeta y todas las expresiones de vida en los otros planetas de
-este sistema son microcosmos de una fuente común: nuestro Logos Solar. Si hubiese alguna
-forma de identificar nuestro sistema en su relación con los otros sistemas solares de nuestra
-galaxia, nosotros podríamos cualificar aún más nuestra identidad como “ciudadanos
-galácticos”, después “ciudadanos de gran galaxia”, y luego la identidad final que tenemos
-con todas las otras expresiones de vida como “Universarianos” o “Cosmosianos”. Sin
-embargo, nuestra localización inmediata en el Cosmos es por identidad con nuestra Fuente
-Creadora inmediata, el Manifestador y Gobernador de este sistema. Nosotros podríamos
-designar esta Fuente por un nombre personalizado, por ejemplo, “Helios”. Esto podría
-especificar la identidad de nuestra Fuente en la fraternidad recíproca de otros Logos Solares
-de nuestra galaxia. Entonces nuestra identidad ciudadana podría ser, como miembro de este
-sistema, “Heliosolarianos” para diferenciar nuestro status de ciudadanía de otros
-“Solarianos” de nuestra galaxia. Como ciudadano americano de abolengo español es un
-“hispano-americano” (la procedencia de linaje cualifica la identidad localizada), de modo
-que nosotros seríamos designados como “Heliosolarianos Terrestres” para especificar
-nuestra ciudadanía inmediata en el planeta Tierra del sistema solar de “Helios”. En nuestros
-horóscopos, el símbolo circular tradicional para el Sol colocado en el centro de la rueda es
-el símbolo astrológico de “Helios” como nuestra Fuente Creadora; el símbolo sugerido del
-“semicírculo sobre una línea horizontal” (un cuadro simbólico del Sol naciente) es nuestra
-conciencia personalizada de la existencia y naturaleza de “Helios”; nosotros designamos
-este nuevo símbolo simplemente como “Sol” porque él representa una comprensión relativa
-de la naturaleza de “Helios”.
+La naturaleza esencial de la Ciudadanía es la “Fraternidad localizada”. Como habitantes de este sistema solar, nuestra primera identidad de ciudadanía es (lo que nosotros llamaremos) la de “solarianos”. Esta identidad es derivada del hecho que todas las expresiones de vida en este planeta y todas las expresiones de vida en los otros planetas de este sistema son microcosmos de una fuente común: nuestro Logos Solar. Si hubiese alguna forma de identificar nuestro sistema en su relación con los otros sistemas solares de nuestra galaxia, nosotros podríamos cualificar aún más nuestra identidad como “ciudadanos galácticos”, después “ciudadanos de gran galaxia”, y luego la identidad final que tenemos con todas las otras expresiones de vida como “Universarianos” o “Cosmosianos”. Sin embargo, nuestra localización inmediata en el Cosmos es por identidad con nuestra Fuente Creadora inmediata, el Manifestador y Gobernador de este sistema. Nosotros podríamos designar esta Fuente por un nombre personalizado, por ejemplo, “Helios”. Esto podría especificar la identidad de nuestra Fuente en la fraternidad recíproca de otros Logos Solares de nuestra galaxia. Entonces nuestra identidad ciudadana podría ser, como miembro de este sistema, “Heliosolarianos” para diferenciar nuestro status de ciudadanía de otros “Solarianos” de nuestra galaxia. Como ciudadano americano de abolengo español es un “hispano-americano” (la procedencia de linaje cualifica la identidad localizada), de modo que nosotros seríamos designados como “Heliosolarianos Terrestres” para especificar nuestra ciudadanía inmediata en el planeta Tierra del sistema solar de “Helios”. En nuestros horóscopos, el símbolo circular tradicional para el Sol colocado en el centro de la rueda es el símbolo astrológico de “Helios” como nuestra Fuente Creadora; el símbolo sugerido del “semicírculo sobre una línea horizontal” (un cuadro simbólico del Sol naciente) es nuestra conciencia personalizada de la existencia y naturaleza de “Helios”; nosotros designamos este nuevo símbolo simplemente como “Sol” porque él representa una comprensión relativa de la naturaleza de “Helios”.
 
-El símbolo astrológico arquetípico de la ciudadanía democrática (como principio de
-la fraternidad manifestándose en forma gubernamental) es el signo de Libra, signo de la
-casa séptima del Gran Mándala e iniciador cardinal del trino de aire del cual son derivadas
-todas las especificaciones de fraternidad. Debido a que los cuatro signos cardinales indican
-las especificaciones básicas de nuestro Ser genérico-polárico, el mándala con Libra como
-Ascendente será considerado ahora como la raíz de nuestra conciencia de ciudadanía
-democrática.
+El símbolo astrológico arquetípico de la ciudadanía democrática (como principio de la fraternidad manifestándose en forma gubernamental) es el signo de Libra, signo de la casa séptima del Gran Mándala e iniciador cardinal del trino de aire del cual son derivadas todas las especificaciones de fraternidad. Debido a que los cuatro signos cardinales indican las especificaciones básicas de nuestro Ser genérico-polárico, el mándala con Libra como Ascendente será considerado ahora como la raíz de nuestra conciencia de ciudadanía democrática.
 
-Como “Cosmosianos”, el mándala de Libra representa nuestro atributo como
-“Reactores y Reflectores” - nosotros reaccionamos al estímulo de las expresiones de otras
-personas -. El misterio oculto del aspecto positivo del poder vibratorio de Venus, como
-regente de un signo cardinal, se ve en el hecho que la acción que nosotros expresamos
-subsiguiente a la reacción a la expresión negativa de otra persona puede ser una expresión
-de alquimia trasmutatoria; nosotros podemos reaccionar con dolor; pero no tenemos que
-proyectar nuevamente de acuerdo con la reacción-dolor; podemos proyectar de nuevo de tal
-manera que la fricción, inarmonía o condición negativa en general sea neutralizada.
-Así, pues, en este mándala, Libra (uno de los signos focalizados por Venus) es el
-manifestador; pero su expresión, debido a que Libra es la polaridad reflexiva de Aries, es
-de alquimia opuesta o transmutativa. En este mándala, las “trascendencias” de los signos
-Libra a través de Piscis focalizan los elementos de conciencia anímica en aquellos capítulos
-de experiencia arquetípica que generalmente pertenecen a la conciencia del “yo separativo”.
-Reaccionar y expresar por medio de la alquimia transmutativa es elevar la conciencia del yo
-separativo a un grado de la octava del “yo inclusivo”. Al grado que la acción regenerada
-siga a la reacción, serán transmutadas las fuerzas vibratorias combinadas de dos o muchas
-personas magnetizadas en la relación.
+Como “Cosmosianos”, el mándala de Libra representa nuestro atributo como “Reactores y Reflectores” - nosotros reaccionamos al estímulo de las expresiones de otras personas -. El misterio oculto del aspecto positivo del poder vibratorio de Venus, como regente de un signo cardinal, se ve en el hecho que la acción que nosotros expresamos subsiguiente a la reacción a la expresión negativa de otra persona puede ser una expresión de alquimia trasmutatoria; nosotros podemos reaccionar con dolor; pero no tenemos que proyectar nuevamente de acuerdo con la reacción-dolor; podemos proyectar de nuevo de tal manera que la fricción, inarmonía o condición negativa en general sea neutralizada. Así, pues, en este mándala, Libra (uno de los signos focalizados por Venus) es el manifestador; pero su expresión, debido a que Libra es la polaridad reflexiva de Aries, es de alquimia opuesta o transmutativa. En este mándala, las “trascendencias” de los signos Libra a través de Piscis focalizan los elementos de conciencia anímica en aquellos capítulos de experiencia arquetípica que generalmente pertenecen a la conciencia del “yo separativo”. Reaccionar y expresar por medio de la alquimia transmutativa es elevar la conciencia del yo separativo a un grado de la octava del “yo inclusivo”. Al grado que la acción regenerada siga a la reacción, serán transmutadas las fuerzas vibratorias combinadas de dos o muchas personas magnetizadas en la relación.
 
-En términos físicos, este mándala pinta a la mujer como manifestadora, al hombre
-como reactor; describe en su sentido más abstracto, la expresión de la conciencia anímica,
-la reactivación de la conciencia propia. Las expresiones dinámicas de egoísmo negativo son
-las cosas que bombardean la receptividad de la vibración de Venus; la expresión reactiva de
-Venus es neutralizar el elemento destructivo y de ese modo establecer un nuevo grado de
-bienestar unificado. En la fraternidad democrática del matrimonio, este Ascendente de
-Libra, pinta no sólo a la mujer; pinta también la conciencia anímica compuesta de ambas
-personas; simboliza las bellezas y perfecciones que cada persona ve en la otra; simboliza
-las bellezas y perfecciones de cada una que son encendidas en la conciencia por la esencia
-dinámica de la otra. Esto es “elevarse en el amor” (“no caer” o rendirse al amor) por lo
-cual dos seres humanos, ciudadanos en el mundo de una relación intensamente enfocada,
-son capacitados para percibir sus elementos anímicos a través de la ignición mutua de
-idealidades. La alquimia transmutatoria que tiene lugar en una relación amorosa (y toda
-relación de amor es matrimonio en las regiones de la conciencia) es Libra como iniciador
-de nueva conciencia de vida y como epigenitor de un nuevo mundo de experiencia. Marido
-y esposa - manifestación doble de amante-amada - son ciudadanos fraternos en el “país
-democrático de la unión que ellos establecen”; el desarrollo epigenético de cada uno; a
-través de la fusión mutua, física, mental, emocional y vibratoria, es el propósito de la unión;
-la expresión individualizada de ambos, respeto mutuo de individualidades y acción
-cooperadora en el servicio amoroso de la procreación y la mayordomía de los hijos,
-combinan la cualidad democrática de la verdadera unión amorosa. “Por consiguiente,
-vemos que un gobierno basado en principios democráticos es, de todos los gobiernos, el
-más altamente cargado con la esencia de la conciencia amorosa. Solamente aquellas
-personas que habían desarrollado un alto grado de percepción de la mitad del poder
-amoroso estaban calificadas para promulgar principios gubernamentales democráticos.
-Eran personas que habían realizado, hasta cierto punto, el ideal de confraternidad de los
-seres humanos como ciudadanos Terrestres y ciudadanos de un grupo nacional localizado.
-El respeto a los derechos individuales de varones y hembras y la provisión de la
-oportunidad para la expresión individual describen los principios amorosos espirituales del
-matrimonio transportado a la octava extendida de la convivencia de varones y hembras en
-este planeta o en un tipo racial específico en una forma nacional particular. El ser humano
-individual, en la localización de su vida personal familiar demuestra el tipo de su
-conciencia de regente; tal como él está en su conciencia, así como está en su familia y así
-también en su relación con los conciudadanos.
+En términos físicos, este mándala pinta a la mujer como manifestadora, al hombre como reactor; describe en su sentido más abstracto, la expresión de la conciencia anímica, la reactivación de la conciencia propia. Las expresiones dinámicas de egoísmo negativo son las cosas que bombardean la receptividad de la vibración de Venus; la expresión reactiva de Venus es neutralizar el elemento destructivo y de ese modo establecer un nuevo grado de bienestar unificado. En la fraternidad democrática del matrimonio, este Ascendente de Libra, pinta no sólo a la mujer; pinta también la conciencia anímica compuesta de ambas personas; simboliza las bellezas y perfecciones que cada persona ve en la otra; simboliza las bellezas y perfecciones de cada una que son encendidas en la conciencia por la esencia dinámica de la otra. Esto es “elevarse en el amor” (“no caer” o rendirse al amor) por lo cual dos seres humanos, ciudadanos en el mundo de una relación intensamente enfocada, son capacitados para percibir sus elementos anímicos a través de la ignición mutua de idealidades. La alquimia transmutatoria que tiene lugar en una relación amorosa (y toda relación de amor es matrimonio en las regiones de la conciencia) es Libra como iniciador de nueva conciencia de vida y como epigenitor de un nuevo mundo de experiencia. Marido y esposa - manifestación doble de amante-amada - son ciudadanos fraternos en el “país democrático de la unión que ellos establecen”; el desarrollo epigenético de cada uno; a través de la fusión mutua, física, mental, emocional y vibratoria, es el propósito de la unión; la expresión individualizada de ambos, respeto mutuo de individualidades y acción cooperadora en el servicio amoroso de la procreación y la mayordomía de los hijos, combinan la cualidad democrática de la verdadera unión amorosa. “Por consiguiente, vemos que un gobierno basado en principios democráticos es, de todos los gobiernos, el más altamente cargado con la esencia de la conciencia amorosa. Solamente aquellas personas que habían desarrollado un alto grado de percepción de la mitad del poder amoroso estaban calificadas para promulgar principios gubernamentales democráticos. Eran personas que habían realizado, hasta cierto punto, el ideal de confraternidad de los seres humanos como ciudadanos Terrestres y ciudadanos de un grupo nacional localizado. El respeto a los derechos individuales de varones y hembras y la provisión de la oportunidad para la expresión individual describen los principios amorosos espirituales del matrimonio transportado a la octava extendida de la convivencia de varones y hembras en este planeta o en un tipo racial específico en una forma nacional particular. El ser humano individual, en la localización de su vida personal familiar demuestra el tipo de su conciencia de regente; tal como él está en su conciencia, así como está en su familia y así también en su relación con los conciudadanos.
 
-Ahora vamos a considerar la “niñez del logro”. Nos referimos al signo Géminis en
-el Gran Mándala como la inmadurez de la conciencia de ciudadanía humana. Éste es el
-signo de la tercera casa; como un signo raíz, él es el signo de la casa duodécima del signo
-matriz Cáncer - es aquello que “está detrás de toda expresión de los padres” -. En este
-respecto, la relación de Géminis con Cáncer (y su polaridad, Capricornio) es lo que impele
-a la paternidad o maternidad; él es los hijos e hijas físicas de una pareja específica de
-marido y mujer; es los hijos e hijas kármicos nacidos a una polarización específica de
-trasfondo nacional atávico. Cáncer-Capricornio, en relación con Aries-Libra, es “aquello de
-lo cual se deriva la Forma (manifestación)”. Nosotros no heredamos las características
-nacionales; estamos magnetizados a padres de ascendencia específica por la cualidad de
-nuestra conciencia. “Cualidad nacional” es simplemente otra forma de decir “cualidad
-vibratoria concentrada en un gran número de gente”. Tenemos palabras como
-“Escandinavo”, “Español”, “Polaco”, etcétera, para designar la ciudadanía de nuestro
-nacimiento físico o el antecedente nacional de nuestros padres; pero hay muchas personas
-que no son semejantes en cualidad nacional a sus padres; en verdad, pueden ser indiferentes
-a las tradiciones y puntos de vista nacionales dé sus padres. Estas personas prueban que, en
-la conciencia, ellas son ciudadanos de una idealidad diferente - ellas encuentran su afinidad
-con personas cuyos intereses, ideales y aspiraciones son paralelos a los suyos -. Sin
-embargo, nacidos en la localización conocida como “los Estados Unidos de América”,
-todos los niños, por magnetización kármica son puestos en contacto con los ideales y
-aspiraciones expresados por los fundadores de inclinación espiritual de esta nación; la
-esencia de la ciudadanía democrática es la piedra angular del edificio nacional que ellos
-establecieron. Como Géminis, entonces, nuestros hijos son “americanos jóvenes,
-inmaturos, en crecimiento”.
+Ahora vamos a considerar la “niñez del logro”. Nos referimos al signo Géminis en el Gran Mándala como la inmadurez de la conciencia de ciudadanía humana. Éste es el signo de la tercera casa; como un signo raíz, él es el signo de la casa duodécima del signo matriz Cáncer - es aquello que “está detrás de toda expresión de los padres” -. En este respecto, la relación de Géminis con Cáncer (y su polaridad, Capricornio) es lo que impele a la paternidad o maternidad; él es los hijos e hijas físicas de una pareja específica de marido y mujer; es los hijos e hijas kármicos nacidos a una polarización específica de trasfondo nacional atávico. Cáncer-Capricornio, en relación con Aries-Libra, es “aquello de lo cual se deriva la Forma (manifestación)”. Nosotros no heredamos las características nacionales; estamos magnetizados a padres de ascendencia específica por la cualidad de nuestra conciencia. “Cualidad nacional” es simplemente otra forma de decir “cualidad vibratoria concentrada en un gran número de gente”. Tenemos palabras como “Escandinavo”, “Español”, “Polaco”, etcétera, para designar la ciudadanía de nuestro nacimiento físico o el antecedente nacional de nuestros padres; pero hay muchas personas que no son semejantes en cualidad nacional a sus padres; en verdad, pueden ser indiferentes a las tradiciones y puntos de vista nacionales dé sus padres. Estas personas prueban que, en la conciencia, ellas son ciudadanos de una idealidad diferente - ellas encuentran su afinidad con personas cuyos intereses, ideales y aspiraciones son paralelos a los suyos -. Sin embargo, nacidos en la localización conocida como “los Estados Unidos de América”, todos los niños, por magnetización kármica son puestos en contacto con los ideales y aspiraciones expresados por los fundadores de inclinación espiritual de esta nación; la esencia de la ciudadanía democrática es la piedra angular del edificio nacional que ellos establecieron. Como Géminis, entonces, nuestros hijos son “americanos jóvenes, inmaturos, en crecimiento”.
 
-Puede decirse con toda salvedad en este punto que la encarnación como “ciudadano
-americano” significa que todo niño (prescindiendo dé su trasfondo kármico o atávico) está
-en razón de aprender más del ideal espiritual de la vida democrática. Han existido muchos
-grandes hombres de inclinación democrática; en la historia humana. La democracia no
-significa “partido político”; es un estado de conciencia espiritual. El inmortal Aknatón,
-Faraón de Egipto hace casi seis mil años, ha sido llamado el primer gobernante democrático
-en la historia humana; como soberano de su pueblo él trató de establecer los principios de
-libertad religiosa, igualdad legal de los sexos y educación espiritual como partes integrales
-de la vida de sus súbditos. Él fue, por la cualidad trascendente de su mente, corazón y
-espíritu, un verdadero “Hijo de Helios”: sus conceptos de gobernación incluían un sentido
-de su fraternidad básica, con sus súbditos y aquella de sus súbditos entre sí. Si la educación
-moderna de este país puede enseñar, o vitalizar, una conciencia de fraternidad en las mentes
-de los niños de hoy, ella habría cumplido su propósito esotérico. Si la educación moderna
-puede enseñar la Ley de Causa y Efecto ella habría realizado su propósito exotérico
-principal porque la comprensión de esta ley es la raíz de toda educación. La educación del
-verdadero intelecto es importante, por supuesto, pero intelectos dotados brillantemente
-pueden, y algunos lo hacen, vivir en un mundo que ellos interpretan como caótico,
-incoherente, confuso e incomprensible porque ellos mismos están caóticos, incoherentes,
-confundidos e ininteligibles en su relación con ellos mismos y con los otros. Ellos no saben
-que ellos mismos causan las condiciones que se registran en sus vidas como efectos. Los
-nativos de Géminis, entonces, como niños específicos nacidos de padres específicos en una
-localidad específica son ciudadanos en el mundo de la instrucción, el mundo del hogar y de
-la escuela. En una administración gubernamental democrática, se da el reconocimiento al
-derecho de cada niño de aprender, de organizar y coordinar sus facultades mentales,
-extender su conocimiento (traído de pasadas encarnaciones) del mundo objetivo,
-desenvolver sus talentos y potencialidades para el servicio del trabajo y para, ponerse más
-al corriente espiritualmente. Este reconocimiento se hace en virtud del respeto a la
-existencia individualizada del niño en este planeta y el respeto por el bien que él pueda
-hacer, potencial-mente, como adulto. La esencia genérica de Géminis, en tal designación,
-es femenina; el estudiante funciona a través de los años de experiencia en el estudio como
-receptor; él funciona como receptor y como reactor de los estímulos educativos que son
-proyectados por la esencia dinámica de la polaridad planetaria de Géminis - Júpiter (regente
-de Sagitario). La polarización Jupiteriana del Géminis Mercurial manifiesta que toda
-educación verdadera es espiritual - el conocimiento de principios es macrocosmo para el
-conocimiento de los efectos; el conocimiento de causa y efecto esclarece las canalizaciones
-para todos los otros conocimientos. El instinto evolutivo de espiritualizar el concepto del
-servicio de la vida está indicado por el diámetro vertical de Virgo-Piscis del mándala de
-Géminis; el ideal del servicio perfecto personal e impersonal es aquel que preña la
-aspiración de aprender. El conocimiento (o la comprensión) que no se utilice para el
-mejoramiento contributivo de la vida humana es relativamente, “material muerto”.
-Por lo tanto, como miembros de grupos de familia y grupos de escuela, los niños
-son ciudadanos en el estado de la maduración mental. El principio de mayordomía de esta
-entidad en el diámetro de Cáncer-Capricornio en la segunda y octava cúspides - la
-“posesión de la ciudadanía de grupo, de nación o de familia” debe ser transportada a la
-octava de mayordomía del grupo humano por el ejercicio de lo que es aprendido intelectual
-y espiritualmente. Hasta tanto nosotros encarnemos en el arquetipo humano, tendremos
-ciudadanía solamente como “Terrestres”; congestionarse en la posesión de la ciudadanía
-americana es inhibir y constreñir el sentido de identidad como ciudadanía-Terrestre. El
-arquetipo humano es nuestra familia, es la “sociedad” a la cual pertenecemos; es la
-especificación de nuestra identidad en relación a- nuestro logos solar, “Helios”, de cuyo
-poder nosotros somos la manifestación epigenética en este planeta. Géminis es el signo de
-la novena casa del mándala de Libra - el sentido de fraternidad destilado de encarnaciones
-pasadas representa el aspecto de sabiduría de nuestra conciencia de relación
-complementaria, enfocada en la presente encarnación. Las injusticias de punto de vista
-respecto de los principios de polaridad en la relación humana sirven generalmente para
-congestionar el florecimiento de la relación amorosa, experiencia marital y ciudadanía
-fraternal con compatriotas y compañeros en la vida.
+Puede decirse con toda salvedad en este punto que la encarnación como “ciudadano americano” significa que todo niño (prescindiendo dé su trasfondo kármico o atávico) está en razón de aprender más del ideal espiritual de la vida democrática. Han existido muchos grandes hombres de inclinación democrática; en la historia humana. La democracia no significa “partido político”; es un estado de conciencia espiritual. El inmortal Aknatón, Faraón de Egipto hace casi seis mil años, ha sido llamado el primer gobernante democrático en la historia humana; como soberano de su pueblo él trató de establecer los principios de libertad religiosa, igualdad legal de los sexos y educación espiritual como partes integrales de la vida de sus súbditos. Él fue, por la cualidad trascendente de su mente, corazón y espíritu, un verdadero “Hijo de Helios”: sus conceptos de gobernación incluían un sentido de su fraternidad básica, con sus súbditos y aquella de sus súbditos entre sí. Si la educación moderna de este país puede enseñar, o vitalizar, una conciencia de fraternidad en las mentes de los niños de hoy, ella habría cumplido su propósito esotérico. Si la educación moderna puede enseñar la Ley de Causa y Efecto ella habría realizado su propósito exotérico principal porque la comprensión de esta ley es la raíz de toda educación. La educación del verdadero intelecto es importante, por supuesto, pero intelectos dotados brillantemente pueden, y algunos lo hacen, vivir en un mundo que ellos interpretan como caótico, incoherente, confuso e incomprensible porque ellos mismos están caóticos, incoherentes, confundidos e ininteligibles en su relación con ellos mismos y con los otros. Ellos no saben que ellos mismos causan las condiciones que se registran en sus vidas como efectos. Los nativos de Géminis, entonces, como niños específicos nacidos de padres específicos en una localidad específica son ciudadanos en el mundo de la instrucción, el mundo del hogar y de la escuela. En una administración gubernamental democrática, se da el reconocimiento al derecho de cada niño de aprender, de organizar y coordinar sus facultades mentales, extender su conocimiento (traído de pasadas encarnaciones) del mundo objetivo, desenvolver sus talentos y potencialidades para el servicio del trabajo y para, ponerse más al corriente espiritualmente. Este reconocimiento se hace en virtud del respeto a la existencia individualizada del niño en este planeta y el respeto por el bien que él pueda hacer, potencial-mente, como adulto. La esencia genérica de Géminis, en tal designación, es femenina; el estudiante funciona a través de los años de experiencia en el estudio como receptor; él funciona como receptor y como reactor de los estímulos educativos que son proyectados por la esencia dinámica de la polaridad planetaria de Géminis - Júpiter (regente de Sagitario). La polarización Jupiteriana del Géminis Mercurial manifiesta que toda educación verdadera es espiritual - el conocimiento de principios es macrocosmo para el conocimiento de los efectos; el conocimiento de causa y efecto esclarece las canalizaciones para todos los otros conocimientos. El instinto evolutivo de espiritualizar el concepto del servicio de la vida está indicado por el diámetro vertical de Virgo-Piscis del mándala de Géminis; el ideal del servicio perfecto personal e impersonal es aquel que preña la aspiración de aprender. El conocimiento (o la comprensión) que no se utilice para el mejoramiento contributivo de la vida humana es relativamente, “material muerto”. Por lo tanto, como miembros de grupos de familia y grupos de escuela, los niños son ciudadanos en el estado de la maduración mental. El principio de mayordomía de esta entidad en el diámetro de Cáncer-Capricornio en la segunda y octava cúspides - la “posesión de la ciudadanía de grupo, de nación o de familia” debe ser transportada a la octava de mayordomía del grupo humano por el ejercicio de lo que es aprendido intelectual y espiritualmente. Hasta tanto nosotros encarnemos en el arquetipo humano, tendremos ciudadanía solamente como “Terrestres”; congestionarse en la posesión de la ciudadanía americana es inhibir y constreñir el sentido de identidad como ciudadanía-Terrestre. El arquetipo humano es nuestra familia, es la “sociedad” a la cual pertenecemos; es la especificación de nuestra identidad en relación a- nuestro logos solar, “Helios”, de cuyo poder nosotros somos la manifestación epigenética en este planeta. Géminis es el signo de la novena casa del mándala de Libra - el sentido de fraternidad destilado de encarnaciones pasadas representa el aspecto de sabiduría de nuestra conciencia de relación complementaria, enfocada en la presente encarnación. Las injusticias de punto de vista respecto de los principios de polaridad en la relación humana sirven generalmente para congestionar el florecimiento de la relación amorosa, experiencia marital y ciudadanía fraternal con compatriotas y compañeros en la vida.
 
-Acuario, signo de aire fijo, es el signo de la undécima casa del mándala de Libra.
-Como el último, él es la esencia transcendente del poder amoroso en las relaciones
-humanas. Es “amor personal que no reconoce barreras de cualificación externa”; es amor
-que percibe el valor interno y la realidad interna de la individualidad humana. Es la
-desintegración de la cristalización de los aspectos congestionados egoístas del amor
-personal de Leo; es el amor como “aspecto del corazón” de la conciencia de Maestría.
+Acuario, signo de aire fijo, es el signo de la undécima casa del mándala de Libra. Como el último, él es la esencia transcendente del poder amoroso en las relaciones humanas. Es “amor personal que no reconoce barreras de cualificación externa”; es amor que percibe el valor interno y la realidad interna de la individualidad humana. Es la desintegración de la cristalización de los aspectos congestionados egoístas del amor personal de Leo; es el amor como “aspecto del corazón” de la conciencia de Maestría.
 
-El mándala de Acuario muestra a Capricornio en la duodécima cúspide; aquello que
-debe ser redimido es la cristalización del concepto de identidad grupal humana separativa.
-Las naciones separadas y diferentes entre sí, competitivas una contra la otra con miedo e
-inseguridad, deben ser, por la vibración de Urano como regente de Acuario, identificadas
-de nuevo como puntos estructurales en el edificio de la totalidad de la sociedad humana.
-Este mándala, y la colocación de Capricornio-Cáncer describe definitivamente la influencia
-de los Maestros como aquellos que sirven recargando los conceptos cristalizados de las
-“familias nacionales separadas” por la esfera y poder de sus percepciones de amor a una
-realización más clara de una sola nación y una sola familia. La ubicación nacional de un
-Maestro - o de uno que ame con la fuerza amorosa de un maestro - es la forma vibratoria en
-la cual él encarna para cumplir su servicio espiritual. Juana de Arco para Francia, la reina
-Isabel para Inglaterra, Kahlil Gibrán para el pueblo de Siria, etcétera. En todos, estos casos
-se realizó un servicio de regeneración inspirada para grupos humanos especificados; pero la
-raza entera se benefició finalmente por ese servicio. Si por ejemplo, Gibrán hubiera
-pensado de sí mismo, en forma congestionada, sólo como un sirio, el poder de su poesía y
-su pintura hubiera sido agotado correspondientemente. Él fue un sirio solamente por
-identidad nacional localizada: él fue, y él lo sabía, en realidad, un Terrestre y un
-“Solariano”. La ciudadanía fraternal simbolizada por Acuario es el cuadro más completo
-del principio democrático en acción porque la esfera de su poder e influencia incluye a
-todos los humanos, prescindiendo de aspectos exteriores, trasfondo o abolengo. Acuario,
-como signo de la novena casa desde Géminis, es la fraternidad universalizada; como signo
-de la quinta casa de libra él es radiación de amor impersonalizado y cambio amoroso
-espiritualizado. Todos los que aprenden son ciudadanos y todos los que aman son
-miembros de la democracia del corazón.
+El mándala de Acuario muestra a Capricornio en la duodécima cúspide; aquello que debe ser redimido es la cristalización del concepto de identidad grupal humana separativa. Las naciones separadas y diferentes entre sí, competitivas una contra la otra con miedo e inseguridad, deben ser, por la vibración de Urano como regente de Acuario, identificadas de nuevo como puntos estructurales en el edificio de la totalidad de la sociedad humana. Este mándala, y la colocación de Capricornio-Cáncer describe definitivamente la influencia de los Maestros como aquellos que sirven recargando los conceptos cristalizados de las “familias nacionales separadas” por la esfera y poder de sus percepciones de amor a una realización más clara de una sola nación y una sola familia. La ubicación nacional de un Maestro - o de uno que ame con la fuerza amorosa de un maestro - es la forma vibratoria en la cual él encarna para cumplir su servicio espiritual. Juana de Arco para Francia, la reina Isabel para Inglaterra, Kahlil Gibrán para el pueblo de Siria, etcétera. En todos, estos casos se realizó un servicio de regeneración inspirada para grupos humanos especificados; pero la raza entera se benefició finalmente por ese servicio. Si por ejemplo, Gibrán hubiera pensado de sí mismo, en forma congestionada, sólo como un sirio, el poder de su poesía y su pintura hubiera sido agotado correspondientemente. Él fue un sirio solamente por identidad nacional localizada: él fue, y él lo sabía, en realidad, un Terrestre y un “Solariano”. La ciudadanía fraternal simbolizada por Acuario es el cuadro más completo del principio democrático en acción porque la esfera de su poder e influencia incluye a todos los humanos, prescindiendo de aspectos exteriores, trasfondo o abolengo. Acuario, como signo de la novena casa desde Géminis, es la fraternidad universalizada; como signo de la quinta casa de libra él es radiación de amor impersonalizado y cambio amoroso espiritualizado. Todos los que aprenden son ciudadanos y todos los que aman son miembros de la democracia del corazón.
 
 ### <h3 id="chapter-3">Capítulo III: El Estudio de la Polaridad</h3>
 
-El horóscopo es, entre otras cosas, un mándala de la sexualidad. La vida de toda
-manifestación es el intercambio hecho por las Fuerzas Cósmicas conforme ellas expresan
-las polaridades dinámica y receptiva. Nos referimos a la dinámica como “positivo”,
-“activo”, “masculino”; designa “aquello que impregna o estimula”. Lo llamamos “sexo
-masculino” en la manifestación física de los organismos vivientes procreadores. Lo
-receptivo es aquello sobre lo cual se obra; es “pasivo”, “resultante”, “aquello que recibe la
-impregnación o estímulo y nutre la nueva vida hacia una expresión activa”. En términos
-físicos, llamamos esta expresión de polaridad ''sexo femenino”. La gente esta familiarizada
-con los términos “sexo masculino” y “sexo femenino” porque los impulsos engendradores
-son un factor Vital en su propia experiencia y están patentes en la experiencia de vida de
-otras formas, tales como la vida animal y vegetal, percibidas por todas partes.
+El horóscopo es, entre otras cosas, un mándala de la sexualidad. La vida de toda manifestación es el intercambio hecho por las Fuerzas Cósmicas conforme ellas expresan las polaridades dinámica y receptiva. Nos referimos a la dinámica como “positivo”, “activo”, “masculino”; designa “aquello que impregna o estimula”. Lo llamamos “sexo masculino” en la manifestación física de los organismos vivientes procreadores. Lo receptivo es aquello sobre lo cual se obra; es “pasivo”, “resultante”, “aquello que recibe la impregnación o estímulo y nutre la nueva vida hacia una expresión activa”. En términos físicos, llamamos esta expresión de polaridad ''sexo femenino”. La gente esta familiarizada con los términos “sexo masculino” y “sexo femenino” porque los impulsos engendradores son un factor Vital en su propia experiencia y están patentes en la experiencia de vida de otras formas, tales como la vida animal y vegetal, percibidas por todas partes.
 
-No obstante, la palabra “sexo” es mucho más extensa en sus significados. Es vida en
-acción y movimiento; el intermedio eterno de poderes Vibratorios y sus efectos entre sí es
-lo que hace la manifestación lo que es. Y esto se aplica a todos los planos, desde el nivel de
-manifestación material más denso y de más lenta vibración hasta la verdadera esencia de la
-Fuente Creadora misma. Cada momento de nuestra existencia es una expresión de la
-sexualidad cósmica; esto se verá al considerar algunas cosas que demuestran nuestra
-habilidad para estimular y ser estimulados.
+No obstante, la palabra “sexo” es mucho más extensa en sus significados. Es vida en acción y movimiento; el intermedio eterno de poderes Vibratorios y sus efectos entre sí es lo que hace la manifestación lo que es. Y esto se aplica a todos los planos, desde el nivel de manifestación material más denso y de más lenta vibración hasta la verdadera esencia de la Fuente Creadora misma. Cada momento de nuestra existencia es una expresión de la sexualidad cósmica; esto se verá al considerar algunas cosas que demuestran nuestra habilidad para estimular y ser estimulados.
 
-Hacemos una pregunta; estamos receptivos a la información que se nos da por la
-persona que proyecta la contestación. Hablamos; tomamos aliento como pábulo para
-nuestras palabras y proyectamos el pensamiento que encarnamos en símbolos de sonido
-llamados palabras. Nuestras percepciones sensuales son medios de receptibilidad, por su
-ejercicio recibimos impresiones por medio de las cuales identificamos nuestro mundo
-exterior. Nos hacemos perceptibles a los otros por nuestra acción en movimiento y en el
-sonido. Alguien se proyecta en nuestra percepción; nosotros reaccionamos a su expresión
-en conformidad con nuestro estado vibratorio de conciencia.
+Hacemos una pregunta; estamos receptivos a la información que se nos da por la persona que proyecta la contestación. Hablamos; tomamos aliento como pábulo para nuestras palabras y proyectamos el pensamiento que encarnamos en símbolos de sonido llamados palabras. Nuestras percepciones sensuales son medios de receptibilidad, por su ejercicio recibimos impresiones por medio de las cuales identificamos nuestro mundo exterior. Nos hacemos perceptibles a los otros por nuestra acción en movimiento y en el sonido. Alguien se proyecta en nuestra percepción; nosotros reaccionamos a su expresión en conformidad con nuestro estado vibratorio de conciencia.
 
-Estos simples ejemplos cotidianos son simplemente unos pocos de tantos que
-podrían considerarse; sin embargo, son suficientes para demostrar que nosotros, como
-expresiones de la vida somos expresiones compuestas de Polaridad Cósmica. Estamos
-constituidos de tal manera que demostramos a través de nuestras vidas, en una u otra forma,
-nuestra bipolaridad esencial. Dar a entender que el sexo significa solamente los atributos de
-la generación física, es mantener nuestra comprensión al nivel del lodo. El filósofo
-comprende que un principio - ya sea sexual o de cualquiera otra clase - es omnipotente.
+Estos simples ejemplos cotidianos son simplemente unos pocos de tantos que podrían considerarse; sin embargo, son suficientes para demostrar que nosotros, como expresiones de la vida somos expresiones compuestas de Polaridad Cósmica. Estamos constituidos de tal manera que demostramos a través de nuestras vidas, en una u otra forma, nuestra bipolaridad esencial. Dar a entender que el sexo significa solamente los atributos de la generación física, es mantener nuestra comprensión al nivel del lodo. El filósofo comprende que un principio - ya sea sexual o de cualquiera otra clase - es omnipotente.
 
-La bipolaridad esencial del organismo humano está maravillosamente ejemplificada
-en la actividad creadora. El artista, en sus estados inspirados de unicidad, abre su
-conciencia a realizaciones de los patrones perfectos presentes en los planos internos; él
-saca, por decirlo así, él poder estimulante que le hace posible concebir el patrón ideal en
-términos de su ambiente artístico particular. Por la meditación concentrada él plasma esta
-realización en forma, en los planos mentales. Entonces a través del medio de su técnica
-física altamente desarrollada, él da a luz esta versión particular del patrón ideal. En
-resumen, él proyecta este concepto manifestado, en el Mundo Físico y, éste, a su vez, es
-percibido por otras personas que derivan de él un estímulo de su propio idealismo e
-inspiración. De ese modo, el artista creador ejercita ambas polaridades, la receptiva y la
-dinámica; él funde su propia “masculinidad y feminidad en un acto creador intensamente
-enfocado”. Incidentalmente, esto está ilustrado astrológicamente por el planeta Urano, que
-está exaltado en Escorpión; Urano es la fusión de Marte y Venus - la sincronización de los
-símbolos esenciales de los planetas cuyos puntos de regencia inician los dos hemisferios
-horizontales - conciencia de sí y conciencia del alma.
+La bipolaridad esencial del organismo humano está maravillosamente ejemplificada en la actividad creadora. El artista, en sus estados inspirados de unicidad, abre su conciencia a realizaciones de los patrones perfectos presentes en los planos internos; él saca, por decirlo así, él poder estimulante que le hace posible concebir el patrón ideal en términos de su ambiente artístico particular. Por la meditación concentrada él plasma esta realización en forma, en los planos mentales. Entonces a través del medio de su técnica física altamente desarrollada, él da a luz esta versión particular del patrón ideal. En resumen, él proyecta este concepto manifestado, en el Mundo Físico y, éste, a su vez, es percibido por otras personas que derivan de él un estímulo de su propio idealismo e inspiración. De ese modo, el artista creador ejercita ambas polaridades, la receptiva y la dinámica; él funde su propia “masculinidad y feminidad en un acto creador intensamente enfocado”. Incidentalmente, esto está ilustrado astrológicamente por el planeta Urano, que está exaltado en Escorpión; Urano es la fusión de Marte y Venus - la sincronización de los símbolos esenciales de los planetas cuyos puntos de regencia inician los dos hemisferios horizontales - conciencia de sí y conciencia del alma.
 
-Los discípulos - como niños - están en el proceso de integración de sus facultades a
-través de las funciones envueltas en el “crecimiento”. Ellos reciben el estímulo del maestro
-y absorben el efecto de este estímulo; tarde o temprano ellos dan vida a su conocimiento
-poniéndolo en acción en su trabajo como adultos. El maestro que en relación con sus
-discípulos actúa como “estimulador” ha sido, a su vez, estimulado por aquellos que le
-radiaron la enseñanza. Todos nosotros somos eslabones dinámicos y receptivos en la
-cadena eterna del llegar a ser.
+Los discípulos - como niños - están en el proceso de integración de sus facultades a través de las funciones envueltas en el “crecimiento”. Ellos reciben el estímulo del maestro y absorben el efecto de este estímulo; tarde o temprano ellos dan vida a su conocimiento poniéndolo en acción en su trabajo como adultos. El maestro que en relación con sus discípulos actúa como “estimulador” ha sido, a su vez, estimulado por aquellos que le radiaron la enseñanza. Todos nosotros somos eslabones dinámicos y receptivos en la cadena eterna del llegar a ser.
 
-“Masculino y varón” y “femenino y hembra” son expresiones personalizadas de
-Polaridad Cósmica. La abstracción final de estos términos - su verdad esencial compuesta
-está resumida en la simple frase: CAUSA y EFECTO.
+“Masculino y varón” y “femenino y hembra” son expresiones personalizadas de Polaridad Cósmica. La abstracción final de estos términos - su verdad esencial compuesta está resumida en la simple frase: CAUSA y EFECTO.
 
-Del mismo modo que la masculinidad sexual esencial del organismo humano actúa
-en feminidad física esencial, así la fuente creadora actúa en y a través de la manifestación
-material para la progresión de su Vida total. La dimensión material - en toda su inmensidad
-de expresión especial - es hembra para el macho cósmico. La materia ha sido definida como
-el “Polo negativo del Espíritu”, “Madre Tierra”, y muchas otras expresiones feminizadas
-semejantes, o figuras del lenguaje. Ninguno de los dos polos existe - ni puede existir - sin el
-otro; lo esencial de cada uno está inherente en toda expresión de la vida. El horóscopo
-sostiene esto en una forma simple y bella:
+Del mismo modo que la masculinidad sexual esencial del organismo humano actúa en feminidad física esencial, así la fuente creadora actúa en y a través de la manifestación material para la progresión de su Vida total. La dimensión material - en toda su inmensidad de expresión especial - es hembra para el macho cósmico. La materia ha sido definida como el “Polo negativo del Espíritu”, “Madre Tierra”, y muchas otras expresiones feminizadas semejantes, o figuras del lenguaje. Ninguno de los dos polos existe - ni puede existir - sin el otro; lo esencial de cada uno está inherente en toda expresión de la vida. El horóscopo sostiene esto en una forma simple y bella:
 
-Use tres círculos en blanco como ilustración; en el primero, ponga un punto en el
-centro. Esto es análogo a la fuente creadora manifestando un universo, una galaxia, un
-sistema solar, o un ser humano individual. La “Vida” de la rueda no está demostrada; su
-área, exceptuando el punto, está completamente en blanco. Medite sobre esta rueda
-conforme ella representa una expresión de vida específica.
+Use tres círculos en blanco como ilustración; en el primero, ponga un punto en el centro. Esto es análogo a la fuente creadora manifestando un universo, una galaxia, un sistema solar, o un ser humano individual. La “Vida” de la rueda no está demostrada; su área, exceptuando el punto, está completamente en blanco. Medite sobre esta rueda conforme ella representa una expresión de vida específica.
 
-En el segundo círculo, ponga un punto central y entonces añada el diámetro vertical;
-el círculo ahora tiene “Vida” - su área está diferenciada en la forma más simple posible: la
-división en dos hemisferios, por una línea. Esta línea vertical es el símbolo abstracto de la
-polaridad dinámica del cosmos; es el símbolo esencial de la acción generadora del sexo; es
-el símbolo raíz de la causa. Aplíquelo a cualquier horóscopo humano y reconozca que esta
-vertical es el compuesto de las cúspides de la cuarta y décima casas - las “casas de los
-padres”. Nuestra ascendencia es el “primer paso”, el “medio iniciador”, la causa de nuestra
-manifestación en el plano físico como seres humanos. Pero, note esto claramente: nosotros
-tenemos como nuestra ascendencia, un compuesto de sexo masculino y femenino; uno está
-enfocado en la polaridad masculina como su expresión física y el otro está enfocado
-físicamente en la polaridad femenina. Los dos juntos engendraron nuestro vehículo físico.
+En el segundo círculo, ponga un punto central y entonces añada el diámetro vertical; el círculo ahora tiene “Vida” - su área está diferenciada en la forma más simple posible: la división en dos hemisferios, por una línea. Esta línea vertical es el símbolo abstracto de la polaridad dinámica del cosmos; es el símbolo esencial de la acción generadora del sexo; es el símbolo raíz de la causa. Aplíquelo a cualquier horóscopo humano y reconozca que esta vertical es el compuesto de las cúspides de la cuarta y décima casas - las “casas de los padres”. Nuestra ascendencia es el “primer paso”, el “medio iniciador”, la causa de nuestra manifestación en el plano físico como seres humanos. Pero, note esto claramente: nosotros tenemos como nuestra ascendencia, un compuesto de sexo masculino y femenino; uno está enfocado en la polaridad masculina como su expresión física y el otro está enfocado físicamente en la polaridad femenina. Los dos juntos engendraron nuestro vehículo físico.
 
-Ahora, añada al tercer círculo el punto central y el diámetro horizontal. Este es el
-cuadro de aquello sobre lo cual actúa el medio generador - el aspecto subjetivo de la vida,
-lo que fue engendrado y es el resultado de la generación. La vertical es causa, la horizontal
-es efecto. El tercer círculo, con el diámetro horizontal, es diferenciado también en dos
-mitades; pero, como están “enfocadas horizontalmente”, ellas aparecen como los
-duplicados de las mitades verticales. Este diámetro horizontal es, astrológicamente, el
-compuesto de las cúspides del Ascendente (primera casa) y el Descendente (séptima casa).
-La persona representada por el mapa - el nativo - ocupa el Ascendente, su conciencia
-envuelta en su vestidura física; él “mira a través de la rueda” y, en el punto más lejano,
-opuesto a su propio lugar, él ve (en la misma forma que nosotros vemos nuestras
-reflexiones en un espejo) su réplica, su “otro Yo”, sus cumplimientos necesitados, en suma,
-su compañera.
+Ahora, añada al tercer círculo el punto central y el diámetro horizontal. Este es el cuadro de aquello sobre lo cual actúa el medio generador - el aspecto subjetivo de la vida, lo que fue engendrado y es el resultado de la generación. La vertical es causa, la horizontal es efecto. El tercer círculo, con el diámetro horizontal, es diferenciado también en dos mitades; pero, como están “enfocadas horizontalmente”, ellas aparecen como los duplicados de las mitades verticales. Este diámetro horizontal es, astrológicamente, el compuesto de las cúspides del Ascendente (primera casa) y el Descendente (séptima casa). La persona representada por el mapa - el nativo - ocupa el Ascendente, su conciencia envuelta en su vestidura física; él “mira a través de la rueda” y, en el punto más lejano, opuesto a su propio lugar, él ve (en la misma forma que nosotros vemos nuestras reflexiones en un espejo) su réplica, su “otro Yo”, sus cumplimientos necesitados, en suma, su compañera.
 
-La maravilla conmovedora y sorprendente de la simbología astrológica no está más
-evidente en ningún otro sitio que en el compuesto de cuatro mitades en un círculo. Añada a
-la segunda y tercera ruedas el diámetro complementario; el resultado describe los cuatro
-cuadrantes del horóscopo individual; pero en una forma simple representa la bipolaridad de
-aquello que engendra y aquello que es engendrado.
+La maravilla conmovedora y sorprendente de la simbología astrológica no está más evidente en ningún otro sitio que en el compuesto de cuatro mitades en un círculo. Añada a la segunda y tercera ruedas el diámetro complementario; el resultado describe los cuatro cuadrantes del horóscopo individual; pero en una forma simple representa la bipolaridad de aquello que engendra y aquello que es engendrado.
 
-Usted es un hombre; su séptima casa es una mujer; uno de sus padres es un hombre
-y el otro es una mujer. No obstante, la línea vertical de los padres representa la bipolaridad
-de la esencia dinámica de la vida; la horizontal representa la bipolaridad de la esencia
-receptiva. Llevando este acercamiento en una forma más extensa vemos que cada factor de
-la rueda astrológica es un compuesto de polaridades dinámica y receptiva. Cualquier varón
-o cualquier hembra puede tener cualquiera de los signos en cualquiera cúspide; el regente
-del mapa, el Sol y la Luna o cualquiera de las posiciones planetarias puede encontrarse en
-cualquiera de los signos zodiacales no importa si los signos envueltos son considerados
-“masculinos” o “femeninos”.
+Usted es un hombre; su séptima casa es una mujer; uno de sus padres es un hombre y el otro es una mujer. No obstante, la línea vertical de los padres representa la bipolaridad de la esencia dinámica de la vida; la horizontal representa la bipolaridad de la esencia receptiva. Llevando este acercamiento en una forma más extensa vemos que cada factor de la rueda astrológica es un compuesto de polaridades dinámica y receptiva. Cualquier varón o cualquier hembra puede tener cualquiera de los signos en cualquiera cúspide; el regente del mapa, el Sol y la Luna o cualquiera de las posiciones planetarias puede encontrarse en cualquiera de los signos zodiacales no importa si los signos envueltos son considerados “masculinos” o “femeninos”.
 
-Por tanto, podemos reconocer que si nuestros cuerpos físicos son especializaciones
-de polaridad en sexo generador varón o hembra, nuestra conciencia es un compuesto
-vibratorio de ambas polaridades. Comprender la relación humana es realmente comprender
-la sexualidad vibratoria de la conciencia humana. El astro-filósofo debe cultivar esta
-comprensión para que pueda descubrir los secretos más profundos de los patrones
-astrológicos.
+Por tanto, podemos reconocer que si nuestros cuerpos físicos son especializaciones de polaridad en sexo generador varón o hembra, nuestra conciencia es un compuesto vibratorio de ambas polaridades. Comprender la relación humana es realmente comprender la sexualidad vibratoria de la conciencia humana. El astro-filósofo debe cultivar esta comprensión para que pueda descubrir los secretos más profundos de los patrones astrológicos.
 
-El astro-filósofo que es padre o madre, comienza a comprender los mapas de sus
-hijos cuando él comienza a comprender su propio mapa. Al grado que él se “aparte” de
-cualquier cosa en su propio cuadro vibratorio, así será de deficiente en la interpretación de
-los de sus hijos. Su octava casa es su vida generadora particularmente en relación con su
-compañera, pero su quinta casa es el área de la conciencia amorosa por la cual él extiende
-una “invitación a la vida” a otros Egos que vienen como hijos suyos. Todos los padres,
-hasta cierto punto, expresan la potencialidad amorosa de la quinta casa, pero los padres que
-son astro-filósofos combinan los poderes de la quinta casa con los de polaridad
-espiritualizada, la undécima. Ellos no son simplemente padres, ellos son amigos; no son
-simplemente nutrido-res del cuerpo, sino nutridores de la mente y el Espíritu; ellos no son
-simplemente “el viejo” o “mi mamá” - son hermano mayor o hermana mayor que han
-ofrecido compartir su comprensión de la vida con aquellos que vienen a través de ellos. Y,
-como astro-filósofos, ellos le ofrecen a sus hijuelos un punto de vista basado en la
-comprensión de principios más el calor y el consuelo de un corazón amoroso. Él, el padre,
-tratará de comprender la constitución bipolar vibratoria de cada niño y procurará
-devotamente su orientación para esclarecer la conciencia de los patrones en los mapas de
-los niños conforme ellos representan potencialidades para el desenvolvimiento. Él debe
-comprender los principios de vida según son representados en el patrón de la quinta casa de
-su propio mapa y alinear su conciencia más y más con las significaciones esenciales de la
-paternidad o maternidad como factor en la experiencia de la Vida. 
+El astro-filósofo que es padre o madre, comienza a comprender los mapas de sus hijos cuando él comienza a comprender su propio mapa. Al grado que él se “aparte” de cualquier cosa en su propio cuadro vibratorio, así será de deficiente en la interpretación de los de sus hijos. Su octava casa es su vida generadora particularmente en relación con su compañera, pero su quinta casa es el área de la conciencia amorosa por la cual él extiende una “invitación a la vida” a otros Egos que vienen como hijos suyos. Todos los padres, hasta cierto punto, expresan la potencialidad amorosa de la quinta casa, pero los padres que son astro-filósofos combinan los poderes de la quinta casa con los de polaridad espiritualizada, la undécima. Ellos no son simplemente padres, ellos son amigos; no son simplemente nutrido-res del cuerpo, sino nutridores de la mente y el Espíritu; ellos no son simplemente “el viejo” o “mi mamá” - son hermano mayor o hermana mayor que han ofrecido compartir su comprensión de la vida con aquellos que vienen a través de ellos. Y, como astro-filósofos, ellos le ofrecen a sus hijuelos un punto de vista basado en la comprensión de principios más el calor y el consuelo de un corazón amoroso. Él, el padre, tratará de comprender la constitución bipolar vibratoria de cada niño y procurará devotamente su orientación para esclarecer la conciencia de los patrones en los mapas de los niños conforme ellos representan potencialidades para el desenvolvimiento. Él debe comprender los principios de vida según son representados en el patrón de la quinta casa de su propio mapa y alinear su conciencia más y más con las significaciones esenciales de la paternidad o maternidad como factor en la experiencia de la Vida. 
 
-Hemos llegado a un
-punto en nuestro acercamiento a la naturaleza humana en que ya no ponemos hombres en
-paquetes rotulados “cualidades masculinas solamente” y las mujeres en designaciones
-semejantes de “cualidades femeninas solamente”. Este acercamiento pasado de moda se ha
-probado que está en desacuerdo con el espíritu de verdadera investigación. Los varones
-pueden manifestar y a veces manifiestan una tendencia marcada hacia elementos de la
-personalidad femenina y lo contrario ocurre en el caso de muchas hembras. El astro-
-filósofo que es padre, sabe - y sabe con su honda comprensión - que sus hijos e hijas son
-compuestos de polaridad vibratoria y que el propósito de ellos en el vivir y el propósito de
-éste en la alimentación y la orientación no debe convertirse en “todo hombre o toda mujer”,
-sino en cultivar el poder de expresar lo mejor de ambos, de acuerdo con los requisitos
-esenciales demostrados en los mapas. He aquí un punto significativo que presentamos
-como básico para que un padre determine su efecto vibratorio en la conciencia de un niño:
-compare su mapa con el del niño y si usted tiene un planeta en conjunción con el
-Ascendente del niño, sepa entonces que usted estimula en muy marcado grado la vibración
-de ese planeta en el mapa del niño. Este es un ejemplo básico del Principio de Vibración
-Simpática, “el principio del diapasón”. Si usted, un hombre, tiene a su Marte o al Sol en el
-Ascendente de su hija, usted como astro-filósofo está sujeto a cultivar las expresiones más
-constructivas de ese planeta en su propia vida. Usted es el primer “cuadro del hombre
-viviente” que tiene su hija y al grado que usted pueda representar el Sol regenerado, como
-sea el caso, usted coopera en forma marcada a ayudarla a “registrar” una reacción favorable
-al sexo opuesto. Otros planetas trabajan de la misma forma, pero el Sol y Marte son usados
-en este ejemplo porque, combinados, ellos son el “patrón masculino de conciencia” básico
-o esencial. La falta de regeneración de parte suya, en relación con ella, la estimulará (ella,
-siendo la niña e impresionable es muy sensible a su vibración) a intensificar cualquier
-“cuadro masculino” no regenerado que pueda registrarse en su mapa y hacerlo
-correspondientemente difícil para ella, cuando haya crecido, “esclarecer sus imágenes” del
-sexo opuesto.
+Hemos llegado a un punto en nuestro acercamiento a la naturaleza humana en que ya no ponemos hombres en paquetes rotulados “cualidades masculinas solamente” y las mujeres en designaciones semejantes de “cualidades femeninas solamente”. Este acercamiento pasado de moda se ha probado que está en desacuerdo con el espíritu de verdadera investigación. Los varones pueden manifestar y a veces manifiestan una tendencia marcada hacia elementos de la personalidad femenina y lo contrario ocurre en el caso de muchas hembras. El astro- filósofo que es padre, sabe - y sabe con su honda comprensión - que sus hijos e hijas son compuestos de polaridad vibratoria y que el propósito de ellos en el vivir y el propósito de éste en la alimentación y la orientación no debe convertirse en “todo hombre o toda mujer”, sino en cultivar el poder de expresar lo mejor de ambos, de acuerdo con los requisitos esenciales demostrados en los mapas. He aquí un punto significativo que presentamos como básico para que un padre determine su efecto vibratorio en la conciencia de un niño: compare su mapa con el del niño y si usted tiene un planeta en conjunción con el Ascendente del niño, sepa entonces que usted estimula en muy marcado grado la vibración de ese planeta en el mapa del niño. Este es un ejemplo básico del Principio de Vibración Simpática, “el principio del diapasón”. Si usted, un hombre, tiene a su Marte o al Sol en el Ascendente de su hija, usted como astro-filósofo está sujeto a cultivar las expresiones más constructivas de ese planeta en su propia vida. Usted es el primer “cuadro del hombre viviente” que tiene su hija y al grado que usted pueda representar el Sol regenerado, como sea el caso, usted coopera en forma marcada a ayudarla a “registrar” una reacción favorable al sexo opuesto. Otros planetas trabajan de la misma forma, pero el Sol y Marte son usados en este ejemplo porque, combinados, ellos son el “patrón masculino de conciencia” básico o esencial. La falta de regeneración de parte suya, en relación con ella, la estimulará (ella, siendo la niña e impresionable es muy sensible a su vibración) a intensificar cualquier “cuadro masculino” no regenerado que pueda registrarse en su mapa y hacerlo correspondientemente difícil para ella, cuando haya crecido, “esclarecer sus imágenes” del sexo opuesto.
 
-El mismo principio se aplica a su efecto en sus hijos, el dé su esposa en sus hijos y
-de los hijos entre sí. Este “planeta en Ascendente” es un lazo vibratorio vital y debe
-estudiarse cuidadosamente, y los resultados del estudio aplicarse concienzudamente en la
-vida diaria. Se .puede dar mayor consideración a cualquier relación mutua entre dos
-planetas y mapas; note particularmente aquellos cambios en que los planetas dinámicos de
-los niños hacen conjunción con los de las niñas; ésta es una variación del patrón “planeta en
-Ascendente”. Si una niña tiene un patrón vibratorio “masculino-más”, y un niño tiene un
-“femenino-más” y ellos parecen estar atraídos poderosamente entre sí en su crecimiento
-juntos, entonces estudie el Urano de cada uno en su relación recíproca. Urano, como se ha
-dicho antes, es el “compuesto de masculino y femenino”. En relaciones entre personas él
-indica atracciones espirituales de gran profundidad e intensidad y el niño que tiene a Urano
-afectando el mapa del otro de manera señalada puede ser “iluminador” potencial del otro.
-Ayude a sus hijos a comprenderse como expresiones de la Bondad y Belleza de la vida -
-que, en verdad ellos son - y hágase usted “mediador” - por su entendimiento astro-
-filosófico - entre lo que ellos tienden a ser instintivamente y aquello que sus mapas indican
-pueden llegar a ser.
+El mismo principio se aplica a su efecto en sus hijos, el dé su esposa en sus hijos y de los hijos entre sí. Este “planeta en Ascendente” es un lazo vibratorio vital y debe estudiarse cuidadosamente, y los resultados del estudio aplicarse concienzudamente en la vida diaria. Se .puede dar mayor consideración a cualquier relación mutua entre dos planetas y mapas; note particularmente aquellos cambios en que los planetas dinámicos de los niños hacen conjunción con los de las niñas; ésta es una variación del patrón “planeta en Ascendente”. Si una niña tiene un patrón vibratorio “masculino-más”, y un niño tiene un “femenino-más” y ellos parecen estar atraídos poderosamente entre sí en su crecimiento juntos, entonces estudie el Urano de cada uno en su relación recíproca. Urano, como se ha dicho antes, es el “compuesto de masculino y femenino”. En relaciones entre personas él indica atracciones espirituales de gran profundidad e intensidad y el niño que tiene a Urano afectando el mapa del otro de manera señalada puede ser “iluminador” potencial del otro. Ayude a sus hijos a comprenderse como expresiones de la Bondad y Belleza de la vida - que, en verdad ellos son - y hágase usted “mediador” - por su entendimiento astro- filosófico - entre lo que ellos tienden a ser instintivamente y aquello que sus mapas indican pueden llegar a ser.
 
-Si uno de los padres es astro-filósofo, el otro debe tratar de aprender algo sobre el
-asunto para que se obtenga algún grado de mutualidad de comprensión y acercamiento
-como base para entrenamiento y guía de aquellos a quienes se les dio la encarnación. Cada
-niño tiene una imagen única innata de “padre-madre”; tal vez haya un vínculo kármico
-profundo y difícil entre uno de los hijos y uno de los padres, o entre dos de los hijos. La
-mutualidad de entendimiento astro-filosófico puede ser una armonización maravillosa para
-los padres en su servicio cooperador como padres. Estos enlaces deben ser comprendidos
-por ambos padres como manifestaciones de la Ley de Causa y Efecto, para ser percibidos
-como patrones de energía que están en proceso de realización regeneradora por medio del
-Amor. Ellos no deben echarse a un lado, evitarse ni desconsiderarse.
+Si uno de los padres es astro-filósofo, el otro debe tratar de aprender algo sobre el asunto para que se obtenga algún grado de mutualidad de comprensión y acercamiento como base para entrenamiento y guía de aquellos a quienes se les dio la encarnación. Cada niño tiene una imagen única innata de “padre-madre”; tal vez haya un vínculo kármico profundo y difícil entre uno de los hijos y uno de los padres, o entre dos de los hijos. La mutualidad de entendimiento astro-filosófico puede ser una armonización maravillosa para los padres en su servicio cooperador como padres. Estos enlaces deben ser comprendidos por ambos padres como manifestaciones de la Ley de Causa y Efecto, para ser percibidos como patrones de energía que están en proceso de realización regeneradora por medio del Amor. Ellos no deben echarse a un lado, evitarse ni desconsiderarse.
 
-La astro-filosofía provee un canal maravilloso por medio del cual los padres que
-están inclinados a vivir excesivamente en sus centros de respuesta al sentimiento y de
-emoción pueden ganar perspectiva en su esfuerzo de comprender a sus hijos; además, da a
-los padres una ocupación favorita maravillosa en coparticipación; algo que ellos puedan
-usar para auxiliar a otros padres y disfrutar juntos mientras vivan. A través de la astro-
-filosofía ellos pueden comprender la verdad que el matrimonio es fraternidad, su vida,
-mutualidad y su florecimiento, la amistad verdadera.
+La astro-filosofía provee un canal maravilloso por medio del cual los padres que están inclinados a vivir excesivamente en sus centros de respuesta al sentimiento y de emoción pueden ganar perspectiva en su esfuerzo de comprender a sus hijos; además, da a los padres una ocupación favorita maravillosa en coparticipación; algo que ellos puedan usar para auxiliar a otros padres y disfrutar juntos mientras vivan. A través de la astro- filosofía ellos pueden comprender la verdad que el matrimonio es fraternidad, su vida, mutualidad y su florecimiento, la amistad verdadera.
 
 ### <h3 id="chapter-4">Capítulo IV: Experiencia Militar Involuntaria</h3>
 
-Desde el comienzo de nuestra experiencia encarnada, la lucha en cualquier nivel o
-implicando cualquier cantidad de personas nunca ha sido otra cosa que una dramatización
-de la lucha del individuo por evolucionar. La destrucción, el dolor y la pena que la entidad,
-humanidad se ha infligido, nunca ha sido nada más que una expresión en acción de la
-ignorancia de los principios de vida. Esta ignorancia ha sido siempre básicamente - ¿cómo
-podría ser de otra manera? - una cuestión individual.
+Desde el comienzo de nuestra experiencia encarnada, la lucha en cualquier nivel o implicando cualquier cantidad de personas nunca ha sido otra cosa que una dramatización de la lucha del individuo por evolucionar. La destrucción, el dolor y la pena que la entidad, humanidad se ha infligido, nunca ha sido nada más que una expresión en acción de la ignorancia de los principios de vida. Esta ignorancia ha sido siempre básicamente - ¿cómo podría ser de otra manera? - una cuestión individual.
 
-Hasta tanto hayan sido establecidos ciertos directivos propios, la humanidad
-funcionará, en primer lugar, por la respuesta a estímulos al pensamiento colectivo, al
-instinto colectivo o al sentimiento colectivo subconsciente. En esta forma la Naturaleza
-provee que la retribución kármica sea experimentada colectivamente. Un grupo de
-individuos - tribu, nación o alianza de naciones - están permitidos a saldar un patrón de
-pago kármico todos juntos, en lugar de plazos individuales. Todas las personas, en una
-circunstancia dada, afinadas a un negativo vibratorio particular - tal como el frenesí
-sadístico de la cuadrilla de linchamiento - responden en simpatía y se expresan en masa.
-Puesto que nosotros como individuos, somos muy deficientes en la expresión ideal,
-estamos “empatados” hasta cierto punto, a determinados patrones de incumplimiento. Esto
-se debe a nuestra ignorancia de los principios y al habernos expresado en la acción de
-conformidad con la ignorancia, en pasadas encarnaciones. La expresión – causa - implica
-su propio efecto. Uno de los efectos más fenomenales en la época actual ha sido el campo
-global de la guerra tal como hemos visto desde el 1914. La oposición entre Urano en
-Capricornio y Neptuno en Cáncer que precedió al estallido de la Primera Guerra Mundial,
-fue la condición vibratoria por la cual seres humanos en grupos nacionales se enfrentaron a
-la compensación kármica colectiva a través de la experiencia de la guerra. Esta oposición
-fue el “patrón de Luna Llena” de la conjunción de Urano y Neptuno en Sagitario-
-Capricornio durante los últimos años del siglo dieciocho y los primeros años del siglo
-diecinueve. Era el plazo para la ruptura de cristalización universal de modo que pudiera
-llevarse a cabo el progreso universal. Sólo unos momentos de reflexión son necesarios para
-apreciar que la entidad entera, humanidad, fue afectada drásticamente por esta conjunción
-y su oposición resultante. Nuevas octavas de Poder y Sabiduría fueron liberadas a través de
-las encarnaciones de muchas personas, que, durante el pasado siglo y medio, funcionaron
-como “señales de camino” hacia la trascendencia de lo que ya no es necesario. Los poderes
-expresados por estas grandes personas afectaron nuestra experiencia en todos los planos - el
-intelectual, religioso, filosófico, científico y artístico.
+Hasta tanto hayan sido establecidos ciertos directivos propios, la humanidad funcionará, en primer lugar, por la respuesta a estímulos al pensamiento colectivo, al instinto colectivo o al sentimiento colectivo subconsciente. En esta forma la Naturaleza provee que la retribución kármica sea experimentada colectivamente. Un grupo de individuos - tribu, nación o alianza de naciones - están permitidos a saldar un patrón de pago kármico todos juntos, en lugar de plazos individuales. Todas las personas, en una circunstancia dada, afinadas a un negativo vibratorio particular - tal como el frenesí sadístico de la cuadrilla de linchamiento - responden en simpatía y se expresan en masa. Puesto que nosotros como individuos, somos muy deficientes en la expresión ideal, estamos “empatados” hasta cierto punto, a determinados patrones de incumplimiento. Esto se debe a nuestra ignorancia de los principios y al habernos expresado en la acción de conformidad con la ignorancia, en pasadas encarnaciones. La expresión – causa - implica su propio efecto. Uno de los efectos más fenomenales en la época actual ha sido el campo global de la guerra tal como hemos visto desde el 1914. La oposición entre Urano en Capricornio y Neptuno en Cáncer que precedió al estallido de la Primera Guerra Mundial, fue la condición vibratoria por la cual seres humanos en grupos nacionales se enfrentaron a la compensación kármica colectiva a través de la experiencia de la guerra. Esta oposición fue el “patrón de Luna Llena” de la conjunción de Urano y Neptuno en Sagitario- Capricornio durante los últimos años del siglo dieciocho y los primeros años del siglo diecinueve. Era el plazo para la ruptura de cristalización universal de modo que pudiera llevarse a cabo el progreso universal. Sólo unos momentos de reflexión son necesarios para apreciar que la entidad entera, humanidad, fue afectada drásticamente por esta conjunción y su oposición resultante. Nuevas octavas de Poder y Sabiduría fueron liberadas a través de las encarnaciones de muchas personas, que, durante el pasado siglo y medio, funcionaron como “señales de camino” hacia la trascendencia de lo que ya no es necesario. Los poderes expresados por estas grandes personas afectaron nuestra experiencia en todos los planos - el intelectual, religioso, filosófico, científico y artístico.
 
-Una “ola de vida” de encarnaciones
-se hizo en los primeros años de este siglo cuando la oposición de Urano a Neptuno misma
-no sólo estaba “calentada al rojo blanco” sino cuadrada por la oposición de Saturno en
-Aries y Júpiter en Libra. Esta ola de vida - enfocando la cuadratura de Saturno con ambos
-Urano y Neptuno - apareció en los momentos más precarios. Ese patrón vibratorio fue, en
-la opinión del autor, el gran reto de cristalización al progreso. Tal vez el más importante
-factor aislado en la experiencia de vida de esas gentes fue la opción, en la conciencia, de
-apegarse a lo viejo o de seguir el progreso a través del desenvolvimiento individualizado.
-¡Un punto evolutivo crítico, en realidad! El brote de la Rebelión de los “Boxers” y el
-establecimiento del gobierno republicano en China durante esta era representó ese patrón
-planetario aplicable al status evolutivo de una gran civilización - un ejemplo interesante de
-la tremenda significación de aquellos años - y de ese aspecto.
+Una “ola de vida” de encarnaciones se hizo en los primeros años de este siglo cuando la oposición de Urano a Neptuno misma no sólo estaba “calentada al rojo blanco” sino cuadrada por la oposición de Saturno en Aries y Júpiter en Libra. Esta ola de vida - enfocando la cuadratura de Saturno con ambos Urano y Neptuno - apareció en los momentos más precarios. Ese patrón vibratorio fue, en la opinión del autor, el gran reto de cristalización al progreso. Tal vez el más importante factor aislado en la experiencia de vida de esas gentes fue la opción, en la conciencia, de apegarse a lo viejo o de seguir el progreso a través del desenvolvimiento individualizado. ¡Un punto evolutivo crítico, en realidad! El brote de la Rebelión de los “Boxers” y el establecimiento del gobierno republicano en China durante esta era representó ese patrón planetario aplicable al status evolutivo de una gran civilización - un ejemplo interesante de la tremenda significación de aquellos años - y de ese aspecto.
 
-Nosotros tenemos una historia registrada de muchos siglos de experiencia de cuyo
-estudio podemos encontrar - así como podemos de nuestras experiencias del presente - los
-principios subyacentes a la relación entre las causas individuales y colectivas y sus efectos.
-En estos tiempos la gente pregunta: “¿Después de dos guerras globales en mucho menos de
-medio siglo, habremos de tener otra?” La contestación responde: “Si la tenemos será
-porque nosotros no nos hemos aplicado suficientemente a aprender de las experiencias
-anteriores acerca de los principios que conciernen al bienestar mutuo entre grupos
-nacionales”. En resumen, el efecto - como lo hace siempre - ha de describir e identificar su
-propia causa.
+Nosotros tenemos una historia registrada de muchos siglos de experiencia de cuyo estudio podemos encontrar - así como podemos de nuestras experiencias del presente - los principios subyacentes a la relación entre las causas individuales y colectivas y sus efectos. En estos tiempos la gente pregunta: “¿Después de dos guerras globales en mucho menos de medio siglo, habremos de tener otra?” La contestación responde: “Si la tenemos será porque nosotros no nos hemos aplicado suficientemente a aprender de las experiencias anteriores acerca de los principios que conciernen al bienestar mutuo entre grupos nacionales”. En resumen, el efecto - como lo hace siempre - ha de describir e identificar su propia causa.
 
-Considere la fundación del Gran Mándala Astrológico: un círculo con un punto en
-el centro; una línea horizontal emana del centro hada la izquierda, tocando la
-circunferencia; el símbolo del signo de Aries fuera del círculo en ese punto. Todo esto del
-Mándala es el cuadro esencial de las potencialidades de cada ser humano que aparece en el
-cuerpo infantil en la aurora de la encarnación. En este radio están implicadas todas las otras
-formas posibles de expresar el YO SOY individual durante la vida que sigue. Ahora añada
-con línea leve en lápiz, lo siguiente: la vertical superior: Capricornio; la horizontal a la
-derecha: Libra; la vertical inferior: Cáncer. Desde el centro del radio izquierdo - la línea de
-Aries - trace tres cuartas partes de un círculo en la dirección de las agujas del reloj (hacia
-atrás) a través de Capricornio y Libra, terminando en el medio del radio de Cáncer. Esto es
-una “película cinematográfica” en reverso - desde el nacimiento hasta la concepción -
-nueve meses de gestación humana. Todos los cuatro puntos genéricos están incluidos en
-esta película: moviéndose hacia adelante de Cáncer a Aries - a través de los tres cuadrantes
-- vemos un resumen de las cualidades genéricas destiladas del pasado al presente. Ésta es la
-forma más simple que tenemos de “recolectar” los residuos kármicos de encarnaciones
-pasadas para redención en el presente porque los puntos estructurales de la encarnación -
-los signos Cardinales - están todos representados en sucesión, desde más femenino hasta
-más masculino y cada Cardinal combina el Fijo y el Mutable de su elemento genérico
-particular.
+Considere la fundación del Gran Mándala Astrológico: un círculo con un punto en el centro; una línea horizontal emana del centro hada la izquierda, tocando la circunferencia; el símbolo del signo de Aries fuera del círculo en ese punto. Todo esto del Mándala es el cuadro esencial de las potencialidades de cada ser humano que aparece en el cuerpo infantil en la aurora de la encarnación. En este radio están implicadas todas las otras formas posibles de expresar el YO SOY individual durante la vida que sigue. Ahora añada con línea leve en lápiz, lo siguiente: la vertical superior: Capricornio; la horizontal a la derecha: Libra; la vertical inferior: Cáncer. Desde el centro del radio izquierdo - la línea de Aries - trace tres cuartas partes de un círculo en la dirección de las agujas del reloj (hacia atrás) a través de Capricornio y Libra, terminando en el medio del radio de Cáncer. Esto es una “película cinematográfica” en reverso - desde el nacimiento hasta la concepción - nueve meses de gestación humana. Todos los cuatro puntos genéricos están incluidos en esta película: moviéndose hacia adelante de Cáncer a Aries - a través de los tres cuadrantes - vemos un resumen de las cualidades genéricas destiladas del pasado al presente. Ésta es la forma más simple que tenemos de “recolectar” los residuos kármicos de encarnaciones pasadas para redención en el presente porque los puntos estructurales de la encarnación - los signos Cardinales - están todos representados en sucesión, desde más femenino hasta más masculino y cada Cardinal combina el Fijo y el Mutable de su elemento genérico particular.
 
-Puesto qué nuestra experiencia es dual: dinámicamente masculina una proyección
-de nuestra conciencia genérica; y, por reflejo, femenina, una percepción por nuestra
-conciencia genérica, tenemos en este simple mándala la suma total esencial de la “Egoidad”
-del individuo cuando él vino a esta encarnación particular. Eso significa su “Egoidad” de
-inconsciencia, temor-odio, e ignorancia así como su “Egoidad” de poder, amor, sabiduría:
-los residuos y los logros espirituales, respectivamente, de sus encarnaciones pasadas como
-hombre y como mujer. Su atracción magnética a sus padres exterioriza factores muy
-significativos de su conciencia de relación genérica; su afinación con su nacionalidad racial
-exterioriza gran parte de sus residuos kármicos colectivos. En esto último se encuentra la
-razón por la cual él ha sido - o puede ser - llamado a servicio militar durante este tiempo de
-mutación universal; es, en resumen, un residuo de servicio incumplido y de comprensión
-incumplida de los principios.
+Puesto qué nuestra experiencia es dual: dinámicamente masculina una proyección de nuestra conciencia genérica; y, por reflejo, femenina, una percepción por nuestra conciencia genérica, tenemos en este simple mándala la suma total esencial de la “Egoidad” del individuo cuando él vino a esta encarnación particular. Eso significa su “Egoidad” de inconsciencia, temor-odio, e ignorancia así como su “Egoidad” de poder, amor, sabiduría: los residuos y los logros espirituales, respectivamente, de sus encarnaciones pasadas como hombre y como mujer. Su atracción magnética a sus padres exterioriza factores muy significativos de su conciencia de relación genérica; su afinación con su nacionalidad racial exterioriza gran parte de sus residuos kármicos colectivos. En esto último se encuentra la razón por la cual él ha sido - o puede ser - llamado a servicio militar durante este tiempo de mutación universal; es, en resumen, un residuo de servicio incumplido y de comprensión incumplida de los principios.
 
-Ahora añada al mándala el radio que representa la cúspide de la duodécima casa ;
-coloque el símbolo de Piscis en la punta de la cúspide. Conecte los radios de Piscis y Aries
-por una línea recta con una punta de flecha apuntando hacia abajo y tocando la cúspide de
-Aries. Ésta es la manera más simple que tenemos en Astrología, de representar la
-emanación del pasado en el presente. Como cada radio de una rueda astrológica es una
-emanación del radio, esto demuestra que el “YO SOY” del presente es una emanación del
-“YO SOY” del pasado. La cúspide de la segunda casa en relación con la de la primera
-simbolizaría el “YO SOY” del futuro, la emanación del presente. Por tanto, la esencia
-dinámica del radio de Aries - el “YO SOY AHORA”- simboliza la potencialidad, la
-impulsión y la necesidad de poner en acción en esta encarnación las sumas totales de
-nuestros “YO SOY” del pasado. Esto significa acción como expresión de la ignorancia de
-los principios así como de la comprensión de los principios; tal acción, de cualquiera de los
-dos niveles, emana efectos para el futuro.
+Ahora añada al mándala el radio que representa la cúspide de la duodécima casa ; coloque el símbolo de Piscis en la punta de la cúspide. Conecte los radios de Piscis y Aries por una línea recta con una punta de flecha apuntando hacia abajo y tocando la cúspide de Aries. Ésta es la manera más simple que tenemos en Astrología, de representar la emanación del pasado en el presente. Como cada radio de una rueda astrológica es una emanación del radio, esto demuestra que el “YO SOY” del presente es una emanación del “YO SOY” del pasado. La cúspide de la segunda casa en relación con la de la primera simbolizaría el “YO SOY” del futuro, la emanación del presente. Por tanto, la esencia dinámica del radio de Aries - el “YO SOY AHORA”- simboliza la potencialidad, la impulsión y la necesidad de poner en acción en esta encarnación las sumas totales de nuestros “YO SOY” del pasado. Esto significa acción como expresión de la ignorancia de los principios así como de la comprensión de los principios; tal acción, de cualquiera de los dos niveles, emana efectos para el futuro.
 
-Ahora, para hablar del interrogante en las mentes de la mayoría de las personas en
-estos tiempos, ¿cuánto tiempo vamos nosotros, individual o colectivamente, a continuar
-poniendo en acción causas que tendrán la guerra como sus efectos objetivados? ¿Cuánto
-más ha de tomarnos - individual o colectivamente – reconocer que ciertas acciones – causas
-- se objetivan en guerra, crimen, sufrimiento y desintegración? Esta pregunta - y su
-contestación - no tiene nada en absoluto que ver con ninguna nación particular, ideología
-política o forma de gobierno. Esta pregunta es formulada tarde o temprano por todo ser
-humano. Su contestación y su comprensión, son derivadas por cada individuo como
-resultado de su desenvolvimiento evolutivo. Cambie la cualidad de las causas aprendiendo
-de la experiencia y tome acción desde la base de la nueva sabiduría.
+Ahora, para hablar del interrogante en las mentes de la mayoría de las personas en estos tiempos, ¿cuánto tiempo vamos nosotros, individual o colectivamente, a continuar poniendo en acción causas que tendrán la guerra como sus efectos objetivados? ¿Cuánto más ha de tomarnos - individual o colectivamente – reconocer que ciertas acciones – causas - se objetivan en guerra, crimen, sufrimiento y desintegración? Esta pregunta - y su contestación - no tiene nada en absoluto que ver con ninguna nación particular, ideología política o forma de gobierno. Esta pregunta es formulada tarde o temprano por todo ser humano. Su contestación y su comprensión, son derivadas por cada individuo como resultado de su desenvolvimiento evolutivo. Cambie la cualidad de las causas aprendiendo de la experiencia y tome acción desde la base de la nueva sabiduría.
 
-Puesto que cada radio en la rueda horoscópica es un factor de un patrón de polaridad
-doble, extendamos ahora el radio de Pisas en el mándala anterior para formar un diámetro
-completo; extendamos la línea al punto opuesto para formar el diámetro de Piscis-Virgo
-cúspides de las casas duodécima y sexta. Un diámetro es una imagen desplegada de las
-potencialidades de un radio puesto que demuestra ambas polaridades. Así que, con el
-diámetro de Piscis-Virgo tenemos los signos femeninos de la cruz mutable. Virgo (Tierra)
-es varón; Piscis (Agua) es hembra. Respecto a nuestro asunto, estos dos signos pintan
-simbólicamente los dos tipos de personas que se dedican al servicio militar.
-(1) Aquellos que se alistan - sirven voluntariamente - expresan una conciencia de
-servicio desde el nivel dinámico - o genéricamente varón - esta cualidad está representada
-por Virgo, el cual, en esencia, es servicio amoroso.
-(2) Aquellos que son reclutados - sirven obligatoriamente - son movilizados al
-servicio militar por fuerzas externas; en otras palabras, sobre ellos operan fuerzas kármicas
-que son objetivadas por los representantes del gobierno y la autoridad militar. Este tipo de
-experiencia representa la polaridad femenina genérica del diámetro del servicio; no
-solamente es pasiva sino que la falta de dirección propia implicada hace esta clase de
-experiencia una posible fuente de gran sufrimiento para el individuo a menos que - repito a
-menos que - él haga un ajuste de la situación en su conciencia y la acepte en su interior, se
-mueva con las fuerzas kármicas y cumpla sus responsabilidades hasta el máximo en todos
-los pasos del camino. Consideremos una prueba de este patrón según se ha objetivado en
-experiencias recientes de muchas personas.
+Puesto que cada radio en la rueda horoscópica es un factor de un patrón de polaridad doble, extendamos ahora el radio de Pisas en el mándala anterior para formar un diámetro completo; extendamos la línea al punto opuesto para formar el diámetro de Piscis-Virgo cúspides de las casas duodécima y sexta. Un diámetro es una imagen desplegada de las potencialidades de un radio puesto que demuestra ambas polaridades. Así que, con el diámetro de Piscis-Virgo tenemos los signos femeninos de la cruz mutable. Virgo (Tierra) es varón; Piscis (Agua) es hembra. Respecto a nuestro asunto, estos dos signos pintan simbólicamente los dos tipos de personas que se dedican al servicio militar. (1) Aquellos que se alistan - sirven voluntariamente - expresan una conciencia de servicio desde el nivel dinámico - o genéricamente varón - esta cualidad está representada por Virgo, el cual, en esencia, es servicio amoroso. (2) Aquellos que son reclutados - sirven obligatoriamente - son movilizados al servicio militar por fuerzas externas; en otras palabras, sobre ellos operan fuerzas kármicas que son objetivadas por los representantes del gobierno y la autoridad militar. Este tipo de experiencia representa la polaridad femenina genérica del diámetro del servicio; no solamente es pasiva sino que la falta de dirección propia implicada hace esta clase de experiencia una posible fuente de gran sufrimiento para el individuo a menos que - repito a menos que - él haga un ajuste de la situación en su conciencia y la acepte en su interior, se mueva con las fuerzas kármicas y cumpla sus responsabilidades hasta el máximo en todos los pasos del camino. Consideremos una prueba de este patrón según se ha objetivado en experiencias recientes de muchas personas.
 
-La acción de reclutamiento de la pasada guerra fue un “punto de mutación” en la
-vida de todos los que fueron afectados por ella; justamente como en una escala más
-universal, aquellos que encarnan bajo las vibraciones de ciertos aspectos planetarios
-mayores, se “empatan” con los puntos de viraje evolutivos. Puesto que la humanidad tiende
-básicamente a la inercia - prefiriendo la adhesión a aquello que está establecido como un
-símbolo de seguridad - la mayoría de la gente necesitan ser movidos por fuerzas kármicas
-para flexibilizar sus acercamientos a la experiencia y para abrir nuevos niveles de
-conciencia de cualidades y capacidades. Las autoridades a cargo de la última organización
-de reclutamiento hizo mucho para tratar de determinar las cualificaciones de los individuos
-para servicio adecuado. El hecho que muchos hombres fueron asignados a ramas de trabajo
-que eran completamente nuevas para ellos fue la exteriorización de medios kármicos en
-operación en sus vidas. Sus necesidades internas profundas para la elasticidad de
-conciencia los magnetizó hada organizaciones específicas, ramas específicas de servicio y
-localidades específicas para cumplir patrones de responsabilidad que pueden haber sido,
-desde el punto de vista del tiempo, miles de años de existentes. Una cosa es cierta: la
-oportunidad del servicio de reclutamiento ofrecida a cada hombre fue el efecto directo de
-causas de faltas que él mismo incitó en el pasado. Estar encarnado implica la aceptación
-voluntaria o de otra índole, de servir a la vida por el mejoramiento de la cualidad del
-rendimiento y respuesta vibratorios; nosotros nunca podemos mejorar nada a menos que
-logremos una comprensión más clara y más extensa de nuestras realidades. Una de nuestras
-realidades básicas es lograr la maestría del destino individual: esto está probado por nuestra
-posesión de la facultad de la opción. Nosotros podemos elegir el hacer de cualquier
-experiencia un “punto de mutación” de vuelta hacia arriba o vuelta hacia abajo,
-dependiendo de la cualidad de nuestra reacción y nuestra acción a una circunstancia
-determinada. Nosotros podemos aprender a hacer mejores elecciones al grado que nos
-tornemos conscientes sin emoción, de la cualidad de los efectos.
+La acción de reclutamiento de la pasada guerra fue un “punto de mutación” en la vida de todos los que fueron afectados por ella; justamente como en una escala más universal, aquellos que encarnan bajo las vibraciones de ciertos aspectos planetarios mayores, se “empatan” con los puntos de viraje evolutivos. Puesto que la humanidad tiende básicamente a la inercia - prefiriendo la adhesión a aquello que está establecido como un símbolo de seguridad - la mayoría de la gente necesitan ser movidos por fuerzas kármicas para flexibilizar sus acercamientos a la experiencia y para abrir nuevos niveles de conciencia de cualidades y capacidades. Las autoridades a cargo de la última organización de reclutamiento hizo mucho para tratar de determinar las cualificaciones de los individuos para servicio adecuado. El hecho que muchos hombres fueron asignados a ramas de trabajo que eran completamente nuevas para ellos fue la exteriorización de medios kármicos en operación en sus vidas. Sus necesidades internas profundas para la elasticidad de conciencia los magnetizó hada organizaciones específicas, ramas específicas de servicio y localidades específicas para cumplir patrones de responsabilidad que pueden haber sido, desde el punto de vista del tiempo, miles de años de existentes. Una cosa es cierta: la oportunidad del servicio de reclutamiento ofrecida a cada hombre fue el efecto directo de causas de faltas que él mismo incitó en el pasado. Estar encarnado implica la aceptación voluntaria o de otra índole, de servir a la vida por el mejoramiento de la cualidad del rendimiento y respuesta vibratorios; nosotros nunca podemos mejorar nada a menos que logremos una comprensión más clara y más extensa de nuestras realidades. Una de nuestras realidades básicas es lograr la maestría del destino individual: esto está probado por nuestra posesión de la facultad de la opción. Nosotros podemos elegir el hacer de cualquier experiencia un “punto de mutación” de vuelta hacia arriba o vuelta hacia abajo, dependiendo de la cualidad de nuestra reacción y nuestra acción a una circunstancia determinada. Nosotros podemos aprender a hacer mejores elecciones al grado que nos tornemos conscientes sin emoción, de la cualidad de los efectos.
 
-Si hemos dejado - y todos hemos dejado - de servir en el pasado de acuerdo con el
-principio, entonces reconocemos que la vida provee, a través de la conciencia, la
-oportunidad de redimir la cualidad del servicio deficiente por la armonización con la
-experiencia grupal de modo que la conciencia combinada del grupo pueda añadir poder al
-esfuerzo regenerador y cada persona que esté condicionada constructivamente sirva
-entonces a todos los demás que están igualmente condicionados para el fomento del
-progreso. El servicio militar es uno de los ejemplos más conspicuos, en períodos de
-“tensión global” por los cuales la vida hace posible esta oportunidad, y cada persona es
-colocada así, donde y con quien su karma (destino generado por sí mismo) decrete.
+Si hemos dejado - y todos hemos dejado - de servir en el pasado de acuerdo con el principio, entonces reconocemos que la vida provee, a través de la conciencia, la oportunidad de redimir la cualidad del servicio deficiente por la armonización con la experiencia grupal de modo que la conciencia combinada del grupo pueda añadir poder al esfuerzo regenerador y cada persona que esté condicionada constructivamente sirva entonces a todos los demás que están igualmente condicionados para el fomento del progreso. El servicio militar es uno de los ejemplos más conspicuos, en períodos de “tensión global” por los cuales la vida hace posible esta oportunidad, y cada persona es colocada así, donde y con quien su karma (destino generado por sí mismo) decrete.
 
-Su horóscopo es una variación del Gran Mándala, pero su duodécima y sexta casas
-están en el mismo lugar que las de todos los demás. Estudie los signos de las cúspides de
-sus Casas Mutables - tercera a novena, sexta a duodécima - como la cruz vibratoria que, en
-su mapa, corresponde a la Cruz Mutable del Gran Mándala. Enfoque su atención en los
-regentes planetarios - sus ubicaciones, aspectos y cualidad genérica - de dos casas:
-duodécima y sexta. Estudie cuidadosamente todas las cuadraturas y oposiciones que
-implican su duodécima casa y su regente. El regente de su duodécima casa le da la llave
-para su afinación con las fuerzas kármicas; sus aspectos regenerados representarán sus
-fuerzas espirituales profundas superconscientes para enfrentar y trascender las “duras
-experiencias” representadas por sus aspectos no regenerados. En una experiencia semejante
-usted se “enredará” con gran parte de lo que representa el astral negativo en la conciencia
-humana, las condiciones vibratorias negativas de su duodécima casa describen su
-magnetización a la gente así representada que servirá de retos a su hondo deseo por la
-acción y la expresión redentoras. Infórmese sobre el principio de este planeta y el
-principio de todo planeta que forme aspecto con él; porque usted lo necesita, usted será
-probado poderosamente en ese punto. Sepa que los “Planetas son Gente”. Su mapa será,
-en todo respecto, exteriorizado bellamente o de otra manera, por las personas con quienes
-usted habrá de asociarse en este período de “servicio redentor”.
+Su horóscopo es una variación del Gran Mándala, pero su duodécima y sexta casas están en el mismo lugar que las de todos los demás. Estudie los signos de las cúspides de sus Casas Mutables - tercera a novena, sexta a duodécima - como la cruz vibratoria que, en su mapa, corresponde a la Cruz Mutable del Gran Mándala. Enfoque su atención en los regentes planetarios - sus ubicaciones, aspectos y cualidad genérica - de dos casas: duodécima y sexta. Estudie cuidadosamente todas las cuadraturas y oposiciones que implican su duodécima casa y su regente. El regente de su duodécima casa le da la llave para su afinación con las fuerzas kármicas; sus aspectos regenerados representarán sus fuerzas espirituales profundas superconscientes para enfrentar y trascender las “duras experiencias” representadas por sus aspectos no regenerados. En una experiencia semejante usted se “enredará” con gran parte de lo que representa el astral negativo en la conciencia humana, las condiciones vibratorias negativas de su duodécima casa describen su magnetización a la gente así representada que servirá de retos a su hondo deseo por la acción y la expresión redentoras. Infórmese sobre el principio de este planeta y el principio de todo planeta que forme aspecto con él; porque usted lo necesita, usted será probado poderosamente en ese punto. Sepa que los “Planetas son Gente”. Su mapa será, en todo respecto, exteriorizado bellamente o de otra manera, por las personas con quienes usted habrá de asociarse en este período de “servicio redentor”.
 
-En tiempos de conflicto planetario el individuo puede tomar una de cuatro opciones:
-(1) Una abstención intransigente de participación en cualquier forma;
-(2) Abstención de combatir, pero buena voluntad de servir en otra forma;
-(3) Alistamiento voluntario como un gesto “auto-propulsado” de servicio;
-(4) Dejarse reclutar y tomar el plato servido.
-De estas cuatro opciones, la última requiere el máximo de adaptabilidad a los
-directivos de las fuerzas kármicas, puesto que está simbolizada por el punto de Piscis del
-diámetro Piscis-Virgo. El cumplimiento concienzudo de “todo lo que es servido”, es la
-palabra clave que hay que tener en mente, para neutralizar resistencias y resentimientos -
-porque en esa actitud de realización, el servicio se llevará a cabo - y ése es el propósito
-detrás de toda la cosa. Mediante el ejercicio expansivo de la inteligencia y la expresión de
-las habilidades según sean requeridas se encontrará la persona que está “creciendo” en
-forma admirable porque ella tendrá la obligación de considerar muchos problemas y
-circunstancias con los cuales nunca trató antes. La vibración de Piscis simboliza la
-necesidad del hombre reclutado de mantenerse armonizado con lo mejor suyo y de los
-otros; él debe “alertar” su idealidad y tratar de percibir las más grandes potencialidades de
-todos y reconocer toda oportunidad de proyectar lo mejor que pueda; alentar y animar
-cuando sea necesario; flexibilizar su apreciación del mérito de cada factor en la experiencia,
-como una oportunidad de aprender.
+En tiempos de conflicto planetario el individuo puede tomar una de cuatro opciones: (1) Una abstención intransigente de participación en cualquier forma; (2) Abstención de combatir, pero buena voluntad de servir en otra forma; (3) Alistamiento voluntario como un gesto “auto-propulsado” de servicio; (4) Dejarse reclutar y tomar el plato servido. De estas cuatro opciones, la última requiere el máximo de adaptabilidad a los directivos de las fuerzas kármicas, puesto que está simbolizada por el punto de Piscis del diámetro Piscis-Virgo. El cumplimiento concienzudo de “todo lo que es servido”, es la palabra clave que hay que tener en mente, para neutralizar resistencias y resentimientos - porque en esa actitud de realización, el servicio se llevará a cabo - y ése es el propósito detrás de toda la cosa. Mediante el ejercicio expansivo de la inteligencia y la expresión de las habilidades según sean requeridas se encontrará la persona que está “creciendo” en forma admirable porque ella tendrá la obligación de considerar muchos problemas y circunstancias con los cuales nunca trató antes. La vibración de Piscis simboliza la necesidad del hombre reclutado de mantenerse armonizado con lo mejor suyo y de los otros; él debe “alertar” su idealidad y tratar de percibir las más grandes potencialidades de todos y reconocer toda oportunidad de proyectar lo mejor que pueda; alentar y animar cuando sea necesario; flexibilizar su apreciación del mérito de cada factor en la experiencia, como una oportunidad de aprender.
 
-Estudiantes - es más que fútil congestionar en resentimiento si esta experiencia se
-les presentara a ustedes. Sus vidas la prosiguen por completo - aunque en formas nunca
-planeadas o esperadas por usted conscientemente. Nadie puede hacerle desperdiciar su
-tiempo si usted utiliza su material tiempo. Nadie puede hacerle desperdiciar sus talentos si
-usted ejercita sus habilidades y se pone consciente de los recursos más intensos de fuerza
-física, mental y espiritual.
+Estudiantes - es más que fútil congestionar en resentimiento si esta experiencia se les presentara a ustedes. Sus vidas la prosiguen por completo - aunque en formas nunca planeadas o esperadas por usted conscientemente. Nadie puede hacerle desperdiciar su tiempo si usted utiliza su material tiempo. Nadie puede hacerle desperdiciar sus talentos si usted ejercita sus habilidades y se pone consciente de los recursos más intensos de fuerza física, mental y espiritual.
 
-Los por qués y los por esos de esta experiencia están representados en su horóscopo.
-En formas inimaginables, usted puede, si usted debe y desea, darse más cuenta de quién y
-qué es usted realmente para el mejoramiento de toda su encarnación y para su relación con
-la gente en el futuro.
+Los por qués y los por esos de esta experiencia están representados en su horóscopo. En formas inimaginables, usted puede, si usted debe y desea, darse más cuenta de quién y qué es usted realmente para el mejoramiento de toda su encarnación y para su relación con la gente en el futuro.
 
 ### <h3 id="chapter-5">Capítulo V: El Dar Regalos</h3>
 
-Nosotros usamos la palabra aniversario para designar una temporada en la que
-expresamos nuestra apreciación de la vida. No damos regalos simplemente a aquellos que
-amamos, admiramos y respetamos porque estas personas hayan conseguido vivir cierto
-número de años, porque es natural para cada uno permanecer en este plano todo lo que
-pueda. Damos regalos en ocasiones de fiesta para expresar nuestro aprecio por cuanto
-aquellos que amamos (cuyas cualidades vibratorias representan nuestros ideales) han
-permanecido aquí con nosotros. Amamos, admiramos y respetamos a ciertas personas
-porque su cualidad vibratoria es de tal modo que ella estimula algo de nuestra conciencia
-más fina y regenerada; el contacto con estas personas “enciende” nuestra percepción de la
-Luz que mora en cada uno de nosotros y de la cual somos las expresiones manifestadas en
-este plano.
+Nosotros usamos la palabra aniversario para designar una temporada en la que expresamos nuestra apreciación de la vida. No damos regalos simplemente a aquellos que amamos, admiramos y respetamos porque estas personas hayan conseguido vivir cierto número de años, porque es natural para cada uno permanecer en este plano todo lo que pueda. Damos regalos en ocasiones de fiesta para expresar nuestro aprecio por cuanto aquellos que amamos (cuyas cualidades vibratorias representan nuestros ideales) han permanecido aquí con nosotros. Amamos, admiramos y respetamos a ciertas personas porque su cualidad vibratoria es de tal modo que ella estimula algo de nuestra conciencia más fina y regenerada; el contacto con estas personas “enciende” nuestra percepción de la Luz que mora en cada uno de nosotros y de la cual somos las expresiones manifestadas en este plano.
 
-Todas las ceremonias relativas a los períodos de experiencia humana se originan en
-el impulso primitivo de reconocer los principios de la vida en su expresión rítmica durante
-nuestros años aquí. Puesto que la humanidad tiende a objetivar la conciencia, los festivales
-y las ceremonias simbólicos son usados para interpretar la percepción del hombre de los
-procesos de la vida. Se observará que todos los pueblos tienen sus propias maneras
-particulares de presentar sus interpretaciones de la vida; algunos son alegres y “rapsódicos”
-en cualidad, otros son majestuosos y solemnes. Las ceremonias y las fiestas son
-dramatizaciones de las reacciones emocionales de la humanidad a los fenómenos de la vida
-y sus dádivas son una expresión de su aprecio y sus simpatías. 
+Todas las ceremonias relativas a los períodos de experiencia humana se originan en el impulso primitivo de reconocer los principios de la vida en su expresión rítmica durante nuestros años aquí. Puesto que la humanidad tiende a objetivar la conciencia, los festivales y las ceremonias simbólicos son usados para interpretar la percepción del hombre de los procesos de la vida. Se observará que todos los pueblos tienen sus propias maneras particulares de presentar sus interpretaciones de la vida; algunos son alegres y “rapsódicos” en cualidad, otros son majestuosos y solemnes. Las ceremonias y las fiestas son dramatizaciones de las reacciones emocionales de la humanidad a los fenómenos de la vida y sus dádivas son una expresión de su aprecio y sus simpatías. 
 
-En la fiesta de Pascua la
-humanidad celebra, de acuerdo con el lugar y el tiempo, su regocijo de vivir la respuesta
-primordial a la percepción de su avance como manifestación física; su gratitud a la Tierra
-como una expresión física de la belleza en su florecimiento, fragancia y promesa de
-fruición. Ésta es la ocasión en que la humanidad celebra el Ascendente de su horóscopo, la
-renovación de la conciencia de YO SOY, la mirada hacia arriba, el impulso hacia adelante.
-La referencia al Ascendente del horóscopo concierne a la cualidad dinámica, vivificante del
-signo de Aries, el signo del Ascendente del horóscopo abstracto de la entidad, humanidad.
-La fiesta de Pascua, prescindiendo de sus formas variadas y sus rituales, es la “canción de
-la confianza en la Vida” de la humanidad, la fe indestructible en el bien universal que hace
-posible, su igualmente indestructible determinación para el progreso. La Pascua es el
-período en cada año para recargar nuestra propia conciencia - y la de los otros - con
-renovada vitalidad, renovado valor y renovada percepción de la Potencialidad Divina, y
-renovado júbilo en las liberaciones y expresiones de esa potencialidad. El relato de la
-Resurrección es el drama de la liberación; nuestra ofrenda de regalos en esta estación es
-nuestro aprecio del medio liberador del Espíritu según éste se manifiesta a través de
-aquellos a quienes amamos y la liberación que su amor y estímulo ha significado para
-nosotros. La Pascua es la función del Espíritu de “romper las cristalizaciones” y está
-simbolizada en el horóscopo por la vibración y la acción del planeta Urano y la función del
-aspecto sextil entre dos planetas para romper la cristalización de la congestión formada por
-cualquiera de los dos o de ambos planetas a otros planetas. La transmutación de la cualidad
-de uno o ambos planetas en cuadratura u oposición permite una redistribución de las
-energías planetarias para una expresión más constructiva. Ésta es la “Resurrección” en la
-vida de cada ser humano que progresa espiritualmente. Nuestro “regalo de Pascua”, como
-Astro-filósofos, es nuestra contribución de penetración interna para desenredar las
-congestiones de nuestros compañeros y auxiliarlos a reorientarse hacia niveles más
-elevados de conciencia y expresión.
+En la fiesta de Pascua la humanidad celebra, de acuerdo con el lugar y el tiempo, su regocijo de vivir la respuesta primordial a la percepción de su avance como manifestación física; su gratitud a la Tierra como una expresión física de la belleza en su florecimiento, fragancia y promesa de fruición. Ésta es la ocasión en que la humanidad celebra el Ascendente de su horóscopo, la renovación de la conciencia de YO SOY, la mirada hacia arriba, el impulso hacia adelante. La referencia al Ascendente del horóscopo concierne a la cualidad dinámica, vivificante del signo de Aries, el signo del Ascendente del horóscopo abstracto de la entidad, humanidad. La fiesta de Pascua, prescindiendo de sus formas variadas y sus rituales, es la “canción de la confianza en la Vida” de la humanidad, la fe indestructible en el bien universal que hace posible, su igualmente indestructible determinación para el progreso. La Pascua es el período en cada año para recargar nuestra propia conciencia - y la de los otros - con renovada vitalidad, renovado valor y renovada percepción de la Potencialidad Divina, y renovado júbilo en las liberaciones y expresiones de esa potencialidad. El relato de la Resurrección es el drama de la liberación; nuestra ofrenda de regalos en esta estación es nuestro aprecio del medio liberador del Espíritu según éste se manifiesta a través de aquellos a quienes amamos y la liberación que su amor y estímulo ha significado para nosotros. La Pascua es la función del Espíritu de “romper las cristalizaciones” y está simbolizada en el horóscopo por la vibración y la acción del planeta Urano y la función del aspecto sextil entre dos planetas para romper la cristalización de la congestión formada por cualquiera de los dos o de ambos planetas a otros planetas. La transmutación de la cualidad de uno o ambos planetas en cuadratura u oposición permite una redistribución de las energías planetarias para una expresión más constructiva. Ésta es la “Resurrección” en la vida de cada ser humano que progresa espiritualmente. Nuestro “regalo de Pascua”, como Astro-filósofos, es nuestra contribución de penetración interna para desenredar las congestiones de nuestros compañeros y auxiliarlos a reorientarse hacia niveles más elevados de conciencia y expresión.
 
-La celebración del cumpleaños de un individuo es una apreciación - por sus seres
-amados y amigos - de la forma en que él expresa el regente de su Ascendente. Este planeta,
-cualquiera que sea y donde quiera que esté en el mapa, es el símbolo de la percepción
-propia y la potencialidad de la personalidad. Nuestra ofrenda de regalos en tal día es nuestra
-expresión del aprecio por la Luz que esa persona representa en nuestras vidas como una
-“chispa de la Luz Divina”. Nosotros debemos agradecer los esfuerzos que hacen aquellos
-cercanos a nosotros para mejorar sus cualidades y expresiones vibratorias; sus
-mejoramientos nos ayudan a hacer los nuestros puesto que lo mejor en ellos enciende lo
-mejor en nosotros. Nosotros objetivamos nuestro aprecio por una compensación material,
-algo que ha de levantar más la conciencia de la persona apreciada.
+La celebración del cumpleaños de un individuo es una apreciación - por sus seres amados y amigos - de la forma en que él expresa el regente de su Ascendente. Este planeta, cualquiera que sea y donde quiera que esté en el mapa, es el símbolo de la percepción propia y la potencialidad de la personalidad. Nuestra ofrenda de regalos en tal día es nuestra expresión del aprecio por la Luz que esa persona representa en nuestras vidas como una “chispa de la Luz Divina”. Nosotros debemos agradecer los esfuerzos que hacen aquellos cercanos a nosotros para mejorar sus cualidades y expresiones vibratorias; sus mejoramientos nos ayudan a hacer los nuestros puesto que lo mejor en ellos enciende lo mejor en nosotros. Nosotros objetivamos nuestro aprecio por una compensación material, algo que ha de levantar más la conciencia de la persona apreciada.
 
-El autor desconoce si se han celebrado ocasiones comparables al “Día de las
-Madres” y “Día de los Padres”, por otras razas, o si es que son exclusivamente fiestas
-americanas. Sin embargo, ellas son, en combinación, el “festival de la cuarta y la décima
-casas”, el diámetro vertical del horóscopo, la Esencia dinámica del universo. En
-apreciación a la gente que ella conmemora, nosotros significamos nuestra conciencia
-reverencial de radiación de Amor, Sacrificio, Crianza y Protección que son las “bases”
-inherentes regeneradas de los principios de los padres. Nosotros damos amorosamente un
-regalo a Mamá y a Papá en “su día” para expresarles nuestra apreciación a ellos como
-individuos quienes, en servicio Amoroso, nos proporcionan la encarnación, nos protegieron
-y nos guiaron en nuestros años de crecimiento. Pero nosotros apreciamos algo de lo cual
-Madre y Padre son expresiones humanas individuales: las fuerzas nutritivas y protectoras
-de la Vida misma. Las Madres y los Padres que son verdaderamente amados y respetados
-por sus hijos lo son porque ellos, en sí mismos, simbolizan la protección cobijadora de las
-Fuerzas Divinas; su servicio de Amor sacrificante es una duplicación humana de todo lo
-que se da para la perpetuación y avance de la vida humana.
+El autor desconoce si se han celebrado ocasiones comparables al “Día de las Madres” y “Día de los Padres”, por otras razas, o si es que son exclusivamente fiestas americanas. Sin embargo, ellas son, en combinación, el “festival de la cuarta y la décima casas”, el diámetro vertical del horóscopo, la Esencia dinámica del universo. En apreciación a la gente que ella conmemora, nosotros significamos nuestra conciencia reverencial de radiación de Amor, Sacrificio, Crianza y Protección que son las “bases” inherentes regeneradas de los principios de los padres. Nosotros damos amorosamente un regalo a Mamá y a Papá en “su día” para expresarles nuestra apreciación a ellos como individuos quienes, en servicio Amoroso, nos proporcionan la encarnación, nos protegieron y nos guiaron en nuestros años de crecimiento. Pero nosotros apreciamos algo de lo cual Madre y Padre son expresiones humanas individuales: las fuerzas nutritivas y protectoras de la Vida misma. Las Madres y los Padres que son verdaderamente amados y respetados por sus hijos lo son porque ellos, en sí mismos, simbolizan la protección cobijadora de las Fuerzas Divinas; su servicio de Amor sacrificante es una duplicación humana de todo lo que se da para la perpetuación y avance de la vida humana.
 
-¿Cuándo, verdaderamente, no ha celebrado la Humanidad, en ceremonia, la unión
-de dos que se aman? La fiesta del matrimonio es la dramatización del diámetro horizontal
-del horóscopo, las cúspides de la primera y séptima casas. El éxtasis y la belleza
-inspiradora de la unión amorosa es el medio por el cual la humanidad es alertada más
-intensamente a la existencia de su yo ideal encendido en su conciencia por las virtudes y
-gracias de la persona que representa su complemento. El corazón humano responde con
-completo regocijo a la “belleza que es Amor” y aquellas personas que han vivido esta
-belleza en la relación marital representan símbolos, en forma humana, de la eternidad de la
-belleza misma. Nosotros respondemos con un sentido de arrobamiento profundo a la
-vibración exaltada de una ceremonia nupcial y la felicidad radiante de la nueva esposa y el
-nuevo marido crean nuestros más sinceros deseos que su experiencia juntos sea feliz y
-airosa en todo sentido. Debido a la cualidad del espíritu que ellos despliegan, nosotros
-apreciamos las parejas que hacen un verdadero éxito del matrimonio porque ellas han
-vivido la verdad del amar y nosotros les estamos agradecidos por lo que ellas representan.
-El Astro-filósofo “celebra el diámetro horizontal” cuando quiera que él aprenda algo de lo
-mejor de otras personas e incorpora esas cualidades en su propia vida. La otra persona
-representa la séptima casa - el complemento; él es el Ascendente - el YO SOY; la fusión de
-lo mejor del complemento en la conciencia del YO SOY es lo que la ceremonia del
-matrimonio realmente simboliza - el perfeccionamiento de la conciencia personal en un
-todo completo y perfecto. Como esposas y como esposos, los Astro-filósofos reviven el
-amor que los unió siempre que ellos traten de emular las virtudes y cualidades regeneradas
-de sus compañeros y ellos usan los patrones simbólicos de sus mapas para esclarecer las
-significaciones internas de su unión y para lograr perspectivas de cómo puede cada uno
-ayudar, enseñar y guiar al otro.
+¿Cuándo, verdaderamente, no ha celebrado la Humanidad, en ceremonia, la unión de dos que se aman? La fiesta del matrimonio es la dramatización del diámetro horizontal del horóscopo, las cúspides de la primera y séptima casas. El éxtasis y la belleza inspiradora de la unión amorosa es el medio por el cual la humanidad es alertada más intensamente a la existencia de su yo ideal encendido en su conciencia por las virtudes y gracias de la persona que representa su complemento. El corazón humano responde con completo regocijo a la “belleza que es Amor” y aquellas personas que han vivido esta belleza en la relación marital representan símbolos, en forma humana, de la eternidad de la belleza misma. Nosotros respondemos con un sentido de arrobamiento profundo a la vibración exaltada de una ceremonia nupcial y la felicidad radiante de la nueva esposa y el nuevo marido crean nuestros más sinceros deseos que su experiencia juntos sea feliz y airosa en todo sentido. Debido a la cualidad del espíritu que ellos despliegan, nosotros apreciamos las parejas que hacen un verdadero éxito del matrimonio porque ellas han vivido la verdad del amar y nosotros les estamos agradecidos por lo que ellas representan. El Astro-filósofo “celebra el diámetro horizontal” cuando quiera que él aprenda algo de lo mejor de otras personas e incorpora esas cualidades en su propia vida. La otra persona representa la séptima casa - el complemento; él es el Ascendente - el YO SOY; la fusión de lo mejor del complemento en la conciencia del YO SOY es lo que la ceremonia del matrimonio realmente simboliza - el perfeccionamiento de la conciencia personal en un todo completo y perfecto. Como esposas y como esposos, los Astro-filósofos reviven el amor que los unió siempre que ellos traten de emular las virtudes y cualidades regeneradas de sus compañeros y ellos usan los patrones simbólicos de sus mapas para esclarecer las significaciones internas de su unión y para lograr perspectivas de cómo puede cada uno ayudar, enseñar y guiar al otro.
 
-Aunque no se le atribuye la esfera de significación implicada por la Pascua o la
-Navidad, la fiesta del Día de San Valentín es una ocasión encantadora que celebra la quinta
-casa del horóscopo y el signo Leo. Ésta es la “canción de los jóvenes de corazón”, “el brillo
-de la estrella del amor”, el impulso ardiente y grato de corazón humano de apreciar las
-bellezas y virtudes del sexo opuesto, el reconocimiento de la aurora del cumplimiento
-emocional. Regalos de flores y dulces son ofrecidos como expresiones de los “sentimientos
-de dulzura” en nuestros corazones para aquellos que representan nuestro ideal de
-amabilidad y encanto. La cualidad radiante implicada por el signo Leo es aquella por la
-cual nuestra conciencia de Amor calienta y bendice las vidas de aquellos que nos son
-queridos - nosotros expresamos a estas personas nuestra apreciación por el ideal que ellas
-representan para nosotros -. El hombre o la mujer joven que es amado es un individuo
-humano de la belleza de la Vida a los ojos del que ama y el mensaje presentado por el signo
-de Leo es el de: “vida por el amor”; “mantenga su corazón renovado y fresco por impulsos
-ardientes de afecto”; “mantenga viva su perfección de la belleza amando lo más hermoso en
-la otra persona”. El regalo diario de nuestros impulsos más sutiles hacia una hermosa vida
-en la relación, el encanto de la convivencia armoniosa y la inspiración de la siempre
-renovada percepción de la Luz que está inherente en la conciencia del ser amado, es la
-verdadera celebración del Día de San Valentín - el regalo anual de flores (o cualquier cosa)
-- es simplemente la expresión externa de aquello que el corazón humano debe expresar
-continuamente hacia la persona amada; es nuestra apreciación de lo que la persona
-representa para nosotros como un ideal de nuestros corazones.
+Aunque no se le atribuye la esfera de significación implicada por la Pascua o la Navidad, la fiesta del Día de San Valentín es una ocasión encantadora que celebra la quinta casa del horóscopo y el signo Leo. Ésta es la “canción de los jóvenes de corazón”, “el brillo de la estrella del amor”, el impulso ardiente y grato de corazón humano de apreciar las bellezas y virtudes del sexo opuesto, el reconocimiento de la aurora del cumplimiento emocional. Regalos de flores y dulces son ofrecidos como expresiones de los “sentimientos de dulzura” en nuestros corazones para aquellos que representan nuestro ideal de amabilidad y encanto. La cualidad radiante implicada por el signo Leo es aquella por la cual nuestra conciencia de Amor calienta y bendice las vidas de aquellos que nos son queridos - nosotros expresamos a estas personas nuestra apreciación por el ideal que ellas representan para nosotros -. El hombre o la mujer joven que es amado es un individuo humano de la belleza de la Vida a los ojos del que ama y el mensaje presentado por el signo de Leo es el de: “vida por el amor”; “mantenga su corazón renovado y fresco por impulsos ardientes de afecto”; “mantenga viva su perfección de la belleza amando lo más hermoso en la otra persona”. El regalo diario de nuestros impulsos más sutiles hacia una hermosa vida en la relación, el encanto de la convivencia armoniosa y la inspiración de la siempre renovada percepción de la Luz que está inherente en la conciencia del ser amado, es la verdadera celebración del Día de San Valentín - el regalo anual de flores (o cualquier cosa) - es simplemente la expresión externa de aquello que el corazón humano debe expresar continuamente hacia la persona amada; es nuestra apreciación de lo que la persona representa para nosotros como un ideal de nuestros corazones.
 
-El festival combinado de la Víspera de todos los Santos, en el signo dé Escorpión -
-el 31 de octubre - y el Día de Todos los Santos - 1 de noviembre - tiene una implicación
-mucho más solemne; es la “Fiesta del Ocultista”.
+El festival combinado de la Víspera de todos los Santos, en el signo dé Escorpión - el 31 de octubre - y el Día de Todos los Santos - 1 de noviembre - tiene una implicación mucho más solemne; es la “Fiesta del Ocultista”.
 
-La Fiesta de la Víspera de todos los Santos se ha convertido en una fiesta de
-disfraces y bufonería - un clamor lejano de la profunda significación espiritual que tuvo
-originariamente - Su perpetuación a través de la historia ha sido una expresión de la
-percepción humana de la vida en los planos internos y su patrón astrológico, a través del
-Signo de Escorpión, es la octava casa - la regeneración del mal en Bien - el gran símbolo de
-los Poderes del Ocultista Blanco. “La víspera de todos los Santos” es, de acuerdo con la
-vieja tradición, la noche particular del año cuando se les da a los muertos una tregua de la
-esclavitud de sus tumbas y libertad de vagar por las moradas de los vivos. La
-representación de brujas, diablos, esqueletos y todas esas criaturas sobrenaturales son
-dramatizaciones de la imaginación del hombre, de su percepción de lo atado a la tierra y
-condenado; ellas simbolizan su temor a lo desconocido - desconocido porque no es
-comprendido -. La sucesión del “Día de la Víspera de todos los Santos” por el “Día de
-todos los Santos” completa la significación de este festival: la conquista de las fuerzas de
-las tinieblas (el miedo y la ignorancia) por las Fuerzas de la Luz (la virtud y la Verdad).
-Con respecto a esto y en este punto, una palabra de profunda apreciación a:
+La Fiesta de la Víspera de todos los Santos se ha convertido en una fiesta de disfraces y bufonería - un clamor lejano de la profunda significación espiritual que tuvo originariamente - Su perpetuación a través de la historia ha sido una expresión de la percepción humana de la vida en los planos internos y su patrón astrológico, a través del Signo de Escorpión, es la octava casa - la regeneración del mal en Bien - el gran símbolo de los Poderes del Ocultista Blanco. “La víspera de todos los Santos” es, de acuerdo con la vieja tradición, la noche particular del año cuando se les da a los muertos una tregua de la esclavitud de sus tumbas y libertad de vagar por las moradas de los vivos. La representación de brujas, diablos, esqueletos y todas esas criaturas sobrenaturales son dramatizaciones de la imaginación del hombre, de su percepción de lo atado a la tierra y condenado; ellas simbolizan su temor a lo desconocido - desconocido porque no es comprendido -. La sucesión del “Día de la Víspera de todos los Santos” por el “Día de todos los Santos” completa la significación de este festival: la conquista de las fuerzas de las tinieblas (el miedo y la ignorancia) por las Fuerzas de la Luz (la virtud y la Verdad). Con respecto a esto y en este punto, una palabra de profunda apreciación a:
 
-Señor Walt Disney, cuyo trabajo en películas cinematográficas ha probado que él es
-uno de los medios más grandes para inspirar el corazón de la humanidad en el mundo hoy
-día. En las dos últimas partes de su obra monumental Fantasía - Noche en Montaña Rasa
-y Ave María - el señor Disney y sus colegas han presentado este “Festival Escorpiónico” en
-magnífica forma dramática. Nosotros vemos las sombras de Egos que, mientras estaban en
-la tierra, se congestionaron en cualidades negativas de orgullo, lujuria, avaricia, crueldad,
-ira y envidia. En Fantasía los caracteres que sirven para representar estas cualidades viven
-en un mundo donde todo es oscuro, humeante, fétido, doloroso y angustiado. Estos niveles
-de conciencia, en cualquier ser humano, son verdaderamente las regiones del infierno y en
-tales, nosotros estamos perdidos bajo el poder del Príncipe de las Tinieblas, faltos de
-esperanza y de dirección propia. La música luminosa del Ave María introduce el
-advenimiento de la aurora que es la Luz de la Verdad, la Pureza y la Virtud, disipando las
-condiciones y poderes perversos e ignorantes del “Ángel Negro”. El ocultista o Astro-
-filósofo que enfrenta sus experiencias personales con valor y fortaleza, las cumple lo mejor
-que puede y a través de la regeneración de sus impulsos negativos purifica sus intuiciones e
-ilumina su Conocimiento Interno, se acondiciona para ser un “lanzador de Luz” en las áreas
-oscurecidas de la conciencia de otro. Nosotros podemos dar fiestas y disfrutar de juegos y
-diversiones en el Día de la Víspera de los Santos e ir a la iglesia en tributo de reverencia a
-nuestros santos la mañana siguiente; pero celebramos, como filósofos, esta ocasión en
-nuestra vida diaria cuando nos regeneramos y cualificamos para ser dadores de Luz a la
-humanidad. Cada Astro-filósofo tiene una condición planetaria particular como el medio
-regente de su octava casa, y este planeta le da la clave sobre los principales requisitos de
-sus experiencias regeneradoras. Cada esfuerzo en esta dirección contribuye más luz al
-cuerpo vibratorio colectivo de la humanidad - es el gran regalo espiritual por el cual la parte
-contribuye al bienestar del todo.
+Señor Walt Disney, cuyo trabajo en películas cinematográficas ha probado que él es uno de los medios más grandes para inspirar el corazón de la humanidad en el mundo hoy día. En las dos últimas partes de su obra monumental Fantasía - Noche en Montaña Rasa y Ave María - el señor Disney y sus colegas han presentado este “Festival Escorpiónico” en magnífica forma dramática. Nosotros vemos las sombras de Egos que, mientras estaban en la tierra, se congestionaron en cualidades negativas de orgullo, lujuria, avaricia, crueldad, ira y envidia. En Fantasía los caracteres que sirven para representar estas cualidades viven en un mundo donde todo es oscuro, humeante, fétido, doloroso y angustiado. Estos niveles de conciencia, en cualquier ser humano, son verdaderamente las regiones del infierno y en tales, nosotros estamos perdidos bajo el poder del Príncipe de las Tinieblas, faltos de esperanza y de dirección propia. La música luminosa del Ave María introduce el advenimiento de la aurora que es la Luz de la Verdad, la Pureza y la Virtud, disipando las condiciones y poderes perversos e ignorantes del “Ángel Negro”. El ocultista o Astro- filósofo que enfrenta sus experiencias personales con valor y fortaleza, las cumple lo mejor que puede y a través de la regeneración de sus impulsos negativos purifica sus intuiciones e ilumina su Conocimiento Interno, se acondiciona para ser un “lanzador de Luz” en las áreas oscurecidas de la conciencia de otro. Nosotros podemos dar fiestas y disfrutar de juegos y diversiones en el Día de la Víspera de los Santos e ir a la iglesia en tributo de reverencia a nuestros santos la mañana siguiente; pero celebramos, como filósofos, esta ocasión en nuestra vida diaria cuando nos regeneramos y cualificamos para ser dadores de Luz a la humanidad. Cada Astro-filósofo tiene una condición planetaria particular como el medio regente de su octava casa, y este planeta le da la clave sobre los principales requisitos de sus experiencias regeneradoras. Cada esfuerzo en esta dirección contribuye más luz al cuerpo vibratorio colectivo de la humanidad - es el gran regalo espiritual por el cual la parte contribuye al bienestar del todo.
 
-El gran festival de Navidad es el más “Compuesto” de todas nuestras celebraciones
-del presente. Él es la dramatización de los logros, esperanzas, ideales y aspiraciones
-espirituales más profundas de la humanidad - el punto focal para la expresión del amor a
-sus semejantes.
+El gran festival de Navidad es el más “Compuesto” de todas nuestras celebraciones del presente. Él es la dramatización de los logros, esperanzas, ideales y aspiraciones espirituales más profundas de la humanidad - el punto focal para la expresión del amor a sus semejantes.
 
-Es notable que el relato de la primera Navidad implica en su presentación, la vida en
-este plano desde las “bestias más bajas” hasta las huestes angelicales, la esfera completa de
-las expresiones de la vida desde la más humilde hasta la más exaltada. Los reyes y los
-hombres sabios, los pastores humildes, las voces angélica, los padres humanos
-transfigurados, todos agrupados en torno de la representación del Espíritu Divino
-incorporado en la pureza del niño recién nacido. Esta fiesta es la dramatización de la
-undécima y duodécima casas del Horóscopo Abstracto como el impulso detrás de la
-manifestación de la cruz cardinal; el símbolo formado por los diámetros vertical y
-horizontal de la rueda es el Símbolo Poderoso de la Encarnación.
+Es notable que el relato de la primera Navidad implica en su presentación, la vida en este plano desde las “bestias más bajas” hasta las huestes angelicales, la esfera completa de las expresiones de la vida desde la más humilde hasta la más exaltada. Los reyes y los hombres sabios, los pastores humildes, las voces angélica, los padres humanos transfigurados, todos agrupados en torno de la representación del Espíritu Divino incorporado en la pureza del niño recién nacido. Esta fiesta es la dramatización de la undécima y duodécima casas del Horóscopo Abstracto como el impulso detrás de la manifestación de la cruz cardinal; el símbolo formado por los diámetros vertical y horizontal de la rueda es el Símbolo Poderoso de la Encarnación.
 
-La casa undécima es la conciencia Amorosa universal espiritualizada - la
-polarización - o la octava más alta - de la quinta casa -. Su regencia abstracta por Urano es
-el Amor para todos, el Amor que no reconoce limita-raciones de todas las condiciones
-limitadas y las transforma. La casa duodécima es la voz de redención, el impulso (y
-necesidad) de reencarnar para más amplio cumplimiento a través de procesos y
-experiencias evolutivos. Lo que es manifestado por los poderes de estas dos casas es la
-expresión, en dimensión material, del vehículo bipolar por medio del cual es revelada la
-Deidad latente. “... y Él asumió la semejanza de hombre” es la manifestación del Espíritu
-manifestado y concierne a la aparición de toda expresión de Vida en este plano.
+La casa undécima es la conciencia Amorosa universal espiritualizada - la polarización - o la octava más alta - de la quinta casa -. Su regencia abstracta por Urano es el Amor para todos, el Amor que no reconoce limita-raciones de todas las condiciones limitadas y las transforma. La casa duodécima es la voz de redención, el impulso (y necesidad) de reencarnar para más amplio cumplimiento a través de procesos y experiencias evolutivos. Lo que es manifestado por los poderes de estas dos casas es la expresión, en dimensión material, del vehículo bipolar por medio del cual es revelada la Deidad latente. “... y Él asumió la semejanza de hombre” es la manifestación del Espíritu manifestado y concierne a la aparición de toda expresión de Vida en este plano.
 
-En la conciencia de la humanidad, el símbolo de un niño ha representado siempre la
-inocencia de un nuevo comienzo; en la adoración del Niño que había de ser Cristificado,
-nosotros vemos la dramatización de la mirada hacia arriba de la humanidad en la visión de
-su propia pureza olvidada. Nuestros corazones están hondamente conmovidos por el poder
-vibratorio de este festival porque en todo el mundo, la alegría y el bienestar de los niños, y
-en general, de todas las personas que son dependientes, son puntos focales de nuestra
-atención emocional. Nosotros tratamos de manifestar el poder de la benevolencia para
-mejorar las condiciones de los otros.
+En la conciencia de la humanidad, el símbolo de un niño ha representado siempre la inocencia de un nuevo comienzo; en la adoración del Niño que había de ser Cristificado, nosotros vemos la dramatización de la mirada hacia arriba de la humanidad en la visión de su propia pureza olvidada. Nuestros corazones están hondamente conmovidos por el poder vibratorio de este festival porque en todo el mundo, la alegría y el bienestar de los niños, y en general, de todas las personas que son dependientes, son puntos focales de nuestra atención emocional. Nosotros tratamos de manifestar el poder de la benevolencia para mejorar las condiciones de los otros.
 
-Puesto que las encarnaciones están ocurriendo diariamente por todo el mundo
-nosotros apreciamos que el espíritu, en manifestación, es un proceso interminable y el
-Principio de la Luz, encarnada, está denotado en todo nacimiento en este plano. Nuestra
-ofrenda de regalos durante esta estación es nuestra dramatización del homenaje a la
-Divinidad que se está manifestando a través de miríadas de formas por el ciclo entero de
-evolución y nuestras expresiones de amistad y buena voluntad hacia nuestros hermanos y
-hermanas constituyen nuestro reconocimiento de ellos, como expresiones de luz divina y
-de amor divino.
+Puesto que las encarnaciones están ocurriendo diariamente por todo el mundo nosotros apreciamos que el espíritu, en manifestación, es un proceso interminable y el Principio de la Luz, encarnada, está denotado en todo nacimiento en este plano. Nuestra ofrenda de regalos durante esta estación es nuestra dramatización del homenaje a la Divinidad que se está manifestando a través de miríadas de formas por el ciclo entero de evolución y nuestras expresiones de amistad y buena voluntad hacia nuestros hermanos y hermanas constituyen nuestro reconocimiento de ellos, como expresiones de luz divina y de amor divino.
 
-La realidad de la Navidad sólo puede perpetuarse si nosotros funcionamos
-diariamente en esta conciencia - nunca perder de vista la luz esencial en todos los demás
-seres humanos. La expresión continuada de tal conciencia hace más y más evidente el
-significado subyacente de la aseveración que: “Él vino para que el Reino de Paz y de
-Justicia fuera establecido en la Tierra”. Como con el Maestro, así con nosotros; todos
-somos medios de este poder iluminador y transformador; nuestra reverencia al Niño, Sus
-padres humanos y las Huestes Angélicas es nuestra reverencia al amor y a la luz que nos
-abraza a todos.
+La realidad de la Navidad sólo puede perpetuarse si nosotros funcionamos diariamente en esta conciencia - nunca perder de vista la luz esencial en todos los demás seres humanos. La expresión continuada de tal conciencia hace más y más evidente el significado subyacente de la aseveración que: “Él vino para que el Reino de Paz y de Justicia fuera establecido en la Tierra”. Como con el Maestro, así con nosotros; todos somos medios de este poder iluminador y transformador; nuestra reverencia al Niño, Sus padres humanos y las Huestes Angélicas es nuestra reverencia al amor y a la luz que nos abraza a todos.
 
 ### <h3 id="chapter-6">Capítulo VI: La Regla de Oro</h3>
 
-“Todas las cosas que quisierais que los hombres hiciesen con vosotros, así también
-haced vosotros con ellos”.
+“Todas las cosas que quisierais que los hombres hiciesen con vosotros, así también haced vosotros con ellos”.
 
-Este Gran Mandamiento fue dado como un directivo de conducta para que la
-humanidad se percatara de la acción de la Ley universal de Causa y Efecto en sus
-experiencias, relaciones y asuntos. Adhiriéndose a ella, el instinto de conservación es
-exhortado de tal manera que la consideración del bienestar, la felicidad y el éxito de otras
-personas es estimulada y los deseos naturales normales para el cumplimiento del individuo
-son extendidos a la octava superior de cumplimiento para el yo y el “otro yo” - que
-significa “toda la gente”.
+Este Gran Mandamiento fue dado como un directivo de conducta para que la humanidad se percatara de la acción de la Ley universal de Causa y Efecto en sus experiencias, relaciones y asuntos. Adhiriéndose a ella, el instinto de conservación es exhortado de tal manera que la consideración del bienestar, la felicidad y el éxito de otras personas es estimulada y los deseos naturales normales para el cumplimiento del individuo son extendidos a la octava superior de cumplimiento para el yo y el “otro yo” - que significa “toda la gente”.
 
-En la consideración del “yo y el otro yo”, vamos a redactar de nuevo, ligeramente,
-el Mandamiento, como sigue: “Yo hago a los otros; así me hacen ellos a mí”: y combine
-esta frase con el siguiente mándala simple: un círculo con diámetro horizontal; el símbolo
-del signo de Aries en el punto que corresponde al Ascendente; El símbolo del signo de
-Libra en el punto correspondiente a la séptima cúspide.
+En la consideración del “yo y el otro yo”, vamos a redactar de nuevo, ligeramente, el Mandamiento, como sigue: “Yo hago a los otros; así me hacen ellos a mí”: y combine esta frase con el siguiente mándala simple: un círculo con diámetro horizontal; el símbolo del signo de Aries en el punto que corresponde al Ascendente; El símbolo del signo de Libra en el punto correspondiente a la séptima cúspide.
 
-Coloque la punta de un lápiz en la cúspide de Aries mientras usted dice “Yo hago”;
-mientras usted dice “a”, deje que el lápiz se mueva alrededor de la circunferencia de la
-rueda pasando (lo que sería) las cúspides de la segunda, tercera, cuarta, quinta y sexta
-casas, llegando a la séptima cúspide mientras usted dice “otros”, déjelo permanecer ahí
-mientras usted dice “así ellos me hacen”; déjelo moverse sobre el semicírculo superior - las
-cúspides de la octava, novena, décima, undécima y duodécima casas - mientras usted dice
-“a” y retorne al Ascendente cuando usted dice “mí”. Repita esta acción varias veces para
-alertar su conciencia a una mayor realización del funcionamiento continuo rítmico de la
-Ley de Causa y Efecto en la evolución humana; en suma, usted está produciendo una
-película de la Regla de Oro.
+Coloque la punta de un lápiz en la cúspide de Aries mientras usted dice “Yo hago”; mientras usted dice “a”, deje que el lápiz se mueva alrededor de la circunferencia de la rueda pasando (lo que sería) las cúspides de la segunda, tercera, cuarta, quinta y sexta casas, llegando a la séptima cúspide mientras usted dice “otros”, déjelo permanecer ahí mientras usted dice “así ellos me hacen”; déjelo moverse sobre el semicírculo superior - las cúspides de la octava, novena, décima, undécima y duodécima casas - mientras usted dice “a” y retorne al Ascendente cuando usted dice “mí”. Repita esta acción varias veces para alertar su conciencia a una mayor realización del funcionamiento continuo rítmico de la Ley de Causa y Efecto en la evolución humana; en suma, usted está produciendo una película de la Regla de Oro.
 
-El diámetro horizontal de la rueda horoscópica es una de las fases más importantes
-de la simbología astrológica porque él es el “gran símbolo” de tales cosas como: la esencia
-oculta del aspecto de oposición; la representación del ego y los otros egos; el cuadro de la
-acción y la reacción, la fuerza y la fuerza opuesta; el matrimonio como la fusión de
-cualidades y expresiones masculinas y femeninas en la relación amorosa; el matrimonio
-como la atracción magnética entre el individuo y cualquiera o todos los patrones de relación
-complementarios, ya sean individuales o colectivos; el reto del yo separativo por las fuerzas
-vibratorias que tratan de disolver las cristalizaciones de la separatividad en la Vida y
-Conciencia más grandes por medio de la unión, el cambio y la mezcla; el reflejo de la
-imagen del individuo por medio de su reacción-sentimiento a aquellos que lo
-complementan sin la regeneración o regeneradamente; es el cuadro astrológico de la Ley
-física que comienza: toda fuerza causa automáticamente una fuerza igual y opuesta; esto,
-en términos físicos, es el modo de la Vida de establecer equilibrios después del esfuerzo y
-la tensión.
+El diámetro horizontal de la rueda horoscópica es una de las fases más importantes de la simbología astrológica porque él es el “gran símbolo” de tales cosas como: la esencia oculta del aspecto de oposición; la representación del ego y los otros egos; el cuadro de la acción y la reacción, la fuerza y la fuerza opuesta; el matrimonio como la fusión de cualidades y expresiones masculinas y femeninas en la relación amorosa; el matrimonio como la atracción magnética entre el individuo y cualquiera o todos los patrones de relación complementarios, ya sean individuales o colectivos; el reto del yo separativo por las fuerzas vibratorias que tratan de disolver las cristalizaciones de la separatividad en la Vida y Conciencia más grandes por medio de la unión, el cambio y la mezcla; el reflejo de la imagen del individuo por medio de su reacción-sentimiento a aquellos que lo complementan sin la regeneración o regeneradamente; es el cuadro astrológico de la Ley física que comienza: toda fuerza causa automáticamente una fuerza igual y opuesta; esto, en términos físicos, es el modo de la Vida de establecer equilibrios después del esfuerzo y la tensión.
 
-Como quiera que los planetas son los focos activos de los principios, y las
-posiciones y aspectos planetarios pintan nuestra conciencia individual de lo principios,
-entonces está demostrado claramente que todo foco planetario tiene su copia en el grado
-zodiacal opuesto a su posición en el horóscopo natal. Déle cuidadosa atención a esto, le
-ayudará a comprender mucho más claramente por qué algunas personas que pueden no
-estar identificadas específicamente por los patrones de vuestra séptima casa aparezcan - en
-sus reacciones-sentimiento - como los duplicados de usted; algo en los mapas de estas
-personas puede estar opuesto a un punto de sus distribuciones planetarias. En otras
-palabras, el planeta de la otra persona puede servir para reflejar el duplicado de algo en
-vuestro propio mapa. La otra persona es entonces, en parte, una imagen de usted mismo, ya
-sea para empujarlo más hacia abajo en sus congestiones - por reacciones de tentación,
-fricción y enemistad - o, por la cualidad regeneradora de ella, para levantarlo a usted de sus
-congestiones - por el amor y la idealidad.
+Como quiera que los planetas son los focos activos de los principios, y las posiciones y aspectos planetarios pintan nuestra conciencia individual de lo principios, entonces está demostrado claramente que todo foco planetario tiene su copia en el grado zodiacal opuesto a su posición en el horóscopo natal. Déle cuidadosa atención a esto, le ayudará a comprender mucho más claramente por qué algunas personas que pueden no estar identificadas específicamente por los patrones de vuestra séptima casa aparezcan - en sus reacciones-sentimiento - como los duplicados de usted; algo en los mapas de estas personas puede estar opuesto a un punto de sus distribuciones planetarias. En otras palabras, el planeta de la otra persona puede servir para reflejar el duplicado de algo en vuestro propio mapa. La otra persona es entonces, en parte, una imagen de usted mismo, ya sea para empujarlo más hacia abajo en sus congestiones - por reacciones de tentación, fricción y enemistad - o, por la cualidad regeneradora de ella, para levantarlo a usted de sus congestiones - por el amor y la idealidad.
 
-Como quiera que YO SOY y YO HAGO comprenden la “canción del yo
-individualizado” según está ilustrado por el Ascendente del horóscopo abstracto, la Regla
-de Oro se refiere específicamente al “ser y hacer” de la humanidad. Es el comienzo del
-recorrido alrededor de la rueda por medio de patrones de experiencia y niveles de
-desarrollo. La Regla dice, en efecto: la vida es para ser vivida; yo le demuestro a usted
-cómo ella puede vivirse en términos de la neutralización de fricciones internas y el
-establecimiento de armonías e integraciones en cada paso del camino. Veamos cómo puede
-ser amplificado el mándala para ilustrar la Regla a través de la rueda.
+Como quiera que YO SOY y YO HAGO comprenden la “canción del yo individualizado” según está ilustrado por el Ascendente del horóscopo abstracto, la Regla de Oro se refiere específicamente al “ser y hacer” de la humanidad. Es el comienzo del recorrido alrededor de la rueda por medio de patrones de experiencia y niveles de desarrollo. La Regla dice, en efecto: la vida es para ser vivida; yo le demuestro a usted cómo ella puede vivirse en términos de la neutralización de fricciones internas y el establecimiento de armonías e integraciones en cada paso del camino. Veamos cómo puede ser amplificado el mándala para ilustrar la Regla a través de la rueda.
 
-Añada los otros diámetros, de ese modo representando las doce casas; añada los
-símbolos apropiados a las cúspides de las casas (Aries a Piscis); celebre el “ritual” de la
-recitación de la Regla - como hicimos con el diámetro de Aries-Libra - comenzando con
-cada cúspide a su vez. Por ejemplo, cuando usted “comienza su película” con Tauro, usted
-está impresionando su conciencia con el valor de la Regla como una base subyacente de
-conducta en todas sus experiencias concernientes a la mayordomía material y el cambio
-financiero y hacia todas las personas que están envueltas en su vida a través de estas
-experiencias. Así es como con respecto a todas las demás casas y signos; la Regla dirige su
-conducta en la relación con toda la gente que figura como “expresiones vibratorias” en sus
-patrones de experiencia - pasados, presentes y futuros.
+Añada los otros diámetros, de ese modo representando las doce casas; añada los símbolos apropiados a las cúspides de las casas (Aries a Piscis); celebre el “ritual” de la recitación de la Regla - como hicimos con el diámetro de Aries-Libra - comenzando con cada cúspide a su vez. Por ejemplo, cuando usted “comienza su película” con Tauro, usted está impresionando su conciencia con el valor de la Regla como una base subyacente de conducta en todas sus experiencias concernientes a la mayordomía material y el cambio financiero y hacia todas las personas que están envueltas en su vida a través de estas experiencias. Así es como con respecto a todas las demás casas y signos; la Regla dirige su conducta en la relación con toda la gente que figura como “expresiones vibratorias” en sus patrones de experiencia - pasados, presentes y futuros.
 
-Puesto que cada punto zodiacal en los primeros seis signos del horóscopo abstracto
-es duplicado por el punto opuesto, se sugiere lo que sigue como un ejercido para
-familiarizarse más corrientemente con el “patrón de oposición”; coloque la punta del lápiz
-en la cúspide de la primera casa y trácela a lo largo del diámetro horizontal, diciendo:
-“Aries es duplicado por Libra”; entonces voltee la rueda de modo que libra quede en el
-Ascendente, trace el diámetro otra vez diciendo: “Libra es duplicado por Aries”. Continúe
-este procedimiento con cada par de signos duplicados hasta que cada par se establezca en
-su mente como “dos partes de la misma cosa” en vez de “dos cosas diferentes”.
+Puesto que cada punto zodiacal en los primeros seis signos del horóscopo abstracto es duplicado por el punto opuesto, se sugiere lo que sigue como un ejercido para familiarizarse más corrientemente con el “patrón de oposición”; coloque la punta del lápiz en la cúspide de la primera casa y trácela a lo largo del diámetro horizontal, diciendo: “Aries es duplicado por Libra”; entonces voltee la rueda de modo que libra quede en el Ascendente, trace el diámetro otra vez diciendo: “Libra es duplicado por Aries”. Continúe este procedimiento con cada par de signos duplicados hasta que cada par se establezca en su mente como “dos partes de la misma cosa” en vez de “dos cosas diferentes”.
 
-Se ve que cada uno de los doce signos es un punto de arranque potencial para un
-recorrido alrededor de la rueda. Las cúspides de las doce casas - cuando el horóscopo está
-hecho - forman lo que aparenta ser seis diámetros; la acción cíclica de la “vida dentro de la
-rueda” indica realmente doce diámetros representando la acción de polaridad del horóscopo
-como un cuadro de la Ley de Causa y Efecto en acción a través de la evolución humana.
-Estos diámetros no están completos en sí hasta que se hace el retorno, puesto que cada uno
-es simplemente un atajo entre un punto zodiacal y su opuesto; los dos opuestos forman un
-segmento estructural sobre el cual se construye el círculo completo. Así pues, de Aries a
-Libra y de vuelta a Aries - por la vía del diámetro - es la representación del atajo del
-recorrido alrededor de la rueda desde Aries a Libra y de vuelta a Aries por la circunferencia
-del horóscopo. Ambos implican acción cíclica.
+Se ve que cada uno de los doce signos es un punto de arranque potencial para un recorrido alrededor de la rueda. Las cúspides de las doce casas - cuando el horóscopo está hecho - forman lo que aparenta ser seis diámetros; la acción cíclica de la “vida dentro de la rueda” indica realmente doce diámetros representando la acción de polaridad del horóscopo como un cuadro de la Ley de Causa y Efecto en acción a través de la evolución humana. Estos diámetros no están completos en sí hasta que se hace el retorno, puesto que cada uno es simplemente un atajo entre un punto zodiacal y su opuesto; los dos opuestos forman un segmento estructural sobre el cual se construye el círculo completo. Así pues, de Aries a Libra y de vuelta a Aries - por la vía del diámetro - es la representación del atajo del recorrido alrededor de la rueda desde Aries a Libra y de vuelta a Aries por la circunferencia del horóscopo. Ambos implican acción cíclica.
 
-Debido a que nosotros ponemos a trabajar el conocimiento astrológico para
-determinada iluminación específica o para un objetivo regenerador, debemos aprender el
-modo de aplicar estas representaciones de los “puntos zodiacales y sus duplicados” al
-horóscopo individual. En otras palabras, nosotros debemos tratar siempre de hacer prácticas
-nuestras conclusiones filosóficas en la interpretación astrológica y en el vivir.
+Debido a que nosotros ponemos a trabajar el conocimiento astrológico para determinada iluminación específica o para un objetivo regenerador, debemos aprender el modo de aplicar estas representaciones de los “puntos zodiacales y sus duplicados” al horóscopo individual. En otras palabras, nosotros debemos tratar siempre de hacer prácticas nuestras conclusiones filosóficas en la interpretación astrológica y en el vivir.
 
-Debemos aprender a reconocer nuestros patrones de conciencia por la identificación
-de nuestras reacciones a otras personas y sincronizar estas conclusiones con los cuadros de
-nuestros horóscopos. Cuando esto es realizado - sí alguna vez - nosotros hemos puesto
-nuestro conocimiento astrológico a un uso constructivo y práctico hacia la elevación de las
-reacciones de envidia, odio, celos, temor y otras semejantes, de nuestras mentes y nuestros
-corazones. No podemos amar a nuestros vecinos (la humanidad), mientras semejantes
-cualidades permanezcan en nuestro “interior”. No amar (la luz dentro) a nuestro vecino
-significa no cumplir. Vuestra luz es la luz de él también y las negras congestiones de
-reacción degradante deben ser disipadas para que la luz en usted mismo y en él se convierta
-en realidad viviente en su conciencia. Así pues, vamos a estudiar nuestros mapas natales
-desde esta base de “duplicación” y llegar a una comprensión más clara del hecho que
-nuestras reacciones a otros forman el barómetro vibratorio de nuestra conciencia;
-abordaremos este estudio renovando nuestra apreciación que los planetas son expresiones
-de principios; por lo tanto ellos son la “bondad de la Vida en acción”; es nuestro propósito
-de la Vida aprender a vivir estos principios como desenvolvimiento de potencialidades
-divinas.
+Debemos aprender a reconocer nuestros patrones de conciencia por la identificación de nuestras reacciones a otras personas y sincronizar estas conclusiones con los cuadros de nuestros horóscopos. Cuando esto es realizado - sí alguna vez - nosotros hemos puesto nuestro conocimiento astrológico a un uso constructivo y práctico hacia la elevación de las reacciones de envidia, odio, celos, temor y otras semejantes, de nuestras mentes y nuestros corazones. No podemos amar a nuestros vecinos (la humanidad), mientras semejantes cualidades permanezcan en nuestro “interior”. No amar (la luz dentro) a nuestro vecino significa no cumplir. Vuestra luz es la luz de él también y las negras congestiones de reacción degradante deben ser disipadas para que la luz en usted mismo y en él se convierta en realidad viviente en su conciencia. Así pues, vamos a estudiar nuestros mapas natales desde esta base de “duplicación” y llegar a una comprensión más clara del hecho que nuestras reacciones a otros forman el barómetro vibratorio de nuestra conciencia; abordaremos este estudio renovando nuestra apreciación que los planetas son expresiones de principios; por lo tanto ellos son la “bondad de la Vida en acción”; es nuestro propósito de la Vida aprender a vivir estos principios como desenvolvimiento de potencialidades divinas.
 
-La vida nos da muchas oportunidades para tratar con cada patrón planetario y estas
-oportunidades se nos presentan a través de nuestros contactos con otras personas cuyas
-disposiciones planetarias sincronizan con las nuestras de diferentes maneras. Nos concierne
-ahora los “problemas” y por lo tanto trataremos sobre la “duplicación” de los aspectos de
-oposición.
+La vida nos da muchas oportunidades para tratar con cada patrón planetario y estas oportunidades se nos presentan a través de nuestros contactos con otras personas cuyas disposiciones planetarias sincronizan con las nuestras de diferentes maneras. Nos concierne ahora los “problemas” y por lo tanto trataremos sobre la “duplicación” de los aspectos de oposición.
 
-Hasta tanto usted reconozca que su Luz es la misma Luz de la Humanidad, usted
-tenderá a “clasificar” la otra gente en tres formas principales:
-(1) La mala, aquella que estimula sus faltas de regeneración;
-(2) La mala-buena, aquella que estimula sus faltas de regeneración y sus
-regeneraciones;
-(3) La buena, aquella que usted ama porque sólo estimula lo mejor de usted en la
-conciencia.
-La “envoltura” no importa - la relación, el sexo, la edad - nosotros estamos
-considerando ahora el “otro individuo” sólo como un mecanismo vibratorio, expresándose
-en la encarnación humana, como un factor en vuestra experiencia vibratoria.
+Hasta tanto usted reconozca que su Luz es la misma Luz de la Humanidad, usted tenderá a “clasificar” la otra gente en tres formas principales: (1) La mala, aquella que estimula sus faltas de regeneración; (2) La mala-buena, aquella que estimula sus faltas de regeneración y sus regeneraciones; (3) La buena, aquella que usted ama porque sólo estimula lo mejor de usted en la conciencia. La “envoltura” no importa - la relación, el sexo, la edad - nosotros estamos considerando ahora el “otro individuo” sólo como un mecanismo vibratorio, expresándose en la encarnación humana, como un factor en vuestra experiencia vibratoria.
 
-Reconozca que cada aspecto de oposición entre planetas en su mapa forma un
-patrón de polaridad activo; hasta tanto hayan sido armonizados esos elementos en la
-conciencia por la regeneración de cada factor, prevalecerá una condición de lucha crítica
-interna. Cualquier persona que entra a vuestra vida de modo significativo y cuyo regente -
-el planeta rigiendo el signo Ascendente - está en conjunción con uno de vuestros planetas
-opuestos, está identificada personalmente por esa vibración planetaria en vuestra conciencia
-y se ajusta a vuestra vida en una de las tres clasificaciones mencionadas antes. Cualquier
-persona que tiene cualquier otro planeta, pero el regente de su mapa en conjunción con uno
-de los planetas opuestos de usted, puede ser denominada como una identificación o
-variación secundaria de esa vibración. Sin consideración de cómo es identificada la otra
-persona, el estar en la vida de usted es para darle a usted una oportunidad de redimir vuestra
-expresión de los dos planetas opuestos; el estímulo de uno, estimula automáticamente al
-otro. Si el planeta de la otra persona no está regenerado en su cualidad, la lección es clara:
-usted debe usar el principio espiritual representado por ese planeta para armonizar y
-cumplir la relación con, éxito. Si este planeta es “malo-bueno” en cualidad entonces usted
-debe expresar lo mejor de sus dos planetas en otras palabras, usted debe fundir los mejores
-elementos de ambos planetas para establecer mayor armonía con todas las condiciones
-planetarias de la persona representada por ese planeta particular. Si el planeta de la otra
-persona está regenerado completamente, entonces ella es un “medio” de hacerlo a usted
-consciente de lo mejor del planeta particular en el patrón de usted con el cual ella está
-identificada y ella lo ayuda a usted a expresar lo mejor del otro planeta de vuestra
-oposición. Si el planeta de ella está regenerado, ella es su “amigo” porque la cualidad de
-ella lo estimula a usted a expresar vuestra Luz; de lo contrario, ella es vuestro “tentador”.
+Reconozca que cada aspecto de oposición entre planetas en su mapa forma un patrón de polaridad activo; hasta tanto hayan sido armonizados esos elementos en la conciencia por la regeneración de cada factor, prevalecerá una condición de lucha crítica interna. Cualquier persona que entra a vuestra vida de modo significativo y cuyo regente - el planeta rigiendo el signo Ascendente - está en conjunción con uno de vuestros planetas opuestos, está identificada personalmente por esa vibración planetaria en vuestra conciencia y se ajusta a vuestra vida en una de las tres clasificaciones mencionadas antes. Cualquier persona que tiene cualquier otro planeta, pero el regente de su mapa en conjunción con uno de los planetas opuestos de usted, puede ser denominada como una identificación o variación secundaria de esa vibración. Sin consideración de cómo es identificada la otra persona, el estar en la vida de usted es para darle a usted una oportunidad de redimir vuestra expresión de los dos planetas opuestos; el estímulo de uno, estimula automáticamente al otro. Si el planeta de la otra persona no está regenerado en su cualidad, la lección es clara: usted debe usar el principio espiritual representado por ese planeta para armonizar y cumplir la relación con, éxito. Si este planeta es “malo-bueno” en cualidad entonces usted debe expresar lo mejor de sus dos planetas en otras palabras, usted debe fundir los mejores elementos de ambos planetas para establecer mayor armonía con todas las condiciones planetarias de la persona representada por ese planeta particular. Si el planeta de la otra persona está regenerado completamente, entonces ella es un “medio” de hacerlo a usted consciente de lo mejor del planeta particular en el patrón de usted con el cual ella está identificada y ella lo ayuda a usted a expresar lo mejor del otro planeta de vuestra oposición. Si el planeta de ella está regenerado, ella es su “amigo” porque la cualidad de ella lo estimula a usted a expresar vuestra Luz; de lo contrario, ella es vuestro “tentador”.
 
-Por lo tanto, puesto que el aspecto de oposición parece incitar a pelear a un planeta
-contra el otro, la solución no es “trabajar con un planeta a expensas del otro”; se encuentra
-en trasladar o transportar la cualidad de la expresión planetaria a una octava más alta,
-redimiendo de ese modo, la debilidad implicada por la congestión y la fricción de la
-ignorancia, hacia una expresión de Luz más amplia. Esto puede hacerse por diferentes
-acercamientos:
-(1) Usando la cualidad regenerada de un tercer planeta que forme aspectos favorables
-- por trino y sextil - con los planetas opuestos;
-(2) Usando la cualidad regenerada de los planetas que “dispositan” - que rigen los
-signos de su localización - a los dos planetas opuestos;
-(3) Traslación directa - por la aplicación de la Regla de Oro - de la cualidad de los
-dos planetas opuestos. Ésta es una disciplina filosófica directa, ya que la cualidad de los
-planetas es proyectada dinámicamente de su “centro de Luz”.
+Por lo tanto, puesto que el aspecto de oposición parece incitar a pelear a un planeta contra el otro, la solución no es “trabajar con un planeta a expensas del otro”; se encuentra en trasladar o transportar la cualidad de la expresión planetaria a una octava más alta, redimiendo de ese modo, la debilidad implicada por la congestión y la fricción de la ignorancia, hacia una expresión de Luz más amplia. Esto puede hacerse por diferentes acercamientos: (1) Usando la cualidad regenerada de un tercer planeta que forme aspectos favorables - por trino y sextil - con los planetas opuestos; (2) Usando la cualidad regenerada de los planetas que “dispositan” - que rigen los signos de su localización - a los dos planetas opuestos; (3) Traslación directa - por la aplicación de la Regla de Oro - de la cualidad de los dos planetas opuestos. Ésta es una disciplina filosófica directa, ya que la cualidad de los planetas es proyectada dinámicamente de su “centro de Luz”.
 
-En la ilustración anterior, el planeta aliviante que auxilia la oposición puede estar
-congestionado por aspecto de cuadratura con un cuarto planeta. Si tal es el caso preste
-cuidadosa atención al punto zodiacal qué está opuesto al planeta aliviador. Cualquier
-persona en su vida, cuyo regente esté dentro de orbe con ese punto representará, a través de
-sus cualidades regeneradoras, un símbolo vivo del “Yo superior” del planeta mitigante.
-Estudie esa persona cuidadosamente. ¿Por qué ama usted a esa persona? ¿Cómo lo
-“levanta” ella a usted? ¿Por qué se siente usted que la necesita? La contestación está
-demostrada claramente por medio de la astrología y puede percibirse en las relaciones
-personales; lo mejor de esa persona es el yo superior del planeta que hace posible la
-regeneración de vuestros dos planetas opuestos. Esa persona es identificada personalmente
-como una de vuestras “señaladoras de Luz” en esta encarnación. No desperdicie un
-momento de su tiempo en envidiar a esa persona; trate de emular lo bueno en ella todo lo
-que sea posible. Haciéndolo así, usted estará aprendiendo de su propio yo superior. Cultive
-asiduamente toda cualidad en su propia naturaleza que inspire a esa persona con
-sentimientos de amor y de respeto para con usted; de esa manera su Luz y la Luz vuestra se
-mezclan en un “matrimonio de plano interno” y la Luz fundida de ambos añade a la
-expresión de Luz de la humanidad.
+En la ilustración anterior, el planeta aliviante que auxilia la oposición puede estar congestionado por aspecto de cuadratura con un cuarto planeta. Si tal es el caso preste cuidadosa atención al punto zodiacal qué está opuesto al planeta aliviador. Cualquier persona en su vida, cuyo regente esté dentro de orbe con ese punto representará, a través de sus cualidades regeneradoras, un símbolo vivo del “Yo superior” del planeta mitigante. Estudie esa persona cuidadosamente. ¿Por qué ama usted a esa persona? ¿Cómo lo “levanta” ella a usted? ¿Por qué se siente usted que la necesita? La contestación está demostrada claramente por medio de la astrología y puede percibirse en las relaciones personales; lo mejor de esa persona es el yo superior del planeta que hace posible la regeneración de vuestros dos planetas opuestos. Esa persona es identificada personalmente como una de vuestras “señaladoras de Luz” en esta encarnación. No desperdicie un momento de su tiempo en envidiar a esa persona; trate de emular lo bueno en ella todo lo que sea posible. Haciéndolo así, usted estará aprendiendo de su propio yo superior. Cultive asiduamente toda cualidad en su propia naturaleza que inspire a esa persona con sentimientos de amor y de respeto para con usted; de esa manera su Luz y la Luz vuestra se mezclan en un “matrimonio de plano interno” y la Luz fundida de ambos añade a la expresión de Luz de la humanidad.
 
-La persona cuyo planeta primario (regente del mapa) o secundario está en
-cuadratura con vuestros planetas opuestos es también vuestro maestro, pero desde un
-“nivel” diferente. Si la cualidad planetaria de ella es negativa su efecto en usted es encender
-o friccionar la cualidad negativa de vuestros planetas opuestos. Tal persona la da a usted un
-examen rígido de su habilidad para regenerar su oposición; sus negativas tienden a
-“tomarse las manos con los planetas opuestos de usted y a empujarlos en la propia
-dirección hacia abajo de esta persona”; puesto que los planetas de esta persona pueden
-formar cuadratura con la oposición vuestra desde dos puntos - los signos que forman
-cuadratura con su posición - ¿no es factible que los planetas en vuestro propio mapa
-rigiendo a los signos que forman la cuadratura sean el poder vibratorio por el cual usted
-pueda libertarse del “efecto” del degradante resultado de esta persona sobre usted? En otras
-palabras, usando expresiones regeneradas, de estos dos planetas en su propio mapa, usted se
-libera de los .patrones de ella y usted establece su propio duplicado redimido. Ella ya no
-aparecerá más como su enemigo porque usted ha elevado a una octava más alta de
-expresión la cualidad vibratoria que usted tiene en común con ella y al hacerlo así, usted
-hace de usted mismo - si el patrón de relación es cerrado - una “Luz” para la regeneración
-del planeta de ella. Usted establece “elevación” para usted mismo, pero también extiende la
-elevación a su vecino y el proceso regenerador se ve que forma un “círculo completo” - la
-incluye a ella - no se detiene simplemente en vuestra propia regeneración. La persona cuyo
-regente o planeta descongestionado forma cuadratura con vuestra oposición tiene el efecto
-de “frenos” sobre usted; la cualidad vibratoria de ella sirve para tratar de protegerlo a usted
-de continuar en su camino de fricción o hacia abajo. Ella, consciente o inconscientemente,
-sirve para demostrarle a usted el error de sus modos de obrar. Puesto que usted es dos
-personas, ese planeta en su propio mapa expresado regeneradamente es la manera en que
-vuestra Luz se une a su Luz. En otras palabras, su vibración planetaria sin aflicción lo alerta
-a usted a aquello que en su propia naturaleza duplica regeneradoramente su oposición.
-Póngase receptivo, en la conciencia, al bien en esa persona; ella es su amigo, su maestro, su
-guía, el señalador de su camino; ella no es - como usted podría inclinarse a creer
-subconscientemente - su enemigo ni su antagonista. Dése las manos con esta persona en
-buena voluntad de aprender de ella y el poder de ella se verá como un medio de elevar
-vuestros planetas de oposición a una octava más alta de expresión.
+La persona cuyo planeta primario (regente del mapa) o secundario está en cuadratura con vuestros planetas opuestos es también vuestro maestro, pero desde un “nivel” diferente. Si la cualidad planetaria de ella es negativa su efecto en usted es encender o friccionar la cualidad negativa de vuestros planetas opuestos. Tal persona la da a usted un examen rígido de su habilidad para regenerar su oposición; sus negativas tienden a “tomarse las manos con los planetas opuestos de usted y a empujarlos en la propia dirección hacia abajo de esta persona”; puesto que los planetas de esta persona pueden formar cuadratura con la oposición vuestra desde dos puntos - los signos que forman cuadratura con su posición - ¿no es factible que los planetas en vuestro propio mapa rigiendo a los signos que forman la cuadratura sean el poder vibratorio por el cual usted pueda libertarse del “efecto” del degradante resultado de esta persona sobre usted? En otras palabras, usando expresiones regeneradas, de estos dos planetas en su propio mapa, usted se libera de los .patrones de ella y usted establece su propio duplicado redimido. Ella ya no aparecerá más como su enemigo porque usted ha elevado a una octava más alta de expresión la cualidad vibratoria que usted tiene en común con ella y al hacerlo así, usted hace de usted mismo - si el patrón de relación es cerrado - una “Luz” para la regeneración del planeta de ella. Usted establece “elevación” para usted mismo, pero también extiende la elevación a su vecino y el proceso regenerador se ve que forma un “círculo completo” - la incluye a ella - no se detiene simplemente en vuestra propia regeneración. La persona cuyo regente o planeta descongestionado forma cuadratura con vuestra oposición tiene el efecto de “frenos” sobre usted; la cualidad vibratoria de ella sirve para tratar de protegerlo a usted de continuar en su camino de fricción o hacia abajo. Ella, consciente o inconscientemente, sirve para demostrarle a usted el error de sus modos de obrar. Puesto que usted es dos personas, ese planeta en su propio mapa expresado regeneradamente es la manera en que vuestra Luz se une a su Luz. En otras palabras, su vibración planetaria sin aflicción lo alerta a usted a aquello que en su propia naturaleza duplica regeneradoramente su oposición. Póngase receptivo, en la conciencia, al bien en esa persona; ella es su amigo, su maestro, su guía, el señalador de su camino; ella no es - como usted podría inclinarse a creer subconscientemente - su enemigo ni su antagonista. Dése las manos con esta persona en buena voluntad de aprender de ella y el poder de ella se verá como un medio de elevar vuestros planetas de oposición a una octava más alta de expresión.
 
-Otra forma de “duplicación” se observa cuando usted se pone en contacto con una
-persona que tiene dos planetas en aspecto de trino y los cuales usted tiene en cuadratura o
-en oposición. Esto puede llamarse “copia de cualidad de aspecto”; ella lo copia a usted en
-representar un cumplimiento regenerado de algo en la conciencia de usted que necesita
-regenerarse. Ella, entonces, anuncia el cumplimiento que usted ha de llevar a cabo, tarde o
-temprano. Particularmente si uno de los planetas en trino, en ella, está en oposición a uno
-de los vuestros de cuadratura, ella representará la personificación de vuestro propio Yo
-Superior; ella, entonces, por cualidad de aspectos y patrón de polaridad lo duplica a usted
-en un nivel más alto de expresión. Si ella tiene algún planeta trino, en oposición a un
-planeta que tiene cuadratura en vuestro mapa, ese planeta, en su cualidad regenerada, es
-copia de vuestro aspecto. Póngale atención a ese planeta en su propio mapa y proporcione,
-del interior de su propio mapa y de su propia conciencia, la redención y regeneración de su
-aspecto de cuadratura.
+Otra forma de “duplicación” se observa cuando usted se pone en contacto con una persona que tiene dos planetas en aspecto de trino y los cuales usted tiene en cuadratura o en oposición. Esto puede llamarse “copia de cualidad de aspecto”; ella lo copia a usted en representar un cumplimiento regenerado de algo en la conciencia de usted que necesita regenerarse. Ella, entonces, anuncia el cumplimiento que usted ha de llevar a cabo, tarde o temprano. Particularmente si uno de los planetas en trino, en ella, está en oposición a uno de los vuestros de cuadratura, ella representará la personificación de vuestro propio Yo Superior; ella, entonces, por cualidad de aspectos y patrón de polaridad lo duplica a usted en un nivel más alto de expresión. Si ella tiene algún planeta trino, en oposición a un planeta que tiene cuadratura en vuestro mapa, ese planeta, en su cualidad regenerada, es copia de vuestro aspecto. Póngale atención a ese planeta en su propio mapa y proporcione, del interior de su propio mapa y de su propia conciencia, la redención y regeneración de su aspecto de cuadratura.
 
-Meditemos más y más sobre el gran principio de polaridad, no desde el punto de
-vista de nosotros mismos “versus” todos los demás, sino que todos somos reflejos de unos a
-otros. Lo peor y lo mejor de cada uno es duplicado por lo mejor y lo peor de los otros; el
-reconocimiento establecido, en la conciencia de nuestra participación conjunta en la Luz
-Blanca única es la meta de todos.
+Meditemos más y más sobre el gran principio de polaridad, no desde el punto de vista de nosotros mismos “versus” todos los demás, sino que todos somos reflejos de unos a otros. Lo peor y lo mejor de cada uno es duplicado por lo mejor y lo peor de los otros; el reconocimiento establecido, en la conciencia de nuestra participación conjunta en la Luz Blanca única es la meta de todos.
 
 ### <h3 id="chapter-7">Capítulo VII: El Astrólogo Americano</h3>
 
-El horóscopo de los Estados Unidos de América: 10°-14’ Acuario; 11°-13’ Piscis;
-12°-23’ Aries; Ascendente 7° Géminis; 2°-1’ Cáncer; 3°-2l’ Cáncer; Planetas: Urano-9°
-Géminis; Marte 21° Géminis; Venus 3° Cáncer; Júpiter 6° Cáncer; Sol-13° Cáncer;
-Mercurio 24° Cáncer; Nodo del Norte 7° Leo; Neptuno 24° Virgo; Saturno 15° Libra; Pluto
-27° Capricornio; Luna 18° Acuario. Mercurio en Cáncer es el regente del mapa y el poder
-numérico cinco (la suma de cifras representando a Julio 4, 1776) es el número de Mercurio.
-Los tres poderes planetarios principales son, en sucesión del valor relativo:
-(1) Luna en Acuario;
-(2) Mercurio en Cáncer;
-(3) Urano en Géminis.
-Todos los otros planetas están relacionados, por disposición, con la Luna (Venus,
-Júpiter y el Sol en Cáncer, Saturno en Libra, Pluto en Capricornio, ningún planeta en
-Tauro, Sagitario, ni Leo) y Mercurio (Marte en Géminis, Neptuno en Virgo, ningún planeta
-en Aries, ni en Piscis).
+El horóscopo de los Estados Unidos de América: 10°-14’ Acuario; 11°-13’ Piscis; 12°-23’ Aries; Ascendente 7° Géminis; 2°-1’ Cáncer; 3°-2l’ Cáncer; Planetas: Urano-9° Géminis; Marte 21° Géminis; Venus 3° Cáncer; Júpiter 6° Cáncer; Sol-13° Cáncer; Mercurio 24° Cáncer; Nodo del Norte 7° Leo; Neptuno 24° Virgo; Saturno 15° Libra; Pluto 27° Capricornio; Luna 18° Acuario. Mercurio en Cáncer es el regente del mapa y el poder numérico cinco (la suma de cifras representando a Julio 4, 1776) es el número de Mercurio. Los tres poderes planetarios principales son, en sucesión del valor relativo: (1) Luna en Acuario; (2) Mercurio en Cáncer; (3) Urano en Géminis. Todos los otros planetas están relacionados, por disposición, con la Luna (Venus, Júpiter y el Sol en Cáncer, Saturno en Libra, Pluto en Capricornio, ningún planeta en Tauro, Sagitario, ni Leo) y Mercurio (Marte en Géminis, Neptuno en Virgo, ningún planeta en Aries, ni en Piscis).
 
-La “regencia personal” por Mercurio designa a esta nación como un “mensajero de
-los dioses” en el sentido que los Estados Unidos de América tiene, como su propósito
-evolutivo, la fusión de las razas, nacionalidades y religiones para la gestación de la Edad
-Acuariana. Nosotros hemos encarnado aquí en esta época - durante los pasados 174 años -
-para aprender más sobre los principios de vida en términos de nuestra naturaleza
-arquetípica como seres humanos. Nosotros somos, en virtud de nuestro Ascendente en
-Géminis y Mercurio en la tercera casa, un compuesto de estudiantes de la vida, un epítome
-nacional de relaciones de hermandad básicas de seres humanos.
-El regente del mapa enfoca la identidad del Ascendente en el signo de la tercera
-casa, Cáncer; la tercera cúspide es entonces, el ascendente vibratorio; su regente, la Luna en
-Acuario, es el regente vibratorio, Cáncer es “matriz”, “semilla”, “nido”, “madre”,
-“envoltura”, “protección del inmaturo, del embrionario y del creciente”. El diámetro de
-Cáncer-Capricornio es el diámetro vibratorio de la ascendencia y en este mapa sus regentes,
-la Luna en Acuario y Saturno (exaltado) en Libra, el fijo y el cardinal de la triplicidad de
-aire, forman trino entre sí. Aquello que ha estado en gestación - La Raza de la Nueva Época
-- alcanzará su madurez en aristocracia espiritual de la verdadera democracia viviente, si,
-repito si, se llevan a cabo ciertas realizaciones vitales por cada individuo progresista. El
-patrón de la Luna trino a Saturno es ampliado por Urano en Géminis (en conjunción al
-ascendente) trino a Saturno y Marte en Géminis trino a Saturno y a la Luna. Aquí tenemos
-un gran trino de cuatro planetas y Ascendente en los signos de las tres octavas de
-fraternidad como el “paralelismo, en la relación humana”. Debido a que el mapa tiene un
-gran trino como su patrón planetario básico, está demostrado que esta nación está provista
-de un pábulo espiritual destilado que ha de ser usado para las regeneraciones progresivas -
-y necesitadas - de cumplir su propósito evolutivo especializado. El “pábulo” es el residuo
-de conciencia democrática de cada individuo que encarna como ciudadano americano o
-quien, por cualificación evolutiva se convierte en ciudadano por naturalización. 
+La “regencia personal” por Mercurio designa a esta nación como un “mensajero de los dioses” en el sentido que los Estados Unidos de América tiene, como su propósito evolutivo, la fusión de las razas, nacionalidades y religiones para la gestación de la Edad Acuariana. Nosotros hemos encarnado aquí en esta época - durante los pasados 174 años - para aprender más sobre los principios de vida en términos de nuestra naturaleza arquetípica como seres humanos. Nosotros somos, en virtud de nuestro Ascendente en Géminis y Mercurio en la tercera casa, un compuesto de estudiantes de la vida, un epítome nacional de relaciones de hermandad básicas de seres humanos. El regente del mapa enfoca la identidad del Ascendente en el signo de la tercera casa, Cáncer; la tercera cúspide es entonces, el ascendente vibratorio; su regente, la Luna en Acuario, es el regente vibratorio, Cáncer es “matriz”, “semilla”, “nido”, “madre”, “envoltura”, “protección del inmaturo, del embrionario y del creciente”. El diámetro de Cáncer-Capricornio es el diámetro vibratorio de la ascendencia y en este mapa sus regentes, la Luna en Acuario y Saturno (exaltado) en Libra, el fijo y el cardinal de la triplicidad de aire, forman trino entre sí. Aquello que ha estado en gestación - La Raza de la Nueva Época - alcanzará su madurez en aristocracia espiritual de la verdadera democracia viviente, si, repito si, se llevan a cabo ciertas realizaciones vitales por cada individuo progresista. El patrón de la Luna trino a Saturno es ampliado por Urano en Géminis (en conjunción al ascendente) trino a Saturno y Marte en Géminis trino a Saturno y a la Luna. Aquí tenemos un gran trino de cuatro planetas y Ascendente en los signos de las tres octavas de fraternidad como el “paralelismo, en la relación humana”. Debido a que el mapa tiene un gran trino como su patrón planetario básico, está demostrado que esta nación está provista de un pábulo espiritual destilado que ha de ser usado para las regeneraciones progresivas - y necesitadas - de cumplir su propósito evolutivo especializado. El “pábulo” es el residuo de conciencia democrática de cada individuo que encarna como ciudadano americano o quien, por cualificación evolutiva se convierte en ciudadano por naturalización. 
 
-Como la
-“horizontal vibratoria” (tercera cúspide, novena cúspide) del mapa es el diámetro de la
-educación (tercera - instrucción, novena - enseñanza) se demuestra que nosotros somos un
-compuesto de estudiantes de la vida y maestros de la vida. Este diámetro está enfocado por
-la oposición de Mercurio en Cáncer a Pluto en Capricornio y la significación de esta
-oposición - como un patrón de conciencia - es revelar el tiempo para la regeneración de la
-“mente práctica” a una octava de “espiritualidad práctica”. Esta oposición está “encauzada”
-por Neptuno en Virgo, por cuanto que Neptuno está en sextil con Mercurio y en trino con
-Plutón. Neptuno, no sólo es regente de la undécima casa sino que está en el signo y casa de
-su propia polaridad, Virgo, quinta casa. El autor cree que esta posición de Neptuno, debido
-a que la quinta casa está en el semicírculo inferior de la rueda, es uno de los factores más
-significantes en la rueda completa. Está “dispositado” por el regente del mapa y en aspecto
-de sextil (el “mecanismo de la alquimia”) con él. Es el ideal de fraternidad que debe ser
-realizado tarde o temprano, por cada americano individual y expresado como un factor de
-lo que está implicado en “ser un americano”. La ubicación de Neptuno en la quinta casa es
-radiación personal de poder amoroso y probablemente en ningún otro país está más
-recalcado el ideal de fraternidad en .el patrón de la vida familiar. Los americanos de
-propensión democrática reconocen y respetan la individualidad de los niños y la relación
-fraternal entre miembros de grupos de familia es definitivamente una trascendencia del
-“viejo cuadro” de la rígida jerarquía de familia en la cual los hijos no son compañeros sino
-subordinados de sus jefes de familia. Debido a que Mercurio rige tanto la quinta casa como
-al Ascendente, nosotros reconocemos que como padres los americanos aportamos una
-contribución dinámica a la evolución espiritual de nuestro plan nacional al estar dispuestos
-a aprender de sus experiencias de la ascendencia, a estudiar sus hijos y estudiar con sus
-hijos. El movimiento arrollador de interés en la psicología del niño en este país es prueba
-de este aspecto planetario en acción - y son los padres de inclinación democrática los que
-abarcan la vanguardia de esta actividad. Es un goce anticipado de lo que será establecido en
-la Nueva Época, que los padres y niños americanos sean compañeros amigables entre sí -
-como una expresión del Poder del Amor.
+Como la “horizontal vibratoria” (tercera cúspide, novena cúspide) del mapa es el diámetro de la educación (tercera - instrucción, novena - enseñanza) se demuestra que nosotros somos un compuesto de estudiantes de la vida y maestros de la vida. Este diámetro está enfocado por la oposición de Mercurio en Cáncer a Pluto en Capricornio y la significación de esta oposición - como un patrón de conciencia - es revelar el tiempo para la regeneración de la “mente práctica” a una octava de “espiritualidad práctica”. Esta oposición está “encauzada” por Neptuno en Virgo, por cuanto que Neptuno está en sextil con Mercurio y en trino con Plutón. Neptuno, no sólo es regente de la undécima casa sino que está en el signo y casa de su propia polaridad, Virgo, quinta casa. El autor cree que esta posición de Neptuno, debido a que la quinta casa está en el semicírculo inferior de la rueda, es uno de los factores más significantes en la rueda completa. Está “dispositado” por el regente del mapa y en aspecto de sextil (el “mecanismo de la alquimia”) con él. Es el ideal de fraternidad que debe ser realizado tarde o temprano, por cada americano individual y expresado como un factor de lo que está implicado en “ser un americano”. La ubicación de Neptuno en la quinta casa es radiación personal de poder amoroso y probablemente en ningún otro país está más recalcado el ideal de fraternidad en .el patrón de la vida familiar. Los americanos de propensión democrática reconocen y respetan la individualidad de los niños y la relación fraternal entre miembros de grupos de familia es definitivamente una trascendencia del “viejo cuadro” de la rígida jerarquía de familia en la cual los hijos no son compañeros sino subordinados de sus jefes de familia. Debido a que Mercurio rige tanto la quinta casa como al Ascendente, nosotros reconocemos que como padres los americanos aportamos una contribución dinámica a la evolución espiritual de nuestro plan nacional al estar dispuestos a aprender de sus experiencias de la ascendencia, a estudiar sus hijos y estudiar con sus hijos. El movimiento arrollador de interés en la psicología del niño en este país es prueba de este aspecto planetario en acción - y son los padres de inclinación democrática los que abarcan la vanguardia de esta actividad. Es un goce anticipado de lo que será establecido en la Nueva Época, que los padres y niños americanos sean compañeros amigables entre sí - como una expresión del Poder del Amor.
 
-Se nos ha dado información a través de las enseñanzas ocultas que los americanos
-progresistas de esta época trazan su descendencia evolutiva desde encarnaciones egipcias
-antiguas. Una característica de esta civilización antigua iluminada fue que los sacerdotes
-iniciados y los reyes sacerdotes no fueron “simplemente gobernadores” de sus súbditos -
-ellos eran padres espirituales. La instrucción espiritual de la colectividad estaba disponible
-“para todos - en todo tiempo. Sólo el mérito espiritual cualificaba al hombre o a la mujer
-para funcionar como guía espiritual en esos tiempos - todos los aspirantes eran probados
-hasta el máximo para demostrar sus cualificaciones como maestros, videntes, curadores,
-“vigilantes”, “guerreros en los planos internos”, etcétera. Todos eran fraternales en este
-respecto, sin consideración del plano de desarrollo; todos eran “estudiantes de la vida” que
-tenían que cualificar por medio de exámenes para realizar patrones de servicio espirituales.
-Así, pues, la fraternidad de padres y maestros americanos hacia los niños y estudiantes es el
-encauzamiento por Neptuno de la ubicación en la tercera casa - novena casa de Mercurio
-opuesto a Plutón. Los padres que están enfocados en este ideal de relación son aquellos que
-cualifican más claramente para dar encarnación a personalidades de la Nueva Época.
+Se nos ha dado información a través de las enseñanzas ocultas que los americanos progresistas de esta época trazan su descendencia evolutiva desde encarnaciones egipcias antiguas. Una característica de esta civilización antigua iluminada fue que los sacerdotes iniciados y los reyes sacerdotes no fueron “simplemente gobernadores” de sus súbditos - ellos eran padres espirituales. La instrucción espiritual de la colectividad estaba disponible “para todos - en todo tiempo. Sólo el mérito espiritual cualificaba al hombre o a la mujer para funcionar como guía espiritual en esos tiempos - todos los aspirantes eran probados hasta el máximo para demostrar sus cualificaciones como maestros, videntes, curadores, “vigilantes”, “guerreros en los planos internos”, etcétera. Todos eran fraternales en este respecto, sin consideración del plano de desarrollo; todos eran “estudiantes de la vida” que tenían que cualificar por medio de exámenes para realizar patrones de servicio espirituales. Así, pues, la fraternidad de padres y maestros americanos hacia los niños y estudiantes es el encauzamiento por Neptuno de la ubicación en la tercera casa - novena casa de Mercurio opuesto a Plutón. Los padres que están enfocados en este ideal de relación son aquellos que cualifican más claramente para dar encarnación a personalidades de la Nueva Época.
 
-El astrólogo, como un factor contribuyente en la vida espiritual de esta nación, está
-básicamente en el “rayo de la filosofía” más bien que en el de la “religión devocional”. Él
-puede ser protestante, hebreo, católico o un partidario de cualquier otra forma de devoción
-hasta donde su “molde religioso” inmediato concierna, pero su foco de atención es el
-estudio de los principios de vida a través de los símbolos. El planeta Urano, regente del
-signo fijo de aire, Acuario, es el significador planetario de esos elementos de la conciencia
-que capacitan a un ser humano a “convertirse en astrólogo”. Como signo fijo, Acuario es
-uno de los puntos estructurales del cuadrado del recurso; como signo de aire, él es uno de
-los puntos estructurales del trino de la conciencia fraternal. Su cuadrado es iniciado por su
-propia polaridad Leo (fijo de fuego), el principio del Poder del Amor radiante; su trino es
-iniciado por el signo de aire cardinal Libra, gran principio de la complementación reflexiva.
-Dinámicamente, Acuario es la potencialidad del amor liberada por la expresión universal;
-reflexivamente él es la percepción de la potencialidad del amor de toda la gente por lo que
-llamamos la “espiritualización de la Fraternidad”. La parte de “Leo de usted” lo pone alerta
-a sus atributos como una expresión de amor divino; la parte de “Acuario de usted” lo alerta
-a su capacidad de expresar esa potencialidad ilimitadamente y percibirla perpetuamente
-como un atributo de cada otro ser humano. La “psicología” (que también está designada por
-Urano) es el “estudio del alma” o el “estudio de las leyes del Alma”. ¿Qué es el alma sino
-la destilación de pasadas expresiones de amor?. La “psiquiatría” es el estudio de los efectos
-de la congestión de lo» poderes del alma en las octavas del deseo - una función Geminoide
-de estudiar una especialización de la Ley de Causa y Efecto. El psicólogo trata de la parte
-de “Leo-Acuario de usted”; el psiquiatra trata la parte de “Tauro-Escorpión de usted”.
+El astrólogo, como un factor contribuyente en la vida espiritual de esta nación, está básicamente en el “rayo de la filosofía” más bien que en el de la “religión devocional”. Él puede ser protestante, hebreo, católico o un partidario de cualquier otra forma de devoción hasta donde su “molde religioso” inmediato concierna, pero su foco de atención es el estudio de los principios de vida a través de los símbolos. El planeta Urano, regente del signo fijo de aire, Acuario, es el significador planetario de esos elementos de la conciencia que capacitan a un ser humano a “convertirse en astrólogo”. Como signo fijo, Acuario es uno de los puntos estructurales del cuadrado del recurso; como signo de aire, él es uno de los puntos estructurales del trino de la conciencia fraternal. Su cuadrado es iniciado por su propia polaridad Leo (fijo de fuego), el principio del Poder del Amor radiante; su trino es iniciado por el signo de aire cardinal Libra, gran principio de la complementación reflexiva. Dinámicamente, Acuario es la potencialidad del amor liberada por la expresión universal; reflexivamente él es la percepción de la potencialidad del amor de toda la gente por lo que llamamos la “espiritualización de la Fraternidad”. La parte de “Leo de usted” lo pone alerta a sus atributos como una expresión de amor divino; la parte de “Acuario de usted” lo alerta a su capacidad de expresar esa potencialidad ilimitadamente y percibirla perpetuamente como un atributo de cada otro ser humano. La “psicología” (que también está designada por Urano) es el “estudio del alma” o el “estudio de las leyes del Alma”. ¿Qué es el alma sino la destilación de pasadas expresiones de amor?. La “psiquiatría” es el estudio de los efectos de la congestión de lo» poderes del alma en las octavas del deseo - una función Geminoide de estudiar una especialización de la Ley de Causa y Efecto. El psicólogo trata de la parte de “Leo-Acuario de usted”; el psiquiatra trata la parte de “Tauro-Escorpión de usted”.
 
-Es interesante notar que en el mapa de los Estados Unidos no hay planetas en
-Tauro-Escorpión; este diámetro está interceptado en la duodécima y sexta casas. El mapa
-contiene, sin embargo, un énfasis muy pronunciado en patrones de la segunda casa; el
-regente, Mercurio, en su propio signo en la segunda casa; Venus, Júpiter y el Sol en la
-segunda casa; Venus dignificado por su posición; la horizontal vibratoria (tercera cúspide y
-novena cúspide) está duplicada en la segunda cúspide y la octava cúspide y la Luna, como
-regente vibratorio del mapa, es el significador planetario principal; los otros dos
-significadores vibratorios están en orden de significación, Mercurio y Urano. Venus
-“disposita” a Saturno en Libra que está en cuadratura con Júpiter y el Sol en la segunda
-casa. Las violaciones del Principio de Mayordomía de los materiales y el dinero es uno de
-los factores destacados que originan la condición psiquiátrica de los individuos americanos.
-La intensa compresión de atención en la evaluación por las normas monetarias con sus
-concomitantes complejos, tensiones, ansiedades y neurosis sexuales (la conciencia sexual
-está atada de pies y manos, a la conciencia de posesividad porque el diámetro de Escorpión-
-Tauro es una polaridad) resulta en la alta frecuencia actual de población en los hospitales
-mentales. Semejantes personas afligidas traen a la presente encarnación residuos
-congestionados, de muchas encarnaciones pasadas, de evaluación materialista de la vida.
-Pero la encarnación americana es indicativa del tiempo de evolucionar de esa evaluación
-ilusoria para prepararse para la evaluación de fraternidad de la Nueva Época. Está en manos
-de los astrólogos americanos poner alerta a clientes, auditorio y lectores, sobre el
-significado de mayordomía de materiales y cambios balanceados como principios de vida.
-Siempre que una persona busca guía de un delineador astrológico o analista concerniente al
-“dinero, ingreso, propiedad e inversión”, esta persona, en sus motivaciones más elevadas,
-está buscando realmente una comprensión más clara del principio de equilibrio detrás de
-estas cosas. Que todo practicante astrológico que lea este material refresque su percepción
-de esta verdad. Nosotros no nos arriesgamos a contribuir a las debilidades de otros
-complaciendo sus deseos de información concerniente a “días buenos y malos para el
-ejercido financiero”. Aspiramos, más bien, a contribuir a su fuerza poniéndolos alerta
-sobre los principios de vida que están expresados químicamente por los medios del cambio,
-la acuñación, el cambalache, la inversión, etcétera. Todos los días son buenos días para la
-expresión de principio; cuando el Principio del Equilibrio es comprendido, el ejercicio
-financiero se convierte en encauzamiento dador de vida para el bien de la sociedad, la
-nación y la raza en conjunto.
+Es interesante notar que en el mapa de los Estados Unidos no hay planetas en Tauro-Escorpión; este diámetro está interceptado en la duodécima y sexta casas. El mapa contiene, sin embargo, un énfasis muy pronunciado en patrones de la segunda casa; el regente, Mercurio, en su propio signo en la segunda casa; Venus, Júpiter y el Sol en la segunda casa; Venus dignificado por su posición; la horizontal vibratoria (tercera cúspide y novena cúspide) está duplicada en la segunda cúspide y la octava cúspide y la Luna, como regente vibratorio del mapa, es el significador planetario principal; los otros dos significadores vibratorios están en orden de significación, Mercurio y Urano. Venus “disposita” a Saturno en Libra que está en cuadratura con Júpiter y el Sol en la segunda casa. Las violaciones del Principio de Mayordomía de los materiales y el dinero es uno de los factores destacados que originan la condición psiquiátrica de los individuos americanos. La intensa compresión de atención en la evaluación por las normas monetarias con sus concomitantes complejos, tensiones, ansiedades y neurosis sexuales (la conciencia sexual está atada de pies y manos, a la conciencia de posesividad porque el diámetro de Escorpión- Tauro es una polaridad) resulta en la alta frecuencia actual de población en los hospitales mentales. Semejantes personas afligidas traen a la presente encarnación residuos congestionados, de muchas encarnaciones pasadas, de evaluación materialista de la vida. Pero la encarnación americana es indicativa del tiempo de evolucionar de esa evaluación ilusoria para prepararse para la evaluación de fraternidad de la Nueva Época. Está en manos de los astrólogos americanos poner alerta a clientes, auditorio y lectores, sobre el significado de mayordomía de materiales y cambios balanceados como principios de vida. Siempre que una persona busca guía de un delineador astrológico o analista concerniente al “dinero, ingreso, propiedad e inversión”, esta persona, en sus motivaciones más elevadas, está buscando realmente una comprensión más clara del principio de equilibrio detrás de estas cosas. Que todo practicante astrológico que lea este material refresque su percepción de esta verdad. Nosotros no nos arriesgamos a contribuir a las debilidades de otros complaciendo sus deseos de información concerniente a “días buenos y malos para el ejercido financiero”. Aspiramos, más bien, a contribuir a su fuerza poniéndolos alerta sobre los principios de vida que están expresados químicamente por los medios del cambio, la acuñación, el cambalache, la inversión, etcétera. Todos los días son buenos días para la expresión de principio; cuando el Principio del Equilibrio es comprendido, el ejercicio financiero se convierte en encauzamiento dador de vida para el bien de la sociedad, la nación y la raza en conjunto.
 
-Debido a que los ciudadanos americanos, como niños, gozan del intercambio y
-crecimiento mutuo con niños de muchos orígenes nacionales, nosotros reconocemos que el
-poder de Acuario en el mapa de los Estados Unidos señala a cada astrólogo americano
-como un “punto estructural” en el edificio del entendimiento internacional. El astrólogo que
-funciona con la conciencia de Luz Blanca sabe que las “peculiaridades nacionales” son
-especializaciones colectivas de la personalidad humana. Debido a que tanta gente está
-congestionada en patrones kármicos de temores nacionales y raciales, animosidades y
-fricciones, es privilegio del astrólogo que es también un ciudadano americano alertar la
-conciencia de sus hermanos y hermanas humanos al hecho que no es “nacional” la
-identidad de nadie - ella es “vibratoria”. Un ejemplo interesante de alquimia está
-demostrado en el mapa de los Estados Unidos de esta manera: Neptuno, regente de la
-undécima casa, está cuadrado por Marte en Géminis; pero sextil con el regente del mapa,
-Mercurio, que “disposita” a estos dos planetas. Cuando se rozan nuestros prejuicios
-nacionales localizados, nos inclinamos a olvidar que todos los americanos son
-conciudadanos y damos expresión a animosidades basadas en diferencias externas (Marte,
-regente de Aries, el signo de la duodécima casa) de “color, superioridad, inferioridad”,
-etcétera. Como el regente del Ascendente y la quinta cúspide es el medio alquímico para la
-cuadratura de Marte-Neptuno, corresponde a cada ciudadano americano individual disolver
-las cristalizaciones de los residuos de prejuicio y odio nacionalistas y de casta. Cada uno
-debe hacerlo para sí mismo, en este respecto, por la verdadera virtud del hecho que la
-democracia - en el sentido espiritual de la palabra-reconozca el derecho del individuo de
-ejercitar sus potencialidades, cometer sus propios errores y aprender de los resultados de
-sus errores. La Luna en Acuario como regente vibratorio del mapa nos dice que una
-realización siempre profundizante de nuestra identidad exotérica como “Terrestres” es la
-llave que debemos usar para desintegrar aquellos negativos de orgullo nacional, rivalidad
-destructiva, violación de los principios de cambio y los principios de mayordomía, etcétera,
-para que los requisitos Uranianos del Medio Cielo sean cumplidos. La cualidad de
-amalgamación de la ciudadanía y civilización americanas es identidad microcósmica
-terrestre en gestación. El astrólogo americano que, en su servido es el poder de Urano en
-acción, puede hacer mucho para ayudar a otros a esclarecer su conciencia de la
-significación de la “nacionalidad” como un “mecanismo moldeador” evolutivo.
+Debido a que los ciudadanos americanos, como niños, gozan del intercambio y crecimiento mutuo con niños de muchos orígenes nacionales, nosotros reconocemos que el poder de Acuario en el mapa de los Estados Unidos señala a cada astrólogo americano como un “punto estructural” en el edificio del entendimiento internacional. El astrólogo que funciona con la conciencia de Luz Blanca sabe que las “peculiaridades nacionales” son especializaciones colectivas de la personalidad humana. Debido a que tanta gente está congestionada en patrones kármicos de temores nacionales y raciales, animosidades y fricciones, es privilegio del astrólogo que es también un ciudadano americano alertar la conciencia de sus hermanos y hermanas humanos al hecho que no es “nacional” la identidad de nadie - ella es “vibratoria”. Un ejemplo interesante de alquimia está demostrado en el mapa de los Estados Unidos de esta manera: Neptuno, regente de la undécima casa, está cuadrado por Marte en Géminis; pero sextil con el regente del mapa, Mercurio, que “disposita” a estos dos planetas. Cuando se rozan nuestros prejuicios nacionales localizados, nos inclinamos a olvidar que todos los americanos son conciudadanos y damos expresión a animosidades basadas en diferencias externas (Marte, regente de Aries, el signo de la duodécima casa) de “color, superioridad, inferioridad”, etcétera. Como el regente del Ascendente y la quinta cúspide es el medio alquímico para la cuadratura de Marte-Neptuno, corresponde a cada ciudadano americano individual disolver las cristalizaciones de los residuos de prejuicio y odio nacionalistas y de casta. Cada uno debe hacerlo para sí mismo, en este respecto, por la verdadera virtud del hecho que la democracia - en el sentido espiritual de la palabra-reconozca el derecho del individuo de ejercitar sus potencialidades, cometer sus propios errores y aprender de los resultados de sus errores. La Luna en Acuario como regente vibratorio del mapa nos dice que una realización siempre profundizante de nuestra identidad exotérica como “Terrestres” es la llave que debemos usar para desintegrar aquellos negativos de orgullo nacional, rivalidad destructiva, violación de los principios de cambio y los principios de mayordomía, etcétera, para que los requisitos Uranianos del Medio Cielo sean cumplidos. La cualidad de amalgamación de la ciudadanía y civilización americanas es identidad microcósmica terrestre en gestación. El astrólogo americano que, en su servido es el poder de Urano en acción, puede hacer mucho para ayudar a otros a esclarecer su conciencia de la significación de la “nacionalidad” como un “mecanismo moldeador” evolutivo.
 
-En otras palabras, debido a que el regente del mapa rige también la quinta casa y a
-que el signo de Leo está en la cuarta cúspide (la “base psicológica”) la ubicación de
-Mercurio y el Sol en Cáncer identifica el principio de alimentación de la vibración del
-amor, como la impulsión esotérica detrás de esta gestación de “identidad Terrestre”.
-Acuario, con Urano trino a Saturno (regente de la octava y novena casas, es el objetivo
-esotérico a ser cumplido. El sol está cuadrado por Saturno en este mapa; la ceguedad a los
-valores filosóficos impele el exceso de atención en los valores monetarios como
-compensación. Piense sobre esto a la luz de los hechos históricos. Nos “sentimos
-orgullosos” de ser el país más rico del mundo; pero en toda justicia no podemos sentir nada
-más que vergüenza en la forma en que hemos mayordomeado equivocadamente nuestros
-vastos recursos. A la inversa, sin embargo, la adherencia a los principios de mayordomía
-inteligente y precavida sería una demostración de verdadero poder porque entonces la Luz
-Blanca del Sol se combina con la Luz Blanca de Saturno como cumplimiento de “poder de
-responsabilidad de mayordomía”.
+En otras palabras, debido a que el regente del mapa rige también la quinta casa y a que el signo de Leo está en la cuarta cúspide (la “base psicológica”) la ubicación de Mercurio y el Sol en Cáncer identifica el principio de alimentación de la vibración del amor, como la impulsión esotérica detrás de esta gestación de “identidad Terrestre”. Acuario, con Urano trino a Saturno (regente de la octava y novena casas, es el objetivo esotérico a ser cumplido. El sol está cuadrado por Saturno en este mapa; la ceguedad a los valores filosóficos impele el exceso de atención en los valores monetarios como compensación. Piense sobre esto a la luz de los hechos históricos. Nos “sentimos orgullosos” de ser el país más rico del mundo; pero en toda justicia no podemos sentir nada más que vergüenza en la forma en que hemos mayordomeado equivocadamente nuestros vastos recursos. A la inversa, sin embargo, la adherencia a los principios de mayordomía inteligente y precavida sería una demostración de verdadero poder porque entonces la Luz Blanca del Sol se combina con la Luz Blanca de Saturno como cumplimiento de “poder de responsabilidad de mayordomía”.
 
-Otro factor muy importante en este mapa es el signo de Libra en la sexta cúspide;
-Venus, su enfocador, está en la segunda y en conjunción con Júpiter que, con el Sol, está
-cuadrado por Saturno. Libra es el gran símbolo del Principio del Cambio en cooperación,
-de este modo vemos que la cooperación como un factor en nuestro patrón de trabajo
-nacional es una necesidad para poder realizar el ideal de verdadera abundancia. Venus es
-un resultado, una destilación de las cualidades de la expresión de energía; cuando la
-cooperación entre los iniciadores del trabajo (patronos) y los instrumentos del trabajo
-(empleados) no está fundada sobre una base de provecho mutuo entonces el poder de
-Venus es desimantado con el concurrente agotamiento del poder de Saturno. Júpiter como
-regente de la séptima casa, en conjunción con el Sol y ambos cuadrados por Saturno
-entonces se convierte en' el “opositor” - las satisfacciones ilusorias de la codicia material.
-El Júpiter negativo es “codicia” como un foco intenso en compensaciones ilusorias por las
-pérdidas de realidades. Se convierte en el establecimiento de falsa seguridad por la
-abundancia ilusoria. Nosotros no poseemos individual ni colectivamente, ninguna cosa
-material - nosotros ejercitamos nuestros intelectos y nuestra conciencia como mayordomos.
+Otro factor muy importante en este mapa es el signo de Libra en la sexta cúspide; Venus, su enfocador, está en la segunda y en conjunción con Júpiter que, con el Sol, está cuadrado por Saturno. Libra es el gran símbolo del Principio del Cambio en cooperación, de este modo vemos que la cooperación como un factor en nuestro patrón de trabajo nacional es una necesidad para poder realizar el ideal de verdadera abundancia. Venus es un resultado, una destilación de las cualidades de la expresión de energía; cuando la cooperación entre los iniciadores del trabajo (patronos) y los instrumentos del trabajo (empleados) no está fundada sobre una base de provecho mutuo entonces el poder de Venus es desimantado con el concurrente agotamiento del poder de Saturno. Júpiter como regente de la séptima casa, en conjunción con el Sol y ambos cuadrados por Saturno entonces se convierte en' el “opositor” - las satisfacciones ilusorias de la codicia material. El Júpiter negativo es “codicia” como un foco intenso en compensaciones ilusorias por las pérdidas de realidades. Se convierte en el establecimiento de falsa seguridad por la abundancia ilusoria. Nosotros no poseemos individual ni colectivamente, ninguna cosa material - nosotros ejercitamos nuestros intelectos y nuestra conciencia como mayordomos.
 
-Además, Neptuno en Virgo cuadrado por Marte pinta los defectos de la conciencia
-de unos y otros, los empresarios y los empleados, con respecto a los principios de servicio.
-Cuando Neptuno, como regente de la undécima casa, es contaminado por el negativo Marte
-entonces el objetivo Acuariano del Medio Cielo es detenido en su cumplimiento. En tanto
-que el lema “El Capital versus el Trabajo” es interpretado como una realidad, esta
-cuadratura - como una congestión en la conciencia nacional - prevalecerá. El sextil del
-regente del mapa, Mercurio a Neptuno, más Libra en la sexta cúspide, decreta que todo
-trabajador ciudadano americano, ya sea patrono o empleado, está comprometido
-evolutivamente a ejercer el principio de servicio amoroso cooperador en permutas
-balanceadas. El patrono que está basado negativamente en la ignorancia, en la explotación,
-no cualifica para la identidad creadora de “empresario”; el empleado que está basado en la
-falta de principio de no mejorar descalifica para más amplio desarrollo - él pospone el día
-de cualificar como trabajador creador o administrativo.
+Además, Neptuno en Virgo cuadrado por Marte pinta los defectos de la conciencia de unos y otros, los empresarios y los empleados, con respecto a los principios de servicio. Cuando Neptuno, como regente de la undécima casa, es contaminado por el negativo Marte entonces el objetivo Acuariano del Medio Cielo es detenido en su cumplimiento. En tanto que el lema “El Capital versus el Trabajo” es interpretado como una realidad, esta cuadratura - como una congestión en la conciencia nacional - prevalecerá. El sextil del regente del mapa, Mercurio a Neptuno, más Libra en la sexta cúspide, decreta que todo trabajador ciudadano americano, ya sea patrono o empleado, está comprometido evolutivamente a ejercer el principio de servicio amoroso cooperador en permutas balanceadas. El patrono que está basado negativamente en la ignorancia, en la explotación, no cualifica para la identidad creadora de “empresario”; el empleado que está basado en la falta de principio de no mejorar descalifica para más amplio desarrollo - él pospone el día de cualificar como trabajador creador o administrativo.
 
-El astrólogo de este país y que está enfocado en el continuo esclarecimiento de su
-conciencia de principios de vida tiene un servicio evolutivo especializado de contribuir a la
-raza en este tiempo “modulador y de gestación”. En los Estados Unidos, él puede tratar con
-casi toda clase de categorías sociales evolutivas, toda clase de patrón de retribución kármica
-y, debido a la “repolarización” del arquetipo durante el pasado siglo, él puede contribuir
-con esclarecimiento de los principios de relación a través de la comprensión ampliada de
-los principios concernientes a nuestra naturaleza sexual y genérica. Él mismo - por atributo
-como “identidad de Urano” - representa una identidad Terrestre microcósmica no
-simplemente porque él es un habitante de este planeta sino porque la impersonalidad de su
-punto de vista, esfera de percepción, radiactividad del poder amoroso de Urano, lo
-cualifica, hasta cierto punto, para personificar al Ser Humano de la Nueva Época.
+El astrólogo de este país y que está enfocado en el continuo esclarecimiento de su conciencia de principios de vida tiene un servicio evolutivo especializado de contribuir a la raza en este tiempo “modulador y de gestación”. En los Estados Unidos, él puede tratar con casi toda clase de categorías sociales evolutivas, toda clase de patrón de retribución kármica y, debido a la “repolarización” del arquetipo durante el pasado siglo, él puede contribuir con esclarecimiento de los principios de relación a través de la comprensión ampliada de los principios concernientes a nuestra naturaleza sexual y genérica. Él mismo - por atributo como “identidad de Urano” - representa una identidad Terrestre microcósmica no simplemente porque él es un habitante de este planeta sino porque la impersonalidad de su punto de vista, esfera de percepción, radiactividad del poder amoroso de Urano, lo cualifica, hasta cierto punto, para personificar al Ser Humano de la Nueva Época.

@@ -25,2022 +25,376 @@ por Elman Bacher
 
 ### <h3 id="chapter-1">Capítulo I: Los Aspectos “Malos”</h3>
 
-Hubo una época en que el autor compartía con muchos estudiantes de astrología la
-interpretación que la “cuadratura” y la “oposición” siendo aspectos “malos”, significaban lo
-mismo; también, que los “buenos” aspectos, el trino y el sextil, eran lo mismo. Llegó el
-momento en que el autor se dio cuenta que si “cuadratura” significaba lo mismo que
-“oposición”, y “sextil” lo mismo que “trino”, debiera usarse el mismo símbolo para ambos
-pares de aspectos. El estudiante debe fijar en la mente que cada símbolo utilizado en
-astrología tiene su significación propia particular y única y que ningún par de símbolos
-puede significar realmente la misma cosa. Tal acercamiento no vendría al caso. Estos
-símbolos son representaciones de logros espirituales profundos que fueron dados a la
-Humanidad por los Grandes Seres desde épocas pasadas.
+Hubo una época en que el autor compartía con muchos estudiantes de astrología la interpretación que la “cuadratura” y la “oposición” siendo aspectos “malos”, significaban lo mismo; también, que los “buenos” aspectos, el trino y el sextil, eran lo mismo. Llegó el momento en que el autor se dio cuenta que si “cuadratura” significaba lo mismo que “oposición”, y “sextil” lo mismo que “trino”, debiera usarse el mismo símbolo para ambos pares de aspectos. El estudiante debe fijar en la mente que cada símbolo utilizado en astrología tiene su significación propia particular y única y que ningún par de símbolos puede significar realmente la misma cosa. Tal acercamiento no vendría al caso. Estos símbolos son representaciones de logros espirituales profundos que fueron dados a la Humanidad por los Grandes Seres desde épocas pasadas.
 
-Si el progreso a través de la rueda desde el Ascendente hasta la duodécima casa
-representa la evolución cíclica, la ubicación de los planetas por signo y casa, los enfoques
-de la conciencia para manifestarse durante la encarnación, entonces los aspectos
-representan el mecanismo del Espíritu en acción - la forma de esta expresión perpetua. Las
-ciencias mecánicas exigen conocimiento de pesas, palancas, balanzas, gravedad, propulsión
-y así sucesivamente; en otras palabras, los principios del funcionamiento del mecanismo
-para obtener cierto resultado. Un horóscopo desarrollado de un diseño geométrico, contiene
-representaciones de principios tal como estos se manifiestan en la encarnación humana
-como expresiones de conciencia y cada símbolo usado en esta ciencia particular representa
-una esencia o una función de esa esencia.
+Si el progreso a través de la rueda desde el Ascendente hasta la duodécima casa representa la evolución cíclica, la ubicación de los planetas por signo y casa, los enfoques de la conciencia para manifestarse durante la encarnación, entonces los aspectos representan el mecanismo del Espíritu en acción - la forma de esta expresión perpetua. Las ciencias mecánicas exigen conocimiento de pesas, palancas, balanzas, gravedad, propulsión y así sucesivamente; en otras palabras, los principios del funcionamiento del mecanismo para obtener cierto resultado. Un horóscopo desarrollado de un diseño geométrico, contiene representaciones de principios tal como estos se manifiestan en la encarnación humana como expresiones de conciencia y cada símbolo usado en esta ciencia particular representa una esencia o una función de esa esencia.
 
-El acercamiento dinámico a la psicología humana ha probado que un cambio de
-punto de vista hace posible a menudo una clarificación inmediata de la causa de un
-problema y revela el directivo necesario. Nosotros como estudiantes de astrología nos
-hemos inclinado a cristalizar nuestro punto de vista sobre los aspectos de cuadratura y
-oposición y a fijarnos mentalmente en la idea que ellos son los aspectos malos. Las palabras
-“malo” y “maligno” han sido parte de nuestra representación mental desde que nosotros
-fuimos capaces de interpretar algo; si hemos de desarrollar un acercamiento constructivo a
-la Astrología psicológica debemos cambiar nuestro punto de vista y nuestra actitud sobre la
-significación de estos símbolos particulares de las expresiones de energía.
+El acercamiento dinámico a la psicología humana ha probado que un cambio de punto de vista hace posible a menudo una clarificación inmediata de la causa de un problema y revela el directivo necesario. Nosotros como estudiantes de astrología nos hemos inclinado a cristalizar nuestro punto de vista sobre los aspectos de cuadratura y oposición y a fijarnos mentalmente en la idea que ellos son los aspectos malos. Las palabras “malo” y “maligno” han sido parte de nuestra representación mental desde que nosotros fuimos capaces de interpretar algo; si hemos de desarrollar un acercamiento constructivo a la Astrología psicológica debemos cambiar nuestro punto de vista y nuestra actitud sobre la significación de estos símbolos particulares de las expresiones de energía.
 
-Esta referencia a aspectos “malos” es un asunto disputable. ¿Pueden las personas
-ignorantes de la astrología y angustiadas por algún problema personal ser auxiliadas en
-realidad profundamente si sus mentes y sentimientos están impresionados por las
-referencias a los “malos” aspectos en sus mapas? No hay modo de evadirlo - todos nosotros
-tenemos una reacción subconsciente instintiva a las palabras tales como “malo”; ellas
-encienden nuestras representaciones internas - o memorias - de patrones de experiencia
-feos, penosos, espantosos y difíciles. El astrólogo que dice “Oh, esto es muy serio-usted
-tiene un aspecto malo entre su Saturno y Marte”, se arriesga a rebajar a su cliente como
-cinco grados. En tal manifestación hay algo tan ominoso que por sencilla bondad y
-misericordia nosotros no podemos presentar semejantes interpretaciones a personas que han
-venido a nosotros en busca de orientación.
+Esta referencia a aspectos “malos” es un asunto disputable. ¿Pueden las personas ignorantes de la astrología y angustiadas por algún problema personal ser auxiliadas en realidad profundamente si sus mentes y sentimientos están impresionados por las referencias a los “malos” aspectos en sus mapas? No hay modo de evadirlo - todos nosotros tenemos una reacción subconsciente instintiva a las palabras tales como “malo”; ellas encienden nuestras representaciones internas - o memorias - de patrones de experiencia feos, penosos, espantosos y difíciles. El astrólogo que dice “Oh, esto es muy serio-usted tiene un aspecto malo entre su Saturno y Marte”, se arriesga a rebajar a su cliente como cinco grados. En tal manifestación hay algo tan ominoso que por sencilla bondad y misericordia nosotros no podemos presentar semejantes interpretaciones a personas que han venido a nosotros en busca de orientación.
 
-Los astrólogos que se han mantenido fijos en el concepto de “maldad” de los
-aspectos de cuadratura y oposición son aquellos que no han investigado el significado real
-de estos símbolos. Por “significado real” se da a entender, la significación espiritual o
-filosófica. Puesto que nosotros debemos identificar estos símbolos en alguna forma para
-poder transmitir nuestros pensamientos, vamos a cambiar nuestro acercamiento de las
-palabras en algo hacia lo cual el cliente pueda reaccionar más favorablemente.
+Los astrólogos que se han mantenido fijos en el concepto de “maldad” de los aspectos de cuadratura y oposición son aquellos que no han investigado el significado real de estos símbolos. Por “significado real” se da a entender, la significación espiritual o filosófica. Puesto que nosotros debemos identificar estos símbolos en alguna forma para poder transmitir nuestros pensamientos, vamos a cambiar nuestro acercamiento de las palabras en algo hacia lo cual el cliente pueda reaccionar más favorablemente.
 
-Se sugiere que la palabra “malo” sea substituida por “friccionar. Todos comprenden
-que “fricción” significa “resistencia” pero la gente no es tan propensa a sentirse perturbada
-por esa palabra. También, como en el caso en que se fricciona un fósforo, el resultado es
-una ignición - que proporciona luz y calor. Así ocurre con nosotros, dentro de nosotros
-mismos y nuestros aspectos de cuadratura y oposición. Ciertos niveles de nuestra
-conciencia “friccionan contra” otros niveles; el resultado es una ignición de conciencia a
-través de una reacción dolorosa que sirve para indicar la necesidad de reorientación de
-conciencia. Puesto que todos los patrones planetarios de un horóscopo están incluidos
-dentro de la rueda, se demuestra que la humanidad interpreta la experiencia desde adentro -
-en la conciencia - no desde afuera. En otras palabras, la fuente de nuestras interpretaciones
-de experiencia no está en las experiencias mismas, sino en nuestro propio centro de
-conciencia y reacción.
+Se sugiere que la palabra “malo” sea substituida por “friccionar. Todos comprenden que “fricción” significa “resistencia” pero la gente no es tan propensa a sentirse perturbada por esa palabra. También, como en el caso en que se fricciona un fósforo, el resultado es una ignición - que proporciona luz y calor. Así ocurre con nosotros, dentro de nosotros mismos y nuestros aspectos de cuadratura y oposición. Ciertos niveles de nuestra conciencia “friccionan contra” otros niveles; el resultado es una ignición de conciencia a través de una reacción dolorosa que sirve para indicar la necesidad de reorientación de conciencia. Puesto que todos los patrones planetarios de un horóscopo están incluidos dentro de la rueda, se demuestra que la humanidad interpreta la experiencia desde adentro - en la conciencia - no desde afuera. En otras palabras, la fuente de nuestras interpretaciones de experiencia no está en las experiencias mismas, sino en nuestro propio centro de conciencia y reacción.
 
-Consideremos los aspectos de cuadratura y oposición - símbolos en concepto de su
-representación abstracta esencial. Use una rueda de doce casas en blanco para cada uno.
-Para la cuadratura conecte por líneas rectas los puntos medios de las casas fijas - segunda,
-quinta, octava y undécima; el resultado es un cuadrado descansando sobre una base
-horizontal que comienza cíclicamente, en la segunda casa. Este es el símbolo que nosotros
-usamos para el “aspecto de cuadratura” entre cualquiera de dos planetas en un horóscopo.
+Consideremos los aspectos de cuadratura y oposición - símbolos en concepto de su representación abstracta esencial. Use una rueda de doce casas en blanco para cada uno. Para la cuadratura conecte por líneas rectas los puntos medios de las casas fijas - segunda, quinta, octava y undécima; el resultado es un cuadrado descansando sobre una base horizontal que comienza cíclicamente, en la segunda casa. Este es el símbolo que nosotros usamos para el “aspecto de cuadratura” entre cualquiera de dos planetas en un horóscopo.
 
-Las casas implicadas en esta representación son las “casas de recurso”, los
-manantiales de intenso deseo, sentimiento, amor y capacidad. Estas cuatro casas - y sus
-signos relacionados abstractamente (Tauro, Leo, Escorpión y Acuario) - incluyen nuestras
-potencialidades de reacción más intensas. Todos los estudiantes de astrologia saben que
-existen dos cuadraturas más; nosotros las llamamos las cuadraturas “cardinal” y “común”;
-pero es la cuadratura de casas fijas la que se usa para representar esta abstracción del “mal”
-- molestias y sufrimientos - pesares, limitaciones y toda clase de negativismo. Cuando este
-símbolo está en relación con cualesquiera planetas en cualquier par de signos o casas de un
-mapa, nos indica que la necesidad actual para la regeneración en esos puntos es muy
-grande. Observe que cuando llegamos al extremo de la horizontal inferior del diseño del
-cuadrado - en la quinta casa - formamos un ángulo recto, no diagonal a la derecha o a la
-izquierda, sino derecho hacia arriba, a fin de progresar más en el sendero de evolución.
-Sucede lo mismo con otros ángulos - ángulos rectos en cada esquina. De ese modo el
-aspecto de cuadratura se muestra intransigente en sus demandas a la conciencia; por esta
-razón el aspecto de cuadratura es aludido como el “más difícil”, el “peor” o el “más
-adverso” de las relaciones planetarias. Nosotros estamos abrumados más severamente en
-estos puntos. ¿Por qué?.
+Las casas implicadas en esta representación son las “casas de recurso”, los manantiales de intenso deseo, sentimiento, amor y capacidad. Estas cuatro casas - y sus signos relacionados abstractamente (Tauro, Leo, Escorpión y Acuario) - incluyen nuestras potencialidades de reacción más intensas. Todos los estudiantes de astrologia saben que existen dos cuadraturas más; nosotros las llamamos las cuadraturas “cardinal” y “común”; pero es la cuadratura de casas fijas la que se usa para representar esta abstracción del “mal” - molestias y sufrimientos - pesares, limitaciones y toda clase de negativismo. Cuando este símbolo está en relación con cualesquiera planetas en cualquier par de signos o casas de un mapa, nos indica que la necesidad actual para la regeneración en esos puntos es muy grande. Observe que cuando llegamos al extremo de la horizontal inferior del diseño del cuadrado - en la quinta casa - formamos un ángulo recto, no diagonal a la derecha o a la izquierda, sino derecho hacia arriba, a fin de progresar más en el sendero de evolución. Sucede lo mismo con otros ángulos - ángulos rectos en cada esquina. De ese modo el aspecto de cuadratura se muestra intransigente en sus demandas a la conciencia; por esta razón el aspecto de cuadratura es aludido como el “más difícil”, el “peor” o el “más adverso” de las relaciones planetarias. Nosotros estamos abrumados más severamente en estos puntos. ¿Por qué?.
 
-El horóscopo en su totalidad es un compuesto de la conciencia personal de los
-principios cósmicos - en su nivel evolutivo particular. Por lo tanto se desprende que dos
-planetas cuadrados entre sí en un mapa dado no son “planetas malos”; esto significa
-simplemente que la persona está en una etapa de conciencia de relativa inconsciencia del
-principio. La inconsciencia de un individuo puede ser muy variada y esta variedad está
-demostrada por aspectos de fricción múltiples a cualquier planeta en su mapa: El planeta
-puede estar cuadrado por Marte y opuesto por la Luna, pero en trino por Venus y sextil por
-Plutón. Nosotros estamos destinados a experimentar patrones reaccionales de cada planeta
-en relación con cada otro planeta a fin de cumplir nuestro destino vibratorio como seres
-humanos. Otra cosa menos que eso no sería cumplimiento.
+El horóscopo en su totalidad es un compuesto de la conciencia personal de los principios cósmicos - en su nivel evolutivo particular. Por lo tanto se desprende que dos planetas cuadrados entre sí en un mapa dado no son “planetas malos”; esto significa simplemente que la persona está en una etapa de conciencia de relativa inconsciencia del principio. La inconsciencia de un individuo puede ser muy variada y esta variedad está demostrada por aspectos de fricción múltiples a cualquier planeta en su mapa: El planeta puede estar cuadrado por Marte y opuesto por la Luna, pero en trino por Venus y sextil por Plutón. Nosotros estamos destinados a experimentar patrones reaccionales de cada planeta en relación con cada otro planeta a fin de cumplir nuestro destino vibratorio como seres humanos. Otra cosa menos que eso no sería cumplimiento.
 
-En el análisis final debido a que nuestras experiencias son encendidas por nuestros
-contactos con otras personas y que nosotros nos proyectamos en relaciones de acuerdo con
-nuestra conciencia, se desprende que la proyección irredimida crea patrones de destino que
-vuelven a nosotros en forma de experiencias de una cualidad dolorosa o “mala”. Nosotros
-sufrimos por estos avisos porque por nuestras reacciones a otras personas y experiencias,
-percibimos nuestra propia falta de regeneración. El Yo Superior nos grita: “Estudiad y
-aprended de esto; no haga esto a otra persona, usted lo ha hecho muy frecuentemente en el
-pasado; Yo insisto en que usted dirija de nuevo su reacción a esta relación particular o
-experiencia porque si usted no lo hace continuará dirigiendo erradamente su energía y
-obscurecerá su conciencia más que nunca”. Así es que el patrón registrado en el horóscopo
-como un aspecto de cuadratura entre dos planetas representa la necesidad en esta
-encarnación de una drástica revisión de conciencia. La palabra “friccionar prueba su valor
-aquí porque los fuegos de la conciencia son encendidos más intensamente en estos puntos y
-a través de reacciones dolorosas - la más brillante luz es dirigida a los rincones más
-obscuros. El Yo Superior busca restablecer la sincronización armoniosa dentro de su
-conciencia facilitándole a usted la comprensión de los resultados indeseables de la continua
-mala dirección de sus energías y demostrándole la necesidad” de tomar un nuevo curso en
-su sendero.
+En el análisis final debido a que nuestras experiencias son encendidas por nuestros contactos con otras personas y que nosotros nos proyectamos en relaciones de acuerdo con nuestra conciencia, se desprende que la proyección irredimida crea patrones de destino que vuelven a nosotros en forma de experiencias de una cualidad dolorosa o “mala”. Nosotros sufrimos por estos avisos porque por nuestras reacciones a otras personas y experiencias, percibimos nuestra propia falta de regeneración. El Yo Superior nos grita: “Estudiad y aprended de esto; no haga esto a otra persona, usted lo ha hecho muy frecuentemente en el pasado; Yo insisto en que usted dirija de nuevo su reacción a esta relación particular o experiencia porque si usted no lo hace continuará dirigiendo erradamente su energía y obscurecerá su conciencia más que nunca”. Así es que el patrón registrado en el horóscopo como un aspecto de cuadratura entre dos planetas representa la necesidad en esta encarnación de una drástica revisión de conciencia. La palabra “friccionar prueba su valor aquí porque los fuegos de la conciencia son encendidos más intensamente en estos puntos y a través de reacciones dolorosas - la más brillante luz es dirigida a los rincones más obscuros. El Yo Superior busca restablecer la sincronización armoniosa dentro de su conciencia facilitándole a usted la comprensión de los resultados indeseables de la continua mala dirección de sus energías y demostrándole la necesidad” de tomar un nuevo curso en su sendero.
 
-Los aspectos de cuadratura y de oposición tienen un “denominador común”
-fascinante. Aplique el símbolo de la oposición a la segunda rueda en blanco usando las
-cúspides de la segunda y octava casas como diámetros; trace círculos alrededor de estos
-diámetros, los cuales por supuesto, serán tangentes entre sí en el centro de la rueda. Los
-diámetros de los dos pequeños círculos forman juntos un diámetro de la rueda misma y este
-diámetro conecta los puntos medios de la segunda y octava; hablando cíclicamente, el
-punto de arranque de este símbolo es el mismo que el punto de arranque de la cuadratura
-fija. El recurso de deseos de la segunda y octava casas es común a ambos símbolos y el
-proceso oculto o espiritual fundamental implicado, es la regeneración.
+Los aspectos de cuadratura y de oposición tienen un “denominador común” fascinante. Aplique el símbolo de la oposición a la segunda rueda en blanco usando las cúspides de la segunda y octava casas como diámetros; trace círculos alrededor de estos diámetros, los cuales por supuesto, serán tangentes entre sí en el centro de la rueda. Los diámetros de los dos pequeños círculos forman juntos un diámetro de la rueda misma y este diámetro conecta los puntos medios de la segunda y octava; hablando cíclicamente, el punto de arranque de este símbolo es el mismo que el punto de arranque de la cuadratura fija. El recurso de deseos de la segunda y octava casas es común a ambos símbolos y el proceso oculto o espiritual fundamental implicado, es la regeneración.
 
-Una peculiaridad del aspecto de oposición es que “polariza” la rueda. El punto
-inferior del símbolo está en el cuadrante “individualista” del hemisferio inferior; el punto
-superior en la octava casa, es la “extensión” del inferior. La segunda casa es “progresión
-material”; ésta es elevada a su octava superior por medio de la transmutación de la
-naturaleza de deseos en relación con la gente; el Poder del Amor efectuando la redención
-de la conciencia. Debe haber alguna razón muy importante para que los dos pequeños
-círculos implicados en este símbolo sean conectados por una diagonal de 45° en vez de una
-horizontal o vertical. Una horizontal es toda derecha e izquierda; la vertical es toda arriba y
-abajo. Sin embargo, la diagonal de este símbolo es hacia arriba y hacia adelante - un
-compuesto de la vertical y la horizontal, el concepto esencial de todos los procesos y
-propósitos evolutivos.
+Una peculiaridad del aspecto de oposición es que “polariza” la rueda. El punto inferior del símbolo está en el cuadrante “individualista” del hemisferio inferior; el punto superior en la octava casa, es la “extensión” del inferior. La segunda casa es “progresión material”; ésta es elevada a su octava superior por medio de la transmutación de la naturaleza de deseos en relación con la gente; el Poder del Amor efectuando la redención de la conciencia. Debe haber alguna razón muy importante para que los dos pequeños círculos implicados en este símbolo sean conectados por una diagonal de 45° en vez de una horizontal o vertical. Una horizontal es toda derecha e izquierda; la vertical es toda arriba y abajo. Sin embargo, la diagonal de este símbolo es hacia arriba y hacia adelante - un compuesto de la vertical y la horizontal, el concepto esencial de todos los procesos y propósitos evolutivos.
 
-El consenso de opinión es que el aspecto de oposición implica la necesidad de elegir
-una cosa o la otra. Algunos astrólogos interpretan que esto significa que debemos escoger
-un planeta para trabajar con él aún a expensas del otro. Otros dicen que debemos hacer el
-esfuerzo para utilizar lo mejor posible las vibraciones de ambos planetas a la vez. El
-primero de estos acercamientos es sencillamente insostenible; nosotros no podemos
-desprendernos de ninguno de nuestros factores astrológicos - vivimos con todos ellos y los
-expresamos a través de todo el curso de una encarnación. El segundo de estos
-acercamientos se aproxima más a los verdaderos requisitos del aspecto porque nos instruye
-para utilizar ambos factores planetarios. Sin embargo, el Yo Superior nos habla a través del
-verdadero significado del aspecto. ¿Cómo va usted a expresar estos dos planetas hacia la
-regeneración o viceversa? El objeto no es ¿cuál de los dos planetas, sino cuál de las dos
-octavas de conciencia va usted a expresar: aquella en la que usted ha estado y que tiende a
-permanecer cuando debiera estar saliendo, o aquella hacia la cual usted está evolucionando;
-aquella que es entrante o aquella que es saliente. ¿Aquello que es conservación propia o
-aquello que es evolución propia?. ¿Aquella que interrumpe la realización o aquella que
-abre las puertas de su conciencia a la percepción de la belleza, la verdad y la bondad?
-Este es el significado esotérico del aspecto de la oposición y por él podemos comprender la
-razón por la cual la palabra clave conciencia es usada para identificar sus propósitos.
+El consenso de opinión es que el aspecto de oposición implica la necesidad de elegir una cosa o la otra. Algunos astrólogos interpretan que esto significa que debemos escoger un planeta para trabajar con él aún a expensas del otro. Otros dicen que debemos hacer el esfuerzo para utilizar lo mejor posible las vibraciones de ambos planetas a la vez. El primero de estos acercamientos es sencillamente insostenible; nosotros no podemos desprendernos de ninguno de nuestros factores astrológicos - vivimos con todos ellos y los expresamos a través de todo el curso de una encarnación. El segundo de estos acercamientos se aproxima más a los verdaderos requisitos del aspecto porque nos instruye para utilizar ambos factores planetarios. Sin embargo, el Yo Superior nos habla a través del verdadero significado del aspecto. ¿Cómo va usted a expresar estos dos planetas hacia la regeneración o viceversa? El objeto no es ¿cuál de los dos planetas, sino cuál de las dos octavas de conciencia va usted a expresar: aquella en la que usted ha estado y que tiende a permanecer cuando debiera estar saliendo, o aquella hacia la cual usted está evolucionando; aquella que es entrante o aquella que es saliente. ¿Aquello que es conservación propia o aquello que es evolución propia?. ¿Aquella que interrumpe la realización o aquella que abre las puertas de su conciencia a la percepción de la belleza, la verdad y la bondad? Este es el significado esotérico del aspecto de la oposición y por él podemos comprender la razón por la cual la palabra clave conciencia es usada para identificar sus propósitos.
 
-Como es arriba, así es abajo. Cuando el Sol y la Luna entran en conjunción cada
-veintiocho días, un nuevo “aliento” es tomado por el cuerpo vibratorio de la Humanidad;
-dos semanas después este “aliento” es “exhalado” en la Luna Llena. Esta acción es la gran
-vida rítmica, periódica, de nuestra existencia oculta y el patrón - concepción y expresión -
-es experimentado por todos nuestros órganos vibratorios en relación no sólo con los otros
-planetas sino también - y esto es importante - con los signos de su regencia. Así como cada
-órgano de nuestros cuerpos físicos tiene su propio patrón de crecimiento, función y
-cumplimiento, también cada planeta en relación con el cuerpo entero de la conciencia.
+Como es arriba, así es abajo. Cuando el Sol y la Luna entran en conjunción cada veintiocho días, un nuevo “aliento” es tomado por el cuerpo vibratorio de la Humanidad; dos semanas después este “aliento” es “exhalado” en la Luna Llena. Esta acción es la gran vida rítmica, periódica, de nuestra existencia oculta y el patrón - concepción y expresión - es experimentado por todos nuestros órganos vibratorios en relación no sólo con los otros planetas sino también - y esto es importante - con los signos de su regencia. Así como cada órgano de nuestros cuerpos físicos tiene su propio patrón de crecimiento, función y cumplimiento, también cada planeta en relación con el cuerpo entero de la conciencia.
 
-Un planeta en el signo de su regencia ha “retornado a la base de su hogar” después
-de una excursión por el zodíaco; su esencia acumulada, destilada de vuestras experiencias a
-través de muchas encarnaciones pasadas está ahora en plena fuerza y preparada para
-comenzar otro ciclo desde su base evolutiva presente, y la vuestra. Un planeta en lo que
-llamamos el signo de su “detrimento” no es un planeta “malo”; él está a mitad de su propia
-órbita evolutiva y forma el aspecto de oposición al signo de su regencia - lo más lejos
-posible de su “hogar”. Un mapa que contiene aún un solo planeta ubicado en el signo de su
-“detrimento” revela que la persona, en la conciencia, en ese punto se encuentra en un paso
-crítico de su ciclo evolutivo presente y cualquier aspecto “friccional” a ese planeta
-representa un esfuerzo máximo de sus potencialidades regeneradoras. Esta encarnación con
-planetas en detrimento es muy significativa porque hará consciente a la persona de sus
-deficiencias internas de manera muy aguda.
+Un planeta en el signo de su regencia ha “retornado a la base de su hogar” después de una excursión por el zodíaco; su esencia acumulada, destilada de vuestras experiencias a través de muchas encarnaciones pasadas está ahora en plena fuerza y preparada para comenzar otro ciclo desde su base evolutiva presente, y la vuestra. Un planeta en lo que llamamos el signo de su “detrimento” no es un planeta “malo”; él está a mitad de su propia órbita evolutiva y forma el aspecto de oposición al signo de su regencia - lo más lejos posible de su “hogar”. Un mapa que contiene aún un solo planeta ubicado en el signo de su “detrimento” revela que la persona, en la conciencia, en ese punto se encuentra en un paso crítico de su ciclo evolutivo presente y cualquier aspecto “friccional” a ese planeta representa un esfuerzo máximo de sus potencialidades regeneradoras. Esta encarnación con planetas en detrimento es muy significativa porque hará consciente a la persona de sus deficiencias internas de manera muy aguda.
 
-Si un planeta que está en detrimento se registra en el horóscopo presente como
-regente del mapa (regente del signo en el Ascendente) entonces se intensifican los peligros
-de esta encarnación. El regente del mapa es nuestro símbolo planetario de la conciencia de
-Yo Soy: en el signo de detrimento - opuesto a su propia dignidad o regencia - el mapa
-puede relatar verdaderamente una historia de gran conflicto espiritual puesto que los
-aspectos “fricciónales” a un regente en “detrimento” le hace posible a la persona
-identificarse con la ignorancia. Ella puede inclinarse a interpretar sus propias
-potencialidades de la personalidad por medio de su conciencia irredimida y viviendo en esa
-forma, puede arriesgarse a un retroceso notable en su evolución. Los aspectos
-regeneradores formados por el regente del mapa así colocado, sirven para hacerla volver
-inconscientemente “hacia la Luz” y viviendo según esos patrones, ella se asegura un
-cambio ascendente en su desarrollo no sólo en esta encarnación, sino también para todas las
-sucesivas.
+Si un planeta que está en detrimento se registra en el horóscopo presente como regente del mapa (regente del signo en el Ascendente) entonces se intensifican los peligros de esta encarnación. El regente del mapa es nuestro símbolo planetario de la conciencia de Yo Soy: en el signo de detrimento - opuesto a su propia dignidad o regencia - el mapa puede relatar verdaderamente una historia de gran conflicto espiritual puesto que los aspectos “fricciónales” a un regente en “detrimento” le hace posible a la persona identificarse con la ignorancia. Ella puede inclinarse a interpretar sus propias potencialidades de la personalidad por medio de su conciencia irredimida y viviendo en esa forma, puede arriesgarse a un retroceso notable en su evolución. Los aspectos regeneradores formados por el regente del mapa así colocado, sirven para hacerla volver inconscientemente “hacia la Luz” y viviendo según esos patrones, ella se asegura un cambio ascendente en su desarrollo no sólo en esta encarnación, sino también para todas las sucesivas.
 
-De la misma manera que el nacimiento físico es el resultado de la concepción y la
-Luna Llena es el resultado de la lunación previa a éste, así también el aspecto de oposición
-entre dos planetas es la percepción resultante de una conjunción de estos dos planetas en
-alguna época durante las encarnaciones pasadas de la persona. No hay efectos sin causa y
-puesto que el Patrón Cósmico se manifiesta en todos los planos, debemos comprender al
-estudiar el aspecto de oposición, que en esta encarnación la persona se ha hecho consciente
-de estos dos poderes vibratorios particulares o cualidades, en su propia naturaleza de
-manera muy importante y significativa. Reconozca que las tensiones internas pueden ser
-muy grandes aunque sea con un sólo aspecto de oposición en el mapa. Los patrones de
-experiencia representados por los planetas implicados - ya sea por regencia o por ubicación
--, exigen y urgen la expresión espiritualizada, regenerada, de la naturaleza de la persona. La
-repetición de las cualidades “fricciónales” irredimidas mantendrá a la persona en las
-“tinieblas” no sólo en esta encarnación, sino quizás en varios “capítulos” venideros, y las
-pruebas serán cada vez más severas en el futuro.
+De la misma manera que el nacimiento físico es el resultado de la concepción y la Luna Llena es el resultado de la lunación previa a éste, así también el aspecto de oposición entre dos planetas es la percepción resultante de una conjunción de estos dos planetas en alguna época durante las encarnaciones pasadas de la persona. No hay efectos sin causa y puesto que el Patrón Cósmico se manifiesta en todos los planos, debemos comprender al estudiar el aspecto de oposición, que en esta encarnación la persona se ha hecho consciente de estos dos poderes vibratorios particulares o cualidades, en su propia naturaleza de manera muy importante y significativa. Reconozca que las tensiones internas pueden ser muy grandes aunque sea con un sólo aspecto de oposición en el mapa. Los patrones de experiencia representados por los planetas implicados - ya sea por regencia o por ubicación -, exigen y urgen la expresión espiritualizada, regenerada, de la naturaleza de la persona. La repetición de las cualidades “fricciónales” irredimidas mantendrá a la persona en las “tinieblas” no sólo en esta encarnación, sino quizás en varios “capítulos” venideros, y las pruebas serán cada vez más severas en el futuro.
 
-Lo crítico de este aspecto se demuestra claramente cuando el aspecto de oposición
-es encendido por eclipses, Luna progresada, o aspectos planetarios progresados formando
-la cuadratura simultánea con ambos planetas. En tal estímulo del aspecto el residuo no
-regenerado en la conciencia de la persona - no importa su edad - “sale del maderage” y ella
-experimenta una prueba de sus capacidades regeneradoras que puede ser muy severa. Por
-otra parte cuando la oposición es activada por un planeta en trino y el otro en sextil,
-entonces la regeneración lograda se puede tomar para tratar con la experiencia manifestada.
-Una activación “favorable” del aspecto de oposición, hasta cierto punto, siempre implica
-una prueba, aunque “más de lo mejor de la conciencia” está disponible inmediatamente.
+Lo crítico de este aspecto se demuestra claramente cuando el aspecto de oposición es encendido por eclipses, Luna progresada, o aspectos planetarios progresados formando la cuadratura simultánea con ambos planetas. En tal estímulo del aspecto el residuo no regenerado en la conciencia de la persona - no importa su edad - “sale del maderage” y ella experimenta una prueba de sus capacidades regeneradoras que puede ser muy severa. Por otra parte cuando la oposición es activada por un planeta en trino y el otro en sextil, entonces la regeneración lograda se puede tomar para tratar con la experiencia manifestada. Una activación “favorable” del aspecto de oposición, hasta cierto punto, siempre implica una prueba, aunque “más de lo mejor de la conciencia” está disponible inmediatamente.
 
-En lo precedente se ve la razón del por qué el aspecto de oposición es considerado
-universalmente “no tan malo” como la cuadratura porque aún si los dos planetas implicados
-no tienen otros aspectos, el patrón en conjunción es activado cuatro veces por la
-combinación de trino-sextil a las dos veces que es cuadrado. Se goza de mucho más
-“elasticidad” y a la larga los impulsos hacia la regeneración son mucho más numerosos.
+En lo precedente se ve la razón del por qué el aspecto de oposición es considerado universalmente “no tan malo” como la cuadratura porque aún si los dos planetas implicados no tienen otros aspectos, el patrón en conjunción es activado cuatro veces por la combinación de trino-sextil a las dos veces que es cuadrado. Se goza de mucho más “elasticidad” y a la larga los impulsos hacia la regeneración son mucho más numerosos.
 
-Un final feliz: Aún los aspectos de cuadratura y oposición pueden ser “salvavidas”
-de gran beneficio cuando están formados por un Saturno de otra suerte sin aspectos en un
-mapa que no tiene nada en tierra. La persona con semejante mapa necesita estabilidad,
-dominio y orientación, necesita canalizaciones para sus energías salientes. Un Saturno
-semejante, simplemente dice - y esto prueba que la cuadratura y la oposición no son
-esencialmente malas -: “Yo me ocuparé de que usted mantenga sus pies en tierra para que
-su vida sea vivida con propósito y constructivamente; usted tendrá responsabilidades que
-cumplir, ambiciones que lograr y cualidades que regenerar y orientar de nuevo; mi
-vibración aún cuando a veces parezca que lo somete, es realmente su mayor bendición
-porque lo mantendrá ajustado a las corrientes de experiencia que están en
-desenvolvimiento”.
+Un final feliz: Aún los aspectos de cuadratura y oposición pueden ser “salvavidas” de gran beneficio cuando están formados por un Saturno de otra suerte sin aspectos en un mapa que no tiene nada en tierra. La persona con semejante mapa necesita estabilidad, dominio y orientación, necesita canalizaciones para sus energías salientes. Un Saturno semejante, simplemente dice - y esto prueba que la cuadratura y la oposición no son esencialmente malas -: “Yo me ocuparé de que usted mantenga sus pies en tierra para que su vida sea vivida con propósito y constructivamente; usted tendrá responsabilidades que cumplir, ambiciones que lograr y cualidades que regenerar y orientar de nuevo; mi vibración aún cuando a veces parezca que lo somete, es realmente su mayor bendición porque lo mantendrá ajustado a las corrientes de experiencia que están en desenvolvimiento”.
 
-La vida no nos castiga a través de nuestras cuadraturas y oposiciones; nos enseña
-las lecciones que más necesitamos por medio de ellas, si queremos aprender a hacernos
-conscientes de nuestras regeneraciones necesitadas.
+La vida no nos castiga a través de nuestras cuadraturas y oposiciones; nos enseña las lecciones que más necesitamos por medio de ellas, si queremos aprender a hacernos conscientes de nuestras regeneraciones necesitadas.
 
 ### <h3 id="chapter-2">Capítulo II: Los Aspectos “Buenos”</h3>
 
-La función de los aspectos de sextil y trino es revelar niveles relativos de la
-conciencia regenerada de la humanidad. Ellos son nuestros puntos de iluminación; nuestros
-“impulsos hacia mayor Bien” (sextil) y la “realización del Bien desarrollado” (trino). El
-sextil es el proceso por el cual es creado el trino.
+La función de los aspectos de sextil y trino es revelar niveles relativos de la conciencia regenerada de la humanidad. Ellos son nuestros puntos de iluminación; nuestros “impulsos hacia mayor Bien” (sextil) y la “realización del Bien desarrollado” (trino). El sextil es el proceso por el cual es creado el trino.
 
-El astrólogo de mente filosófica nunca piensa ni se refiere al sextil y al trino como
-aspectos “afortunados” porque él sabe que cada factor en un horóscopo es efecto de una
-causa específica; la causa original fue por supuesto, una expresión - en la acción - de un
-nivel particular de conciencia en el pasado. El reconoce que cada sextil en un mapa
-exterioriza cierto trabajo de regeneración que empezó en el pasado y fue traído a tal punto
-de eficiencia que ahora registra como un dínamo para la liberación de más y mayor poder
-regenerador en esta existencia. Él reconoce que cada trino es un registro de relación
-equilibrada entre dos factores planetarios; un trino es siempre el resultado de regeneración
-de conciencia - nunca es un afortunado “accidente de herencia” en ninguna forma ni en
-ningún nivel de desarrollo.
+El astrólogo de mente filosófica nunca piensa ni se refiere al sextil y al trino como aspectos “afortunados” porque él sabe que cada factor en un horóscopo es efecto de una causa específica; la causa original fue por supuesto, una expresión - en la acción - de un nivel particular de conciencia en el pasado. El reconoce que cada sextil en un mapa exterioriza cierto trabajo de regeneración que empezó en el pasado y fue traído a tal punto de eficiencia que ahora registra como un dínamo para la liberación de más y mayor poder regenerador en esta existencia. Él reconoce que cada trino es un registro de relación equilibrada entre dos factores planetarios; un trino es siempre el resultado de regeneración de conciencia - nunca es un afortunado “accidente de herencia” en ninguna forma ni en ningún nivel de desarrollo.
 
-El aspecto de sextil es considerado por muchos como un aspecto “menor” o
-“pequeño”; quizás se hace esta interpretación porque el aspecto implica solamente sesenta
-grados - la mitad de un trino -. Cuando nosotros estudiamos el símbolo del sextil nos damos
-cuenta del hecho que el sextil es un aspecto tan “mayor” como cualquier otro aspecto;
-cuando reconocemos su significado como una representación de las fases dinámicas de la
-evolución, comprendemos que él es uno de los símbolos astrológicos más importantes y por
-el cual el astrólogo comprendiéndolo puede rendir gran servicio a aquellos que buscan
-mayor conciencia de su propia fuente de Luz.
+El aspecto de sextil es considerado por muchos como un aspecto “menor” o “pequeño”; quizás se hace esta interpretación porque el aspecto implica solamente sesenta grados - la mitad de un trino -. Cuando nosotros estudiamos el símbolo del sextil nos damos cuenta del hecho que el sextil es un aspecto tan “mayor” como cualquier otro aspecto; cuando reconocemos su significado como una representación de las fases dinámicas de la evolución, comprendemos que él es uno de los símbolos astrológicos más importantes y por el cual el astrólogo comprendiéndolo puede rendir gran servicio a aquellos que buscan mayor conciencia de su propia fuente de Luz.
 
-La forma geométrica esencial del símbolo del aspecto de sextil es el hexágono - una
-figura de seis lados iguales - que descansa sobre una base horizontal, al igual que los
-símbolos de cuadratura y el trino son el punto medio y la cúspide de la segunda casa
-respectivamente; el sextil “arranca” en el Ascendente - el primer factor que revela la
-cualidad dinámica esencial y significación del aspecto -. Como en el caso, del trino, el
-progreso alrededor de la hexagonal se obtiene por diagonales en los puntos de viraje; un
-compuesto diagonal de horizontal y vertical implica una abstracción de “hacia arriba y
-hacia adelante para siempre” - el símbolo de la evolución espiritualizada.
+La forma geométrica esencial del símbolo del aspecto de sextil es el hexágono - una figura de seis lados iguales - que descansa sobre una base horizontal, al igual que los símbolos de cuadratura y el trino son el punto medio y la cúspide de la segunda casa respectivamente; el sextil “arranca” en el Ascendente - el primer factor que revela la cualidad dinámica esencial y significación del aspecto -. Como en el caso, del trino, el progreso alrededor de la hexagonal se obtiene por diagonales en los puntos de viraje; un compuesto diagonal de horizontal y vertical implica una abstracción de “hacia arriba y hacia adelante para siempre” - el símbolo de la evolución espiritualizada.
 
-La primera diagonal del hexágono atraviesa la primera y segunda casas y establece
-contacto con la cúspide de la tercera casa. En otras palabras, toma un atajo a través de la
-potencialidad del deseo de la segunda casa y conecta directamente el “Yo Soy” del
-Ascendente con el “Yo Pienso” de la tercera casa. Siguiendo alrededor del hexágono vemos
-que las otras cinco líneas atraviesan las casas que están relacionadas abstractamente con los
-signos de tierra y de agua y que el símbolo entero tiene, como sus puntos estructurales, las
-casas relacionadas con los signos de fuego (Espíritu) y los signos de aire (Mente). (Estas
-casas son identificables como los dos pares de “relación paralela” - primera y séptima,
-tercera y novena - además, de las dos casas de la potencialidad del poder del Amor - la
-quinta y su polaridad espiritualizada, la undécima -. El símbolo nos dice que el aspecto de
-sextil representa los medios propulsores dinámicos positivos, de la conciencia humana - él
-atraviesa los niveles del deseo y el instinto - haciendo expresarse aquellos factores de
-conciencia que neutralizan las miasmas en los recursos subconscientes del sentimiento
-profundo.
+La primera diagonal del hexágono atraviesa la primera y segunda casas y establece contacto con la cúspide de la tercera casa. En otras palabras, toma un atajo a través de la potencialidad del deseo de la segunda casa y conecta directamente el “Yo Soy” del Ascendente con el “Yo Pienso” de la tercera casa. Siguiendo alrededor del hexágono vemos que las otras cinco líneas atraviesan las casas que están relacionadas abstractamente con los signos de tierra y de agua y que el símbolo entero tiene, como sus puntos estructurales, las casas relacionadas con los signos de fuego (Espíritu) y los signos de aire (Mente). (Estas casas son identificables como los dos pares de “relación paralela” - primera y séptima, tercera y novena - además, de las dos casas de la potencialidad del poder del Amor - la quinta y su polaridad espiritualizada, la undécima -. El símbolo nos dice que el aspecto de sextil representa los medios propulsores dinámicos positivos, de la conciencia humana - él atraviesa los niveles del deseo y el instinto - haciendo expresarse aquellos factores de conciencia que neutralizan las miasmas en los recursos subconscientes del sentimiento profundo.
 
-Los símbolos de la cuadratura y el trino son “cerrados”, representando un estado de
-conciencia en el cual se ha llegado a algo definitivo. La cuadratura es lo irredimido que se
-ha “trancado” y debe aliviarse por medios regeneradores para que pueda continuarse la
-evolución; el trino es un nivel específico de florecimiento - un nivel de sincronización y de
-equilibrio internos -. A su debido tiempo, perderá su transparencia así como una flor la
-pierde en su propio tiempo para que los nuevos procesos vitales de la planta puedan ser
-inaugurados. Los dos planetas implicados en aspecto de trino entre sí, están destinados a
-formar relación trina con otros planetas en el futuro, de modo que la cualidad “estática” de
-su relación presente sea sometida en su debido tiempo a las fuerzas evolutivas para la
-creación de nuevos patrones de experiencia de los cuales resultarán nuevos trinos.
+Los símbolos de la cuadratura y el trino son “cerrados”, representando un estado de conciencia en el cual se ha llegado a algo definitivo. La cuadratura es lo irredimido que se ha “trancado” y debe aliviarse por medios regeneradores para que pueda continuarse la evolución; el trino es un nivel específico de florecimiento - un nivel de sincronización y de equilibrio internos -. A su debido tiempo, perderá su transparencia así como una flor la pierde en su propio tiempo para que los nuevos procesos vitales de la planta puedan ser inaugurados. Los dos planetas implicados en aspecto de trino entre sí, están destinados a formar relación trina con otros planetas en el futuro, de modo que la cualidad “estática” de su relación presente sea sometida en su debido tiempo a las fuerzas evolutivas para la creación de nuevos patrones de experiencia de los cuales resultarán nuevos trinos.
 
-En la experiencia humana vemos representada esta pérdida de cristalización de los
-trinos cuando consideramos que aquellas cosas que representan la felicidad, la armonía y el
-contento para un niño de seis años no le traen satisfacción a un hombre de cuarenta.
-Aquello que pueda representar un florecimiento de cultura para un aborigen en la jungla
-puede parecer como juego de niños a una persona que se está manifestando como miembro
-de una sociedad verdaderamente culta. “Un planeta trino a cualquier otro planeta”
-representa esencialmente un florecimiento de conciencia; pero las manifestaciones de los
-trinos son relativas al desarrollo evolutivo.
+En la experiencia humana vemos representada esta pérdida de cristalización de los trinos cuando consideramos que aquellas cosas que representan la felicidad, la armonía y el contento para un niño de seis años no le traen satisfacción a un hombre de cuarenta. Aquello que pueda representar un florecimiento de cultura para un aborigen en la jungla puede parecer como juego de niños a una persona que se está manifestando como miembro de una sociedad verdaderamente culta. “Un planeta trino a cualquier otro planeta” representa esencialmente un florecimiento de conciencia; pero las manifestaciones de los trinos son relativas al desarrollo evolutivo.
 
-Cuando consideramos el símbolo del sextil estamos viendo un cuadro de “líneas de
-fuerza”. Este símbolo es abierto, distinto a los otros símbolos de aspectos - un cuadro de
-irradiaciones desde un centro -. Puesto que es abierto hay una implicación de forma
-indefinida. Él es en realidad un proceso en operación en vez de algo acabado. Las seis
-líneas - cúspides de las casas de fuego y de aire - representan la carga de nueva luz y calor
-desde el centro; no el centro en sí, sino lo que emana de él.
+Cuando consideramos el símbolo del sextil estamos viendo un cuadro de “líneas de fuerza”. Este símbolo es abierto, distinto a los otros símbolos de aspectos - un cuadro de irradiaciones desde un centro -. Puesto que es abierto hay una implicación de forma indefinida. Él es en realidad un proceso en operación en vez de algo acabado. Las seis líneas - cúspides de las casas de fuego y de aire - representan la carga de nueva luz y calor desde el centro; no el centro en sí, sino lo que emana de él.
 
-E1 aspecto de sextil es el principio de la palanca y contrapresión. Necesita algo a
-que oponerse y con respecto a niveles de conciencia humana, la cosa contra la cual trabaja
-es siempre un estado de falta de regeneración. Nosotros no podemos permanecer
-indefinidamente en un nivel específico o compuesto; hacerlo, sería asegurar el
-estancamiento. (Traduzca “estancamiento” como significado de “muerte”). El aspecto de
-sextil es entonces el mecanismo por el cual el Progreso Cósmico se expresa a través de
-nosotros para romper las cristalizaciones de congestión y hace posible los grandes cambios
-alquímicos de transmutación y liberación regenerada de las potencialidades.
+E1 aspecto de sextil es el principio de la palanca y contrapresión. Necesita algo a que oponerse y con respecto a niveles de conciencia humana, la cosa contra la cual trabaja es siempre un estado de falta de regeneración. Nosotros no podemos permanecer indefinidamente en un nivel específico o compuesto; hacerlo, sería asegurar el estancamiento. (Traduzca “estancamiento” como significado de “muerte”). El aspecto de sextil es entonces el mecanismo por el cual el Progreso Cósmico se expresa a través de nosotros para romper las cristalizaciones de congestión y hace posible los grandes cambios alquímicos de transmutación y liberación regenerada de las potencialidades.
 
-Dos planetas en aspecto de cuadratura entre sí pintan un estado de inercia a través
-de la falta de regeneración; deben disolverse las cristalizaciones de estas fuerzas si la vida
-ha de expresarse progresivamente a través de la persona para que las energías del alma sean
-distribuidas de nuevo y así hacer posible una relación armoniosa eventual como trino. Un
-planeta que forma sextil con uno de los dos planetas en cuadratura es el medio alquímico -
-rechazando la inercia de la cuadratura. El intercambio vibratorio entre ese planeta y el
-planeta con el cual forma sextil, es la potencialidad descongestionante para dirigir de nuevo
-las energías del planeta cuadrado. Es como un agente químico que cuando se pone en agua
-descarga el agua de minerales para facilitar y hacer más compleja la limpieza, o el líquido
-que desprende la grasa en una tubería de desagüe para que el drenaje se deshaga más
-eficientemente del agua de desperdicio. Cuando los dos planetas de un aspecto de oposición
-están respectivamente formando trino y sextil por un tercer planeta, el planeta en sextil es
-sobre el cual ha obrado el medio regenerador. Si usted tiene oportunidad de estudiar un
-mapa en el cual un planeta registra solamente por el aspecto de sextil a otros planetas,
-préstele atención muy cuidadosa a ese planeta; de su cultivo depende gran parte de la
-progresión espiritual de la persona; semejante planeta proporciona un rechazo muy
-significativo contra gran parte de lo que pueda representar la falta de regeneración.
+Dos planetas en aspecto de cuadratura entre sí pintan un estado de inercia a través de la falta de regeneración; deben disolverse las cristalizaciones de estas fuerzas si la vida ha de expresarse progresivamente a través de la persona para que las energías del alma sean distribuidas de nuevo y así hacer posible una relación armoniosa eventual como trino. Un planeta que forma sextil con uno de los dos planetas en cuadratura es el medio alquímico - rechazando la inercia de la cuadratura. El intercambio vibratorio entre ese planeta y el planeta con el cual forma sextil, es la potencialidad descongestionante para dirigir de nuevo las energías del planeta cuadrado. Es como un agente químico que cuando se pone en agua descarga el agua de minerales para facilitar y hacer más compleja la limpieza, o el líquido que desprende la grasa en una tubería de desagüe para que el drenaje se deshaga más eficientemente del agua de desperdicio. Cuando los dos planetas de un aspecto de oposición están respectivamente formando trino y sextil por un tercer planeta, el planeta en sextil es sobre el cual ha obrado el medio regenerador. Si usted tiene oportunidad de estudiar un mapa en el cual un planeta registra solamente por el aspecto de sextil a otros planetas, préstele atención muy cuidadosa a ese planeta; de su cultivo depende gran parte de la progresión espiritual de la persona; semejante planeta proporciona un rechazo muy significativo contra gran parte de lo que pueda representar la falta de regeneración.
 
-Dos planetas registrándose como sextil sin otros aspectos indican que en su mutua
-relación evolutiva, estos dos planetas han conseguido dar una buena salida - una indicación
-de conciencia directa de expresión regeneradora y una justa promesa de que el
-florecimiento en una relación de trino no está en un futuro muy lejano. No obstante, el
-trabajo de regeneración debe expresarse continuamente para hacer posible este
-florecimiento; las complicaciones por patrones irredimidos pueden resultar en una
-aglomeración de los trabajos. Ayude a tal cliente a comprender los principios de dos
-planetas semejantes para que él sepa cómo poner a funcionar estas expresiones particulares
-de su conciencia como neutralizadores de otras vibraciones de índole irredimida y
-desarrollar las potencialidades de estos planetas en relación mutua. Debemos prestarle
-atención muy cuidadosa al estudio de los sextiles y semisextiles que encontremos en
-cualquier mapa; nosotros reconocemos que ellos son el funcionamiento de la conciencia
-regenerada para disolver las cristalizaciones de los patrones de energía que se han
-estancado en la falta de regeneración y distribuirlos nuevamente.
+Dos planetas registrándose como sextil sin otros aspectos indican que en su mutua relación evolutiva, estos dos planetas han conseguido dar una buena salida - una indicación de conciencia directa de expresión regeneradora y una justa promesa de que el florecimiento en una relación de trino no está en un futuro muy lejano. No obstante, el trabajo de regeneración debe expresarse continuamente para hacer posible este florecimiento; las complicaciones por patrones irredimidos pueden resultar en una aglomeración de los trabajos. Ayude a tal cliente a comprender los principios de dos planetas semejantes para que él sepa cómo poner a funcionar estas expresiones particulares de su conciencia como neutralizadores de otras vibraciones de índole irredimida y desarrollar las potencialidades de estos planetas en relación mutua. Debemos prestarle atención muy cuidadosa al estudio de los sextiles y semisextiles que encontremos en cualquier mapa; nosotros reconocemos que ellos son el funcionamiento de la conciencia regenerada para disolver las cristalizaciones de los patrones de energía que se han estancado en la falta de regeneración y distribuirlos nuevamente.
 
-El símbolo del aspecto del trino cuando se relaciona con la rueda abstracta coincide
-con las cúspides de la segunda, sexta y décima casas - un triángulo equilátero que descansa
-sobre una base horizontal -. El trino de Tierra, simétrico como es el trino de Agua, también
-representa, por su base horizontal un estado de quietud - un “reposo perfecto” -. Vemos en
-este símbolo la conciencia humana gozando de los frutos del esfuerzo constructivo; después
-que ha sido efectuada una fase de nueva orientación, el pleno florecimiento de la
-experiencia es realizado y disfrutado - en ciertos puntos durante un ciclo de encarnación.
+El símbolo del aspecto del trino cuando se relaciona con la rueda abstracta coincide con las cúspides de la segunda, sexta y décima casas - un triángulo equilátero que descansa sobre una base horizontal -. El trino de Tierra, simétrico como es el trino de Agua, también representa, por su base horizontal un estado de quietud - un “reposo perfecto” -. Vemos en este símbolo la conciencia humana gozando de los frutos del esfuerzo constructivo; después que ha sido efectuada una fase de nueva orientación, el pleno florecimiento de la experiencia es realizado y disfrutado - en ciertos puntos durante un ciclo de encarnación.
 
-Algunos astrólogos correlacionan el símbolo del aspecto de trino con el significado
-esencial del planeta Júpiter - debido, puede suponerse, a la “dicha” o “buena suerte” por las
-cuales ellos identifican esa vibración benévola -. Semejante interpretación no coincide en
-realidad con la significación del trino. Júpiter con todo el debido respeto a sus numerosas
-virtudes es una vibración dinámica; el trino es equilibrado, balanceado, una indicación de
-armonía interna, un florecimiento de conciencia espiritualizada, una conciencia del Yo
-Superior - todos los resultados de esfuerzos transmutadores.
+Algunos astrólogos correlacionan el símbolo del aspecto de trino con el significado esencial del planeta Júpiter - debido, puede suponerse, a la “dicha” o “buena suerte” por las cuales ellos identifican esa vibración benévola -. Semejante interpretación no coincide en realidad con la significación del trino. Júpiter con todo el debido respeto a sus numerosas virtudes es una vibración dinámica; el trino es equilibrado, balanceado, una indicación de armonía interna, un florecimiento de conciencia espiritualizada, una conciencia del Yo Superior - todos los resultados de esfuerzos transmutadores.
 
-Aplique el triángulo de base horizontal a la rueda de doce casas y perciba que
-cíclicamente él comienza en la cúspide de la segunda casa; se extiende transversalmente a
-la cúspide de la sexta casa y entonces sigue directamente a la cúspide de la décima. La
-rueda es la representación de la evolución de la conciencia humana a través de patrones
-de experiencia y por tanto la significación interna del trino debe hallarse en consideración
-de las casas que él representa abstractamente y de eso puede deducirse la vibración
-planetaria a la cual corresponde más íntimamente. Puesto que el trino representa un
-resultado regenerado apliquemos palabras-clave de regeneración a las tres casas
-implicadas:
+Aplique el triángulo de base horizontal a la rueda de doce casas y perciba que cíclicamente él comienza en la cúspide de la segunda casa; se extiende transversalmente a la cúspide de la sexta casa y entonces sigue directamente a la cúspide de la décima. La rueda es la representación de la evolución de la conciencia humana a través de patrones de experiencia y por tanto la significación interna del trino debe hallarse en consideración de las casas que él representa abstractamente y de eso puede deducirse la vibración planetaria a la cual corresponde más íntimamente. Puesto que el trino representa un resultado regenerado apliquemos palabras-clave de regeneración a las tres casas implicadas:
 
-Segunda casa: La “posesión y el deseo de posesión” han sido transmutados en
-conciencia de recto intercambio de dinero y materiales, perfecta mayordomia y la
-resultante regeneración de relaciones entre personas que han aprendido a dirigir las finanzas
-- intercambio por medio del recto sentimiento mutuo.
+Segunda casa: La “posesión y el deseo de posesión” han sido transmutados en conciencia de recto intercambio de dinero y materiales, perfecta mayordomia y la resultante regeneración de relaciones entre personas que han aprendido a dirigir las finanzas - intercambio por medio del recto sentimiento mutuo.
 
-Sexta casa: La conciencia de la “Labor” es regenerada en una expresión de
-Servicio Amoroso como una liberación de potencialidades de la quinta casa; como una
-extensión de una segunda casa regenerada, personas que trabajan y personas para quienes
-se trabaja están entre sí en relación simpática y equilibrada; el intercambio de dinero y
-comodidades está balanceado por el intercambio del valor del trabajo; la recta conciencia
-de intercambio monetario se correlaciona con la mejor expresión de la potencialidad del
-trabajo. “El Capital contra la Labor” es transmutado en “Capital y Labor” armoniosamente
-integrados como base - la línea horizontal - para la estructura vertical del tercer punto que
-es:
+Sexta casa: La conciencia de la “Labor” es regenerada en una expresión de Servicio Amoroso como una liberación de potencialidades de la quinta casa; como una extensión de una segunda casa regenerada, personas que trabajan y personas para quienes se trabaja están entre sí en relación simpática y equilibrada; el intercambio de dinero y comodidades está balanceado por el intercambio del valor del trabajo; la recta conciencia de intercambio monetario se correlaciona con la mejor expresión de la potencialidad del trabajo. “El Capital contra la Labor” es transmutado en “Capital y Labor” armoniosamente integrados como base - la línea horizontal - para la estructura vertical del tercer punto que es:
 
-La décima casa: El logro de una Sociedad perfecta incluyendo y encerrando las
-mejores expresiones de todas las clases y niveles evolutivos de la humanidad. Puesto que
-las casas de tierra siguen a las casas de fuego se muestra el cuadro que la sociedad perfecta
-es una manifestación de los poderes de la conciencia propia, el amor y la sabiduría de toda
-la gente. Un solo aspecto de trino en un horóscopo individual representa una conciencia
-alcanzada de algún nivel o fase de recta relación del individuo con el mundo en conjunto; el
-símbolo en sí, como una abstracción del Gran Horóscopo representa los florecimientos
-espirituales, culturales y económicos de la humanidad como entidad, en su Sendero
-evolutivo.
+La décima casa: El logro de una Sociedad perfecta incluyendo y encerrando las mejores expresiones de todas las clases y niveles evolutivos de la humanidad. Puesto que las casas de tierra siguen a las casas de fuego se muestra el cuadro que la sociedad perfecta es una manifestación de los poderes de la conciencia propia, el amor y la sabiduría de toda la gente. Un solo aspecto de trino en un horóscopo individual representa una conciencia alcanzada de algún nivel o fase de recta relación del individuo con el mundo en conjunto; el símbolo en sí, como una abstracción del Gran Horóscopo representa los florecimientos espirituales, culturales y económicos de la humanidad como entidad, en su Sendero evolutivo.
 
-Las civilizaciones ascienden, florecen y caen; los individuos suben, atraviesan y
-trascienden “puntos de reposo” en su experiencia individual, pero el símbolo del trino es el
-vértice, la “realización perfecta” - la florescencia de lo mejor en la conciencia individual o
-colectiva -. Su correlativo planetario no es Júpiter, sino Venus, el gran símbolo de la
-esencia femenina de la conciencia: Armonía, Amor y Belleza destilados de las luchas y
-crecimientos de toda la gente; miel destilada del néctar de las flores; la perfección de la
-línea, la estructura y el color del cuerpo humano cultivado; el destello y la chispa de las
-joyas talladas meticulosamente; la cultura que representa lo mejor de las realizaciones
-humanas.
+Las civilizaciones ascienden, florecen y caen; los individuos suben, atraviesan y trascienden “puntos de reposo” en su experiencia individual, pero el símbolo del trino es el vértice, la “realización perfecta” - la florescencia de lo mejor en la conciencia individual o colectiva -. Su correlativo planetario no es Júpiter, sino Venus, el gran símbolo de la esencia femenina de la conciencia: Armonía, Amor y Belleza destilados de las luchas y crecimientos de toda la gente; miel destilada del néctar de las flores; la perfección de la línea, la estructura y el color del cuerpo humano cultivado; el destello y la chispa de las joyas talladas meticulosamente; la cultura que representa lo mejor de las realizaciones humanas.
 
-Por medio de sus aspectos de trino usted está consciente de su conciencia Divina -
-usted está en armonía con lo mejor en usted; la amplitud, belleza y armonía de sus
-condiciones externas son las reflexiones de su conciencia regenerada. Haga algo más que
-disfrutar sus trinos - compártalos con todas las personas que lo rodean manteniendo
-siempre su “conciencia trinada”, viva y expresiva. De esta manera usted no solamente
-comparte sus tesoros, sino que por el poder de las vibraciones simpáticas, usted enciende a
-otras personas a una mayor conciencia de su Bien interno y así estimula los buenos
-aspectos en sus mapas.
+Por medio de sus aspectos de trino usted está consciente de su conciencia Divina - usted está en armonía con lo mejor en usted; la amplitud, belleza y armonía de sus condiciones externas son las reflexiones de su conciencia regenerada. Haga algo más que disfrutar sus trinos - compártalos con todas las personas que lo rodean manteniendo siempre su “conciencia trinada”, viva y expresiva. De esta manera usted no solamente comparte sus tesoros, sino que por el poder de las vibraciones simpáticas, usted enciende a otras personas a una mayor conciencia de su Bien interno y así estimula los buenos aspectos en sus mapas.
 
 ### <h3 id="chapter-3">Capítulo III: Los Aspectos de la Cruz en T y la Gran Cruz</h3>
 
-Estos dos patrones de aspecto son considerados por muchos delineadores
-astrológicos con un sentimiento de desinterés considerable hacia las personas representadas
-por los mapas.
-Estos patrones indican verdaderamente lecciones de la vida de seria importancia y
-significación evolutiva. También es cierto que el delineador astrológico debe aprender a
-considerarlos impersonalmente y sin emoción, con serenidad filosófica, para interpretarlos
-de manera servicial.
+Estos dos patrones de aspecto son considerados por muchos delineadores astrológicos con un sentimiento de desinterés considerable hacia las personas representadas por los mapas. Estos patrones indican verdaderamente lecciones de la vida de seria importancia y significación evolutiva. También es cierto que el delineador astrológico debe aprender a considerarlos impersonalmente y sin emoción, con serenidad filosófica, para interpretarlos de manera servicial.
 
-Cualquier modo de delineación astrológica que tienda a acentuar la interpretación de
-la experiencia como verdadero mal, infortunio, calamidad o tragedia, no puede ser
-verdaderamente instructivo; no obstante esta forma de acercamiento ocupa la mente de
-muchos delineadores cuando ellos tratan de interpretar aunque sea un solo aspecto de
-cuadratura. De aquí que, la fusión del aspecto de oposición con cuadraturas múltiples como
-está representada por la Cruz en T y la Gran Cruz representa para ellos “algo terrible
-elevado a sumo grado”, una implicación de una cualidad de karma tan tremenda que se
-hace casi o totalmente incapaz de toda esperanza de resolución durante toda la esfera de
-acción de la presente vida.
+Cualquier modo de delineación astrológica que tienda a acentuar la interpretación de la experiencia como verdadero mal, infortunio, calamidad o tragedia, no puede ser verdaderamente instructivo; no obstante esta forma de acercamiento ocupa la mente de muchos delineadores cuando ellos tratan de interpretar aunque sea un solo aspecto de cuadratura. De aquí que, la fusión del aspecto de oposición con cuadraturas múltiples como está representada por la Cruz en T y la Gran Cruz representa para ellos “algo terrible elevado a sumo grado”, una implicación de una cualidad de karma tan tremenda que se hace casi o totalmente incapaz de toda esperanza de resolución durante toda la esfera de acción de la presente vida.
 
-Nosotros los astro-delineadores en plena justicia, debemos conocer y reconocer los
-Principios fundamentales de la Vida a fin de que cuando se nos pida la delineación de
-mapas que contengan estos numerosos patrones de tensión, podamos ejercitar la percepción
-correcta .y así fomentar la instrucción en vez de ejercitar la ignorancia y el miedo con lo
-cual se aumentaría la angustia y la desesperanza en la conciencia de las personas
-implicadas. Estos aspectos complejos pueden mirarse desde muchos puntos de vista del
-Principio que revelan secretos del destino como indicaciones de la posición evolutiva y el
-progreso. Nuestra responsabilidad y servicio están enfocados en la expansión de percepción
-del principio.
+Nosotros los astro-delineadores en plena justicia, debemos conocer y reconocer los Principios fundamentales de la Vida a fin de que cuando se nos pida la delineación de mapas que contengan estos numerosos patrones de tensión, podamos ejercitar la percepción correcta .y así fomentar la instrucción en vez de ejercitar la ignorancia y el miedo con lo cual se aumentaría la angustia y la desesperanza en la conciencia de las personas implicadas. Estos aspectos complejos pueden mirarse desde muchos puntos de vista del Principio que revelan secretos del destino como indicaciones de la posición evolutiva y el progreso. Nuestra responsabilidad y servicio están enfocados en la expansión de percepción del principio.
 
-Para la continuación de este material se sugiere que usted prepare varias copias de la
-rueda de doce casas con los signos zodiacales colocados en orden desde Aries como signo
-Ascendente; también una lista de los signos zodiacales de acuerdo con las “Cruces”, de la
-siguiente manera:
+Para la continuación de este material se sugiere que usted prepare varias copias de la rueda de doce casas con los signos zodiacales colocados en orden desde Aries como signo Ascendente; también una lista de los signos zodiacales de acuerdo con las “Cruces”, de la siguiente manera:
 
-Cardinal: Aries y Libra, Capricornio y Cáncer; Fija: Leo y Acuario, Tauro y
-Escorpión; Común: Sagitario y Géminis, Virgo y Piscis.
+Cardinal: Aries y Libra, Capricornio y Cáncer; Fija: Leo y Acuario, Tauro y Escorpión; Común: Sagitario y Géminis, Virgo y Piscis.
 
-El orden en la dirección de las manecillas del reloj, de cuadraturas contiguas para
-cada signo: Aries: Cáncer y Capricornio; Libra: Capricornio y Cáncer; Capricornio: Aries y
-Libra; Cáncer: Libra y Aries; Leo: Escorpión y Tauro; Acuario: Tauro y Escorpión; Tauro:
-Leo y Acuario; Escorpión: Acuario y Leo; Sagitario: Piscis y Virgo; Géminis: Virgo y
-Piscis; Virgo: Sagitario y Géminis; Piscis: Géminis y Sagitario.
+El orden en la dirección de las manecillas del reloj, de cuadraturas contiguas para cada signo: Aries: Cáncer y Capricornio; Libra: Capricornio y Cáncer; Capricornio: Aries y Libra; Cáncer: Libra y Aries; Leo: Escorpión y Tauro; Acuario: Tauro y Escorpión; Tauro: Leo y Acuario; Escorpión: Acuario y Leo; Sagitario: Piscis y Virgo; Géminis: Virgo y Piscis; Virgo: Sagitario y Géminis; Piscis: Géminis y Sagitario.
 
-La consideración del “campo de acción planetario”: El mínimo de esfera planetaria
-de la Cruz en T es tres puntos planetarios, dos de los cuales están en oposición entre sí,
-ambos cuadrados por el tercero. El mínimo de esfera planetaria de la Gran Cruz es cuatro
-puntos planetarios en patrón de dos pares de oposiciones formando una sucesión de cuatro
-aspectos de cuadratura. La esfera máxima de ambos es por todo de diez puntos planetarios
-que pueden estar en relación recíproca por orbe cerrado o por orbe “extendido”. En el caso
-de muchos aspectos de Cruz en T y Gran Cruz, de cuatro o más planetas, la diferencia
-numérica entre el primer planeta que solicita el aspecto y el último, puede ser tan alta como
-doce o trece grados; la extensión de orbe es válida porque los planetas están en relación
-mutua en el mismo aspecto.
+La consideración del “campo de acción planetario”: El mínimo de esfera planetaria de la Cruz en T es tres puntos planetarios, dos de los cuales están en oposición entre sí, ambos cuadrados por el tercero. El mínimo de esfera planetaria de la Gran Cruz es cuatro puntos planetarios en patrón de dos pares de oposiciones formando una sucesión de cuatro aspectos de cuadratura. La esfera máxima de ambos es por todo de diez puntos planetarios que pueden estar en relación recíproca por orbe cerrado o por orbe “extendido”. En el caso de muchos aspectos de Cruz en T y Gran Cruz, de cuatro o más planetas, la diferencia numérica entre el primer planeta que solicita el aspecto y el último, puede ser tan alta como doce o trece grados; la extensión de orbe es válida porque los planetas están en relación mutua en el mismo aspecto.
 
-La consideración de la cualidad de aspecto: Los aspectos de Cruz en T y la Gran
-Cruz pueden tomarse como “puros” si todos sus puntos planetarios ocupan signos de la
-misma cruz - cardinal, fija o común -; son “mixtos” si los planetas aunque en orbe
-numérico válido ocupan signos que representan una mezcla de cruces. Ejemplos:
+La consideración de la cualidad de aspecto: Los aspectos de Cruz en T y la Gran Cruz pueden tomarse como “puros” si todos sus puntos planetarios ocupan signos de la misma cruz - cardinal, fija o común -; son “mixtos” si los planetas aunque en orbe numérico válido ocupan signos que representan una mezcla de cruces. Ejemplos:
 
-Cruz en T, mínima, pura: Venus a 9o de Leo en oposición a Júpiter a 9o de Acuario,
-ambos cuadrados por la Luna a 9 o de Tauro (o Escorpión).
+Cruz en T, mínima, pura: Venus a 9o de Leo en oposición a Júpiter a 9o de Acuario, ambos cuadrados por la Luna a 9 o de Tauro (o Escorpión).
 
-Cruz en T, mínima, mixta: Venus a 26° de Leo en oposición a Júpiter a 28° de
-Acuario, ambos cuadrados por la Luna a 2° de Sagitario (o Géminis); Venus y Júpiter están
-en signos fijos, la Luna en signo común.
+Cruz en T, mínima, mixta: Venus a 26° de Leo en oposición a Júpiter a 28° de Acuario, ambos cuadrados por la Luna a 2° de Sagitario (o Géminis); Venus y Júpiter están en signos fijos, la Luna en signo común.
 
-Cruz en T, múltiple (de cuatro a nueve puntos), pura: Saturno a 6o de Libra, Júpiter
-a 9o de Aries, Urano a 14° de Cáncer, Neptuno a 17° de Libra; el orbe de aspecto entre
-Saturno y Neptuno es de once grados.
+Cruz en T, múltiple (de cuatro a nueve puntos), pura: Saturno a 6o de Libra, Júpiter a 9o de Aries, Urano a 14° de Cáncer, Neptuno a 17° de Libra; el orbe de aspecto entre Saturno y Neptuno es de once grados.
 
-Cruz en T, múltiple, mixta: Plutón a 28° de Géminis, Marte a 3° de Capricornio,
-Venus a 2o de Aries, la Luna a 8o de Aries; el orbe de aspecto es 10°; Plutón en signo
-común, los otros en cardinal.
+Cruz en T, múltiple, mixta: Plutón a 28° de Géminis, Marte a 3° de Capricornio, Venus a 2o de Aries, la Luna a 8o de Aries; el orbe de aspecto es 10°; Plutón en signo común, los otros en cardinal.
 
-Gran Cruz, mínima, pura: El Sol a 4o de Piscis, Urano a 2o de Virgo, la Luna a 7° de
-Sagitario, Júpiter a 1° de Géminis; orbe cerrado por todas partes, signos comunes.
+Gran Cruz, mínima, pura: El Sol a 4o de Piscis, Urano a 2o de Virgo, la Luna a 7° de Sagitario, Júpiter a 1° de Géminis; orbe cerrado por todas partes, signos comunes.
 
-Gran Cruz, múltiple (de nueve puntos), mixta: Urano a 22° de Capricornio, la Luna
-a 23° de Cáncer, Neptuno a 24° de Cáncer, Mercurio a 19° de Libra, Marte a 21° de Libra,
-Venus a 22° de Libra, Júpiter a 26° de Libra, el Sol a 2 o de Escorpión, Saturno a 3o de
-Tauro; el orbe de aspecto es 14°, de Mercurio a Saturno; mezcla de cardinales y fijos.
+Gran Cruz, múltiple (de nueve puntos), mixta: Urano a 22° de Capricornio, la Luna a 23° de Cáncer, Neptuno a 24° de Cáncer, Mercurio a 19° de Libra, Marte a 21° de Libra, Venus a 22° de Libra, Júpiter a 26° de Libra, el Sol a 2 o de Escorpión, Saturno a 3o de Tauro; el orbe de aspecto es 14°, de Mercurio a Saturno; mezcla de cardinales y fijos.
 
-La experimentación con variedades de patrones de Cruz en T y Gran Cruz - usando
-también varios signos como Ascendentes desarrollará fluidez en el reconocimiento de estos
-patrones en el estudio de los horóscopos. Comience con los aspectos “puros, mínimos” y
-progréselos por expansión a aspectos más complejos y variados.
+La experimentación con variedades de patrones de Cruz en T y Gran Cruz - usando también varios signos como Ascendentes desarrollará fluidez en el reconocimiento de estos patrones en el estudio de los horóscopos. Comience con los aspectos “puros, mínimos” y progréselos por expansión a aspectos más complejos y variados.
 
-Con respecto a la comprensión de las razones para los aspectos de Cruz en T y Gran
-Cruz y sus propósitos, tenga siempre en mente esta aseveración del Principio de Vida: La
-liberación del poder es subsiguiente y depende del enfoque del poder. Por ejemplo, la
-liberación de poder en la actividad es enfocada por la Voluntad de cumplir el Propósito; la
-liberación de poder como Amor es enfocada por contacto de relación y la resultante
-ignición de conciencia Amorosa individual o mutua; la liberación del poder como
-Enseñanza es enfocada por la necesidad del maestro de expresar lo que ha aprendido y la
-necesidad del estudiante de absorber lo que es expresado. Este Principio puede ser
-percibido por la persona de buen discernimiento, en todos los aspectos de la vida y la
-experiencia y en todos los planos de funcionamiento.
+Con respecto a la comprensión de las razones para los aspectos de Cruz en T y Gran Cruz y sus propósitos, tenga siempre en mente esta aseveración del Principio de Vida: La liberación del poder es subsiguiente y depende del enfoque del poder. Por ejemplo, la liberación de poder en la actividad es enfocada por la Voluntad de cumplir el Propósito; la liberación de poder como Amor es enfocada por contacto de relación y la resultante ignición de conciencia Amorosa individual o mutua; la liberación del poder como Enseñanza es enfocada por la necesidad del maestro de expresar lo que ha aprendido y la necesidad del estudiante de absorber lo que es expresado. Este Principio puede ser percibido por la persona de buen discernimiento, en todos los aspectos de la vida y la experiencia y en todos los planos de funcionamiento.
 
-La implicación casi ominosa de la dificultad delineada por los aspectos de Cruz en
-T y Gran Cruz tiene su recurso en el hecho de que ella representa un método interno o
-subjetivo de enfoque muy necesitado para la corrección de tendencias disipadoras
-practicadas a través de varias vidas pasadas. En otras palabras, estos patrones representan
-una acumulación de fuerzas condicionadas kármicamente, las cuales indican al
-delineador astrológico que aquellos principios que rigen el destino humano no permitirán a
-la persona concernida - aquella representada por el mapa - continuar con un programa de
-derroche relativo, en actitud y actividad. La encarnación presente está representada de ese
-modo como la oportunidad en la hora fijada kármicamente, a través de una limitación
-relativa de esfera para establecer el orden en la conciencia mediante un enfoque de
-experiencia concentrada. Los mapas que contienen aspectos de Cruz en T y Gran Cruz
-representan patrones de vida que revelan siempre cierta “circunscripción” o “barrera” de la
-experiencia en formas especializadas; son utilizados muchos, muchos años y en algunos
-casos toda una vida para experimentar la aplicación personal a alguna fase particular de
-actividad, de relación, o de problema. Al grado que la persona pueda comprender y estar de
-acuerdo con la necesidad para esa fase, como oportunidad para la disciplina, integración de
-entrenamiento”, o redención, hará ella uso de su patrón de Cruz en T o de Gran Cruz.
+La implicación casi ominosa de la dificultad delineada por los aspectos de Cruz en T y Gran Cruz tiene su recurso en el hecho de que ella representa un método interno o subjetivo de enfoque muy necesitado para la corrección de tendencias disipadoras practicadas a través de varias vidas pasadas. En otras palabras, estos patrones representan una acumulación de fuerzas condicionadas kármicamente, las cuales indican al delineador astrológico que aquellos principios que rigen el destino humano no permitirán a la persona concernida - aquella representada por el mapa - continuar con un programa de derroche relativo, en actitud y actividad. La encarnación presente está representada de ese modo como la oportunidad en la hora fijada kármicamente, a través de una limitación relativa de esfera para establecer el orden en la conciencia mediante un enfoque de experiencia concentrada. Los mapas que contienen aspectos de Cruz en T y Gran Cruz representan patrones de vida que revelan siempre cierta “circunscripción” o “barrera” de la experiencia en formas especializadas; son utilizados muchos, muchos años y en algunos casos toda una vida para experimentar la aplicación personal a alguna fase particular de actividad, de relación, o de problema. Al grado que la persona pueda comprender y estar de acuerdo con la necesidad para esa fase, como oportunidad para la disciplina, integración de entrenamiento”, o redención, hará ella uso de su patrón de Cruz en T o de Gran Cruz.
 
-Pero al grado que ella continúe resistiendo, resintiendo y rebelándose contra este
-patrón, ella continuará intensificando las dificultades implicadas en la cualidad limitadora
-de la experiencia. Debemos tener en mente que ningún aspecto planetario tiene como
-propósito la frustración o la limitación. Somos nosotros quienes hemos creado el
-sentimiento de frustración presente al no habernos comportado en una forma equilibrada
-con nuestra experiencia en el pasado.
+Pero al grado que ella continúe resistiendo, resintiendo y rebelándose contra este patrón, ella continuará intensificando las dificultades implicadas en la cualidad limitadora de la experiencia. Debemos tener en mente que ningún aspecto planetario tiene como propósito la frustración o la limitación. Somos nosotros quienes hemos creado el sentimiento de frustración presente al no habernos comportado en una forma equilibrada con nuestra experiencia en el pasado.
 
-Para establecer el orden, del caos que hemos creado, la Vida instituye por medio del
-Principio de Polaridad medidas contrarias en la forma de enfocarnos y concentrarnos en
-canales más especializados para capacitarnos por la aplicación repetida y continua para
-engendrar procesos de alquimia inconsciente o consciente; para vencer la debilidad
-mediante el desarrollo de la fuerza; para disipar la ignorancia por el acopio de conocimiento
-y comprensión; para pulir y refinar las crudezas de faltas de regeneración pasadas y así
-destilar la conciencia del poder anímico y espiritual. Nosotros fijamos las medidas y
-marcha de nuestro desenvolvimiento, pero las Fuerzas y Principios de Vida, tal como están
-representados en nuestros patrones de aspectos planetarios, proporcionan la substancia para
-nuestros procesos de desenvolvimiento en ambientes, relaciones y actividades en las cuales
-y a través de las cuales nosotros estamos concentrados y enfocados para fases específicas
-de cumplimiento y desarrollo.
+Para establecer el orden, del caos que hemos creado, la Vida instituye por medio del Principio de Polaridad medidas contrarias en la forma de enfocarnos y concentrarnos en canales más especializados para capacitarnos por la aplicación repetida y continua para engendrar procesos de alquimia inconsciente o consciente; para vencer la debilidad mediante el desarrollo de la fuerza; para disipar la ignorancia por el acopio de conocimiento y comprensión; para pulir y refinar las crudezas de faltas de regeneración pasadas y así destilar la conciencia del poder anímico y espiritual. Nosotros fijamos las medidas y marcha de nuestro desenvolvimiento, pero las Fuerzas y Principios de Vida, tal como están representados en nuestros patrones de aspectos planetarios, proporcionan la substancia para nuestros procesos de desenvolvimiento en ambientes, relaciones y actividades en las cuales y a través de las cuales nosotros estamos concentrados y enfocados para fases específicas de cumplimiento y desarrollo.
 
-Desde el punto de vista objetivo, el astro-delineador al estudiar el registro de una
-Cruz en T o una Gran Cruz ve el retrato de “un ser humano que puede considerar sus
-“experiencias de la Cruz” desde uno de tres niveles principales:
-(1) Sufrimiento irremediable, sin esperanza;
-(2) Antagonismo, resistencia y fricción airadas;
-(3) Uso constructivo de la experiencia para obtener entrenamiento, refinamiento y
-desarrollo.
-Esto se ofrece cómo pista para la síntesis de los valores espirituales del mapa, el
-astro-delineador sabrá cómo abordar mejor la presentación interpretadora de los patrones
-tensionales dependiendo de cual de estos puntos de vista es sostenido por la persona.
+Desde el punto de vista objetivo, el astro-delineador al estudiar el registro de una Cruz en T o una Gran Cruz ve el retrato de “un ser humano que puede considerar sus “experiencias de la Cruz” desde uno de tres niveles principales: (1) Sufrimiento irremediable, sin esperanza; (2) Antagonismo, resistencia y fricción airadas; (3) Uso constructivo de la experiencia para obtener entrenamiento, refinamiento y desarrollo. Esto se ofrece cómo pista para la síntesis de los valores espirituales del mapa, el astro-delineador sabrá cómo abordar mejor la presentación interpretadora de los patrones tensionales dependiendo de cual de estos puntos de vista es sostenido por la persona.
 
-Uno de los puntos más importantes en el estudio de la Cruz en T se encuentra
-cuando la consideramos como una combinación de líneas de fuerza. Imagínese que usted
-está colocado en el centro de una copia del Gran Mándala; alrededor de su cintura están
-amarradas tres sogas cuyos extremos están en manos de tres personas paradas en las
-cúspides de Aries, de Libra, y de Cáncer; estas tres personas tratan de halarlo hacia ellas -
-hacia afuera de su posición en el centro; usted está tratando de mantener su posición y para
-lograrlo usted debe resistir la fuerza de las tres direcciones. Aries y Libra, opuestos entre sí,
-representan el aspecto de oposición de la Cruz en T; Cáncer cuadrado a ambos, es el
-“vértice”' de la Cruz en T; si la persona en Cáncer deja caer su soga, entonces la contienda
-de tiro de sogas será solamente entre Aries y Libra, pero mientras Cáncer trate también de
-halarlo, usted tiene que tratar de contrarrestar su fuerza. Usted lo logra ejerciendo su
-contrafuerza en la dirección de lo que sería el punto de Capricornio, opuesto a Cáncer.
+Uno de los puntos más importantes en el estudio de la Cruz en T se encuentra cuando la consideramos como una combinación de líneas de fuerza. Imagínese que usted está colocado en el centro de una copia del Gran Mándala; alrededor de su cintura están amarradas tres sogas cuyos extremos están en manos de tres personas paradas en las cúspides de Aries, de Libra, y de Cáncer; estas tres personas tratan de halarlo hacia ellas - hacia afuera de su posición en el centro; usted está tratando de mantener su posición y para lograrlo usted debe resistir la fuerza de las tres direcciones. Aries y Libra, opuestos entre sí, representan el aspecto de oposición de la Cruz en T; Cáncer cuadrado a ambos, es el “vértice”' de la Cruz en T; si la persona en Cáncer deja caer su soga, entonces la contienda de tiro de sogas será solamente entre Aries y Libra, pero mientras Cáncer trate también de halarlo, usted tiene que tratar de contrarrestar su fuerza. Usted lo logra ejerciendo su contrafuerza en la dirección de lo que sería el punto de Capricornio, opuesto a Cáncer.
 
-Por lo tanto, el estudio del punto opuesto al vértice de la Cruz en T es tan
-importante como cualquiera de los tres puntos ocupados porque ese cuarto punto representa
-espiritual y psicológicamente hablando, la cualidad que usted debe ejercitar y desarrollar
-cuando los conflictos y fricciones representados por los tres puntos de la Cruz en T
-amenacen sacarlo fuera de su centro.
-Él representa cualidades y poderes espirituales de los cuales su Yo Superior está
-tratando de hacerlo a usted consciente para el desarrollo del balance e integración internos.
-En el estudio de cualquier mapa que contenga un patrón de Cruz en T déle consideración
-cuidadosa al signo opuesto al vértice y las condiciones indicadas por su regente planetario.
-En el estudio de los horarios (tránsitos mayores, progresiones, etc.) vigile cuidadosamente
-aquellos períodos cuando las activaciones pasen sobre el Punto opuesto al vértice: Estas
-medidas del tiempo traen oportunidades muy significativas - a través de pruebas - para el
-mantenimiento y el desarrollo del equilibrio interno y la serenidad por medio de la
-polarización espiritual de las tendencias negativas revueltas por el estímulo a los planetas
-de la Cruz en T.
+Por lo tanto, el estudio del punto opuesto al vértice de la Cruz en T es tan importante como cualquiera de los tres puntos ocupados porque ese cuarto punto representa espiritual y psicológicamente hablando, la cualidad que usted debe ejercitar y desarrollar cuando los conflictos y fricciones representados por los tres puntos de la Cruz en T amenacen sacarlo fuera de su centro. Él representa cualidades y poderes espirituales de los cuales su Yo Superior está tratando de hacerlo a usted consciente para el desarrollo del balance e integración internos. En el estudio de cualquier mapa que contenga un patrón de Cruz en T déle consideración cuidadosa al signo opuesto al vértice y las condiciones indicadas por su regente planetario. En el estudio de los horarios (tránsitos mayores, progresiones, etc.) vigile cuidadosamente aquellos períodos cuando las activaciones pasen sobre el Punto opuesto al vértice: Estas medidas del tiempo traen oportunidades muy significativas - a través de pruebas - para el mantenimiento y el desarrollo del equilibrio interno y la serenidad por medio de la polarización espiritual de las tendencias negativas revueltas por el estímulo a los planetas de la Cruz en T.
 
-Los planetas son gente; los patrones y tendencias de su conciencia son estimulados
-o encendidos por sus contactos con otras personas - esta ignición hace posible lo que
-nosotros llamamos experiencia -. Entre las personas más importantes en la vida de un
-individuo que tiene una Cruz en T en su mapa natal están aquellas que tienen puntos
-planetarios en el signo opuesto al planeta del vértice de la Cruz en T. El planeta o planetas
-de estas personas pueden estar aspectados de manera irredimida, regenerada o variable;
-pero de todos modos, ellos representan hasta cierto punto aquello que la persona con la
-Cruz en T está tratando de encontrar dentro de sí misma para mayor integridad psicológica
-y espiritual. Si la cualidad correspondiente a la otra persona no está regenerada, ella será
-una prueba muy significativa para la persona con la Cruz en T; si está regenerada, ella será
-- por lo menos potencialmente - una auxiliadora, una inspiradora, un buen ejemplo, un
-ideal. Si su cualidad es variable, estudie entonces la tendencia más pronunciada fijando el
-momento del encuentro de las dos personas; trate de determinar si la cualidad o tendencia
-irredimida o la redimida estaba en mayor efecto cuando las personas concernidas iniciaron
-sus relaciones mutuas. Usted encontrará que las mejores tendencias de la persona variable
-fueron estimuladas en ese momento indicando que su propósito en la experiencia de la
-persona con la Cruz en T es básicamente exaltador y servicial. Poner en uso el poder o
-cualidad espiritual indicado por el signo opuesto al vértice de una Cruz en T es magia
-blanca creadora porque representa un grado muy elevado de alquimia espiritual en la
-conciencia.
+Los planetas son gente; los patrones y tendencias de su conciencia son estimulados o encendidos por sus contactos con otras personas - esta ignición hace posible lo que nosotros llamamos experiencia -. Entre las personas más importantes en la vida de un individuo que tiene una Cruz en T en su mapa natal están aquellas que tienen puntos planetarios en el signo opuesto al planeta del vértice de la Cruz en T. El planeta o planetas de estas personas pueden estar aspectados de manera irredimida, regenerada o variable; pero de todos modos, ellos representan hasta cierto punto aquello que la persona con la Cruz en T está tratando de encontrar dentro de sí misma para mayor integridad psicológica y espiritual. Si la cualidad correspondiente a la otra persona no está regenerada, ella será una prueba muy significativa para la persona con la Cruz en T; si está regenerada, ella será - por lo menos potencialmente - una auxiliadora, una inspiradora, un buen ejemplo, un ideal. Si su cualidad es variable, estudie entonces la tendencia más pronunciada fijando el momento del encuentro de las dos personas; trate de determinar si la cualidad o tendencia irredimida o la redimida estaba en mayor efecto cuando las personas concernidas iniciaron sus relaciones mutuas. Usted encontrará que las mejores tendencias de la persona variable fueron estimuladas en ese momento indicando que su propósito en la experiencia de la persona con la Cruz en T es básicamente exaltador y servicial. Poner en uso el poder o cualidad espiritual indicado por el signo opuesto al vértice de una Cruz en T es magia blanca creadora porque representa un grado muy elevado de alquimia espiritual en la conciencia.
 
-Para el estudio y análisis de una Gran Cruz se sugiere que usted haga un mándala
-separado de ésta y lo estudie primero aparte del mapa natal, teniendo en mente que las
-líneas de fuerza desde el centro del horóscopo o mándala, indican dos oposiciones que se
-polarizan entre sí y cuatro cuadraturas que actúan recíprocamente. Luego, para más claridad
-y para evitar la confusión mental, haga un mándala para cada uno de los planetas en la Gran
-Cruz conteniendo todos los aspectos natales que incluyen el planeta particular. En esta
-forma usted puede disecar todas las evidencias de alquimia y una potencialidad
-regeneradora que puede ser usada por la persona para alcanzar crecimiento espiritual de las
-experiencias indicadas por la Gran Cruz. Una Gran Cruz es realmente un pequeño
-horóscopo dentro del natal - una concentración de las fuerzas de la conciencia - las cuales si
-son usadas constructiva y creadoramente, pueden hacer de la presente encarnación un paso
-hacia arriba muy importante en la espiral evolutiva. Su palabra clave básica puede
-manifestarse así: concentración de conciencia evolutivamente necesaria y las habilidades
-para uso constructivo. El mal implicado por la Gran Cruz es por la interpretación individual
-solamente; su propósito es fomentar el bien del individuo a través del enfoque.
+Para el estudio y análisis de una Gran Cruz se sugiere que usted haga un mándala separado de ésta y lo estudie primero aparte del mapa natal, teniendo en mente que las líneas de fuerza desde el centro del horóscopo o mándala, indican dos oposiciones que se polarizan entre sí y cuatro cuadraturas que actúan recíprocamente. Luego, para más claridad y para evitar la confusión mental, haga un mándala para cada uno de los planetas en la Gran Cruz conteniendo todos los aspectos natales que incluyen el planeta particular. En esta forma usted puede disecar todas las evidencias de alquimia y una potencialidad regeneradora que puede ser usada por la persona para alcanzar crecimiento espiritual de las experiencias indicadas por la Gran Cruz. Una Gran Cruz es realmente un pequeño horóscopo dentro del natal - una concentración de las fuerzas de la conciencia - las cuales si son usadas constructiva y creadoramente, pueden hacer de la presente encarnación un paso hacia arriba muy importante en la espiral evolutiva. Su palabra clave básica puede manifestarse así: concentración de conciencia evolutivamente necesaria y las habilidades para uso constructivo. El mal implicado por la Gran Cruz es por la interpretación individual solamente; su propósito es fomentar el bien del individuo a través del enfoque.
 
-En conclusión, existen varios acercamientos especiales que deben ser tomados en
-consideración. Una conciencia acrecentada de los poderes de la fe en la ley espiritual y la
-paciencia - el recto uso del Tiempo - será provechosa particularmente para la persona que
-tiene a Saturno configurado en una Cruz en T o en una Gran Cruz; ella debe ser estimulada
-a practicar el punto de vista espiritualmente constructivo y de largo alcance hacia sus
-experiencias; porque sus necesidades para la disciplina indicada son especialmente urgentes
-para toda su vida.
+En conclusión, existen varios acercamientos especiales que deben ser tomados en consideración. Una conciencia acrecentada de los poderes de la fe en la ley espiritual y la paciencia - el recto uso del Tiempo - será provechosa particularmente para la persona que tiene a Saturno configurado en una Cruz en T o en una Gran Cruz; ella debe ser estimulada a practicar el punto de vista espiritualmente constructivo y de largo alcance hacia sus experiencias; porque sus necesidades para la disciplina indicada son especialmente urgentes para toda su vida.
 
-Si la Luna está configurada en cualquiera de estos dos patrones de aspecto, entonces
-el conocimiento científico concerniente al propósito y la acción de la mente instintiva será
-de ayuda notable; porque esta persona ha emprendido una gran misión para limpiar en esta
-vida los residuos negativos de vidas pasadas. Si el regente planetario del Ascendente está
-configurado, es evidente que la persona ha de experimentar un nuevo enfoque considerable
-a través de dificultades físicas, y la información concerniente a las correlaciones ocultas o
-espirituales de la Ley con condiciones físicas puede dar la contestación a su máxima
-necesidad evolutiva. Si Urano es un factor, entonces el ejercicio en el ajuste inteligente a
-los cambios está indicado como parte de la misión espiritual - especialmente si Urano está
-cuadrado u opuesto por Saturno y Saturno tiene en general la influencia predominante en el
-mapa -. La inclusión de Júpiter en estos patrones indica que debe ejercitarse la sinceridad
-de motivación para neutralizar o transmutar tendencias de falso orgullo y de
-compensaciones infructuosas. La inclusión de Mercurio indica que la disciplina y el
-esclarecimiento mental deben destilarse de la concentración de experiencia así como el
-mejoramiento en los métodos de comunicación. La inclusión del Sol en estos patrones es
-especialmente significativa; el propósito básico de la concentración de experiencia es
-volver la atención de la persona evolutivamente hacia Dios para comprender su verdadera
-Fuente de Vida y del Ser
+Si la Luna está configurada en cualquiera de estos dos patrones de aspecto, entonces el conocimiento científico concerniente al propósito y la acción de la mente instintiva será de ayuda notable; porque esta persona ha emprendido una gran misión para limpiar en esta vida los residuos negativos de vidas pasadas. Si el regente planetario del Ascendente está configurado, es evidente que la persona ha de experimentar un nuevo enfoque considerable a través de dificultades físicas, y la información concerniente a las correlaciones ocultas o espirituales de la Ley con condiciones físicas puede dar la contestación a su máxima necesidad evolutiva. Si Urano es un factor, entonces el ejercicio en el ajuste inteligente a los cambios está indicado como parte de la misión espiritual - especialmente si Urano está cuadrado u opuesto por Saturno y Saturno tiene en general la influencia predominante en el mapa -. La inclusión de Júpiter en estos patrones indica que debe ejercitarse la sinceridad de motivación para neutralizar o transmutar tendencias de falso orgullo y de compensaciones infructuosas. La inclusión de Mercurio indica que la disciplina y el esclarecimiento mental deben destilarse de la concentración de experiencia así como el mejoramiento en los métodos de comunicación. La inclusión del Sol en estos patrones es especialmente significativa; el propósito básico de la concentración de experiencia es volver la atención de la persona evolutivamente hacia Dios para comprender su verdadera Fuente de Vida y del Ser
 
 ### <h3 id="chapter-4">Capítulo IV: Los Aspectos de Trino y Gran Trino</h3>
 
-El Trino y el Gran Trino tienen reciprocidad regeneradora con los aspectos de la
-Cruz en T y la Gran Cruz respectivamente. Las líneas que conectan los tres puntos
-planetarios de una Cruz en T mínima forman un triángulo y cada diámetro del cuadrado
-formado por las líneas que conectan una Gran Cruz divide el cuadrado en dos triángulos. La
-diferencia oculta entre los dos tipos es que en los aspectos de Cruz el ángulo estructural
-principal es el ángulo recto de exactamente o aproximadamente 90° que representa la
-tensión, resistencia, congestión y atracción de gravitación del aspecto de Cuadratura. Las
-líneas desde el centro de un círculo horoscópico que tocan la circunferencia en tres puntos
-representando planetas que están exactamente en aspecto de Gran Trino entre sí, forman
-tres ángulos de 120° en el centro del círculo. Cualquier línea que conecte dos de estos
-puntos planetarios entre sí es uno de los tres lados de un triángulo equilátero, identificando
-la relación de los dos planetas entre sí como aspecto Trino. La esencia espiritualizada de los
-aspectos Trinos está revelada gráficamente en el hecho de que los tres ángulos de un Gran
-Trino son de 60° cada uno - el valor numérico del aspecto Textil -. Puesto que el Gran
-Trino es una figura cerrada, su diseño y cualidad angular revelan que él es un resultado, en
-la conciencia de ejercicios sextilicos previos en regeneración y alquimia. El ángulo central
-formado por dos radios conectados a puntos planetarios que están Trinos entre sí es de
-120°, la suma de dos sextiles. El trino simple no está cerrado, pero indica un estado de
-equilibrio relativo alcanzado por la persona que está ahora posiblemente en el proceso de
-crear un Gran Trino. El Trino simple es florecimiento evolutivo, el Gran Trino es fruto
-evolutivo.
+El Trino y el Gran Trino tienen reciprocidad regeneradora con los aspectos de la Cruz en T y la Gran Cruz respectivamente. Las líneas que conectan los tres puntos planetarios de una Cruz en T mínima forman un triángulo y cada diámetro del cuadrado formado por las líneas que conectan una Gran Cruz divide el cuadrado en dos triángulos. La diferencia oculta entre los dos tipos es que en los aspectos de Cruz el ángulo estructural principal es el ángulo recto de exactamente o aproximadamente 90° que representa la tensión, resistencia, congestión y atracción de gravitación del aspecto de Cuadratura. Las líneas desde el centro de un círculo horoscópico que tocan la circunferencia en tres puntos representando planetas que están exactamente en aspecto de Gran Trino entre sí, forman tres ángulos de 120° en el centro del círculo. Cualquier línea que conecte dos de estos puntos planetarios entre sí es uno de los tres lados de un triángulo equilátero, identificando la relación de los dos planetas entre sí como aspecto Trino. La esencia espiritualizada de los aspectos Trinos está revelada gráficamente en el hecho de que los tres ángulos de un Gran Trino son de 60° cada uno - el valor numérico del aspecto Textil -. Puesto que el Gran Trino es una figura cerrada, su diseño y cualidad angular revelan que él es un resultado, en la conciencia de ejercicios sextilicos previos en regeneración y alquimia. El ángulo central formado por dos radios conectados a puntos planetarios que están Trinos entre sí es de 120°, la suma de dos sextiles. El trino simple no está cerrado, pero indica un estado de equilibrio relativo alcanzado por la persona que está ahora posiblemente en el proceso de crear un Gran Trino. El Trino simple es florecimiento evolutivo, el Gran Trino es fruto evolutivo.
 
-Debemos recordar que los aspectos de Trino y Gran Trino indican conciencia
-regenerada de aquellas esencias de Espíritu puras representadas por los planetas
-concernidos, cada uno de los cuales es una unidad especializada para la expresión y la
-reacción. La realización del Espíritu es lo que define nuestra meta evolutiva a través de la
-experiencia en la sucesión de encarnaciones. La presencia de un Trino o un Gran Trino en
-un horóscopo natal evidencia un logro relativo de realización Espiritual en el presente ciclo
-de evolución. Por “Espíritu” se da a entender aquí, los Divinos atributos del Poder, el Amor
-y la Verdad que, sintetizados en la palabra “Dios”, indican el estado del ser puro.
-Prescindiendo de los patrones de aspecto, cualquier punto planetario puede estudiarse en
-concepto de su regencia de Signo, regencia de Casa, Signo de ubicación y Casa de
-ubicación; estos cuatro factores indican la copia fundamental de la misión de vida evolutiva
-en términos de los principios y potencias del planeta para la expresión y la reacción. No
-obstante cuando el planeta está relacionado a otro planeta por el aspecto Trino entonces la
-indicación es que la persona ha desarrollado una faceta de su naturaleza y habilidades por
-medio de la regeneración consciente en vidas pasadas y el aspecto ahora representa una
-realización de Espíritu relativamente desarrollada que ha de ser usada en la vida para
-transmutar otros factores de la personalidad y para contribuir al progreso espiritual de la
-humanidad. El logro, por la realización del Poder, trae la responsabilidad de usarlo
-rectamente y creadoramente. Por la Ley de atracción magnética, la persona que tiene un
-aspecto Trino en su mapa atraerá naturalmente a su experiencia aquellos refinamientos,
-abundancias, armonizaciones y felicidades que son compatibles con la disposición de su
-conciencia del Bien (Dios, Espíritu) realizado. Pero aquello que el Trino representa como
-integridad interna, autonomía espiritual, desarrollo de capacidad y el logro de la habilidad
-debe mantenerse en uso para mayor regeneración. Si tan solo se le resta, éste se agotará; las
-tendencias negativas y congestivas en la personalidad ganarían de ese modo ascendiente
-proporcional en la conciencia.
+Debemos recordar que los aspectos de Trino y Gran Trino indican conciencia regenerada de aquellas esencias de Espíritu puras representadas por los planetas concernidos, cada uno de los cuales es una unidad especializada para la expresión y la reacción. La realización del Espíritu es lo que define nuestra meta evolutiva a través de la experiencia en la sucesión de encarnaciones. La presencia de un Trino o un Gran Trino en un horóscopo natal evidencia un logro relativo de realización Espiritual en el presente ciclo de evolución. Por “Espíritu” se da a entender aquí, los Divinos atributos del Poder, el Amor y la Verdad que, sintetizados en la palabra “Dios”, indican el estado del ser puro. Prescindiendo de los patrones de aspecto, cualquier punto planetario puede estudiarse en concepto de su regencia de Signo, regencia de Casa, Signo de ubicación y Casa de ubicación; estos cuatro factores indican la copia fundamental de la misión de vida evolutiva en términos de los principios y potencias del planeta para la expresión y la reacción. No obstante cuando el planeta está relacionado a otro planeta por el aspecto Trino entonces la indicación es que la persona ha desarrollado una faceta de su naturaleza y habilidades por medio de la regeneración consciente en vidas pasadas y el aspecto ahora representa una realización de Espíritu relativamente desarrollada que ha de ser usada en la vida para transmutar otros factores de la personalidad y para contribuir al progreso espiritual de la humanidad. El logro, por la realización del Poder, trae la responsabilidad de usarlo rectamente y creadoramente. Por la Ley de atracción magnética, la persona que tiene un aspecto Trino en su mapa atraerá naturalmente a su experiencia aquellos refinamientos, abundancias, armonizaciones y felicidades que son compatibles con la disposición de su conciencia del Bien (Dios, Espíritu) realizado. Pero aquello que el Trino representa como integridad interna, autonomía espiritual, desarrollo de capacidad y el logro de la habilidad debe mantenerse en uso para mayor regeneración. Si tan solo se le resta, éste se agotará; las tendencias negativas y congestivas en la personalidad ganarían de ese modo ascendiente proporcional en la conciencia.
 
-Nadie sabe cuantas vidas fueron utilizadas en las cuales se hizo el esfuerzo que está
-indicado ahora como resultado, por el aspecto Trino en un mapa natal. Por lo tanto si su
-mapa contiene siquiera un aspecto Trino sepa que usted se dedicó tal vez por largo tiempo
-al desarrollo y entrenamiento especializados en la Acción y en el reino subjetivo del
-Pensamiento. Ese tiempo y esfuerzo no deben malgastarse en la vida presente permitiendo
-que esos poderes de conciencia “sólo proporcionen placer y comodidad”. Ellos han sido
-alcanzados, como todo lo que es alcanzado, para el uso. En el uso de las cualidades del
-Trino y los poderes del Trino nosotros podernos resolver gran parte de nuestro karma
-oneroso y obscuro y servir así para fomentar la iluminación de cualquiera con quien nos
-encontremos y, en lo oculto, con la humanidad en conjunto. Cuando utilizamos y
-expresamos nuestras habilidades del Trino, nosotros inducimos, por la inspiración del
-ejemplo, el incentivo hacia los esfuerzos espirituales en la parte de otros que pueden estar
-pasando por nuestra misma fase del Sendero. Esto no es para nuestra propia glorificación
-personal, sino para que podamos hacer de los privilegios alcanzados táñales para el poder
-como amor y como verdad.
+Nadie sabe cuantas vidas fueron utilizadas en las cuales se hizo el esfuerzo que está indicado ahora como resultado, por el aspecto Trino en un mapa natal. Por lo tanto si su mapa contiene siquiera un aspecto Trino sepa que usted se dedicó tal vez por largo tiempo al desarrollo y entrenamiento especializados en la Acción y en el reino subjetivo del Pensamiento. Ese tiempo y esfuerzo no deben malgastarse en la vida presente permitiendo que esos poderes de conciencia “sólo proporcionen placer y comodidad”. Ellos han sido alcanzados, como todo lo que es alcanzado, para el uso. En el uso de las cualidades del Trino y los poderes del Trino nosotros podernos resolver gran parte de nuestro karma oneroso y obscuro y servir así para fomentar la iluminación de cualquiera con quien nos encontremos y, en lo oculto, con la humanidad en conjunto. Cuando utilizamos y expresamos nuestras habilidades del Trino, nosotros inducimos, por la inspiración del ejemplo, el incentivo hacia los esfuerzos espirituales en la parte de otros que pueden estar pasando por nuestra misma fase del Sendero. Esto no es para nuestra propia glorificación personal, sino para que podamos hacer de los privilegios alcanzados táñales para el poder como amor y como verdad.
 
-Así como ningún ser humano vive “a solas consigo”, de la misma manera un
-aspecto Trino es significante en un mapa no sólo por la consideración de sus factores
-planetarios particulares y la ubicación del signo por casa, sino en correlación con todo otro
-factor horoscópico. Algunos estudiantes revelan el punto interpretativo que, porque un
-mapa contiene un Trino o Gran Trino “todo ha de resultar bien”. Este punto de vista ignora
-la evaluación del aspecto por la síntesis del mapa completo. Consideremos las posibilidades
-correlativas: Cualquiera de los dos puntos planetarios de un aspecto Trino puede:
+Así como ningún ser humano vive “a solas consigo”, de la misma manera un aspecto Trino es significante en un mapa no sólo por la consideración de sus factores planetarios particulares y la ubicación del signo por casa, sino en correlación con todo otro factor horoscópico. Algunos estudiantes revelan el punto interpretativo que, porque un mapa contiene un Trino o Gran Trino “todo ha de resultar bien”. Este punto de vista ignora la evaluación del aspecto por la síntesis del mapa completo. Consideremos las posibilidades correlativas: Cualquiera de los dos puntos planetarios de un aspecto Trino puede:
 
-No tener otro aspecto; puede tener uno de los otros aspectos posibles; varios
-aspectos de tensión y congestión; varios aspectos de cualidad regeneradora; una variedad de
-ambas clases: puede estar dignificado, cuando está en el Signo de su regencia; puede estar
-“dispositado” por otro planeta, cuando está en el Signo regido por ese planeta; puede ser el
-regente del Ascendente, el “significador personal”; puede ser el regente del Descendente, el
-“foco del complemento”. Si está en el signo de su dignidad él puede ser “la única carta de
-su palo”, no teniendo influencia de “dispositor”, o él puede ser el “dispositor” de varios
-planetas más. Él puede ser el único planeta sin “aflicción” en el mapa; él puede “dispositar”
-o ser “dispositado” por el planeta que está más “afligido”.
+No tener otro aspecto; puede tener uno de los otros aspectos posibles; varios aspectos de tensión y congestión; varios aspectos de cualidad regeneradora; una variedad de ambas clases: puede estar dignificado, cuando está en el Signo de su regencia; puede estar “dispositado” por otro planeta, cuando está en el Signo regido por ese planeta; puede ser el regente del Ascendente, el “significador personal”; puede ser el regente del Descendente, el “foco del complemento”. Si está en el signo de su dignidad él puede ser “la única carta de su palo”, no teniendo influencia de “dispositor”, o él puede ser el “dispositor” de varios planetas más. Él puede ser el único planeta sin “aflicción” en el mapa; él puede “dispositar” o ser “dispositado” por el planeta que está más “afligido”.
 
-La necesidad espiritual y evolutiva más grande para la persona de usar y ampliar el
-uso de un planeta en Trino está indicada si el planeta es también uno de los dos planetas
-que forma el aspecto exacto de cuadratura más cerrado. Lo más próximo al aspecto exacto
-de cuadratura (lo más próximo a 90° de orbe) indica la mayor tendencia a congestión,
-inercia, ignorancia y obscuridad interna. Uno de sus planetas estando a la vez en Trino debe
-usarse alquímicamente para regenerar esa fase de la conciencia representada por el otro
-planeta de la cuadratura. Se ofrece la sugerencia para el desarrollo de fluidez, que usted
-haga una lista de variaciones de Cuadratura y Trino a cada planeta estudiándolas desde el
-punto de vista que considera la Cuadratura como el plan más necesario para la regeneración
-y el Trino como la alquimia espiritual más poderosa. Para la extensión de esta lista usted
-puede combinar los Signos zodiacales y las Casas ambientales con cada tríada planetaria.
-Comience con la forma simple de Cuadratura y de Trino, observe el poder Espiritual
-operando en la Cuadratura por mediación del Trino; el planeta común a ambos aspectos se
-da a conocer de ese modo como un punto de cambio evolutivo. En cada grupo el “planeta
-del punto de viraje” puede ser considerado como la “mente mortal”, con respecto al aspecto
-de Cuadratura; con respecto al aspecto de Trino se convierte - o se revela que es - una
-forma de poder espiritualizador. Este procedimiento es una técnica básica para adquirir
-fluidez en la percepción de potencialidades alquímicas en un horóscopo; proporciona un
-ejercicio espléndidamente provechoso para percibir el recto uso del aspecto de Trino.
-Entonces cuando usted se dedique a analizar horóscopos verdaderos se encontrará mucho
-más perceptivo a las posibilidades de espiritualización y regeneración de las personas que
-usted trate de auxiliar. No importa que otra cosa pueda ser el astrólogo, él debe ser un
-espejo de la Verdad para otros, así como los horóscopos de éstos son espejos mediante los
-cuales la Verdad de sus misiones de vida le es revelada. Es de esta manera que él usa los
-Poderes del Trino de su Identidad de astrólogo en la forma más pura de éstos, y ese uso es
-una misión continua y en expansión eterna. Mientras él busque más sincera y devotamente
-la Verdad a través del ejercicio de la mente y de la conciencia, más Verdad él encontrará en
-los horóscopos y más podrá revelar como orientación iluminadora.
+La necesidad espiritual y evolutiva más grande para la persona de usar y ampliar el uso de un planeta en Trino está indicada si el planeta es también uno de los dos planetas que forma el aspecto exacto de cuadratura más cerrado. Lo más próximo al aspecto exacto de cuadratura (lo más próximo a 90° de orbe) indica la mayor tendencia a congestión, inercia, ignorancia y obscuridad interna. Uno de sus planetas estando a la vez en Trino debe usarse alquímicamente para regenerar esa fase de la conciencia representada por el otro planeta de la cuadratura. Se ofrece la sugerencia para el desarrollo de fluidez, que usted haga una lista de variaciones de Cuadratura y Trino a cada planeta estudiándolas desde el punto de vista que considera la Cuadratura como el plan más necesario para la regeneración y el Trino como la alquimia espiritual más poderosa. Para la extensión de esta lista usted puede combinar los Signos zodiacales y las Casas ambientales con cada tríada planetaria. Comience con la forma simple de Cuadratura y de Trino, observe el poder Espiritual operando en la Cuadratura por mediación del Trino; el planeta común a ambos aspectos se da a conocer de ese modo como un punto de cambio evolutivo. En cada grupo el “planeta del punto de viraje” puede ser considerado como la “mente mortal”, con respecto al aspecto de Cuadratura; con respecto al aspecto de Trino se convierte - o se revela que es - una forma de poder espiritualizador. Este procedimiento es una técnica básica para adquirir fluidez en la percepción de potencialidades alquímicas en un horóscopo; proporciona un ejercicio espléndidamente provechoso para percibir el recto uso del aspecto de Trino. Entonces cuando usted se dedique a analizar horóscopos verdaderos se encontrará mucho más perceptivo a las posibilidades de espiritualización y regeneración de las personas que usted trate de auxiliar. No importa que otra cosa pueda ser el astrólogo, él debe ser un espejo de la Verdad para otros, así como los horóscopos de éstos son espejos mediante los cuales la Verdad de sus misiones de vida le es revelada. Es de esta manera que él usa los Poderes del Trino de su Identidad de astrólogo en la forma más pura de éstos, y ese uso es una misión continua y en expansión eterna. Mientras él busque más sincera y devotamente la Verdad a través del ejercicio de la mente y de la conciencia, más Verdad él encontrará en los horóscopos y más podrá revelar como orientación iluminadora.
 
-Debe prestársele consideración al paralelo entre el aspecto Trino y el punto opuesto
-al punto del ángulo recto de una Cruz en T. Ejemplo: Dos planetas están en trino entre sí a
-los 10° de Tauro y los 10° de Virgo; estos son los signos Fijos y Comunes respectivamente
-de la Trinidad de Tierra - el tercero y Cardinal de los cuales es Capricornio-. En este
-ejemplo la inducción regeneradora ocurre cuando esos grados que están en orbe de 10° de
-Capricornio son activados por tránsitos y progresiones. Tales activaciones dan lugar a una
-“condición de Gran Trino temporero” en el mapa, puesto que el Trino natal Tauro-Virgo es
-activado simpáticamente desde Capricornio. Es en esos horarios que la persona es
-estimulada internamente a extender su realización y el uso del Trino natal y además a
-“realizar la felicidad” de lo que se ha logrado correspondientemente en su ambiente, sus
-relaciones y esfuerzos.
+Debe prestársele consideración al paralelo entre el aspecto Trino y el punto opuesto al punto del ángulo recto de una Cruz en T. Ejemplo: Dos planetas están en trino entre sí a los 10° de Tauro y los 10° de Virgo; estos son los signos Fijos y Comunes respectivamente de la Trinidad de Tierra - el tercero y Cardinal de los cuales es Capricornio-. En este ejemplo la inducción regeneradora ocurre cuando esos grados que están en orbe de 10° de Capricornio son activados por tránsitos y progresiones. Tales activaciones dan lugar a una “condición de Gran Trino temporero” en el mapa, puesto que el Trino natal Tauro-Virgo es activado simpáticamente desde Capricornio. Es en esos horarios que la persona es estimulada internamente a extender su realización y el uso del Trino natal y además a “realizar la felicidad” de lo que se ha logrado correspondientemente en su ambiente, sus relaciones y esfuerzos.
 
-En este ejemplo hay cuatro puntos (o, por orbe, “áreas de grados”) los cuales
-cuando son activados impelen al uso de los poderes Trinos. Estos son los 10° de Acuario y
-Leo (en cuadratura con Tauro) y los 10° de Géminis y Sagitario (en cuadratura con Virgo).
-También, cuando la persona representada por ejemplo se encuentra con alguien que tiene
-esas áreas ocupadas por planetas en su mapa, el poder-Trino de Tauro-Virgo es impelido al
-aprovechamiento por la inducción vibratoria. Si los planetas de la otra persona, en orbe de
-10° de Acuario, Leo, Géminis o Sagitario están aspectados sin regeneración, entonces el
-impulso inducido al uso del Trino Tauro-Virgo alcanza el estado de una prueba espiritual,
-quizás aún la iniciación a través del contacto personal o de la resultante, experiencia de
-relación. Esto es dado como un ejemplo simple para ilustrar un punto importante en la
-correlación de un Trino natal con otros factores horoscópicos. Puede utilizarse como
-“trampolín” en la consideración de un más complejo entretejimiento de fuerza planetaria.
+En este ejemplo hay cuatro puntos (o, por orbe, “áreas de grados”) los cuales cuando son activados impelen al uso de los poderes Trinos. Estos son los 10° de Acuario y Leo (en cuadratura con Tauro) y los 10° de Géminis y Sagitario (en cuadratura con Virgo). También, cuando la persona representada por ejemplo se encuentra con alguien que tiene esas áreas ocupadas por planetas en su mapa, el poder-Trino de Tauro-Virgo es impelido al aprovechamiento por la inducción vibratoria. Si los planetas de la otra persona, en orbe de 10° de Acuario, Leo, Géminis o Sagitario están aspectados sin regeneración, entonces el impulso inducido al uso del Trino Tauro-Virgo alcanza el estado de una prueba espiritual, quizás aún la iniciación a través del contacto personal o de la resultante, experiencia de relación. Esto es dado como un ejemplo simple para ilustrar un punto importante en la correlación de un Trino natal con otros factores horoscópicos. Puede utilizarse como “trampolín” en la consideración de un más complejo entretejimiento de fuerza planetaria.
 
-El principio de la polaridad subjetiva está combinado interesantemente con el poder
-Trino en el siguiente ejemplo: Un mapa natal con ubicaciones planetarias en, o en orbe con
-los 10° de Tauro, Escorpión, Virgo y Piscis. Este patrón revela dos aspectos de Oposición
-en acción recíproca, Tauro-Escorpión y Virgo-Piscis; dos sextiles, Piscis-Tauro y Virgo-
-Escorpión; dos Trinos, Tauro-Virgo y Escorpión-Piscis. Este es un ejemplo
-extremadamente interesante, de alquimia operando en la conciencia humana porque
-trabajan espiritualizaciones relativas (los Trinos) y potencialidades alquímicas (los Sextiles)
-de concierto con las dos Oposiciones de relación recíproca, que representan un patrón doble
-de tensión. En este ejemplo, activaciones en Capricornio formarán trino con los puntos de
-Tierra y sextil con los puntos, de Agua; activaciones en Cáncer formarán trino con los
-puntos de Agua y sextil con los puntos de Tierra: Cuando una activación forma conjunción
-con uno de los planetas de este patrón todo lo implicado en el aspecto de cuatro puntos es
-“encendido” y es bueno estudiar otras activaciones corrientes para determinar lo más
-claramente posible la significación completa de la hora de la conjunción. Las Oposiciones,
-en este tipo de aspecto compuesto “dan a los Trinos y Sextiles algo en que trabajar” y
-aseguran que la vida de la persona contendrá una variedad considerable de experiencia y de
-esfuerzo. La conexión de los cuatro puntos planetarios en la circunferencia del círculo, por
-líneas rectas, resulta en la formación de un rectángulo que incluye dos diámetros de la
-misma manera que la Gran Cruz forma un rectángulo incluyendo dos diámetros, siendo la
-diferencia entre ellos que el primero está modelado por dos Trinos y dos Sextiles y el
-último está modelado por cuatro Cuadraturas. Uno puede suponer que el rectángulo de
-“Trino-Sextil” es evidencia de que una Gran Cruz previa ha sido transmutada por esfuerzos
-regeneradores; o que si los Trinos y Sextiles no son ejercitados en la presente vida, el
-rectángulo presente podría convertirse en una Gran Cruz en el futuro. La inclusión de dos
-aspectos de oposición en estas dos formaciones rectangulares indica que una polarización
-considerable, de un lado o del otro, ha sido efectuada en la presente encarnación.
+El principio de la polaridad subjetiva está combinado interesantemente con el poder Trino en el siguiente ejemplo: Un mapa natal con ubicaciones planetarias en, o en orbe con los 10° de Tauro, Escorpión, Virgo y Piscis. Este patrón revela dos aspectos de Oposición en acción recíproca, Tauro-Escorpión y Virgo-Piscis; dos sextiles, Piscis-Tauro y Virgo- Escorpión; dos Trinos, Tauro-Virgo y Escorpión-Piscis. Este es un ejemplo extremadamente interesante, de alquimia operando en la conciencia humana porque trabajan espiritualizaciones relativas (los Trinos) y potencialidades alquímicas (los Sextiles) de concierto con las dos Oposiciones de relación recíproca, que representan un patrón doble de tensión. En este ejemplo, activaciones en Capricornio formarán trino con los puntos de Tierra y sextil con los puntos, de Agua; activaciones en Cáncer formarán trino con los puntos de Agua y sextil con los puntos de Tierra: Cuando una activación forma conjunción con uno de los planetas de este patrón todo lo implicado en el aspecto de cuatro puntos es “encendido” y es bueno estudiar otras activaciones corrientes para determinar lo más claramente posible la significación completa de la hora de la conjunción. Las Oposiciones, en este tipo de aspecto compuesto “dan a los Trinos y Sextiles algo en que trabajar” y aseguran que la vida de la persona contendrá una variedad considerable de experiencia y de esfuerzo. La conexión de los cuatro puntos planetarios en la circunferencia del círculo, por líneas rectas, resulta en la formación de un rectángulo que incluye dos diámetros de la misma manera que la Gran Cruz forma un rectángulo incluyendo dos diámetros, siendo la diferencia entre ellos que el primero está modelado por dos Trinos y dos Sextiles y el último está modelado por cuatro Cuadraturas. Uno puede suponer que el rectángulo de “Trino-Sextil” es evidencia de que una Gran Cruz previa ha sido transmutada por esfuerzos regeneradores; o que si los Trinos y Sextiles no son ejercitados en la presente vida, el rectángulo presente podría convertirse en una Gran Cruz en el futuro. La inclusión de dos aspectos de oposición en estas dos formaciones rectangulares indica que una polarización considerable, de un lado o del otro, ha sido efectuada en la presente encarnación.
 
-De los aspectos Trinos individuales, en la evaluación pura no hay ninguno que
-represente mayor “provecho en la conciencia” que un aspecto Trino al Sol y especialmente
-si este “Sol planetario” no tiene cuadraturas ni oposiciones. Puede haber representado
-mucho destino obscuro e intenso por la Luna y otros planetas, pero cuando el punto Solar
-está claro y en Trino, la persona tiene acceso a un libre flujo de poder espiritual en su
-conciencia a través de ésta. Si el punto Solar está trino y cuadrado, vemos la evidencia de
-una gran prueba espiritual en esta vida: La conciencia de Poder retada por una tendencia de
-usarla mal o abusarla. Semejante persona haría bien en mantenerse espiritualmente
-armonizada por la concentración o meditación sobre las vidas y caracteres de personas
-eminentes que han tenido gran poder y lo han usado sabiamente, creadoramente y
-espiritualmente.
+De los aspectos Trinos individuales, en la evaluación pura no hay ninguno que represente mayor “provecho en la conciencia” que un aspecto Trino al Sol y especialmente si este “Sol planetario” no tiene cuadraturas ni oposiciones. Puede haber representado mucho destino obscuro e intenso por la Luna y otros planetas, pero cuando el punto Solar está claro y en Trino, la persona tiene acceso a un libre flujo de poder espiritual en su conciencia a través de ésta. Si el punto Solar está trino y cuadrado, vemos la evidencia de una gran prueba espiritual en esta vida: La conciencia de Poder retada por una tendencia de usarla mal o abusarla. Semejante persona haría bien en mantenerse espiritualmente armonizada por la concentración o meditación sobre las vidas y caracteres de personas eminentes que han tenido gran poder y lo han usado sabiamente, creadoramente y espiritualmente.
 
-La correlación con el resto del mapa es especialmente importante en el estudio del
-Gran Trino. Él representa por sí mismo un patrón establecido de la estabilidad y el
-equilibrio internos. Pero si los factores dinámicos del mapa carecen de esfera de aspectos o
-si la Luna, Venus y los Signos de Tierra están poderosos particularmente, entonces el Gran
-Trino puede representar una tendencia de tomar las cosas con mucha calma para el
-progreso. Un mapa estático o inactivo puede representar toda una vida caracterizada por la
-tranquilidad, quizás después de varias vidas de gran esfuerzo y actividad - una especie de
-“Sabático evolutivo” -. Un Gran Trino en un mapa semejante parece decir: “Yo he
-trabajado fuertemente por largo tiempo y ahora voy a disfrutar de reposo por un rato”.
+La correlación con el resto del mapa es especialmente importante en el estudio del Gran Trino. Él representa por sí mismo un patrón establecido de la estabilidad y el equilibrio internos. Pero si los factores dinámicos del mapa carecen de esfera de aspectos o si la Luna, Venus y los Signos de Tierra están poderosos particularmente, entonces el Gran Trino puede representar una tendencia de tomar las cosas con mucha calma para el progreso. Un mapa estático o inactivo puede representar toda una vida caracterizada por la tranquilidad, quizás después de varias vidas de gran esfuerzo y actividad - una especie de “Sabático evolutivo” -. Un Gran Trino en un mapa semejante parece decir: “Yo he trabajado fuertemente por largo tiempo y ahora voy a disfrutar de reposo por un rato”.
 
-Otros tipos de mapas pueden indicar, por correlación de aspecto, que la persona trae
-un Gran Trino para transmutar grandes áreas de destino incumplido o sin regenerar. Él será
-impelido, en este caso a la supervivencia y la resolución, para poner en uso la amplitud
-completa de los poderes y habilidades de su Gran Trino en concepto de su propio progreso
-individual en relación con su raza y la humanidad en general. Una correlación comparativa
-de Saturno con los Factores Dinámicos - el Sol, Marte, Júpiter y Urano - en simpatía o
-contraste con el Gran Trino es importante para este tipo de mapa. Si Saturno es uno de los
-Planetas del Gran Trino entonces los poderes de la paciencia, el espíritu práctico, la
-conciencia y la cabalidad están indicados como parte del equipo espiritualizador. Pero si
-Saturno contrasta al Gran Trino entonces el cuadro representado en general es que
-condiciones viejas, profundamente kármicas deben resolverse por el ejercicio regenerador
-de los poderes del Gran Trino.
+Otros tipos de mapas pueden indicar, por correlación de aspecto, que la persona trae un Gran Trino para transmutar grandes áreas de destino incumplido o sin regenerar. Él será impelido, en este caso a la supervivencia y la resolución, para poner en uso la amplitud completa de los poderes y habilidades de su Gran Trino en concepto de su propio progreso individual en relación con su raza y la humanidad en general. Una correlación comparativa de Saturno con los Factores Dinámicos - el Sol, Marte, Júpiter y Urano - en simpatía o contraste con el Gran Trino es importante para este tipo de mapa. Si Saturno es uno de los Planetas del Gran Trino entonces los poderes de la paciencia, el espíritu práctico, la conciencia y la cabalidad están indicados como parte del equipo espiritualizador. Pero si Saturno contrasta al Gran Trino entonces el cuadro representado en general es que condiciones viejas, profundamente kármicas deben resolverse por el ejercicio regenerador de los poderes del Gran Trino.
 
 ### <h3 id="chapter-5">Capítulo V: Los Aspectos Variables</h3>
 
-Además de los cinco patrones de aspecto mayores (conjunción, sextil, cuadratura,
-trino y oposición) existen otros tres con los cuales debe estar familiarizado el estudiante de
-astrología para una evaluación más completa de los horóscopos. Estos tres son el semi-
-sextil, la semi-cuadratura y el quincunce. El semi-sextil y la semi-cuadratura son aspectos
-“jóvenes”. El quincunce es particularmente importante desde un punto de vista alquímico;
-es el más variable de todos los patrones de aspecto y es de importancia primordial para todo
-estudio astrológico perteneciente a la “inercia contra la propulsión” en la conciencia. Es el
-patrón de aspecto único que por si mismo ilustra la potencialidad alquímica que es
-estimulada de maneras variables por activaciones rítmicas.
+Además de los cinco patrones de aspecto mayores (conjunción, sextil, cuadratura, trino y oposición) existen otros tres con los cuales debe estar familiarizado el estudiante de astrología para una evaluación más completa de los horóscopos. Estos tres son el semi- sextil, la semi-cuadratura y el quincunce. El semi-sextil y la semi-cuadratura son aspectos “jóvenes”. El quincunce es particularmente importante desde un punto de vista alquímico; es el más variable de todos los patrones de aspecto y es de importancia primordial para todo estudio astrológico perteneciente a la “inercia contra la propulsión” en la conciencia. Es el patrón de aspecto único que por si mismo ilustra la potencialidad alquímica que es estimulada de maneras variables por activaciones rítmicas.
 
-Primero, consideraremos el verdadero significado de “patrón de aspecto”. El Sol, la
-Luna y los planetas - como “puntos planetarios” - representan las facultades y poderes para
-la expresión y la reacción en todos los planos del funcionamiento humano. Como tales,
-ellos son los centralizadores expresivos de los signos zodiacales. Para la claridad en la
-escritura y la lectura nosotros indicamos sus símbolos dentro del círculo del horóscopo;
-pero realmente estos símbolos deben ser localizados exactamente en la circunferencia del
-círculo porque el estudio de la astrología considera la posición zodiacal de los planetas tal
-como se ven desde la Tierra. Si fuera posible hacerlo los aspectos planetarios serían
-representados por líneas rectas trazadas desde el centro del círculo horoscópico a los puntos
-planetarios indicados exactamente en la circunferencia. El grado numérico del ángulo
-formado en el centro por cualesquiera dos líneas planetarias es el aspecto planetario.
-Podemos considerar válido un orbe de ocho grados para los cinco patrones, de aspecto
-mayores, seis grados para el quincunce y un máximo de tres grados para los aspectos de
-semi-sextil y semi-cuadratura.
+Primero, consideraremos el verdadero significado de “patrón de aspecto”. El Sol, la Luna y los planetas - como “puntos planetarios” - representan las facultades y poderes para la expresión y la reacción en todos los planos del funcionamiento humano. Como tales, ellos son los centralizadores expresivos de los signos zodiacales. Para la claridad en la escritura y la lectura nosotros indicamos sus símbolos dentro del círculo del horóscopo; pero realmente estos símbolos deben ser localizados exactamente en la circunferencia del círculo porque el estudio de la astrología considera la posición zodiacal de los planetas tal como se ven desde la Tierra. Si fuera posible hacerlo los aspectos planetarios serían representados por líneas rectas trazadas desde el centro del círculo horoscópico a los puntos planetarios indicados exactamente en la circunferencia. El grado numérico del ángulo formado en el centro por cualesquiera dos líneas planetarias es el aspecto planetario. Podemos considerar válido un orbe de ocho grados para los cinco patrones, de aspecto mayores, seis grados para el quincunce y un máximo de tres grados para los aspectos de semi-sextil y semi-cuadratura.
 
-Imagínese que usted está parado en el centro exacto de su habitación. En el piso, a
-su alrededor es trazado un círculo grande del cual usted es el centro. En la circunferencia de
-este círculo se ponen los símbolos zodiacales que están indicados en las cúspides de su
-mapa natal. Usted mira directo hacia el norte - a la cúspide de su cuarta casa; usted da un
-cuarto de vuelta a la derecha - y mira hacia su Ascendente; otro cuarto de vuelta hacia la
-derecha para mirar hacia su Medio Cielo; otra vuelta a la derecha para mirar hacia su
-Descendente, cúspide de su séptima casa; otra vuelta más de un cuarto hacia la derecha para
-volver a enfrentarse con su cuarta cúspide. Se trazan líneas rectas en el piso desde el centro
-exacto en que usted está parado a cada uno de los diez puntos en la circunferencia
-representando las posiciones de sus puntos planetarios. Las líneas que están conectadas a
-cualesquiera dos puntos planetarios que indican un aspecto de cuadratura formarán
-exactamente o aproximadamente un ángulo de noventa grados en el centro donde usted
-está; cada aspecto trino revelará un ángulo de ciento veinte grados y así sucesivamente. A
-medida que usted se vuelve para ver cada uno de sus aspectos en sucesión, usted encuentra
-un “punto de vista” diferente de su mapa y un aspecto planetario en su mapa significa
-“punto de vista en la conciencia”. A medida que usted mira cada aspecto que incluye por
-ejemplo su Marte, usted tiene que voltearse en el centro donde usted está parado. En la
-vida y la experiencia cuando usted está obligado a tratar con cualidades en usted mismo
-relativas al principio de Marte, usted tiene que ajustar su punto de vista a los eventos, las
-personas, los ambientes y las condiciones subjetivas. Si su hogar es el centro nuclear de su
-ambiente de vida, recuerde que cuando mira hacia afuera desde cada ventana de su casa
-usted percibe un aspecto diferente de su ambiente exterior; en otras palabras, usted ve su
-ambiente exterior desde un punto de vista un poquito diferente a medida que usted mira
-hacia afuera a través de cada una de las diferentes ventanas.
+Imagínese que usted está parado en el centro exacto de su habitación. En el piso, a su alrededor es trazado un círculo grande del cual usted es el centro. En la circunferencia de este círculo se ponen los símbolos zodiacales que están indicados en las cúspides de su mapa natal. Usted mira directo hacia el norte - a la cúspide de su cuarta casa; usted da un cuarto de vuelta a la derecha - y mira hacia su Ascendente; otro cuarto de vuelta hacia la derecha para mirar hacia su Medio Cielo; otra vuelta a la derecha para mirar hacia su Descendente, cúspide de su séptima casa; otra vuelta más de un cuarto hacia la derecha para volver a enfrentarse con su cuarta cúspide. Se trazan líneas rectas en el piso desde el centro exacto en que usted está parado a cada uno de los diez puntos en la circunferencia representando las posiciones de sus puntos planetarios. Las líneas que están conectadas a cualesquiera dos puntos planetarios que indican un aspecto de cuadratura formarán exactamente o aproximadamente un ángulo de noventa grados en el centro donde usted está; cada aspecto trino revelará un ángulo de ciento veinte grados y así sucesivamente. A medida que usted se vuelve para ver cada uno de sus aspectos en sucesión, usted encuentra un “punto de vista” diferente de su mapa y un aspecto planetario en su mapa significa “punto de vista en la conciencia”. A medida que usted mira cada aspecto que incluye por ejemplo su Marte, usted tiene que voltearse en el centro donde usted está parado. En la vida y la experiencia cuando usted está obligado a tratar con cualidades en usted mismo relativas al principio de Marte, usted tiene que ajustar su punto de vista a los eventos, las personas, los ambientes y las condiciones subjetivas. Si su hogar es el centro nuclear de su ambiente de vida, recuerde que cuando mira hacia afuera desde cada ventana de su casa usted percibe un aspecto diferente de su ambiente exterior; en otras palabras, usted ve su ambiente exterior desde un punto de vista un poquito diferente a medida que usted mira hacia afuera a través de cada una de las diferentes ventanas.
 
-Lo mismo ocurre con su mapa; cada relación planetaria representa una cualidad de
-punto de vista centralizada en su conciencia, por medio de la cual usted tiende a considerar
-e interpretar los principios de vida. Regenerar su punto de vista para que usted pueda
-apreciar e interpretar su experiencia más verídicamente correspondería a la acción de lavar
-perfectamente las ventanas de su casa para poder ver usted su ambiente exterior sin
-impedimento ni obstrucción. Por la comprensión de las significaciones de sus aspectos
-planetarios usted puede usar inteligentemente sus horarios para el ejercicio alquímico y los
-esfuerzos regeneradores. Hay horarios periódicos durante toda su vida cuando cada aspecto
-planetario es acentuado por los diferentes tipos de estímulo y de ignición para que usted
-tenga las oportunidades de “lavar las ventanas de su alma”. Este “lavado” es regeneración
-de conciencia, la alquimia universal del espíritu.
+Lo mismo ocurre con su mapa; cada relación planetaria representa una cualidad de punto de vista centralizada en su conciencia, por medio de la cual usted tiende a considerar e interpretar los principios de vida. Regenerar su punto de vista para que usted pueda apreciar e interpretar su experiencia más verídicamente correspondería a la acción de lavar perfectamente las ventanas de su casa para poder ver usted su ambiente exterior sin impedimento ni obstrucción. Por la comprensión de las significaciones de sus aspectos planetarios usted puede usar inteligentemente sus horarios para el ejercicio alquímico y los esfuerzos regeneradores. Hay horarios periódicos durante toda su vida cuando cada aspecto planetario es acentuado por los diferentes tipos de estímulo y de ignición para que usted tenga las oportunidades de “lavar las ventanas de su alma”. Este “lavado” es regeneración de conciencia, la alquimia universal del espíritu.
 
-El aspecto de semi-sextil es exactamente lo que el término implica: Medio sextil. Su
-símbolo es la horizontal y dos diagonales superiores del aspecto sextil, semejante a una “V”
-colocada sobre una línea horizontal. Debido a que todo en la vida parte de un proceso de
-germinación, todos los patrones de aspecto comienzan con la fusión vibratoria que
-llamamos conjunción; de esta unificación vibratoria o “unión de fuerzas” los planetas
-registran los diferentes patrones de aspecto de vida en vida de acuerdo con la forma en que
-usted use su conciencia y su mente. El semi-sextil es la promesa del sextil que en cambio es
-el mecanismo para la generación del trino; es como la delicada hoja verde brotada de la
-rama del árbol durante la primavera, la promesa de florecimiento y fruto por venir. El
-registró de un semi-sextil en su mapa indica que ya usted ha comenzado en el pasado un
-programa regenerador que concierne a su conciencia de los principios planetarios
-envueltos. Sepa que le corresponde a usted tratar esa “delicada hoja verde” con cuidado,
-cultivar sus cualidades con atención y paciencia y hacerse .constantemente más y más
-consciente de sus indicaciones en su vida. Déle consideración meditativa espiritual a los
-principios representados por los planetas concernidos y los signos que ellos rigen; habiendo
-hecho ya el comienzo regenerador, usted deseará naturalmente perseverar en la percepción
-de los valores espirituales indicados como potencialidad por este aspecto.
+El aspecto de semi-sextil es exactamente lo que el término implica: Medio sextil. Su símbolo es la horizontal y dos diagonales superiores del aspecto sextil, semejante a una “V” colocada sobre una línea horizontal. Debido a que todo en la vida parte de un proceso de germinación, todos los patrones de aspecto comienzan con la fusión vibratoria que llamamos conjunción; de esta unificación vibratoria o “unión de fuerzas” los planetas registran los diferentes patrones de aspecto de vida en vida de acuerdo con la forma en que usted use su conciencia y su mente. El semi-sextil es la promesa del sextil que en cambio es el mecanismo para la generación del trino; es como la delicada hoja verde brotada de la rama del árbol durante la primavera, la promesa de florecimiento y fruto por venir. El registró de un semi-sextil en su mapa indica que ya usted ha comenzado en el pasado un programa regenerador que concierne a su conciencia de los principios planetarios envueltos. Sepa que le corresponde a usted tratar esa “delicada hoja verde” con cuidado, cultivar sus cualidades con atención y paciencia y hacerse .constantemente más y más consciente de sus indicaciones en su vida. Déle consideración meditativa espiritual a los principios representados por los planetas concernidos y los signos que ellos rigen; habiendo hecho ya el comienzo regenerador, usted deseará naturalmente perseverar en la percepción de los valores espirituales indicados como potencialidad por este aspecto.
 
-Recuerde que el semi-sextil, en comparación con otros aspectos, es como, un niño
-pequeño en relación con niños mayores, adolescentes, jóvenes, padres y viejos. Es
-simplemente impresionable como lo es el niño, él puede ser fácilmente frustrado si no se
-cuida y atiende con comprensión y consideración. Con el cuidado espiritual y una paciencia
-firme es posible que en el curso de una vida la persona que “vigila su semi-sextil” pueda
-desenvolver un grado de comprensión espiritual o de conciencia que corresponda a un
-aspecto de sextil entre dos planetas. En otras palabras, el horóscopo de su siguiente vida
-registrará el aspecto de sextil. Esto es comparable a observar la primera” indicación del
-florecimiento durante el curso de un día - la evidencia inequívoca que la floración ha
-aparecido cuando esta mañana sólo había la hoja -. Usted se da cuenta por primera vez de
-su ser divino en una nueva fase de evolución por medio de su semi-sextil - la niñez de su
-“Cristo Interno” exteriorizada a través de su conciencia -. Nosotros debemos a nuestros
-semi-sextiles la misma consideración que damos a todo lo que es joven, delicado e
-impresionable; su crecimiento debe ser atendido cuidadosamente tal vez por largo tiempo a
-través de muchas etapas de desarrollo. Pero la meta es la fruición fundamental que nosotros
-identificamos astrológicamente como el aspecto trino - el “punto de vista” por el cual son
-comprendidos el Poder, el Amor y la Verdad, en concepto de equilibrio interno, belleza,
-capacidad, afluencia y regocijo -. El aspecto exacto de semi-sextil es de treinta grados; por
-orbe de veintisiete a treintitrés grados. Es interesante notar que las cúspides de las doce
-casas están en sucesión de treinta grados como están los primeros grados de cada signo
-zodiacal.
+Recuerde que el semi-sextil, en comparación con otros aspectos, es como, un niño pequeño en relación con niños mayores, adolescentes, jóvenes, padres y viejos. Es simplemente impresionable como lo es el niño, él puede ser fácilmente frustrado si no se cuida y atiende con comprensión y consideración. Con el cuidado espiritual y una paciencia firme es posible que en el curso de una vida la persona que “vigila su semi-sextil” pueda desenvolver un grado de comprensión espiritual o de conciencia que corresponda a un aspecto de sextil entre dos planetas. En otras palabras, el horóscopo de su siguiente vida registrará el aspecto de sextil. Esto es comparable a observar la primera” indicación del florecimiento durante el curso de un día - la evidencia inequívoca que la floración ha aparecido cuando esta mañana sólo había la hoja -. Usted se da cuenta por primera vez de su ser divino en una nueva fase de evolución por medio de su semi-sextil - la niñez de su “Cristo Interno” exteriorizada a través de su conciencia -. Nosotros debemos a nuestros semi-sextiles la misma consideración que damos a todo lo que es joven, delicado e impresionable; su crecimiento debe ser atendido cuidadosamente tal vez por largo tiempo a través de muchas etapas de desarrollo. Pero la meta es la fruición fundamental que nosotros identificamos astrológicamente como el aspecto trino - el “punto de vista” por el cual son comprendidos el Poder, el Amor y la Verdad, en concepto de equilibrio interno, belleza, capacidad, afluencia y regocijo -. El aspecto exacto de semi-sextil es de treinta grados; por orbe de veintisiete a treintitrés grados. Es interesante notar que las cúspides de las doce casas están en sucesión de treinta grados como están los primeros grados de cada signo zodiacal.
 
-El aspecto de semi-cuadratura (exacto, cuarenta y cinco grados; por orbe de
-cuarentidós a cuarentiocho grados) requiere alguna consideración geocéntrica. Visto desde
-la Tierra la semi-cuadratura es el mayor de los aspectos válidos que pueden formarse entre
-Venus y el Sol. El Sol, la Luna y todos los otros planetas pueden formar la semi-cuadratura
-entre si. (El sextil es el mayor aspecto geocéntrico posible entre Mercurio y Venus), La
-semi-cuadratura - la mitad de una cuadratura - es una advertencia; es un “aspecto joven”
-como el semi-sextil. La diminuta cavidad en un diente, la cual si no se corrige se convierte
-con el tiempo en una grave condición dental, o la primera evidencia de descomposición en
-el árbol, que si se extiende lo mata, son buenas analogías que sirven de ejemplo. La semi-
-cuadratura en el horóscopo natal prueba que la persona ha comenzado la congestión en
-aquellas percepciones de principio espiritual representadas por los planetas concernidos. Es
-como si la persona en el pasado tratara de experimentar con la vida a través de la ignorancia
-de aquello con que bregaba, y ahora la semi-cuadratura levanta un dedo de advertencia y
-dice: “Pare, Mire y Atienda”. La vieja máxima: “Una puntada a tiempo salva muchas”, es
-aplicable a las indicaciones de la semi-cuadratura; zurza ese pequeño agujero en la media
-de su alma ahora - en esta vida - o de lo contrario usted se expone a perderla. La semi-
-cuadratura es evidencia de tensión en aumento, la aparición en el horizonte de la nube que
-puede traer lluvia y echar a perder sus planes de gira campestre. Usted no puede hacer nada
-con la nube de la tormenta, pero si no quiere exponerse a una experiencia de decepción
-usted pospondrá sus planes de gira hasta que se asegure de cómo estará el tiempo. En otras
-palabras, usted no seguirá sus planes obstinadamente cuando tiene la evidencia de que la
-posposición será una medida más práctica. La experiencia de sentir una progresión
-creciente de miedo o de ira es semejante a la significación de la semi-cuadratura; mientras
-la emoción está aún intensificándose puede ser abordada y controlada o transmutada, pero
-después que alcanza cierto grado de intensidad, la potencia astral abruma su poder mental
-directivo y usted se sumerge en una experiencia caracterizada por dolor y sufrimiento
-considerables. Si usted tiene la ocasión de tratar con un mapa que contiene varias semi-
-cuadraturas tenga en mente como una clave interpretadora la experimentación pasada a
-través de la ignorancia; semejante registro indica que esta vida presente contendrá para la
-persona muchas oportunidades para aprender de la evidencia de tendencias negativas
-instintivas, pero que deben ser tratadas ahora de manera regeneradora o sufrir graves
-consecuencias en el futuro. Por supuesto que dos planetas de cualquier aspecto de semi-
-cuadratura pueden estar aspectados de manera regeneradora en muchas formas por otros
-puntos en el mapa, pero la semi-cuadratura registra una tendencia negativa. Es necesario
-comprenderlo para que la persona pueda saber - en esta vida presente - con lo que está
-tratando dentro de si misma, en vez de continuar en el sendero de la ignorancia y la
-inconsciencia que pueden haber caracterizado su experiencia en el pasado en ciertas
-formas. Como quiera que usted como delineador astrológico representa para el individuo un
-símbolo personificado de conciencia y conocimiento, estudie las semi-cuadraturas por
-medio de una correlación cuidadosa con toda indicación regeneradora en el mapa - desde
-semi-sextil a trino - que están implicadas por los planetas en semi-cuadratura. Mire, con los
-ojos de su Espíritu esa semi-cuadratura como si usted fuera un dentista estudiando una
-pequeña cavidad tal como aparece en una radiografía; su trabajo como delineador es
-comprender esa advertencia lo más completamente posible.
+El aspecto de semi-cuadratura (exacto, cuarenta y cinco grados; por orbe de cuarentidós a cuarentiocho grados) requiere alguna consideración geocéntrica. Visto desde la Tierra la semi-cuadratura es el mayor de los aspectos válidos que pueden formarse entre Venus y el Sol. El Sol, la Luna y todos los otros planetas pueden formar la semi-cuadratura entre si. (El sextil es el mayor aspecto geocéntrico posible entre Mercurio y Venus), La semi-cuadratura - la mitad de una cuadratura - es una advertencia; es un “aspecto joven” como el semi-sextil. La diminuta cavidad en un diente, la cual si no se corrige se convierte con el tiempo en una grave condición dental, o la primera evidencia de descomposición en el árbol, que si se extiende lo mata, son buenas analogías que sirven de ejemplo. La semi- cuadratura en el horóscopo natal prueba que la persona ha comenzado la congestión en aquellas percepciones de principio espiritual representadas por los planetas concernidos. Es como si la persona en el pasado tratara de experimentar con la vida a través de la ignorancia de aquello con que bregaba, y ahora la semi-cuadratura levanta un dedo de advertencia y dice: “Pare, Mire y Atienda”. La vieja máxima: “Una puntada a tiempo salva muchas”, es aplicable a las indicaciones de la semi-cuadratura; zurza ese pequeño agujero en la media de su alma ahora - en esta vida - o de lo contrario usted se expone a perderla. La semi- cuadratura es evidencia de tensión en aumento, la aparición en el horizonte de la nube que puede traer lluvia y echar a perder sus planes de gira campestre. Usted no puede hacer nada con la nube de la tormenta, pero si no quiere exponerse a una experiencia de decepción usted pospondrá sus planes de gira hasta que se asegure de cómo estará el tiempo. En otras palabras, usted no seguirá sus planes obstinadamente cuando tiene la evidencia de que la posposición será una medida más práctica. La experiencia de sentir una progresión creciente de miedo o de ira es semejante a la significación de la semi-cuadratura; mientras la emoción está aún intensificándose puede ser abordada y controlada o transmutada, pero después que alcanza cierto grado de intensidad, la potencia astral abruma su poder mental directivo y usted se sumerge en una experiencia caracterizada por dolor y sufrimiento considerables. Si usted tiene la ocasión de tratar con un mapa que contiene varias semi- cuadraturas tenga en mente como una clave interpretadora la experimentación pasada a través de la ignorancia; semejante registro indica que esta vida presente contendrá para la persona muchas oportunidades para aprender de la evidencia de tendencias negativas instintivas, pero que deben ser tratadas ahora de manera regeneradora o sufrir graves consecuencias en el futuro. Por supuesto que dos planetas de cualquier aspecto de semi- cuadratura pueden estar aspectados de manera regeneradora en muchas formas por otros puntos en el mapa, pero la semi-cuadratura registra una tendencia negativa. Es necesario comprenderlo para que la persona pueda saber - en esta vida presente - con lo que está tratando dentro de si misma, en vez de continuar en el sendero de la ignorancia y la inconsciencia que pueden haber caracterizado su experiencia en el pasado en ciertas formas. Como quiera que usted como delineador astrológico representa para el individuo un símbolo personificado de conciencia y conocimiento, estudie las semi-cuadraturas por medio de una correlación cuidadosa con toda indicación regeneradora en el mapa - desde semi-sextil a trino - que están implicadas por los planetas en semi-cuadratura. Mire, con los ojos de su Espíritu esa semi-cuadratura como si usted fuera un dentista estudiando una pequeña cavidad tal como aparece en una radiografía; su trabajo como delineador es comprender esa advertencia lo más completamente posible.
 
-El quincunce (exacto 150°, cinco signos; por orbe 144° a 156°) es un aspecto
-astrológico fascinador; es como una “chaqueta de muchos colores”, un calidoscopio y un
-camaleón todo en uno. Se han inventado varios símbolos gráficos para el quincunce; el
-autor sugiere el siguiente: La combinación del símbolo del aspecto semi-sextil con una
-vertical hacia abajo desde el centro. Estas líneas corresponderían a las cúspides de Aries,
-Acuario, Sagitario, Libra y Cáncer del Gran Mándala, y el cuadro que presenta sugiere una
-flor abierta sobre un tallo vertical. El quincunce es el único aspecto que representa la
-alquimia dentro de sí mismo porque los 150° de su esfera exacta están enfocados
-principalmente por los 90° de la cuadratura y los 60° del textil. También implica las
-posibilidades del siguiente orden de aspectos: Cinco semi-sextiles, semi-sextil y trino, trino
-y semi-sextil, sextil y cuadratura, cuadratura y sextil. La siguiente fórmula puede ser
-aplicada a cada signo zodiacal como punto de arranque:
+El quincunce (exacto 150°, cinco signos; por orbe 144° a 156°) es un aspecto astrológico fascinador; es como una “chaqueta de muchos colores”, un calidoscopio y un camaleón todo en uno. Se han inventado varios símbolos gráficos para el quincunce; el autor sugiere el siguiente: La combinación del símbolo del aspecto semi-sextil con una vertical hacia abajo desde el centro. Estas líneas corresponderían a las cúspides de Aries, Acuario, Sagitario, Libra y Cáncer del Gran Mándala, y el cuadro que presenta sugiere una flor abierta sobre un tallo vertical. El quincunce es el único aspecto que representa la alquimia dentro de sí mismo porque los 150° de su esfera exacta están enfocados principalmente por los 90° de la cuadratura y los 60° del textil. También implica las posibilidades del siguiente orden de aspectos: Cinco semi-sextiles, semi-sextil y trino, trino y semi-sextil, sextil y cuadratura, cuadratura y sextil. La siguiente fórmula puede ser aplicada a cada signo zodiacal como punto de arranque:
 
-Aries quincunce a Virgo. Aries semi-sextil a Tauro, Tauro trino a Virgo. Aries
-trino a Leo, Leo semi-sextil a Virgo. Aries sextil a Géminis, Géminis cuadrado a Virgo.
-Aries cuadrado a Cáncer, Cáncer sextil a Virgo. Semi-sextiles: 'Aries-Tauro-Géminis-
-Cáncer-Leo-Virgo.
+Aries quincunce a Virgo. Aries semi-sextil a Tauro, Tauro trino a Virgo. Aries trino a Leo, Leo semi-sextil a Virgo. Aries sextil a Géminis, Géminis cuadrado a Virgo. Aries cuadrado a Cáncer, Cáncer sextil a Virgo. Semi-sextiles: 'Aries-Tauro-Géminis- Cáncer-Leo-Virgo.
 
-Otra fórmula que representa el quincunce dentro del Gran Mándala es ésta: Aries
-quincunce a Virgo. Escorpión quincunce a Aries. Virgo sextil a Escorpión.
+Otra fórmula que representa el quincunce dentro del Gran Mándala es ésta: Aries quincunce a Virgo. Escorpión quincunce a Aries. Virgo sextil a Escorpión.
 
-Dos aspectos de quincunce que incluyen un signo zodiacal particular suman el
-zodíaco entero cuando se le añaden los 60° del sextil. Está demostrado que toda “variación”
-de alquimia representada por el contenido de cada aspecto de 150° tiene regeneración
-autodirigida como nota clave. En otras palabras el grado de realización de perfección
-implicado como potencialidad por el quincunce se hace posible solamente a través de la
-regeneración propia. Se sugiere particularmente a aquellos estudiantes que aún no han
-“hecho mucho” con el aspecto de quincunce, que preparen una tabulación completa de las
-fórmulas zodiacales antes mencionadas para aprendérselas de memoria y usarlas en el
-análisis de los horóscopos. (De tal modo está prometida una considerable fluidez mental).
-Se requiere una comprensión mental incisiva y fluente de los factores zodiacales para el
-estudio o interpretación para el aspecto de quincunce debido a la gran variación que éste
-implica. Concentrar su conocimiento y percepción del quincunce es ampliar
-automáticamente su fluidez con todos los otros patrones de aspecto.
+Dos aspectos de quincunce que incluyen un signo zodiacal particular suman el zodíaco entero cuando se le añaden los 60° del sextil. Está demostrado que toda “variación” de alquimia representada por el contenido de cada aspecto de 150° tiene regeneración autodirigida como nota clave. En otras palabras el grado de realización de perfección implicado como potencialidad por el quincunce se hace posible solamente a través de la regeneración propia. Se sugiere particularmente a aquellos estudiantes que aún no han “hecho mucho” con el aspecto de quincunce, que preparen una tabulación completa de las fórmulas zodiacales antes mencionadas para aprendérselas de memoria y usarlas en el análisis de los horóscopos. (De tal modo está prometida una considerable fluidez mental). Se requiere una comprensión mental incisiva y fluente de los factores zodiacales para el estudio o interpretación para el aspecto de quincunce debido a la gran variación que éste implica. Concentrar su conocimiento y percepción del quincunce es ampliar automáticamente su fluidez con todos los otros patrones de aspecto.
 
-Para el uso astrológico práctico el quincunce es muy importante en el estudio de los
-horarios. Como aspecto natal él representa una potencialidad de variación alquímica;
-cuando es estudiado en términos de activaciones él revela un énfasis periódico continuo que
-alterna los factores aún por regenerarse con los factores relativamente regenerados. Un
-ejemplo simple: El Sol en 15° de Aries, quincunce con Saturno a 15° de Virgo; 15° de
-Géminis: sextil al Sol, cuadrado con Saturno; 15° de Cáncer: cuadrado al Sol, sextil con
-Saturno; 15° de Saturno, trino al Sol, cuadrado con Saturno; 15° de Capricornio: cuadrado
-al Sol, trino con Saturno. Los 150° de cada quincunce exacto están complementados
-zodiacalmente por los restantes 210° que incluyen un arreglo doble de cuadratura y trino a
-los planetas natales en quincunce. Dentro del área de 150° deben emplearse poderes
-sextilicos para regenerar las tendencias de la cuadratura; en el área de 210° se usan poderes
-trinos para transmutar las tendencias de la cuadratura. En el ejemplo anterior del Sol y
-Saturno aparece que el desenvolvimiento del poder y la habilidad ejecutivos
-espiritualizados es el propósito del quincunce por experiencias y entrenamiento en liderato,
-autonomía personal, cumplimiento de responsabilidad en el trabajo y el desarrollo del poder
-de la paciencia. Combinando las palabras-clave espirituales esenciales pertenecientes a los.
-dos planetas de un aspecto de quincunce, el propósito espiritual o evolutivo de los
-ejercicios alquímicos puede ser discernido. Desde este acercamiento puede verse
-claramente que el quincunce no es realmente un aspecto menor en lo más mínimo porque él
-es un registro de oportunidad en esta vida para efectuar transmutaciones muy
-significativas en la conciencia. Es como la armazón de un edificio que dependiendo de lo
-que se ponga en él y como se utilice ese equipo, puede convertirse en una choza o en una
-hermosa casa.
+Para el uso astrológico práctico el quincunce es muy importante en el estudio de los horarios. Como aspecto natal él representa una potencialidad de variación alquímica; cuando es estudiado en términos de activaciones él revela un énfasis periódico continuo que alterna los factores aún por regenerarse con los factores relativamente regenerados. Un ejemplo simple: El Sol en 15° de Aries, quincunce con Saturno a 15° de Virgo; 15° de Géminis: sextil al Sol, cuadrado con Saturno; 15° de Cáncer: cuadrado al Sol, sextil con Saturno; 15° de Saturno, trino al Sol, cuadrado con Saturno; 15° de Capricornio: cuadrado al Sol, trino con Saturno. Los 150° de cada quincunce exacto están complementados zodiacalmente por los restantes 210° que incluyen un arreglo doble de cuadratura y trino a los planetas natales en quincunce. Dentro del área de 150° deben emplearse poderes sextilicos para regenerar las tendencias de la cuadratura; en el área de 210° se usan poderes trinos para transmutar las tendencias de la cuadratura. En el ejemplo anterior del Sol y Saturno aparece que el desenvolvimiento del poder y la habilidad ejecutivos espiritualizados es el propósito del quincunce por experiencias y entrenamiento en liderato, autonomía personal, cumplimiento de responsabilidad en el trabajo y el desarrollo del poder de la paciencia. Combinando las palabras-clave espirituales esenciales pertenecientes a los. dos planetas de un aspecto de quincunce, el propósito espiritual o evolutivo de los ejercicios alquímicos puede ser discernido. Desde este acercamiento puede verse claramente que el quincunce no es realmente un aspecto menor en lo más mínimo porque él es un registro de oportunidad en esta vida para efectuar transmutaciones muy significativas en la conciencia. Es como la armazón de un edificio que dependiendo de lo que se ponga en él y como se utilice ese equipo, puede convertirse en una choza o en una hermosa casa.
 
 ### <h3 id="chapter-6">Capítulo VI: Las Intercepciones</h3>
 
-La astrología, en su forma más simple es complejidad acumulada sobre
-complejidad. Sin embargo, según el parecer de muchos estudiantes los problemas de las
-intercepciones demuestran ser una complicación de cualidad agobiante. Este material se
-ofrece como pábulo para el pensamiento con la intención de esclarecer el propósito y el
-significado de la ubicación de los signos y planetas en tal forma que su “área” vibratoria no
-alcance las cúspides de las casas. Las “intercepciones” pueden significar “pena en
-nosotros” hasta que percibamos la posibilidad de una significación filosófica detrás de este
-patrón particular. Cuando la percibimos estamos en buenas vías de lograr un acercamiento
-organizado para su interpretación.
+La astrología, en su forma más simple es complejidad acumulada sobre complejidad. Sin embargo, según el parecer de muchos estudiantes los problemas de las intercepciones demuestran ser una complicación de cualidad agobiante. Este material se ofrece como pábulo para el pensamiento con la intención de esclarecer el propósito y el significado de la ubicación de los signos y planetas en tal forma que su “área” vibratoria no alcance las cúspides de las casas. Las “intercepciones” pueden significar “pena en nosotros” hasta que percibamos la posibilidad de una significación filosófica detrás de este patrón particular. Cuando la percibimos estamos en buenas vías de lograr un acercamiento organizado para su interpretación.
 
-Primero, un análisis de la estructura horoscópica. Use una rueda de doce casas;
-conecte los pares de cúspides por líneas rectas como sigue:
+Primero, un análisis de la estructura horoscópica. Use una rueda de doce casas; conecte los pares de cúspides por líneas rectas como sigue:
 
-Cuatro horizontales - paralelas al diámetro horizontal: cúspides de undécima-
-novena, duodécima-octava, segunda-sexta y tercera-quinta.
+Cuatro horizontales - paralelas al diámetro horizontal: cúspides de undécima- novena, duodécima-octava, segunda-sexta y tercera-quinta.
 
-Cuatro verticales - paralelas al diámetro vertical: cúspides de duodécima-segunda.-
-undécima-tercera, novena-quinta y octava-sexta.
+Cuatro verticales - paralelas al diámetro vertical: cúspides de duodécima-segunda.- undécima-tercera, novena-quinta y octava-sexta.
 
-El mándala tal como aparece ahora simboliza la simetría de la estructura astrológica.
-Estas líneas conectan puntos de la circunferencia de la rueda que están equidistantes de las
-líneas de la gran estructura de los diámetros horizontal y vertical. Estas, en cambio, forman
-la combinación de las líneas de fuerza que son básicas para los contenidos de la rueda.
-Estos dos diámetros simbolizan la cruz de la encarnación. Ahora forme un cuadrado
-simétrico conectando estos “puntos cardinales” por líneas rectas. Este cuadrado es la
-abstracción de la estructura de relación, nuestro “campo de experiencias” por el cual
-desenvolvemos nuestras potencialidades en la encarnación. Haga otro cuadrado simétrico
-conectando los puntos medios de la segunda, quinta, octava y undécima casas. Este forma
-el símbolo de la cuadratura estática: el gran símbolo de congestión de las potencialidades
-espirituales. Esta congestión es disuelta por el símbolo comprendido en los diámetros de la
-primera-séptima, tercera-novena y quinta-undécima. Este símbolo - el aspecto sextíl - es un
-símbolo simétrico abierto representando las “líneas de fuerza” inherentes en la combinación
-de dos triángulos equiláteros cerrados; estos dos triángulos están formados por líneas rectas
-conectando: (1) las cúspides de la primera, la quinta y la novena; y (2) la séptima, undécima
-y tercera.
+El mándala tal como aparece ahora simboliza la simetría de la estructura astrológica. Estas líneas conectan puntos de la circunferencia de la rueda que están equidistantes de las líneas de la gran estructura de los diámetros horizontal y vertical. Estas, en cambio, forman la combinación de las líneas de fuerza que son básicas para los contenidos de la rueda. Estos dos diámetros simbolizan la cruz de la encarnación. Ahora forme un cuadrado simétrico conectando estos “puntos cardinales” por líneas rectas. Este cuadrado es la abstracción de la estructura de relación, nuestro “campo de experiencias” por el cual desenvolvemos nuestras potencialidades en la encarnación. Haga otro cuadrado simétrico conectando los puntos medios de la segunda, quinta, octava y undécima casas. Este forma el símbolo de la cuadratura estática: el gran símbolo de congestión de las potencialidades espirituales. Esta congestión es disuelta por el símbolo comprendido en los diámetros de la primera-séptima, tercera-novena y quinta-undécima. Este símbolo - el aspecto sextíl - es un símbolo simétrico abierto representando las “líneas de fuerza” inherentes en la combinación de dos triángulos equiláteros cerrados; estos dos triángulos están formados por líneas rectas conectando: (1) las cúspides de la primera, la quinta y la novena; y (2) la séptima, undécima y tercera.
 
-Todos estos diseños son figuras balanceadas, simétricas, inherentes a la esencia
-interior de la rueda. Puesto que son diseños estructurales ellos se aplican a todos los
-horóscopos porque la estructura de cualquier horóscopo es una división duodécupla del
-interior de la rueda en secciones iguales – “casas” - de 30° cada una. El compuesto de estos
-diseños ilustra, por simetría, que todas las casas tienen igual importancia. Ninguna casa es
-más importante que otra; cada casa es una canalización para la liberación de
-potencialidades y el desenvolvimiento de conciencia hacia la realización de ideales en la
-encarnación. Ella sirve además, por su simetría, para ilustrar la igualdad de importancia de
-ambos sexos, puesto que la simetría de estas figuras es evidente continuamente, no importa
-cuál de los cuatro puntos estructurales de la casa cardinal esté ubicado en el Ascendente.
+Todos estos diseños son figuras balanceadas, simétricas, inherentes a la esencia interior de la rueda. Puesto que son diseños estructurales ellos se aplican a todos los horóscopos porque la estructura de cualquier horóscopo es una división duodécupla del interior de la rueda en secciones iguales – “casas” - de 30° cada una. El compuesto de estos diseños ilustra, por simetría, que todas las casas tienen igual importancia. Ninguna casa es más importante que otra; cada casa es una canalización para la liberación de potencialidades y el desenvolvimiento de conciencia hacia la realización de ideales en la encarnación. Ella sirve además, por su simetría, para ilustrar la igualdad de importancia de ambos sexos, puesto que la simetría de estas figuras es evidente continuamente, no importa cuál de los cuatro puntos estructurales de la casa cardinal esté ubicado en el Ascendente.
 
-Para completar la simetría ahora añadimos los símbolos de los signos zodiacales
-fuera de la rueda, comenzando con Aries en la cúspide de la primera casa y continuando en
-orden de sucesión alrededor de la rueda. El resultado es el Gran Mándala Astrológico: la
-abstracción de la cual se derivan todos los horóscopos. Esta adición de los signos
-zodiacales integra la vibración a la estructura. Nosotros reconocemos ahora que la
-aplicación de 30° de cada signo a los 30° de cada casa representa una carga de vida
-vibratoria a la estructura, así como una casa se convierte en un hogar cuando es usado como
-vivienda por las personas, y un violín se convierte en un instrumento musical cuando es
-utilizado.
+Para completar la simetría ahora añadimos los símbolos de los signos zodiacales fuera de la rueda, comenzando con Aries en la cúspide de la primera casa y continuando en orden de sucesión alrededor de la rueda. El resultado es el Gran Mándala Astrológico: la abstracción de la cual se derivan todos los horóscopos. Esta adición de los signos zodiacales integra la vibración a la estructura. Nosotros reconocemos ahora que la aplicación de 30° de cada signo a los 30° de cada casa representa una carga de vida vibratoria a la estructura, así como una casa se convierte en un hogar cuando es usado como vivienda por las personas, y un violín se convierte en un instrumento musical cuando es utilizado.
 
-En un horóscopo que no tiene signos interceptados, el paralelo simétrico de los
-signos con las casas está evidente en todas partes. Las tres cruces estructurales: cardinal,
-fija y común, y los cuatro trinos genéricos: fuego, tierra, aire y agua aparecen en orden
-regular y en formación geométrica; los seis diámetros estructurales forman paralelo con las
-seis polaridades vibratorias, los cuadrantes de las casas forman paralelo con los cuadrantes
-zodiacales y el bosquejo de regencia planetaria de las doce casas es conciso y claro. El
-patrón trino representado por el elemento genérico vibratorio que cubre las cúspides de la
-primera, quinta y novena casas representa el recurso principal de espiritualización creadora
-para esta encarnación. El “patrón estructural de signo” representado por las vibraciones de
-los signos que cobijan las cúspides de la primera, cuarta, séptima y décima, representa el
-gran recurso de Conciencia de Relación e Interpretación de Experiencia de Relación.
+En un horóscopo que no tiene signos interceptados, el paralelo simétrico de los signos con las casas está evidente en todas partes. Las tres cruces estructurales: cardinal, fija y común, y los cuatro trinos genéricos: fuego, tierra, aire y agua aparecen en orden regular y en formación geométrica; los seis diámetros estructurales forman paralelo con las seis polaridades vibratorias, los cuadrantes de las casas forman paralelo con los cuadrantes zodiacales y el bosquejo de regencia planetaria de las doce casas es conciso y claro. El patrón trino representado por el elemento genérico vibratorio que cubre las cúspides de la primera, quinta y novena casas representa el recurso principal de espiritualización creadora para esta encarnación. El “patrón estructural de signo” representado por las vibraciones de los signos que cobijan las cúspides de la primera, cuarta, séptima y décima, representa el gran recurso de Conciencia de Relación e Interpretación de Experiencia de Relación.
 
-Antes de entrar en un acercamiento detallado de los patrones interceptados,
-consideraremos el patrón de la duodécima casa - en relación por sucesión - de cualquier
-casa en un horóscopo.
+Antes de entrar en un acercamiento detallado de los patrones interceptados, consideraremos el patrón de la duodécima casa - en relación por sucesión - de cualquier casa en un horóscopo.
 
-Recordemos que cada casa es la duodécima casa de la casa que la sigue; cada signo
-es el duodécimo del signo que lo sigue; en los horóscopos los signos están correlacionados
-con las casas; por lo tanto (por ejemplo):
+Recordemos que cada casa es la duodécima casa de la casa que la sigue; cada signo es el duodécimo del signo que lo sigue; en los horóscopos los signos están correlacionados con las casas; por lo tanto (por ejemplo):
 
-Leo en la duodécima cúspide es el duodécimo signo de la casa del Ascendente
-Virgo; Géminis en la octava cúspide es el duodécimo signo de la casa de Cáncer en la
-novena cúspide, etc.
+Leo en la duodécima cúspide es el duodécimo signo de la casa del Ascendente Virgo; Géminis en la octava cúspide es el duodécimo signo de la casa de Cáncer en la novena cúspide, etc.
 
-Duodécima casa es “aquello de lo cual emana algo”. El Ascendente mismo “emana”
-de la duodécima casa así como el diámetro de las cúspides Ascendente-séptima emana del
-diámetro de la cuarta-décima cúspides o como el trino de Aries-Leo emana del trino de
-Sagitario-Aries o como el cuadrante de Libra-Capricornio emana del cuadrante de Cáncer-
-Libra, etc. En el Gran Mándala el trino de fuego de Aries-Leo-Sagitario, iniciado por el
-cardinal Aries, emana del trino de agua Piscis-Cáncer-Escorpión, el último trino es iniciado
-en el pasado por el cardinal Cáncer, “raíz” de la línea vertical de la “herencia vibratoria”.
-Este diámetro vertical - abstractamente Cáncer-Capricornio - del cual Aries-Libra es
-emanado, es la representación simbólica astrológica de lo que la mayoría de la gente llama
-“herencia”.
+Duodécima casa es “aquello de lo cual emana algo”. El Ascendente mismo “emana” de la duodécima casa así como el diámetro de las cúspides Ascendente-séptima emana del diámetro de la cuarta-décima cúspides o como el trino de Aries-Leo emana del trino de Sagitario-Aries o como el cuadrante de Libra-Capricornio emana del cuadrante de Cáncer- Libra, etc. En el Gran Mándala el trino de fuego de Aries-Leo-Sagitario, iniciado por el cardinal Aries, emana del trino de agua Piscis-Cáncer-Escorpión, el último trino es iniciado en el pasado por el cardinal Cáncer, “raíz” de la línea vertical de la “herencia vibratoria”. Este diámetro vertical - abstractamente Cáncer-Capricornio - del cual Aries-Libra es emanado, es la representación simbólica astrológica de lo que la mayoría de la gente llama “herencia”.
 
-Los procesos de Vida como evolución son un surgimiento continuo de aquello que
-fue (el pasado) a aquello que ahora es (el presente) y de ahí a aquello que ha de ser (el
-futuro). Nada “aparece simplemente”; aquello que fue condicionó a aquello que es; aquello
-que es está condicionando a aquello que será. La sucesión de casas correlacionadas con la
-sucesión de signos es la forma astrológica de representar la sucesión del eterno llegar a ser
-de la Vida como liberación continua de potencialidades.
-En otras palabras, el horóscopo es un símbolo estático del surgimiento rítmico (la
-simetría del tiempo) de potencialidades de octava en octava en desenvolvimiento perpetuo.
+Los procesos de Vida como evolución son un surgimiento continuo de aquello que fue (el pasado) a aquello que ahora es (el presente) y de ahí a aquello que ha de ser (el futuro). Nada “aparece simplemente”; aquello que fue condicionó a aquello que es; aquello que es está condicionando a aquello que será. La sucesión de casas correlacionadas con la sucesión de signos es la forma astrológica de representar la sucesión del eterno llegar a ser de la Vida como liberación continua de potencialidades. En otras palabras, el horóscopo es un símbolo estático del surgimiento rítmico (la simetría del tiempo) de potencialidades de octava en octava en desenvolvimiento perpetuo.
 
-Por lo tanto, cuando el desenvolvimiento de un ser individual es puesto fuera de la
-adaptación rítmica del tiempo, el resultado es un defecto en la sincronización del signo con
-la casa. Por cualquier razón kármica o condicionamiento de conciencia, el énfasis de un
-nivel de desarrollo a expensas de otro tiene el efecto de signos interceptados apareciendo en
-el horóscopo natal como una representación de defecto vibratorio espiritual.
+Por lo tanto, cuando el desenvolvimiento de un ser individual es puesto fuera de la adaptación rítmica del tiempo, el resultado es un defecto en la sincronización del signo con la casa. Por cualquier razón kármica o condicionamiento de conciencia, el énfasis de un nivel de desarrollo a expensas de otro tiene el efecto de signos interceptados apareciendo en el horóscopo natal como una representación de defecto vibratorio espiritual.
 
-Para ilustrarlo: use cualquier mapa disponible que tenga un diámetro interceptado.
-Aplique el acercamiento explicado en lo anterior conectando los “puntos” que representan
-la estructura de las cruces y trinos. En algún punto en la línea usted verá un defecto en la
-simetría de estos diseños porque en algún lugar un punto de cruz o un punto de trino no
-coincidirán con una cúspide. De ese modo, el contenido vibratorio de la rueda es puesto
-fuera de simetría y el contenido de sucesión de la rueda es puesto fuera de ritmo. Existen
-grados variantes de complejidad y dificultad en la interpretación de mapas interceptados
-como en cualquier otra cosa. Veamos si podemos organizar un bosquejo de acercamiento
-comenzando con el más fácil:
+Para ilustrarlo: use cualquier mapa disponible que tenga un diámetro interceptado. Aplique el acercamiento explicado en lo anterior conectando los “puntos” que representan la estructura de las cruces y trinos. En algún punto en la línea usted verá un defecto en la simetría de estos diseños porque en algún lugar un punto de cruz o un punto de trino no coincidirán con una cúspide. De ese modo, el contenido vibratorio de la rueda es puesto fuera de simetría y el contenido de sucesión de la rueda es puesto fuera de ritmo. Existen grados variantes de complejidad y dificultad en la interpretación de mapas interceptados como en cualquier otra cosa. Veamos si podemos organizar un bosquejo de acercamiento comenzando con el más fácil:
 
-Tipo 1-A: El horóscopo tiene cubiertas las cúspides de la primera, cuarta, séptima y
-décima casas por una cruz vibratoria perfecta - cardinal, fija o común -. En este patrón el
-“procreador” compuesto (cuarta-décima) y el “procreado” compuesto (primera-séptima)
-coinciden con cuatro cuadrantes del zodíaco y está representada la claridad de la estructura
-de relación básica.
+Tipo 1-A: El horóscopo tiene cubiertas las cúspides de la primera, cuarta, séptima y décima casas por una cruz vibratoria perfecta - cardinal, fija o común -. En este patrón el “procreador” compuesto (cuarta-décima) y el “procreado” compuesto (primera-séptima) coinciden con cuatro cuadrantes del zodíaco y está representada la claridad de la estructura de relación básica.
 
-Tipo 1-B: Los requisitos anteriores están representados en el Mapa Genérico
-Básico. Esta es una variación del mapa natal por la cual el signo que contiene el regente
-planetario natal es usado como Ascendente. Esta variación enfoca el poder del regente
-vibratorio del mapa, el planeta que rige a ese signo.
+Tipo 1-B: Los requisitos anteriores están representados en el Mapa Genérico Básico. Esta es una variación del mapa natal por la cual el signo que contiene el regente planetario natal es usado como Ascendente. Esta variación enfoca el poder del regente vibratorio del mapa, el planeta que rige a ese signo.
 
-Tipo 2: Tres posibilidades:
-A: un trino genérico perfecto cubriendo las cúspides de la primera, quinta y novena
-casas;
-B: un trino genérico perfecto cubriendo las cúspides de la séptima, undécima y
-tercera casas;
-C: un trino genérico perfecto enfocado estructuralmente en la cúspide de la cuarta
-casa o en la cúspide de la décima.
-En todas estas clasificaciones el problema de los signos interceptados es reducido al
-mínimo comparativamente porque los grandes símbolos de cruz o de trino están
-sincronizados con los puntos estructurales básicos de la rueda. Cuando la ubicación de los
-signos interceptados “crea una perturbación” en la relación del orden de signo y el orden de
-casa de los puntos estructurales, el problema de interpretación se hace más complejo.
-Estudie sus mapas con signos interceptados con miras hacia la relación de una cruz
-completa o de un trino completo por sucesión desde el Ascendente. En otras palabras,
-busque la posibilidad más cercana del mapa con signo interceptado para cumplir los
-requisitos del diseño simétrico; haciéndolo así, usted reduce mentalmente a un mínimo los
-“riesgos” presentados por las complejidades de “irregularidad” en la rueda.
+Tipo 2: Tres posibilidades: A: un trino genérico perfecto cubriendo las cúspides de la primera, quinta y novena casas; B: un trino genérico perfecto cubriendo las cúspides de la séptima, undécima y tercera casas; C: un trino genérico perfecto enfocado estructuralmente en la cúspide de la cuarta casa o en la cúspide de la décima. En todas estas clasificaciones el problema de los signos interceptados es reducido al mínimo comparativamente porque los grandes símbolos de cruz o de trino están sincronizados con los puntos estructurales básicos de la rueda. Cuando la ubicación de los signos interceptados “crea una perturbación” en la relación del orden de signo y el orden de casa de los puntos estructurales, el problema de interpretación se hace más complejo. Estudie sus mapas con signos interceptados con miras hacia la relación de una cruz completa o de un trino completo por sucesión desde el Ascendente. En otras palabras, busque la posibilidad más cercana del mapa con signo interceptado para cumplir los requisitos del diseño simétrico; haciéndolo así, usted reduce mentalmente a un mínimo los “riesgos” presentados por las complejidades de “irregularidad” en la rueda.
 
-“El mal del pasado que impele la presente encarnación” es representado
-abstractamente por un mándala en la forma siguiente: una rueda de doce casas con Aries en
-el Ascendente; los símbolos de los signos comunes son colocados apropiadamente en las
-cúspides de las casas comunes. En otras palabras, la modulación para mayor regeneración
-es demostrada por la cuadratura de las casas comunes enfocada por el más mudable de esos
-cuatro signos - Piscis - como el “fin del ciclo previo” del cual emana el ciclo presente.
-Aplíquele este pensamiento a cualquier horóscopo: ¿cuál cruz aparece como la
-combinación de modulaciones desde cada cuadrante de la rueda al cuadrante siguiente?
-Esta cruz tiene mucho que decir acerca de las redenciones necesitadas requeridas para los
-cuadrantes iniciados por las casas cardinales; así como el horóscopo entero es iniciado
-desde la duodécima a la primera casas. Cada casa común' es la base kármica para el
-cuadrante siguiente; los signos que cubren estas cúspides representan la congestión
-cuádruple de la conciencia que es enfocada en el mapa por los planetas que rigen esos
-signos.
+“El mal del pasado que impele la presente encarnación” es representado abstractamente por un mándala en la forma siguiente: una rueda de doce casas con Aries en el Ascendente; los símbolos de los signos comunes son colocados apropiadamente en las cúspides de las casas comunes. En otras palabras, la modulación para mayor regeneración es demostrada por la cuadratura de las casas comunes enfocada por el más mudable de esos cuatro signos - Piscis - como el “fin del ciclo previo” del cual emana el ciclo presente. Aplíquele este pensamiento a cualquier horóscopo: ¿cuál cruz aparece como la combinación de modulaciones desde cada cuadrante de la rueda al cuadrante siguiente? Esta cruz tiene mucho que decir acerca de las redenciones necesitadas requeridas para los cuadrantes iniciados por las casas cardinales; así como el horóscopo entero es iniciado desde la duodécima a la primera casas. Cada casa común' es la base kármica para el cuadrante siguiente; los signos que cubren estas cúspides representan la congestión cuádruple de la conciencia que es enfocada en el mapa por los planetas que rigen esos signos.
 
-Como resultado de un diámetro interceptado en un mapa habrá dos pares de casas
-cobijadas por el mismo diámetro. Donde quiera que ocurre este “fenómeno” usted sabrá
-que las casas concernidas en esta “duplicación” representan patrones de experiencia en los
-cuales la persona implicada está “compensando faltas del pasado”; en otras palabras, las
-dos casas que tienen el grado más bajo del signo de sus cúspides representarán el pasado;
-las dos casas que tienen el grado más alto en las cúspides representarán el pasado
-incumplido proyectado en el presente. Semejante patrón nos indica también que la
-influencia de los planetas que rigen los signos interceptados, hasta cierto punto está
-“mantenida en suspenso” hasta tanto se logre cierto grado de redención. Los planetas que
-rigen las cúspides duplicadas son obligados correspondientemente a “trabajar en exceso”;
-en el caso de Venus y Mercurio - cada uno de los cuales rige normalmente dos signos - su
-influencia puede extenderse a tres casas y su significación en la suma total de la rueda está
-aumentada. De la misma manera, en concepto humano, que si Juanito fracasa en un examen
-en la escuela, él tiene que estudiar con mayor aplicación para compensar su trabajo en esa
-asignatura.
+Como resultado de un diámetro interceptado en un mapa habrá dos pares de casas cobijadas por el mismo diámetro. Donde quiera que ocurre este “fenómeno” usted sabrá que las casas concernidas en esta “duplicación” representan patrones de experiencia en los cuales la persona implicada está “compensando faltas del pasado”; en otras palabras, las dos casas que tienen el grado más bajo del signo de sus cúspides representarán el pasado; las dos casas que tienen el grado más alto en las cúspides representarán el pasado incumplido proyectado en el presente. Semejante patrón nos indica también que la influencia de los planetas que rigen los signos interceptados, hasta cierto punto está “mantenida en suspenso” hasta tanto se logre cierto grado de redención. Los planetas que rigen las cúspides duplicadas son obligados correspondientemente a “trabajar en exceso”; en el caso de Venus y Mercurio - cada uno de los cuales rige normalmente dos signos - su influencia puede extenderse a tres casas y su significación en la suma total de la rueda está aumentada. De la misma manera, en concepto humano, que si Juanito fracasa en un examen en la escuela, él tiene que estudiar con mayor aplicación para compensar su trabajo en esa asignatura.
 
-Es muy interesante estudiar mapas que tienen el mismo signo en la duodécima y en
-el Ascendente. Estos mapas tienen dos clasificaciones principales:
-(1) Aquellos con el signó subsiguiente interceptado en la primera casa;
-(2) aquellos con el signo subsiguiente en la segunda cúspide.
-La primera clasificación nos dice que la persona puede haber estado fuera de
-encarnación por un período de tiempo excepcionalmente largo. Ella tiene que entrelazar su
-pasado con esta encarnación, recapitular algo de sus errores pasados - si el regente de la
-duodécima casa y del Ascendente está congestionado, aprender de sus errores, aplicar más
-medidas constructivas y entonces mover-se de acuerdo con la vibración progresiva
-representada por el signo interceptado en la primera casa -. Este patrón promete progreso en
-esta encarnación, pero promete también que la persona que tiende a vivir
-subconscientemente esta encarnación en términos de su pasado, se quedará “en el aire”; el
-poder de congestión representando que los recursos del pasado han sido agotados; su
-impulso natural para el progreso será fijado para la conciencia de las potencialidades
-representadas por el signo interceptado en la primera casa y armonizándose con esta
-vibración representará una “nueva vida” en la conciencia. Él entonces sentirá
-poderosamente el impulso de “abandonar el pasado” y de compartir la suerte de su
-“compañero vibratorio” representado por la influencia planetaria del signo interceptado en
-la primera casa. Este patrón también cualifica su conciencia marital puesto que la
-intercepción de la primera casa tiene su complemento interceptado en la séptima. Es una
-conciencia doble de vida nueva y su conciencia de relación complementaria debe
-desenvolverse y progresar si él ha de trascender realmente la atracción gravitacional o
-congestionada de los negativos pasados. Si la segunda cúspide está cobijada por el siguiente
-signo en sucesión, entonces sabemos que la persona está destinada a expresar en esta
-encarnación una octava más alta de cualidad de su pasado y si la intercepción en su mapa
-indica que la cúspide de su cuarta o décima casa está en el mismo trino genérico en que está
-su signo Ascendente, nosotros sabemos que ese padre - padre o madre - representa una
-exteriorización de lo mejor del pasado de la persona como contribución a lo mejor de su
-desarrollo en esta encarnación. Nadie repite nunca exactamente un nivel de una
-encarnación a la siguiente - “hada arriba” es siempre un factor a considerarse en la
-interpretación kármica. 
+Es muy interesante estudiar mapas que tienen el mismo signo en la duodécima y en el Ascendente. Estos mapas tienen dos clasificaciones principales: (1) Aquellos con el signó subsiguiente interceptado en la primera casa; (2) aquellos con el signo subsiguiente en la segunda cúspide. La primera clasificación nos dice que la persona puede haber estado fuera de encarnación por un período de tiempo excepcionalmente largo. Ella tiene que entrelazar su pasado con esta encarnación, recapitular algo de sus errores pasados - si el regente de la duodécima casa y del Ascendente está congestionado, aprender de sus errores, aplicar más medidas constructivas y entonces mover-se de acuerdo con la vibración progresiva representada por el signo interceptado en la primera casa -. Este patrón promete progreso en esta encarnación, pero promete también que la persona que tiende a vivir subconscientemente esta encarnación en términos de su pasado, se quedará “en el aire”; el poder de congestión representando que los recursos del pasado han sido agotados; su impulso natural para el progreso será fijado para la conciencia de las potencialidades representadas por el signo interceptado en la primera casa y armonizándose con esta vibración representará una “nueva vida” en la conciencia. Él entonces sentirá poderosamente el impulso de “abandonar el pasado” y de compartir la suerte de su “compañero vibratorio” representado por la influencia planetaria del signo interceptado en la primera casa. Este patrón también cualifica su conciencia marital puesto que la intercepción de la primera casa tiene su complemento interceptado en la séptima. Es una conciencia doble de vida nueva y su conciencia de relación complementaria debe desenvolverse y progresar si él ha de trascender realmente la atracción gravitacional o congestionada de los negativos pasados. Si la segunda cúspide está cobijada por el siguiente signo en sucesión, entonces sabemos que la persona está destinada a expresar en esta encarnación una octava más alta de cualidad de su pasado y si la intercepción en su mapa indica que la cúspide de su cuarta o décima casa está en el mismo trino genérico en que está su signo Ascendente, nosotros sabemos que ese padre - padre o madre - representa una exteriorización de lo mejor del pasado de la persona como contribución a lo mejor de su desarrollo en esta encarnación. Nadie repite nunca exactamente un nivel de una encarnación a la siguiente - “hada arriba” es siempre un factor a considerarse en la interpretación kármica. 
 
-Desde un punto de vista práctico no hay mucho más que decir
-aquí en cuanto a interpretación de las diferentes ubicaciones posibles de los diámetros
-interceptados. Usted como estudiante astrológico, como pensador y como filósofo debe
-ejercitar la capacidad de su propia conciencia de los principios de la estructura en la
-aplicación a los mapas que usted analice.
+Desde un punto de vista práctico no hay mucho más que decir aquí en cuanto a interpretación de las diferentes ubicaciones posibles de los diámetros interceptados. Usted como estudiante astrológico, como pensador y como filósofo debe ejercitar la capacidad de su propia conciencia de los principios de la estructura en la aplicación a los mapas que usted analice.
 
-Estructura-estructura-estructura es su clave para descubrir la significación de los
-signos interceptados y los planetas contenidos en ellos. Busque tantas “regularidades” y
-“simetrías” como usted pueda en cada mapa de este tipo - por referencia a patrones de cruz
-y trino - y luego estudie la sucesión para que usted pueda determinar las posibilidades de
-por qué un diámetro puede representar una “detención” o una “promesa de desarrollo
-futuro” en esta encarnación. Los diámetros duplicados cuando están alineados en la
-sucesión de la estructura, indicarán cuál par de casas representa una condición del pasado
-que debe ser repetida, para más completa realización en el presente.
+Estructura-estructura-estructura es su clave para descubrir la significación de los signos interceptados y los planetas contenidos en ellos. Busque tantas “regularidades” y “simetrías” como usted pueda en cada mapa de este tipo - por referencia a patrones de cruz y trino - y luego estudie la sucesión para que usted pueda determinar las posibilidades de por qué un diámetro puede representar una “detención” o una “promesa de desarrollo futuro” en esta encarnación. Los diámetros duplicados cuando están alineados en la sucesión de la estructura, indicarán cuál par de casas representa una condición del pasado que debe ser repetida, para más completa realización en el presente.
 
-Haga más flexible su conciencia de la estructura horoscópica. Usted puede
-emocionarse por este estímulo de su intelecto y su recurso de sensibilidad y comprensión
-estéticas. El ritmo, la sucesión, el diseño y el drama que están representados en el Mándala
-Astrológico son arquetípicos de todo principio artístico; y en un sentido filosófico más
-específico ellos pintan el flujo magnífico de los Principios de Vida así como exteriorizan
-las grandes Leyes Universales de Causa y Efecto, Polaridad y la Armonía Divina.
+Haga más flexible su conciencia de la estructura horoscópica. Usted puede emocionarse por este estímulo de su intelecto y su recurso de sensibilidad y comprensión estéticas. El ritmo, la sucesión, el diseño y el drama que están representados en el Mándala Astrológico son arquetípicos de todo principio artístico; y en un sentido filosófico más específico ellos pintan el flujo magnífico de los Principios de Vida así como exteriorizan las grandes Leyes Universales de Causa y Efecto, Polaridad y la Armonía Divina.
 
 ### <h3 id="chapter-7">Capítulo VII: Estructura de Relación Básica</h3>
 
-Nosotros sugerimos, como pábulo para el pensamiento, que se considere esta
-manifestación como preliminar a una discusión sobre patrones de relación: Existen
-solamente dos cualidades básicas de relación:
-(1) Medida “Tiempo-Espacio” (que no concierne a este estudio);
-(2) Vibración (que es nuestro tema).
-Solamente hay dos tipos básicos de la cualidad vibratoria:
-(1) Aquella del macrocosmo y el microcosmo entre si;
-(2) la fraternidad de los microcosmos entre sí.
+Nosotros sugerimos, como pábulo para el pensamiento, que se considere esta manifestación como preliminar a una discusión sobre patrones de relación: Existen solamente dos cualidades básicas de relación: (1) Medida “Tiempo-Espacio” (que no concierne a este estudio); (2) Vibración (que es nuestro tema). Solamente hay dos tipos básicos de la cualidad vibratoria: (1) Aquella del macrocosmo y el microcosmo entre si; (2) la fraternidad de los microcosmos entre sí.
 
-El primer tipo es considerado así porque el Incognoscible no tiene fraternidad con
-otra cosa; El encierra todo lo que es, “todo lo que es” es su expresión. No obstante en cada
-octava inferior el Incognoscible se expresa en miríadas de tipos de microcosmos, cada uno
-de los cuales es fraternal a los otros y cada uno de los cuales es “macrocosmo” para las
-octavas inferiores a ellos; esto es, “sus propios microcosmos”.
+El primer tipo es considerado así porque el Incognoscible no tiene fraternidad con otra cosa; El encierra todo lo que es, “todo lo que es” es su expresión. No obstante en cada octava inferior el Incognoscible se expresa en miríadas de tipos de microcosmos, cada uno de los cuales es fraternal a los otros y cada uno de los cuales es “macrocosmo” para las octavas inferiores a ellos; esto es, “sus propios microcosmos”.
 
-Ahora consideremos una “agrupación” hipotética a fin de representar estas miríadas
-de microcosmos. Primero, el incognoscible Mismo. Su representación será un punto -
-teóricamente de ninguna dimensión - colocado en el centro exacto de una hoja de papel. No
-tenemos una forma más simple de exteriorizar la Fuente de todo. Entonces el punto central
-es encerrado por la circunferencia de un círculo perfecto. El círculo ahora parece
-representar la existencia perfecta del Incognoscible: Vida y Naturaleza; Creación y
-Manifestación; Positivo y Negativo; Causa y Efecto. La Polaridad puede considerarse
-entonces como la “acción de la Vida”, la “Seidad” del Incognoscible. Es la dimensión
-macrocósmica; todas las otras dimensiones son sus microcosmos. Es la “bi-unidad”
-esencial por la cual la unidad expresa sus potencialidades.
+Ahora consideremos una “agrupación” hipotética a fin de representar estas miríadas de microcosmos. Primero, el incognoscible Mismo. Su representación será un punto - teóricamente de ninguna dimensión - colocado en el centro exacto de una hoja de papel. No tenemos una forma más simple de exteriorizar la Fuente de todo. Entonces el punto central es encerrado por la circunferencia de un círculo perfecto. El círculo ahora parece representar la existencia perfecta del Incognoscible: Vida y Naturaleza; Creación y Manifestación; Positivo y Negativo; Causa y Efecto. La Polaridad puede considerarse entonces como la “acción de la Vida”, la “Seidad” del Incognoscible. Es la dimensión macrocósmica; todas las otras dimensiones son sus microcosmos. Es la “bi-unidad” esencial por la cual la unidad expresa sus potencialidades.
 
-El mándala hasta aquí representa con suma claridad y simplicidad la Totalidad de la
-Vida en conjunto. Ahora consideraremos el mándala en su representación esencial de
-“Macrocosmo-a-Microcosmo”.
+El mándala hasta aquí representa con suma claridad y simplicidad la Totalidad de la Vida en conjunto. Ahora consideraremos el mándala en su representación esencial de “Macrocosmo-a-Microcosmo”.
 
-Desde el punto central trace un radio horizontal hacia la izquierda. Este radio es la
-expresión del Incognoscible de sus potencialidades para la octava extrema de la
-manifestación física. Este radio representa, por su punto en la circunferencia, lo “más lejano
-de la Fuente que el Incognoscible puede proyectarse a sí mismo”. Desde ese punto el
-recorrido alrededor de la circunferencia del círculo (en contra de las manecillas del reloj) es
-la delineación de procesos evolutivos por la liberación de potencialidad. El radio, en
-resumen, es el “mándala del microcosmo” - la combinación de todas las expresiones
-posibles del Incognoscible.
+Desde el punto central trace un radio horizontal hacia la izquierda. Este radio es la expresión del Incognoscible de sus potencialidades para la octava extrema de la manifestación física. Este radio representa, por su punto en la circunferencia, lo “más lejano de la Fuente que el Incognoscible puede proyectarse a sí mismo”. Desde ese punto el recorrido alrededor de la circunferencia del círculo (en contra de las manecillas del reloj) es la delineación de procesos evolutivos por la liberación de potencialidad. El radio, en resumen, es el “mándala del microcosmo” - la combinación de todas las expresiones posibles del Incognoscible.
 
-(Hay solamente un radio en cada círculo; todos los otros radios son emanaciones del
-uno. Pruebe esto haciendo un círculo con un compás; en el instante en que usted coloca la
-punta del lápiz sobre el papel usted ha establecido el radio del círculo. El círculo es creado
-(emanado) moviendo la punta del lápiz a través del espacio y el tiempo para formar el
-cuadro completo; usted no ha usado ningún otro radio que el radio con que usted empezó).
+(Hay solamente un radio en cada círculo; todos los otros radios son emanaciones del uno. Pruebe esto haciendo un círculo con un compás; en el instante en que usted coloca la punta del lápiz sobre el papel usted ha establecido el radio del círculo. El círculo es creado (emanado) moviendo la punta del lápiz a través del espacio y el tiempo para formar el cuadro completo; usted no ha usado ningún otro radio que el radio con que usted empezó).
 
-No tenemos manera de conocer cual podrá ser acaso la extensión de la primera
-octava de expresión del Incognoscible. Pero como nosotros tenemos que usar palabras
-específicas para transmitir las ideas, sencillamente consideraremos esta octava como “El
-Universo”. Luego, refiriéndonos al mándala, se ve que el punto del radio es el cuerpo del
-Incognoscible - la totalidad del círculo representará el cumplimiento de todas las
-potencialidades inherentes al Incognoscible.
+No tenemos manera de conocer cual podrá ser acaso la extensión de la primera octava de expresión del Incognoscible. Pero como nosotros tenemos que usar palabras específicas para transmitir las ideas, sencillamente consideraremos esta octava como “El Universo”. Luego, refiriéndonos al mándala, se ve que el punto del radio es el cuerpo del Incognoscible - la totalidad del círculo representará el cumplimiento de todas las potencialidades inherentes al Incognoscible.
 
-Puesto que este mándala es arquetípico nosotros podemos usarlo y lo usaremos
-como el símbolo de expresión de la Vida en todas las octavas inferiores, la primera de las
-cuales designaremos como “gran galaxia”. El radio del círculo representa ahora las
-potencialidades combinadas de cada gran galaxia individual - que es “fraternal” a toda otra
-gran galaxia -. Nosotros consideraremos el microcosmo de la gran galaxia como “galaxia”
-y el radio es entonces la potencialidad de cada galaxia, siendo todas las galaxias fraternales
-entre sí. Entonces consideramos el radio como la potencialidad, digamos, de todos los
-sistemas solares que son expresiones microcósmicas de las galaxias, todos los sistemas
-solares siendo por su patrón arquetípico fraternales entre sí; y entonces el compuesto de
-todos los cuerpos planetarios que son microcósmicos para el Logos solar de cada sistema
-solar, todos los planetas de cada sistema siendo fraternales entre sí.
+Puesto que este mándala es arquetípico nosotros podemos usarlo y lo usaremos como el símbolo de expresión de la Vida en todas las octavas inferiores, la primera de las cuales designaremos como “gran galaxia”. El radio del círculo representa ahora las potencialidades combinadas de cada gran galaxia individual - que es “fraternal” a toda otra gran galaxia -. Nosotros consideraremos el microcosmo de la gran galaxia como “galaxia” y el radio es entonces la potencialidad de cada galaxia, siendo todas las galaxias fraternales entre sí. Entonces consideramos el radio como la potencialidad, digamos, de todos los sistemas solares que son expresiones microcósmicas de las galaxias, todos los sistemas solares siendo por su patrón arquetípico fraternales entre sí; y entonces el compuesto de todos los cuerpos planetarios que son microcósmicos para el Logos solar de cada sistema solar, todos los planetas de cada sistema siendo fraternales entre sí.
 
-Ahora, puesto que estamos interesados principalmente en seres humanos, se ve que
-el radio es la representación de las potencialidades inherentes a la idea logoica que
-llamamos “Humanidad” - la octava más alta de la potencialidad evolutiva en este planeta
-particular -. El radio ahora se ve que representa todos los seres humanos manifestándose
-dentro de la envoltura etérica de la Tierra y sobre su superficie. Todo otro radio que pueda
-ser representado en el círculo es una emanación del punto principal de la conciencia al que
-nosotros nos referimos como “Yo Soy” - el reconocimiento de la seidad como una
-expresión de una idea perfecta en la mente de nuestro Padre-Madre Dios.
+Ahora, puesto que estamos interesados principalmente en seres humanos, se ve que el radio es la representación de las potencialidades inherentes a la idea logoica que llamamos “Humanidad” - la octava más alta de la potencialidad evolutiva en este planeta particular -. El radio ahora se ve que representa todos los seres humanos manifestándose dentro de la envoltura etérica de la Tierra y sobre su superficie. Todo otro radio que pueda ser representado en el círculo es una emanación del punto principal de la conciencia al que nosotros nos referimos como “Yo Soy” - el reconocimiento de la seidad como una expresión de una idea perfecta en la mente de nuestro Padre-Madre Dios.
 
-La “fraternidad de los microcosmos” está representada ahora por este mándala como
-el gran símbolo de la humanidad encarnada; su diseño es el mismo para todos los seres
-humanos quienes por Ley, encarnan en la dimensión “bi-una” de medida (tiempo-espacio)
-y polaridad (vibración masculino-femenina). Cada uno de estos factores es dependiente el
-uno del otro; La encarnación no se hace ni puede hacerse sin ambos.
+La “fraternidad de los microcosmos” está representada ahora por este mándala como el gran símbolo de la humanidad encarnada; su diseño es el mismo para todos los seres humanos quienes por Ley, encarnan en la dimensión “bi-una” de medida (tiempo-espacio) y polaridad (vibración masculino-femenina). Cada uno de estos factores es dependiente el uno del otro; La encarnación no se hace ni puede hacerse sin ambos.
 
-Hasta aquí tenemos la potencialidad vibratoria de cumplimiento de cada ser humano
-como una expresión de su macrocosmo - el Ascendente de su horóscopo.
+Hasta aquí tenemos la potencialidad vibratoria de cumplimiento de cada ser humano como una expresión de su macrocosmo - el Ascendente de su horóscopo.
 
-La idea que llamamos humanidad lleva a cabo el patrón de relación vibratorio “bi-
-uno” de esta manera: La relación de macrocosmo a microcosmo se evidencia en la relación
-mutua de padre e hijo. En otras palabras, por polaridad: la relación entre sí, de padre/madre
-a hijo/ hija. Este patrón es “tipo uno” como la estructura de gran relación de todos los seres
-humanos entre sí; todas las otras relaciones son derivaciones fraternales de ésta.
+La idea que llamamos humanidad lleva a cabo el patrón de relación vibratorio “bi- uno” de esta manera: La relación de macrocosmo a microcosmo se evidencia en la relación mutua de padre e hijo. En otras palabras, por polaridad: la relación entre sí, de padre/madre a hijo/ hija. Este patrón es “tipo uno” como la estructura de gran relación de todos los seres humanos entre sí; todas las otras relaciones son derivaciones fraternales de ésta.
 
-Puesto que el sexo físico es una especialización del compuesto que llamamos
-“género”, nosotros reconocemos que todo ser humano en su naturaleza interna funciona en
-la dimensión universal de bipolaridad. Todo varón y toda hembra combina las cualidades
-vibratorias masculino/femenina. Ser “masculino” es impregnar, proyectar, expresar,
-estimular; ser “femenina” es ser impregnada, servir como objeto para la proyección,
-incorporar la expresión, ser estimulada, reflejar aquello que fue emitido.
+Puesto que el sexo físico es una especialización del compuesto que llamamos “género”, nosotros reconocemos que todo ser humano en su naturaleza interna funciona en la dimensión universal de bipolaridad. Todo varón y toda hembra combina las cualidades vibratorias masculino/femenina. Ser “masculino” es impregnar, proyectar, expresar, estimular; ser “femenina” es ser impregnada, servir como objeto para la proyección, incorporar la expresión, ser estimulada, reflejar aquello que fue emitido.
 
-Ahora nosotros ampliaremos nuestro mándala para exteriorizar astrológicamente
-este “gran patrón de relación”.
+Ahora nosotros ampliaremos nuestro mándala para exteriorizar astrológicamente este “gran patrón de relación”.
 
-Extienda el radio hacia la derecha formando el diámetro horizontal; trace el
-diámetro vertical, formando la “cruz de la encarnación”. Coloque el símbolo de Aries en lo
-que es ahora el punto Ascendente, Libra en el opuesto, Cáncer en el fondo de la rueda y
-Capricornio arriba. Ahora tenemos el círculo cuadrado por los signos cardinales - los
-puntos de nueva dirección -; los radios son las cuatro formas básicas de decir “Yo Soy”; los
-diámetros son las dos formas básicas de decir “Nosotros Somos”; y el diseño estructural
-total pinta la combinación de “aquello que engendra y aquello que es engendrado”; la
-representación cuádruple de la polaridad en acción en la expresión de vida de la idea
-“Humanidad”.
+Extienda el radio hacia la derecha formando el diámetro horizontal; trace el diámetro vertical, formando la “cruz de la encarnación”. Coloque el símbolo de Aries en lo que es ahora el punto Ascendente, Libra en el opuesto, Cáncer en el fondo de la rueda y Capricornio arriba. Ahora tenemos el círculo cuadrado por los signos cardinales - los puntos de nueva dirección -; los radios son las cuatro formas básicas de decir “Yo Soy”; los diámetros son las dos formas básicas de decir “Nosotros Somos”; y el diseño estructural total pinta la combinación de “aquello que engendra y aquello que es engendrado”; la representación cuádruple de la polaridad en acción en la expresión de vida de la idea “Humanidad”.
 
-Trace una línea vertical y concéntrese sobre ella por un momento como el símbolo
-esencial de la acción generadora de la polaridad. Ella es la acción de procrear, la función
-compuesta de la paternidad o maternidad, el proceso de construcción de formas por el cual
-el padre y la madre funden sus energías y sus substancias como una contribución al Ego
-que encarna; esto es, las especializaciones de “varón y hembra” componen la expresión
-dinámica de polaridad.
+Trace una línea vertical y concéntrese sobre ella por un momento como el símbolo esencial de la acción generadora de la polaridad. Ella es la acción de procrear, la función compuesta de la paternidad o maternidad, el proceso de construcción de formas por el cual el padre y la madre funden sus energías y sus substancias como una contribución al Ego que encarna; esto es, las especializaciones de “varón y hembra” componen la expresión dinámica de polaridad.
 
-Ahora trace una línea horizontal de aproximadamente la misma longitud que la
-vertical; esta línea es la objetiva de la vertical, el “polo negativo” de la línea de
-ascendencia, aquello que fue procreado por los padres, aquello que se le dio forma
-(encarnado) por los padres. Como todo “engendrado” es bipolar, nosotros reconocemos
-ahora que los extremos de esta línea horizontal representan lo masculino y lo femenino -
-uno u otro - del tema del horóscopo; cada uno es el complemento genérico del otro (así
-como el padre y la madre son complemento genérico mutuo). La horizontal es entonces el
-hijo/hija del padre/madre.
+Ahora trace una línea horizontal de aproximadamente la misma longitud que la vertical; esta línea es la objetiva de la vertical, el “polo negativo” de la línea de ascendencia, aquello que fue procreado por los padres, aquello que se le dio forma (encarnado) por los padres. Como todo “engendrado” es bipolar, nosotros reconocemos ahora que los extremos de esta línea horizontal representan lo masculino y lo femenino - uno u otro - del tema del horóscopo; cada uno es el complemento genérico del otro (así como el padre y la madre son complemento genérico mutuo). La horizontal es entonces el hijo/hija del padre/madre.
 
-Para considerar la cualidad genérica de los doce signos zodiacales: Medite sobre un
-“espectro genérico” de cuatro cualidades básicas que designaremos como: (1) Masculino-
-varón; (2) femenino-varón; (3) masculino-hembra; (4) femenino-hembra. Esta agrupación
-combina efectivamente los dos aspectos del sexo con los dos aspectos de la cualidad
-vibratoria genérica, la “expresión doble de la doble polaridad”.
+Para considerar la cualidad genérica de los doce signos zodiacales: Medite sobre un “espectro genérico” de cuatro cualidades básicas que designaremos como: (1) Masculino- varón; (2) femenino-varón; (3) masculino-hembra; (4) femenino-hembra. Esta agrupación combina efectivamente los dos aspectos del sexo con los dos aspectos de la cualidad vibratoria genérica, la “expresión doble de la doble polaridad”.
 
-Volviendo al mándala con los signos cardinales, nosotros conocemos que cada uno
-de estos cuatro signos representa la “iniciación” de uno de los cuatro factores en el
-“espectro genérico”; cada uno “inicia” un cuadrante de la rueda y uno de los trinos
-elementales. Cada uno es, entonces, el aspecto de Seidad de su elemento particular, los
-otros dos aspectos de cada trino representan las idealidades del Amor y la Sabiduría. La
-formación de trinos de los elementos representa las metas esenciales de nuestros
-desenvolvimientos, la recuperación de nuestros “perdidos Edenes” a través de
-transmutaciones y liberaciones idealizadas de nuestras potencialidades genéticas.
+Volviendo al mándala con los signos cardinales, nosotros conocemos que cada uno de estos cuatro signos representa la “iniciación” de uno de los cuatro factores en el “espectro genérico”; cada uno “inicia” un cuadrante de la rueda y uno de los trinos elementales. Cada uno es, entonces, el aspecto de Seidad de su elemento particular, los otros dos aspectos de cada trino representan las idealidades del Amor y la Sabiduría. La formación de trinos de los elementos representa las metas esenciales de nuestros desenvolvimientos, la recuperación de nuestros “perdidos Edenes” a través de transmutaciones y liberaciones idealizadas de nuestras potencialidades genéticas.
 
-De ahí que, los dos signos cardinales que se refieren a la cualidad masculina básica
-de polaridad se ve que son Aries y Capricornio. Los otros dos describen cualidad femenina
-básica de polaridad: Cáncer y Libra.
+De ahí que, los dos signos cardinales que se refieren a la cualidad masculina básica de polaridad se ve que son Aries y Capricornio. Los otros dos describen cualidad femenina básica de polaridad: Cáncer y Libra.
 
-Haga cuatro mándalas representando los trinos de los elementos. Como estos trinos
-son los símbolos de los atributos de la “Seidad”, ellos representan la idealidad de las cuatro
-variaciones genéricas. Los signos de fuego y de aire son género masculino, los de tierra y
-de agua son género femenino.
+Haga cuatro mándalas representando los trinos de los elementos. Como estos trinos son los símbolos de los atributos de la “Seidad”, ellos representan la idealidad de las cuatro variaciones genéricas. Los signos de fuego y de aire son género masculino, los de tierra y de agua son género femenino.
 
-Ahora hagamos dos mándalas más, cada uno con una combinación de los seis
-signos masculinos y de los seis signos femeninos respectivamente. El mándala masculino
-contiene dos verticales, el femenino contiene dos horizontales. Cuando conectamos los
-puntos del mándala masculino con el centro por líneas rectas obtenemos el gran símbolo de
-alquimia - el símbolo del aspecto sextil -: La disolución dinámica de la cristalización de
-energías congestionadas a través de expresiones transmutadas. Las horizontales del
-mándala femenino transmiten una “cualidad estática” – “algo sobre lo cual pueda descansar
-alguna otra cosa” -; un cuadro claro de la creación de una sociedad ideal sobre la base de
-ascendencia ideal. ¿Sobre cuál otra base descansa la Sociedad (en sus expresiones más
-elevadas) sino en las expresiones de Sabiduría-Amorosa de aquellos que la crean personal o
-impersonalmente? El símbolo del aspecto sextil que está implicado en el mándala
-masculino representa la potencialidad dinámica de todo varón y de toda hembra para
-regenerar sus patrones vibratorios y para liberar sus potencialidades evolutivamente en
-octavas superiores de conciencia.
+Ahora hagamos dos mándalas más, cada uno con una combinación de los seis signos masculinos y de los seis signos femeninos respectivamente. El mándala masculino contiene dos verticales, el femenino contiene dos horizontales. Cuando conectamos los puntos del mándala masculino con el centro por líneas rectas obtenemos el gran símbolo de alquimia - el símbolo del aspecto sextil -: La disolución dinámica de la cristalización de energías congestionadas a través de expresiones transmutadas. Las horizontales del mándala femenino transmiten una “cualidad estática” – “algo sobre lo cual pueda descansar alguna otra cosa” -; un cuadro claro de la creación de una sociedad ideal sobre la base de ascendencia ideal. ¿Sobre cuál otra base descansa la Sociedad (en sus expresiones más elevadas) sino en las expresiones de Sabiduría-Amorosa de aquellos que la crean personal o impersonalmente? El símbolo del aspecto sextil que está implicado en el mándala masculino representa la potencialidad dinámica de todo varón y de toda hembra para regenerar sus patrones vibratorios y para liberar sus potencialidades evolutivamente en octavas superiores de conciencia.
 
-Marte regente de Aries, el “varón engendrado” encuentra su exaltación en
-Capricornio, signo de Saturno: El cumplimiento del principio masculino fecundador es la
-paternidad. La “paternidad” es la versión masculina de la “creación de forma”. Nosotros no
-podemos seguir recibiendo la Vida para siempre - debemos convertirnos en “dadores de
-Vida” para poder lograr el cumplimiento. ¿No es la exaltación planetaria simplemente otra
-forma de decir “madurez vibratoria (o genérica)?”. 
+Marte regente de Aries, el “varón engendrado” encuentra su exaltación en Capricornio, signo de Saturno: El cumplimiento del principio masculino fecundador es la paternidad. La “paternidad” es la versión masculina de la “creación de forma”. Nosotros no podemos seguir recibiendo la Vida para siempre - debemos convertirnos en “dadores de Vida” para poder lograr el cumplimiento. ¿No es la exaltación planetaria simplemente otra forma de decir “madurez vibratoria (o genérica)?”. 
 
-Tauro, el Principio de “mayordomía de
-la Forma”, es el segundo aspecto o aspecto amoroso del trino de Tierra iniciado por
-Capricornio. El “ganarse la vida” ha sido (en su mayor parte) la forma principal en que el
-varón ha expresado su potencialidad Amorosa durante largo tiempo. Su responsabilidad
-como padre, era trabajar y ganar para que sus “amados” y sus “engendrados” fueran
-sostenidos materialmente. Como la mujer se ha movido hacia el libre ejercicio de sus
-cualidades positivas desde que el proceso de re-polarización se puso en vigor en el último
-siglo y medio aproximadamente, nosotros reconocemos ahora que el varón tiene octavas
-más altas que cumplir como padre; la psicología ha refutado el viejo “dicho” que la crianza
-del niño es principalmente tarea de la madre; nosotros sabemos ahora por nuestro
-reconocimiento de los principios de la paternidad o maternidad que la Sabiduría Amorosa
-del padre es absolutamente tan importante y tan necesaria para el cumplimiento de la
-responsabilidad de los padres. Sagitario, el tercer signo de fuego y aspecto de Sabiduría del
-trino masculino-varón, es el duodécimo signo de la casa de Capricornio: Se ve que el
-aspecto de Sabiduría del varón es la redención por medio de la cual ejercita sus
-potencialidades espirituales en el patrón de experiencia de la paternidad. El “hacer dinero”
-parece que es el único factor por el cual el varón expresa su amor a sus hijos; “formar
-mentes, formar corazones, formar espíritu y comprensión” se ve que es el ideal de padre
-como un factor en su experiencia con sus hijos.
+Tauro, el Principio de “mayordomía de la Forma”, es el segundo aspecto o aspecto amoroso del trino de Tierra iniciado por Capricornio. El “ganarse la vida” ha sido (en su mayor parte) la forma principal en que el varón ha expresado su potencialidad Amorosa durante largo tiempo. Su responsabilidad como padre, era trabajar y ganar para que sus “amados” y sus “engendrados” fueran sostenidos materialmente. Como la mujer se ha movido hacia el libre ejercicio de sus cualidades positivas desde que el proceso de re-polarización se puso en vigor en el último siglo y medio aproximadamente, nosotros reconocemos ahora que el varón tiene octavas más altas que cumplir como padre; la psicología ha refutado el viejo “dicho” que la crianza del niño es principalmente tarea de la madre; nosotros sabemos ahora por nuestro reconocimiento de los principios de la paternidad o maternidad que la Sabiduría Amorosa del padre es absolutamente tan importante y tan necesaria para el cumplimiento de la responsabilidad de los padres. Sagitario, el tercer signo de fuego y aspecto de Sabiduría del trino masculino-varón, es el duodécimo signo de la casa de Capricornio: Se ve que el aspecto de Sabiduría del varón es la redención por medio de la cual ejercita sus potencialidades espirituales en el patrón de experiencia de la paternidad. El “hacer dinero” parece que es el único factor por el cual el varón expresa su amor a sus hijos; “formar mentes, formar corazones, formar espíritu y comprensión” se ve que es el ideal de padre como un factor en su experiencia con sus hijos.
 
-Venus como regente de Libra y complemento de Marte-Aries, es el “engendrado
-femenino” de padre-madre Saturno/Luna. Su cumplimiento en la maternidad está
-demostrado por Cáncer como signo de su décima casa - así como Capricornio lo está para
-Marte -; pero en los patrones femeninos las exaltaciones son llevadas a cabo diferentemente
-que las masculinas. (Incidentalmente, en el horóscopo de una mujer su Venus da la clave
-vibratoria básica de cómo ella tiende a sentirse acerca de sí misma como esposa. En un
-mapa masculino Marte designa cómo se siente el hombre acerca de sí mismo como
-marido).
+Venus como regente de Libra y complemento de Marte-Aries, es el “engendrado femenino” de padre-madre Saturno/Luna. Su cumplimiento en la maternidad está demostrado por Cáncer como signo de su décima casa - así como Capricornio lo está para Marte -; pero en los patrones femeninos las exaltaciones son llevadas a cabo diferentemente que las masculinas. (Incidentalmente, en el horóscopo de una mujer su Venus da la clave vibratoria básica de cómo ella tiende a sentirse acerca de sí misma como esposa. En un mapa masculino Marte designa cómo se siente el hombre acerca de sí mismo como marido).
 
-Libra, signo de Venus, es el punto de exaltación de Saturno, símbolo del padre; y
-Libra es el propio signo de la décima casa de Saturno. La “madurez” de la vibración del
-padre se halla en el refinamiento y la delicadeza de la vibración de Venus, más la cualidad
-de balance que está implicada por la vibración armonizad ora del “amable planeta”. El
-padre como varón debe reconocer el valor de la vibración femenina cultivada como un
-equilibrio de su propia cualidad; cuando su propia potencialidad femenina es utilizada en su
-experiencia de paternidad, él percibe comprensivamente los requisitos femeninos “de
-aquella a quien ha engendrado”; utilizar solamente sus cualidades masculinas de
-sentimiento y percepción significaría un complemento demasiado total con el femenino
-engendrado; habría una falta de percepción balanceada.
+Libra, signo de Venus, es el punto de exaltación de Saturno, símbolo del padre; y Libra es el propio signo de la décima casa de Saturno. La “madurez” de la vibración del padre se halla en el refinamiento y la delicadeza de la vibración de Venus, más la cualidad de balance que está implicada por la vibración armonizad ora del “amable planeta”. El padre como varón debe reconocer el valor de la vibración femenina cultivada como un equilibrio de su propia cualidad; cuando su propia potencialidad femenina es utilizada en su experiencia de paternidad, él percibe comprensivamente los requisitos femeninos “de aquella a quien ha engendrado”; utilizar solamente sus cualidades masculinas de sentimiento y percepción significaría un complemento demasiado total con el femenino engendrado; habría una falta de percepción balanceada.
 
-La Luna encuentra su madurez vibratoria en Tauro, el otro signo de Venus, su
-propia casa undécima. El patrón de “signo undécimo” transmite la cualidad de Acuario (el
-undécimo signo zodiacal) y las palabras-clave “individualidad” y “liberación” representan
-la exaltación del principio maternal cuando ella reconoce y aprecia la individualidad de
-aquello que ella ha engendrado y libera al engendrado a su cumplimiento único. La
-“madre” que congestiona en la crianza y protección del engendrado no conoce la necesidad
-de éste, para su propio desenvolvimiento, desarrollo y ejercicio de sus potencialidades.
-Pero, con una apreciación y perspectiva de la individualidad del engendrado ella cumple su
-labor natural, guía y protección, por la libertad amorosa del engendrado de buscar sus
-propios niveles de idealidad y cumplimiento. Así como Saturno encuentra su madurez
-vibratoria a través de la influencia refinadora de Libra, así también Júpiter - como regente
-del “signo regenerador” de Saturno, Sagitario - encuentra su madurez en la cualidad de
-respuesta simpática de su signo de exaltación, Cáncer, el signo de la madre. Aquí la
-naturaleza masculina expresa su potencialidad para la ternura protectora y la compasión
-hacia el engendrado. La sabiduría interna del padre es ampliada y completada aquí por la
-percepción y la respuesta emocional y sensible de la potencialidad maternal y su
-masculinidad esencial es complementada por su propia necesidad de expresar el compuesto
-de su sabiduría y sentimiento.
+La Luna encuentra su madurez vibratoria en Tauro, el otro signo de Venus, su propia casa undécima. El patrón de “signo undécimo” transmite la cualidad de Acuario (el undécimo signo zodiacal) y las palabras-clave “individualidad” y “liberación” representan la exaltación del principio maternal cuando ella reconoce y aprecia la individualidad de aquello que ella ha engendrado y libera al engendrado a su cumplimiento único. La “madre” que congestiona en la crianza y protección del engendrado no conoce la necesidad de éste, para su propio desenvolvimiento, desarrollo y ejercicio de sus potencialidades. Pero, con una apreciación y perspectiva de la individualidad del engendrado ella cumple su labor natural, guía y protección, por la libertad amorosa del engendrado de buscar sus propios niveles de idealidad y cumplimiento. Así como Saturno encuentra su madurez vibratoria a través de la influencia refinadora de Libra, así también Júpiter - como regente del “signo regenerador” de Saturno, Sagitario - encuentra su madurez en la cualidad de respuesta simpática de su signo de exaltación, Cáncer, el signo de la madre. Aquí la naturaleza masculina expresa su potencialidad para la ternura protectora y la compasión hacia el engendrado. La sabiduría interna del padre es ampliada y completada aquí por la percepción y la respuesta emocional y sensible de la potencialidad maternal y su masculinidad esencial es complementada por su propia necesidad de expresar el compuesto de su sabiduría y sentimiento.
 
-Venus encuentra su madurez en una octava que es mucho más alta que la mera
-actuación como un complemento y reflector de la vibración Marciana de Aries. Su
-exaltación es Piscis - el aspecto de Sagitario inspirado del trino de agua, el cual se inicia por
-el principio maternal, la Luna, a través del signo de Cáncer -. Piscis es el hogar de Neptuno,
-el principio de la idealidad misma, la “super-madre”, la octava “toda abarcadura, toda
-protectora, toda redentora” del principio maternal. Piscis, signo de la duodécima casa de la
-faja zodiacal es el residuo de ideales irrealizados que hace necesaria la nueva encarnación.
-Es el símbolo de la redención humana por la octava más alta de su conciencia y puesto que
-la dignidad cardinal de Venus es la casa del complemento y el signo del equilibrio, Libra,
-vemos que el perfecto cumplimiento de los patrones de relación humanos y la expresión
-ideal de las cualidades genéricas de nuestra naturaleza vibratoria, es la redención del
-mundo. Cuando nosotros percibimos la potencialidad perfecta de los elementos masculinos
-y femeninos en todo ser humano eso significa que nosotros hemos purificado nuestra
-conciencia de cuadros negros de pecado, crimen, enfermedad, temor y fealdad. Venus a
-través de su madurez en Piscis es la realización perfecta de la perfecta reflexión de Dios
-padre-madre en todo ser humano.
+Venus encuentra su madurez en una octava que es mucho más alta que la mera actuación como un complemento y reflector de la vibración Marciana de Aries. Su exaltación es Piscis - el aspecto de Sagitario inspirado del trino de agua, el cual se inicia por el principio maternal, la Luna, a través del signo de Cáncer -. Piscis es el hogar de Neptuno, el principio de la idealidad misma, la “super-madre”, la octava “toda abarcadura, toda protectora, toda redentora” del principio maternal. Piscis, signo de la duodécima casa de la faja zodiacal es el residuo de ideales irrealizados que hace necesaria la nueva encarnación. Es el símbolo de la redención humana por la octava más alta de su conciencia y puesto que la dignidad cardinal de Venus es la casa del complemento y el signo del equilibrio, Libra, vemos que el perfecto cumplimiento de los patrones de relación humanos y la expresión ideal de las cualidades genéricas de nuestra naturaleza vibratoria, es la redención del mundo. Cuando nosotros percibimos la potencialidad perfecta de los elementos masculinos y femeninos en todo ser humano eso significa que nosotros hemos purificado nuestra conciencia de cuadros negros de pecado, crimen, enfermedad, temor y fealdad. Venus a través de su madurez en Piscis es la realización perfecta de la perfecta reflexión de Dios padre-madre en todo ser humano.
 
-Los procesos evolutivos tarde o temprano conducen a todos los seres humanos hacia
-la fraternidad con personas que están funcionando en todos los otros patrones; el “hijo” se
-convierte en “marido-padre” - en fraternidad con todos los otros maridos y padres -; la clase
-de padre a través de la cual él reencarnará la próxima vez dependerá de cómo él cumpla su
-patrón de responsabilidad en esta vida. En resumen, nosotros, cada uno de nosotros,
-llevamos dentro de nosotros mismos un ideal de cada patrón de relación básico; cada uno y
-cada una es su propio marido/mujer, padre/madre, hermano/hermana e hijo/hija. Nuestras
-experiencias en nuestros ciclos de encarnaciones tienen el propósito de realizar, de hacer
-reales, estos cuadros ideales mediante la manifestación de nuestra cualidad ideal de los
-poderes genéricos; la finalidad en perspectiva es la realización del ideal humano - la
-manifestación de la idea humana perfecta.
+Los procesos evolutivos tarde o temprano conducen a todos los seres humanos hacia la fraternidad con personas que están funcionando en todos los otros patrones; el “hijo” se convierte en “marido-padre” - en fraternidad con todos los otros maridos y padres -; la clase de padre a través de la cual él reencarnará la próxima vez dependerá de cómo él cumpla su patrón de responsabilidad en esta vida. En resumen, nosotros, cada uno de nosotros, llevamos dentro de nosotros mismos un ideal de cada patrón de relación básico; cada uno y cada una es su propio marido/mujer, padre/madre, hermano/hermana e hijo/hija. Nuestras experiencias en nuestros ciclos de encarnaciones tienen el propósito de realizar, de hacer reales, estos cuadros ideales mediante la manifestación de nuestra cualidad ideal de los poderes genéricos; la finalidad en perspectiva es la realización del ideal humano - la manifestación de la idea humana perfecta.
 
 ### <h3 id="chapter-8">Capítulo VIII: Resumen del Horóscopo</h3>
 
-Este acercamiento de “resumir” un horóscopo es presentado con la esperanza que
-servirá de ayuda a los estudiantes para esclarecer y enfocar su comprensión de los
-elementos que comprenden la estructura del horóscopo. Nosotros sabemos que un
-horóscopo es un cuadro simbólico de la conciencia humana tal como se expresa en la
-dimensión triuna de la encarnación; es también un cuadro de principios cósmicos así como
-ellos se manifiestan a través de la entidad llamada Humanidad. Estos principios son,
-combinadamente, la Vida del Universo, ellos se manifiestan en todos los mundos y en
-todos los planos.
+Este acercamiento de “resumir” un horóscopo es presentado con la esperanza que servirá de ayuda a los estudiantes para esclarecer y enfocar su comprensión de los elementos que comprenden la estructura del horóscopo. Nosotros sabemos que un horóscopo es un cuadro simbólico de la conciencia humana tal como se expresa en la dimensión triuna de la encarnación; es también un cuadro de principios cósmicos así como ellos se manifiestan a través de la entidad llamada Humanidad. Estos principios son, combinadamente, la Vida del Universo, ellos se manifiestan en todos los mundos y en todos los planos.
 
-La astrología representa la “Fraternidad Humana” en el sentido de que todos los
-elementos horoscópicos son comunes a todos los horóscopos humanos; todos tienen el Sol,
-la Luna, ocho planetas, y así sucesivamente. Todo horóscopo es construido mediante los
-mismos patrones de cálculo, que son esencialmente los elementos siderales y zodiacales
-traducidos con respecto al lugar y la hora de la encarnación. En otras palabras, nosotros
-estamos hechos del mismo material vibratorio; diferimos solamente en nuestras
-circunstancias individuales como variaciones del gran horóscopo abstracto, el patrón
-horoscópico básico.
+La astrología representa la “Fraternidad Humana” en el sentido de que todos los elementos horoscópicos son comunes a todos los horóscopos humanos; todos tienen el Sol, la Luna, ocho planetas, y así sucesivamente. Todo horóscopo es construido mediante los mismos patrones de cálculo, que son esencialmente los elementos siderales y zodiacales traducidos con respecto al lugar y la hora de la encarnación. En otras palabras, nosotros estamos hechos del mismo material vibratorio; diferimos solamente en nuestras circunstancias individuales como variaciones del gran horóscopo abstracto, el patrón horoscópico básico.
 
-La estructura de este patrón es un círculo activado por dos diámetros, uno vertical,
-el otro horizontal; estas líneas forman combinadamente, cada una, dos pares de dos
-semicírculos y cuatro cuadrantes. Los cuadrantes en cambio, son activados por la división
-de tres partes iguales; por lo tanto se ve que la “Vida” del círculo es duo-décupla; estas
-doce casas de treinta grados cada una son los departamentos de experiencia por los cuales y
-en los cuales se origina la evolución humana. Este diseño estructural es estático; no cambia
-porque él es la armazón en la cual y a través de la cual se verifica la vida vibratoria del
-horóscopo.
+La estructura de este patrón es un círculo activado por dos diámetros, uno vertical, el otro horizontal; estas líneas forman combinadamente, cada una, dos pares de dos semicírculos y cuatro cuadrantes. Los cuadrantes en cambio, son activados por la división de tres partes iguales; por lo tanto se ve que la “Vida” del círculo es duo-décupla; estas doce casas de treinta grados cada una son los departamentos de experiencia por los cuales y en los cuales se origina la evolución humana. Este diseño estructural es estático; no cambia porque él es la armazón en la cual y a través de la cual se verifica la vida vibratoria del horóscopo.
 
-La esencia vibratoria del gran horóscopo abstracto se obtiene por la ubicación de los
-símbolos zodiacales fuera del círculo, de tal manera que el cero de cada signo caiga sobre
-una de las doce cúspides; cero de Aries coincide con la cúspide de la primera casa (el
-Ascendente), cero de Tauro en la segunda cúspide, cero de Géminis en la tercera y así
-sucesivamente alrededor de la rueda. El orden de los signos es invariable: Leo siempre
-sigue a Cáncer, Capricornio siempre sigue a Sagitario, etc.
+La esencia vibratoria del gran horóscopo abstracto se obtiene por la ubicación de los símbolos zodiacales fuera del círculo, de tal manera que el cero de cada signo caiga sobre una de las doce cúspides; cero de Aries coincide con la cúspide de la primera casa (el Ascendente), cero de Tauro en la segunda cúspide, cero de Géminis en la tercera y así sucesivamente alrededor de la rueda. El orden de los signos es invariable: Leo siempre sigue a Cáncer, Capricornio siempre sigue a Sagitario, etc.
 
-La magnitud de esfera indicada por este patrón se ve cuando nosotros reconocemos
-la razón para colocar los símbolos de los signos zodiacales fuera de la rueda; ellos son
-cósmicos – universales - los niveles y reinos que no son “simplemente sistema solar”, sino
-que pertenecen a realizaciones de expresiones de Vida en evolución. Ellos operan en la
-humanidad desde el Gran Exterior; nosotros somos sus medios o instrumentos de
-expresión en esta posición planetaria particular. El colocar los símbolos zodiacales dentro
-de la rueda implicaría que la conciencia de Dios no está relacionada con los Principios de
-Vida del universo en conjunto; los principios expresados entonces representarían algo
-perteneciente solamente a la expresión humana de la vida.
+La magnitud de esfera indicada por este patrón se ve cuando nosotros reconocemos la razón para colocar los símbolos de los signos zodiacales fuera de la rueda; ellos son cósmicos – universales - los niveles y reinos que no son “simplemente sistema solar”, sino que pertenecen a realizaciones de expresiones de Vida en evolución. Ellos operan en la humanidad desde el Gran Exterior; nosotros somos sus medios o instrumentos de expresión en esta posición planetaria particular. El colocar los símbolos zodiacales dentro de la rueda implicaría que la conciencia de Dios no está relacionada con los Principios de Vida del universo en conjunto; los principios expresados entonces representarían algo perteneciente solamente a la expresión humana de la vida.
 
-La expresión, en términos humanos, de estos signos zodiacales se encuentra en la
-ubicación de los símbolos planetarios dentro de la rueda. La vida interior de la conciencia
-humana es representada de ese modo por los patrones de los planetas en su mutua relación
-y la activación rítmica, cíclica de esos patrones. El cinturón de los signos zodiacales es
-análogo a los cuerpos etéricos que forman la matriz de nuestro cuerpo físico; la estructura
-de la casa de la rueda es análoga al cuerpo físico denso mismo; los planetas dentro de la
-rueda en conjunto son análogos a la vida celular y orgánica del cuerpo como una expresión
-específica de la Vida. Luego, si la humanidad (la entidad humana) es una expresión
-específica de vida, ella es un arquetipo; nosotros, como entidades humanas individuales,
-somos expresiones de la “variación del arquetipo”. Nuestro estado individual como una
-variación de nuestro arquetipo en un momento dado de nuestra evolución es una variación
-específica del horóscopo que forma el arquetipo de ésta encarnación; nuestro horóscopo
-natal a su vez es una expresión momentánea de los elementos abstractos que comprenden el
-diseño vibratorio total - el Gran Horóscopo Abstracto - que es el Horóscopo de la
-Humanidad. Se hace por medio de Una rueda con las casas numeradas; los signos
-colocados apropiadamente, comenzando con cero de Aries en la primera cúspide; los
-símbolos de los planetas colocados en las casas y signos de su dignidad.
+La expresión, en términos humanos, de estos signos zodiacales se encuentra en la ubicación de los símbolos planetarios dentro de la rueda. La vida interior de la conciencia humana es representada de ese modo por los patrones de los planetas en su mutua relación y la activación rítmica, cíclica de esos patrones. El cinturón de los signos zodiacales es análogo a los cuerpos etéricos que forman la matriz de nuestro cuerpo físico; la estructura de la casa de la rueda es análoga al cuerpo físico denso mismo; los planetas dentro de la rueda en conjunto son análogos a la vida celular y orgánica del cuerpo como una expresión específica de la Vida. Luego, si la humanidad (la entidad humana) es una expresión específica de vida, ella es un arquetipo; nosotros, como entidades humanas individuales, somos expresiones de la “variación del arquetipo”. Nuestro estado individual como una variación de nuestro arquetipo en un momento dado de nuestra evolución es una variación específica del horóscopo que forma el arquetipo de ésta encarnación; nuestro horóscopo natal a su vez es una expresión momentánea de los elementos abstractos que comprenden el diseño vibratorio total - el Gran Horóscopo Abstracto - que es el Horóscopo de la Humanidad. Se hace por medio de Una rueda con las casas numeradas; los signos colocados apropiadamente, comenzando con cero de Aries en la primera cúspide; los símbolos de los planetas colocados en las casas y signos de su dignidad.
 
-Se sugiere aquí y ahora, a todo Astro-Filósofo que lea este material, que tenga a
-mano una copia limpia y bien hecha del Gran Horóscopo Abstracto para la meditación
-diaria. Una impresión renovada continuamente del significado vibratorio evolutivo de cada
-factor en este diseño proporciona un recordatorio continuo de los propósitos espirituales del
-estudio astro-filosófico. Esta meditación impresiona la mente con: Patrón y forma; orden;
-arquetipo; unidad que se expresa por la diversidad; polaridad; y sexualidad vibratoria. Ella
-también hace una impresión profunda en la conciencia amorosa porque representa la
-hermandad de todos los hombres y de todas las mujeres entre sí. La meditación sobre este
-mándala es un ejercicio devocional de gran poder porque abre la conciencia del astro-
-filósofo que la sigue y la practica con una “elevación” que tiene gran efecto regenerador. El
-Gran Horóscopo Abstracto no hace referencia alguna a los aspectos - buenos, malos o
-indiferentes -. Nada tiene que decir acerca de karma bueno o de karma malo, de días
-afortunados o desafortunados, varones y hembras, enemigos declarados u ocultos, etc. Es
-simplemente un retrato vibratorio simbólico de la humanidad revelando su Yo Ideal en
-símbolos.
-La evolución es representada en la rueda astrológica por medio de una línea desde la
-cúspide de la primera casa - el Ascendente - en sentido contrario a las agujas del reloj a
-través de la rueda y de nuevo al Ascendente. Debido a que nosotros utilizamos una
-superficie plana en el diseño horoscópico, esta línea aparece como un círculo - volviendo
-aparentemente al mismo punto donde empezó -. Nosotros debemos comprender que si una
-vida está evolucionando, el cuadro debe representar el hacia arriba, hacia adelante, para
-siempre; por consiguiente, nosotros reconocemos que la superficie plana de la rueda es en
-sí misma una abstracción de un concepto tri-dimensional. La superficie plana representada
-por una rueda astrológica es realmente una sección transversal de una esfera que ha sido
-cortada por el centro; representa el espacio, no solo norte, sud, este y oeste del lugar de
-nacimiento en la superficie de la tierra, sino también, sobre y debajo del lugar de
-nacimiento. Esta es la representación física; la acción de la rueda es representada en
-símbolo abstracto por la espiral; esta espiral no aparece en la superficie bi-dimensional de
-la rueda, pero los Astro-Filósofos saben que la línea que comienza en el Ascendente y que
-recorre a través de la rueda y de nuevo al Ascendente, es realmente el tránsito a través de
-un ciclo evolutivo en el cual se efectúa el desenvolvimiento espiritual; cuando la línea
-circular vuelve al punto Ascendente ella ha alcanzado un nivel más alto y comienza el ciclo
-siguiente desde ese punto. El punto de arranque de cada círculo tiene que ser representado
-sobre la superficie del papel en que se traza la rueda a fin de presentar el cuadro del
-concepto tri-dimensional de la elevación cíclica a más y más altos niveles.
-Puesto que una superficie plana de dos dimensiones es nuestro medio de
-representación simbólica, nosotros no creamos un símbolo tri-dimensional; el símbolo
-tridimensional es representado abstractamente por el voltear continuo alrededor de la rueda
-bi-dimensional. Un “simple astrólogo” puede estar satisfecho de pensar “bi-
-dimensionalmente”; pero un Astro-Filósofo interpreta el horóscopo dinámicamente, en
-concepto de la representación de los procesos de vida por el símbolo horoscópico. Esta
-“espiralización” será impresa fuertemente en su mente si usted trata el siguiente
-experimento simple: Coloque la punta de su lápiz en el punto donde la línea del Ascendente
-forma conjunción con la circunferencia de la rueda; deje moverse la punta del lápiz
-alrededor de la circunferencia de la rueda en tal forma que en las cúspides de la cuarta,
-séptima y décima casas, se eleve un poquito cada vez, sobre la superficie del papel; cuando
-vuelve al punto del Ascendente después de voltear la rueda la punta del lápiz estará, por
-ejemplo cerca de una pulgada sobre el papel; levante el papel de modo que la superficie
-toque la punta del lápiz. Si fuera posible sostener el papel firme usted podría por segunda
-vez voltear la rueda en la misma forma y levantarla nuevamente una pulgada más o menos.
-Esta es una representación tri-dimensional de la rueda, la cual presenta a nuestras mentes el
-proceso evolutivo que está representado abstractamente por la rueda bi-dimensional. 
+Se sugiere aquí y ahora, a todo Astro-Filósofo que lea este material, que tenga a mano una copia limpia y bien hecha del Gran Horóscopo Abstracto para la meditación diaria. Una impresión renovada continuamente del significado vibratorio evolutivo de cada factor en este diseño proporciona un recordatorio continuo de los propósitos espirituales del estudio astro-filosófico. Esta meditación impresiona la mente con: Patrón y forma; orden; arquetipo; unidad que se expresa por la diversidad; polaridad; y sexualidad vibratoria. Ella también hace una impresión profunda en la conciencia amorosa porque representa la hermandad de todos los hombres y de todas las mujeres entre sí. La meditación sobre este mándala es un ejercicio devocional de gran poder porque abre la conciencia del astro- filósofo que la sigue y la practica con una “elevación” que tiene gran efecto regenerador. El Gran Horóscopo Abstracto no hace referencia alguna a los aspectos - buenos, malos o indiferentes -. Nada tiene que decir acerca de karma bueno o de karma malo, de días afortunados o desafortunados, varones y hembras, enemigos declarados u ocultos, etc. Es simplemente un retrato vibratorio simbólico de la humanidad revelando su Yo Ideal en símbolos. La evolución es representada en la rueda astrológica por medio de una línea desde la cúspide de la primera casa - el Ascendente - en sentido contrario a las agujas del reloj a través de la rueda y de nuevo al Ascendente. Debido a que nosotros utilizamos una superficie plana en el diseño horoscópico, esta línea aparece como un círculo - volviendo aparentemente al mismo punto donde empezó -. Nosotros debemos comprender que si una vida está evolucionando, el cuadro debe representar el hacia arriba, hacia adelante, para siempre; por consiguiente, nosotros reconocemos que la superficie plana de la rueda es en sí misma una abstracción de un concepto tri-dimensional. La superficie plana representada por una rueda astrológica es realmente una sección transversal de una esfera que ha sido cortada por el centro; representa el espacio, no solo norte, sud, este y oeste del lugar de nacimiento en la superficie de la tierra, sino también, sobre y debajo del lugar de nacimiento. Esta es la representación física; la acción de la rueda es representada en símbolo abstracto por la espiral; esta espiral no aparece en la superficie bi-dimensional de la rueda, pero los Astro-Filósofos saben que la línea que comienza en el Ascendente y que recorre a través de la rueda y de nuevo al Ascendente, es realmente el tránsito a través de un ciclo evolutivo en el cual se efectúa el desenvolvimiento espiritual; cuando la línea circular vuelve al punto Ascendente ella ha alcanzado un nivel más alto y comienza el ciclo siguiente desde ese punto. El punto de arranque de cada círculo tiene que ser representado sobre la superficie del papel en que se traza la rueda a fin de presentar el cuadro del concepto tri-dimensional de la elevación cíclica a más y más altos niveles. Puesto que una superficie plana de dos dimensiones es nuestro medio de representación simbólica, nosotros no creamos un símbolo tri-dimensional; el símbolo tridimensional es representado abstractamente por el voltear continuo alrededor de la rueda bi-dimensional. Un “simple astrólogo” puede estar satisfecho de pensar “bi- dimensionalmente”; pero un Astro-Filósofo interpreta el horóscopo dinámicamente, en concepto de la representación de los procesos de vida por el símbolo horoscópico. Esta “espiralización” será impresa fuertemente en su mente si usted trata el siguiente experimento simple: Coloque la punta de su lápiz en el punto donde la línea del Ascendente forma conjunción con la circunferencia de la rueda; deje moverse la punta del lápiz alrededor de la circunferencia de la rueda en tal forma que en las cúspides de la cuarta, séptima y décima casas, se eleve un poquito cada vez, sobre la superficie del papel; cuando vuelve al punto del Ascendente después de voltear la rueda la punta del lápiz estará, por ejemplo cerca de una pulgada sobre el papel; levante el papel de modo que la superficie toque la punta del lápiz. Si fuera posible sostener el papel firme usted podría por segunda vez voltear la rueda en la misma forma y levantarla nuevamente una pulgada más o menos. Esta es una representación tri-dimensional de la rueda, la cual presenta a nuestras mentes el proceso evolutivo que está representado abstractamente por la rueda bi-dimensional. 
 
-La
-acción espiral alrededor de la rueda no sólo representa el recorrido de una conciencia
-humana a través de los capítulos de experiencia en diferentes niveles, sino que también
-representa el patrón abstracto del recorrido de cada planeta desde el signo de su dignidad a
-través de los doce signos zodiacales; el signo de dignidad de cada planeta - en relación con
-el planeta - es análogo al Ascendente en su relación con la rueda; cada una es un punto de
-partida para una jornada cíclica de experiencia y de conciencia. El Ascendente (punto de
-arranque) de la rueda es también análogo a la conjunción de los dos planetas que, como está
-indicado por este aspecto, están comenzando un ciclo de patrones de relación entre sí. Así,
-vemos que el círculo de la rueda es en sí mismo, una abstracción del movimiento orbital
-que ocurre dentro de la rueda en las relaciones mutuas hechas por los planetas entre sí y con
-la estructura de la rueda y con el cinturón zodiacal afuera.
+La acción espiral alrededor de la rueda no sólo representa el recorrido de una conciencia humana a través de los capítulos de experiencia en diferentes niveles, sino que también representa el patrón abstracto del recorrido de cada planeta desde el signo de su dignidad a través de los doce signos zodiacales; el signo de dignidad de cada planeta - en relación con el planeta - es análogo al Ascendente en su relación con la rueda; cada una es un punto de partida para una jornada cíclica de experiencia y de conciencia. El Ascendente (punto de arranque) de la rueda es también análogo a la conjunción de los dos planetas que, como está indicado por este aspecto, están comenzando un ciclo de patrones de relación entre sí. Así, vemos que el círculo de la rueda es en sí mismo, una abstracción del movimiento orbital que ocurre dentro de la rueda en las relaciones mutuas hechas por los planetas entre sí y con la estructura de la rueda y con el cinturón zodiacal afuera.
 
-El primer paso para abstracción de su horóscopo natal es hacer una rueda con 30° de
-cada signo para cada casa comenzando con Aries en el Ascendente. (Esto es por supuesto,
-la ubicación del signo del Gran Horóscopo Abstracto). Entonces, sin usar el número de
-grados coloque su Sol, su Luna, y los planetas en el orden apropiado de acuerdo con su
-ubicación en su mapa, en esta rueda - todos los planetas en Aries estarán en la primera casa,
-todos los planetas en Virgo en la sexta casa, todos los planetas en Acuario en la undécima
-casa, etc.-. No está indicado aún ningún aspecto entre los planetas. Estudie esta rueda en
-términos de la agrupación de los planetas en cuadrantes y triplicidades, de su relación con
-los semicírculos inferiores y superiores y los semicírculos orientales y occidentales; de su
-relación con los signos de su dignidad para determinar cuánto han recorrido en su tránsito a
-través de los signos. Por ejemplo, la Luna en Libra está en el signo de su propia cuarta casa
-- su dignidad, Cáncer es uno, Leo es dos, Virgo es tres y Libra es cuatro -. Ella tiene en esta
-posición una relación de cuarta casa con su propia dignidad. Venus en Capricornio está en
-su propio signo de la cuarta casa desde su dignidad en Libra, y su propio signo de la novena
-casa desde su dignidad en Tauro. Mercurio en Aries está en su propio signo de la octava
-casa desde su dignidad en Virgo y en su propio signo de la undécima casa desde su
-dignidad en Géminis. Interprete estas ubicaciones cíclicas por palabras-clave de acuerdo
-con el signo de la casa representado. Anote todos sus planetas en esta forma, en su síntesis
-establezca siempre un orden y patrón.
+El primer paso para abstracción de su horóscopo natal es hacer una rueda con 30° de cada signo para cada casa comenzando con Aries en el Ascendente. (Esto es por supuesto, la ubicación del signo del Gran Horóscopo Abstracto). Entonces, sin usar el número de grados coloque su Sol, su Luna, y los planetas en el orden apropiado de acuerdo con su ubicación en su mapa, en esta rueda - todos los planetas en Aries estarán en la primera casa, todos los planetas en Virgo en la sexta casa, todos los planetas en Acuario en la undécima casa, etc.-. No está indicado aún ningún aspecto entre los planetas. Estudie esta rueda en términos de la agrupación de los planetas en cuadrantes y triplicidades, de su relación con los semicírculos inferiores y superiores y los semicírculos orientales y occidentales; de su relación con los signos de su dignidad para determinar cuánto han recorrido en su tránsito a través de los signos. Por ejemplo, la Luna en Libra está en el signo de su propia cuarta casa - su dignidad, Cáncer es uno, Leo es dos, Virgo es tres y Libra es cuatro -. Ella tiene en esta posición una relación de cuarta casa con su propia dignidad. Venus en Capricornio está en su propio signo de la cuarta casa desde su dignidad en Libra, y su propio signo de la novena casa desde su dignidad en Tauro. Mercurio en Aries está en su propio signo de la octava casa desde su dignidad en Virgo y en su propio signo de la undécima casa desde su dignidad en Géminis. Interprete estas ubicaciones cíclicas por palabras-clave de acuerdo con el signo de la casa representado. Anote todos sus planetas en esta forma, en su síntesis establezca siempre un orden y patrón.
 
-El siguiente paso es crear otra rueda semejante; pero
-ésta debe incluir los números pertenecientes a los grados de los signos en las cúspides y el
-grado y minuto de ubicación de los planetas de acuerdo con su mapa. (En un horóscopo sin
-signos interceptados, simplemente voltee el mapa de modo que la cúspide de Aries se
-convierta en el Ascendente y usted tiene el mismo cuadro; sin embargo, la segunda rueda le
-permite insertar los símbolos y grados para que se puedan leer fácilmente). Un horóscopo
-con signos interceptados tiene simplemente cero de esos signos en la cúspide apropiada. El
-asunto es que la ubicación de los signos en su horóscopo abstracto debe coincidir - en
-patrón - con el Gran Horóscopo Abstracto; cada casa debe ser cobijada por su signo
-apropiado. La segunda rueda ahora representa:
+El siguiente paso es crear otra rueda semejante; pero ésta debe incluir los números pertenecientes a los grados de los signos en las cúspides y el grado y minuto de ubicación de los planetas de acuerdo con su mapa. (En un horóscopo sin signos interceptados, simplemente voltee el mapa de modo que la cúspide de Aries se convierta en el Ascendente y usted tiene el mismo cuadro; sin embargo, la segunda rueda le permite insertar los símbolos y grados para que se puedan leer fácilmente). Un horóscopo con signos interceptados tiene simplemente cero de esos signos en la cúspide apropiada. El asunto es que la ubicación de los signos en su horóscopo abstracto debe coincidir - en patrón - con el Gran Horóscopo Abstracto; cada casa debe ser cobijada por su signo apropiado. La segunda rueda ahora representa:
 
-Su horóscopo despojado de las complejidades de la encarnación; es su conciencia
-vibratoria - prescindiendo de su sexo físico y todas sus complicaciones correspondientes -.
-Esta abstracción de su horóscopo natal cuenta la historia de su perspectiva vibratoria de los
-capítulos básicos de la experiencia humana y cada casa es interpretada por las palabras-
-clave básicas del planeta que las rige abstractamente. Por lo tanto la segunda y séptima
-casas de todo horóscopo abstracto están regidas por Venus - el principio del equilibrio y el
-intercambio perfecto; Marte como el regente de Aries es el regente de todo horóscopo
-abstracto - la palabra clave básica de interpretación es conciencia propia, el punto que inicia
-todo ciclo de experiencia. Y así sucesivamente con los otros; la Luna es la Madre, Saturno
-es el Padre; Marte es el nativo, Venus es su complemento; el Sol, como regente de la quinta
-casa a través de Leo, es el poder de voluntad y el poder del amor; Urano, como regente de
-la undécima a través de Acuario es el amor impersonal y el principio contra la
-cristalización, análogo a la relación del aspecto sextil entre planetas; Neptuno, como
-regente de la duodécima casa a través de Piscis es el principio de la redención por medio de
-la encarnación; en el horóscopo abstracto su ubicación es enfocada donde nosotros
-debemos aprender a armonizarnos con los poderes espirituales y los cuadros ideales a fin de
-liberar las imágenes de egoísmo acumuladas a través de la encarnación previa; Júpiter es el
-maestro, la conciencia religiosa o filosófica, el principio del mejoramiento por medio del
-desenvolvimiento de la comprensión; Plutón es el enfoque de los recursos profundos de la
-naturaleza del deseo, el impulso sexual y la fuente esencial de toda la regeneración que
-debe verificarse a través de la acción constructiva por la reorientación de la vibración de
-Marte; Mercurio como regente de la tercera casa a través de Géminis, es el símbolo esencial
-de la fraternidad básica o elemental, también de las facultades intelectuales conscientes;
-como regente de la sexta casa él es la fraternidad extendida al nivel de compañeros de
-trabajo; representa a través de la regencia de Virgo su habilidad o conciencia de trabajar y
-servir ya como labor o como expresión de liberación de la vibración de amor creador de
-Leo, de la quinta casa. El compuesto del patrón de los padres está indicado por supuesto por
-la relación y las posiciones de la Luna-Saturno, regentes de la cuarta y décima casas en el
-mapa abstracto; los dos planetas representan su conciencia esencial paternal y maternal.
+Su horóscopo despojado de las complejidades de la encarnación; es su conciencia vibratoria - prescindiendo de su sexo físico y todas sus complicaciones correspondientes -. Esta abstracción de su horóscopo natal cuenta la historia de su perspectiva vibratoria de los capítulos básicos de la experiencia humana y cada casa es interpretada por las palabras- clave básicas del planeta que las rige abstractamente. Por lo tanto la segunda y séptima casas de todo horóscopo abstracto están regidas por Venus - el principio del equilibrio y el intercambio perfecto; Marte como el regente de Aries es el regente de todo horóscopo abstracto - la palabra clave básica de interpretación es conciencia propia, el punto que inicia todo ciclo de experiencia. Y así sucesivamente con los otros; la Luna es la Madre, Saturno es el Padre; Marte es el nativo, Venus es su complemento; el Sol, como regente de la quinta casa a través de Leo, es el poder de voluntad y el poder del amor; Urano, como regente de la undécima a través de Acuario es el amor impersonal y el principio contra la cristalización, análogo a la relación del aspecto sextil entre planetas; Neptuno, como regente de la duodécima casa a través de Piscis es el principio de la redención por medio de la encarnación; en el horóscopo abstracto su ubicación es enfocada donde nosotros debemos aprender a armonizarnos con los poderes espirituales y los cuadros ideales a fin de liberar las imágenes de egoísmo acumuladas a través de la encarnación previa; Júpiter es el maestro, la conciencia religiosa o filosófica, el principio del mejoramiento por medio del desenvolvimiento de la comprensión; Plutón es el enfoque de los recursos profundos de la naturaleza del deseo, el impulso sexual y la fuente esencial de toda la regeneración que debe verificarse a través de la acción constructiva por la reorientación de la vibración de Marte; Mercurio como regente de la tercera casa a través de Géminis, es el símbolo esencial de la fraternidad básica o elemental, también de las facultades intelectuales conscientes; como regente de la sexta casa él es la fraternidad extendida al nivel de compañeros de trabajo; representa a través de la regencia de Virgo su habilidad o conciencia de trabajar y servir ya como labor o como expresión de liberación de la vibración de amor creador de Leo, de la quinta casa. El compuesto del patrón de los padres está indicado por supuesto por la relación y las posiciones de la Luna-Saturno, regentes de la cuarta y décima casas en el mapa abstracto; los dos planetas representan su conciencia esencial paternal y maternal.
 
-Cuando usted aplica los hallazgos del mapa abstracto a su mapa natal usted percibe
-el proceso oculto de su conciencia sumergida en la materia y sus patrones traducidos a sus
-requisitos para la experiencia en la encarnación. Su mapa abstracto demuestra lo que usted
-expresa en la encarnación; su mapa natal demuestra cómo interpreta su conciencia la
-encarnación y a través de qué medios de relación y experiencia ha de ser desenvuelta y
-perfeccionada esta conciencia.
+Cuando usted aplica los hallazgos del mapa abstracto a su mapa natal usted percibe el proceso oculto de su conciencia sumergida en la materia y sus patrones traducidos a sus requisitos para la experiencia en la encarnación. Su mapa abstracto demuestra lo que usted expresa en la encarnación; su mapa natal demuestra cómo interpreta su conciencia la encarnación y a través de qué medios de relación y experiencia ha de ser desenvuelta y perfeccionada esta conciencia.
 
-“Los Planetas Son Gente”: Al cultivar sus percepciones internas de las personas
-en su vida aplique los regentes de sus mapas natales al suyo y vea como aparecen ellos en
-su encarnación; entonces relacione esos puntos a su mapa abstracto y perciba su conciencia
-interna de esas personas. Cualquier persona, varón o hembra, que está identificada por el
-Saturno de usted es un factor de su imagen de padre en su conciencia; otros planetas de
-ellos en conjunción al Saturno de usted demuestran que ellos son hasta cierto grado
-subvariedades de su imagen de padre. Y así sucesivamente con los regentes y planetas de
-otras personas en conjunción con los distintos planetas de usted.
-Usted obtendrá o puede obtener una elasticidad notable de su conciencia astrológica
-por el estudio y la meditación sobre su horóscopo abstracto. Tiene un efecto maravilloso
-hacia lo impersonal en su mente y sus sentimientos, haciéndolo a usted consciente de
-patrones vibratorios, los cuales son obscurecidos por las complejidades del mapa natal solo.
-Como resultado de tal estudio y meditación usted desenvolverá otra realización
-excepcional: La vida humana como una expresión de principios estéticos de patrón, diseño,
-ritmo, color, línea - en resumen, todos los elementos esenciales que son comunes en las
-representaciones artísticas. Usted se percibirá a sí mismo esencialmente como un factor
-dinámico en la totalidad del drama, el baile y la canción de vida.
+“Los Planetas Son Gente”: Al cultivar sus percepciones internas de las personas en su vida aplique los regentes de sus mapas natales al suyo y vea como aparecen ellos en su encarnación; entonces relacione esos puntos a su mapa abstracto y perciba su conciencia interna de esas personas. Cualquier persona, varón o hembra, que está identificada por el Saturno de usted es un factor de su imagen de padre en su conciencia; otros planetas de ellos en conjunción al Saturno de usted demuestran que ellos son hasta cierto grado subvariedades de su imagen de padre. Y así sucesivamente con los regentes y planetas de otras personas en conjunción con los distintos planetas de usted. Usted obtendrá o puede obtener una elasticidad notable de su conciencia astrológica por el estudio y la meditación sobre su horóscopo abstracto. Tiene un efecto maravilloso hacia lo impersonal en su mente y sus sentimientos, haciéndolo a usted consciente de patrones vibratorios, los cuales son obscurecidos por las complejidades del mapa natal solo. Como resultado de tal estudio y meditación usted desenvolverá otra realización excepcional: La vida humana como una expresión de principios estéticos de patrón, diseño, ritmo, color, línea - en resumen, todos los elementos esenciales que son comunes en las representaciones artísticas. Usted se percibirá a sí mismo esencialmente como un factor dinámico en la totalidad del drama, el baile y la canción de vida.
 
 ### <h3 id="chapter-9">Capítulo IX: La Condensación del Horóscopo</h3>
 
-Se ha observado que la mayor parte de los estudiantes de astrología en un momento
-u otro experimentan una penosa confusión en sus esfuerzos de estudiar y analizar factores
-individuales de un mapa y tratando a la vez de relacionar esos factores con el total del
-horóscopo. Este material se ofrece con la esperanza de que servirá para enfocar sucesiones
-zodiacales en sus formaciones de cruz y trino para que los factores del mapa sean
-percibidos más claramente por su valor individual así como por su relación con el total. Dos
-hojas de papel - por lo menos del tamaño del papel corriente serán usadas para los mándalas
--.
+Se ha observado que la mayor parte de los estudiantes de astrología en un momento u otro experimentan una penosa confusión en sus esfuerzos de estudiar y analizar factores individuales de un mapa y tratando a la vez de relacionar esos factores con el total del horóscopo. Este material se ofrece con la esperanza de que servirá para enfocar sucesiones zodiacales en sus formaciones de cruz y trino para que los factores del mapa sean percibidos más claramente por su valor individual así como por su relación con el total. Dos hojas de papel - por lo menos del tamaño del papel corriente serán usadas para los mándalas -.
 
-El primer paso para la condensación será repasar lo que se ha dicho muchas veces
-en estos artículos: Existe solamente un horóscopo; un Sol, una Luna, uno de cada uno de
-los planetas, un Ascendente y un Medio Cielo, una y uno de cada una de las casas y signos
-respectivamente, una cuadratura y una oposición, una conjunción, un sextil y un trino, un
-radio y un diámetro. Todo esto es así porque hay solamente un Centro y un cumplimiento
-de las potencialidades de ese Centro.
+El primer paso para la condensación será repasar lo que se ha dicho muchas veces en estos artículos: Existe solamente un horóscopo; un Sol, una Luna, uno de cada uno de los planetas, un Ascendente y un Medio Cielo, una y uno de cada una de las casas y signos respectivamente, una cuadratura y una oposición, una conjunción, un sextil y un trino, un radio y un diámetro. Todo esto es así porque hay solamente un Centro y un cumplimiento de las potencialidades de ese Centro.
 
-El Centro es por supuesto, la idea creadora arquetípica Humanidad; del cual cada
-ser humano es una expresión especializada, encarnando por ley en la dimensión triuna de
-tiempo - espacio - polaridad. Su identidad individual en esta dimensión es doble: Sus
-incumplimientos y sus cumplimientos relativos. El propósito de la reencarnación es realizar
-la identidad perfeccionada a través del cumplimiento de todas las potencialidades. Usted es
-un vehículo individualizado de la Ley Cósmica de Causa (polaridad positiva) y Efecto
-(polaridad negativa) porque usted posee los atributos de expresar sus potencialidades
-(inaugurar causas) y de reaccionar a los efectos de las causas. La Identidad perfeccionada
-se logra por medio de los procesos de causa y reacción en consistencia con la Sabiduría
-Amorosa. Sus modulaciones evolutivas son las formas que usted elige para expresarse
-(iniciar una causa) y para reaccionar (interpretar el efecto).
+El Centro es por supuesto, la idea creadora arquetípica Humanidad; del cual cada ser humano es una expresión especializada, encarnando por ley en la dimensión triuna de tiempo - espacio - polaridad. Su identidad individual en esta dimensión es doble: Sus incumplimientos y sus cumplimientos relativos. El propósito de la reencarnación es realizar la identidad perfeccionada a través del cumplimiento de todas las potencialidades. Usted es un vehículo individualizado de la Ley Cósmica de Causa (polaridad positiva) y Efecto (polaridad negativa) porque usted posee los atributos de expresar sus potencialidades (inaugurar causas) y de reaccionar a los efectos de las causas. La Identidad perfeccionada se logra por medio de los procesos de causa y reacción en consistencia con la Sabiduría Amorosa. Sus modulaciones evolutivas son las formas que usted elige para expresarse (iniciar una causa) y para reaccionar (interpretar el efecto).
 
-Con un lado estrecho en la parte superior, divida un papel en doce secciones iguales
-- tres transversales y cuatro hacia abajo -. La línea superior es designada “Fuego”; la
-sección superior izquierda es designada “1 - Cardinal”; la del medio es “2- Fijo” y la
-sección derecha es “3- Mudable”. La segunda línea transversal es designada “Tierra”; la
-tercera “Aire”; y la cuarta “Agua”. (Este diagrama entero puede trazarse claramente si se
-usa un compás para los círculos).
+Con un lado estrecho en la parte superior, divida un papel en doce secciones iguales - tres transversales y cuatro hacia abajo -. La línea superior es designada “Fuego”; la sección superior izquierda es designada “1 - Cardinal”; la del medio es “2- Fijo” y la sección derecha es “3- Mudable”. La segunda línea transversal es designada “Tierra”; la tercera “Aire”; y la cuarta “Agua”. (Este diagrama entero puede trazarse claramente si se usa un compás para los círculos).
 
-En el centro del “cuadrado” superior izquierdo coloque un punto, entonces trace una
-horizontal recta hacia la izquierda, de una pulgada de largo más o menos. Termine esta
-línea con un punto negro grande.
+En el centro del “cuadrado” superior izquierdo coloque un punto, entonces trace una horizontal recta hacia la izquierda, de una pulgada de largo más o menos. Termine esta línea con un punto negro grande.
 
-Mientras la punta de su lápiz emanaba esa línea desde el punto central usted estaba
-produciendo simbólicamente una película de la acción química de las fuerzas de polaridad.
-Esta línea como usted sabe es el Ascendente del horóscopo por venir; ella simboliza la
-aparición del Sol en el horizonte Oriental - el “cuerpo del día” - y también simboliza su
-apariencia química en este plano, en su nacimiento - la “aurora” de su encarnación -. En
-esta línea está contenido simbólicamente el total de sus “elementos genéricos” - sus
-cualidades y sus capacidades de ser un causante y un vibrador simpático a los efectos de las
-causas -. En estos términos se encuentra su identidad vibratoria como masculino y
-femenino respectivamente. En su cuerpo físico se ve una especialización química que
-llamamos sexo; mientras se mantenga la adhesión al karma biológico, su conciencia de esta
-especialización es encendida por contacto vibratorio con personas del otro sexo. Su karma
-vibratorio es encendido por personas de cualquiera de los sexos físicos cuyas “mezclas
-vibratorias” masculino-femeninas representan el complemento de conciencia para usted.
-Piense sobre esto.
+Mientras la punta de su lápiz emanaba esa línea desde el punto central usted estaba produciendo simbólicamente una película de la acción química de las fuerzas de polaridad. Esta línea como usted sabe es el Ascendente del horóscopo por venir; ella simboliza la aparición del Sol en el horizonte Oriental - el “cuerpo del día” - y también simboliza su apariencia química en este plano, en su nacimiento - la “aurora” de su encarnación -. En esta línea está contenido simbólicamente el total de sus “elementos genéricos” - sus cualidades y sus capacidades de ser un causante y un vibrador simpático a los efectos de las causas -. En estos términos se encuentra su identidad vibratoria como masculino y femenino respectivamente. En su cuerpo físico se ve una especialización química que llamamos sexo; mientras se mantenga la adhesión al karma biológico, su conciencia de esta especialización es encendida por contacto vibratorio con personas del otro sexo. Su karma vibratorio es encendido por personas de cualquiera de los sexos físicos cuyas “mezclas vibratorias” masculino-femeninas representan el complemento de conciencia para usted. Piense sobre esto.
 
-Esta línea, siendo una recta, es la manera más simple de representar sus
-potencialidades genéricas destiladas de todas sus encarnaciones previas y enfocadas durante
-el desarrollo prenatal que precedió a esta encarnación. Ahora desplegaremos la línea
-Ascendente así como una flor abre sus pétalos y estudiaremos la significación de la cruz
-como el arquetipo de la conciencia de relación humana de la cual toda nuestra
-interpretación de experiencia es derivada fundamentalmente.
+Esta línea, siendo una recta, es la manera más simple de representar sus potencialidades genéricas destiladas de todas sus encarnaciones previas y enfocadas durante el desarrollo prenatal que precedió a esta encarnación. Ahora desplegaremos la línea Ascendente así como una flor abre sus pétalos y estudiaremos la significación de la cruz como el arquetipo de la conciencia de relación humana de la cual toda nuestra interpretación de experiencia es derivada fundamentalmente.
 
-Desde el punto central de este dibujo trace una vertical hacia arriba, una vertical
-hacia abajo y la otra horizontal hacia la izquierda. Ahora tenemos un cuadro arquetípico
-puro del “esqueleto” de los cuatro macrocosmos de identidad - el masculino-femenino del
-varón y el femenino-masculino de la hembra -. Coloque, contrario a las agujas del reloj,
-comenzando con el Ascendente, los símbolos Aries, Capricornio, Libra y Cáncer -
-respectivamente - en estos puntos. La vertical doble ahora combina la línea de generación -
-el proceso dinámico por el cual es engendrada la substancia para la nueva vida por la
-“colaboración” de los padres -. Cáncer regido por la Luna es madre; Capricornio, su
-complemento, es padre. Ambos son dadores de vida; uno - el varón - impregna; el otro - la
-hembra - recibe la impregnación.
+Desde el punto central de este dibujo trace una vertical hacia arriba, una vertical hacia abajo y la otra horizontal hacia la izquierda. Ahora tenemos un cuadro arquetípico puro del “esqueleto” de los cuatro macrocosmos de identidad - el masculino-femenino del varón y el femenino-masculino de la hembra -. Coloque, contrario a las agujas del reloj, comenzando con el Ascendente, los símbolos Aries, Capricornio, Libra y Cáncer - respectivamente - en estos puntos. La vertical doble ahora combina la línea de generación - el proceso dinámico por el cual es engendrada la substancia para la nueva vida por la “colaboración” de los padres -. Cáncer regido por la Luna es madre; Capricornio, su complemento, es padre. Ambos son dadores de vida; uno - el varón - impregna; el otro - la hembra - recibe la impregnación.
 
-Ahora, desde el punto medio de la línea de Cáncer, trace tres cuartos de un círculo
-hacia arriba a través del punto medio de Libra al punto medio de Capricornio, entonces
-hacia abajo al punto medio de Aries. Los tres cuadrantes atravesados por esta línea -
-componiendo nueve casas - simbolizan los nueve meses del período prenatal, desde la
-concepción hasta el nacimiento. La línea de Libra simboliza el momento durante este
-período en que el sexo físico de la encarnación que está por venir se objetiva y las
-potencialidades del sexo opuesto se hacen subjetivas, para hacer subsiguientemente
-exteriorizadas por el compañero durante la encarnación. El complemento de este patrón se
-verá al trazar la “línea de nueve casas” desde Capricornio hacia abajo y hacia arriba hasta
-Libra, en otras palabras del “padre a la hija” así como la línea de Cáncer-Aries es de
-“madre a hijo”. Si fuera posible trazar estas dos líneas simultáneamente el cuadro sería
-aquel formado al cambiar la “vertical paternal o maternal” a través del período prenatal
-hasta él punto del nacimiento; una radiografía de la coordinación de los elementos
-genéricos de la encarnación que está por venir.
+Ahora, desde el punto medio de la línea de Cáncer, trace tres cuartos de un círculo hacia arriba a través del punto medio de Libra al punto medio de Capricornio, entonces hacia abajo al punto medio de Aries. Los tres cuadrantes atravesados por esta línea - componiendo nueve casas - simbolizan los nueve meses del período prenatal, desde la concepción hasta el nacimiento. La línea de Libra simboliza el momento durante este período en que el sexo físico de la encarnación que está por venir se objetiva y las potencialidades del sexo opuesto se hacen subjetivas, para hacer subsiguientemente exteriorizadas por el compañero durante la encarnación. El complemento de este patrón se verá al trazar la “línea de nueve casas” desde Capricornio hacia abajo y hacia arriba hasta Libra, en otras palabras del “padre a la hija” así como la línea de Cáncer-Aries es de “madre a hijo”. Si fuera posible trazar estas dos líneas simultáneamente el cuadro sería aquel formado al cambiar la “vertical paternal o maternal” a través del período prenatal hasta él punto del nacimiento; una radiografía de la coordinación de los elementos genéricos de la encarnación que está por venir.
 
-Un individuo encarna a través de sus padres particulares por la acción magnética de
-la vibración simpática de su combinación masculino-femenina a la combinación,
-masculino-femenina individual y colectiva de ellos. El otro factor importante de esta acción
-magnética es la “atracción de los diferentes” - la individualidad del niño en contraste con la
-individualidad de cada padre -. Toda relación entre personas sirve a la evolución y la
-relación significa intercambio vibratorio. Si el niño fuera un duplicado de la “mitad de su
-padre y la mitad de su madre” no podría lograrse el intercambio, por lo tanto no sería
-posible la atracción vibratoria.
+Un individuo encarna a través de sus padres particulares por la acción magnética de la vibración simpática de su combinación masculino-femenina a la combinación, masculino-femenina individual y colectiva de ellos. El otro factor importante de esta acción magnética es la “atracción de los diferentes” - la individualidad del niño en contraste con la individualidad de cada padre -. Toda relación entre personas sirve a la evolución y la relación significa intercambio vibratorio. Si el niño fuera un duplicado de la “mitad de su padre y la mitad de su madre” no podría lograrse el intercambio, por lo tanto no sería posible la atracción vibratoria.
 
-La “individualidad” del niño que está por venir se ve en el cuadrante restante de este
-diseño - las tres casas de Aries a Cáncer -. Esta es la involución - después del nacimiento -
-en el uso de los vehículos físico y etérico; y nadie puede hacer eso excepto el niño mismo.
-Él y nadie más usa su cuerpo, su mente, sus sentimientos, emociones, habilidades y talento.
-Los padres proporcionan la substancia corporal en la concepción y ejercitan sus propias
-mentes en el servicio amoroso al niño después del nacimiento, pero la involución del niño
-para el uso de los vehículos es forzosamente una cuestión individual. (El complemento de
-esto es por supuesto, el cuadrante de Libra a Capricornio). Lo que está “contenido” en el
-vehículo químico y etérico compuesto es por supuesto aquello que ha de ser expresado,
-redimido y cumplido en la encarnación.
+La “individualidad” del niño que está por venir se ve en el cuadrante restante de este diseño - las tres casas de Aries a Cáncer -. Esta es la involución - después del nacimiento - en el uso de los vehículos físico y etérico; y nadie puede hacer eso excepto el niño mismo. Él y nadie más usa su cuerpo, su mente, sus sentimientos, emociones, habilidades y talento. Los padres proporcionan la substancia corporal en la concepción y ejercitan sus propias mentes en el servicio amoroso al niño después del nacimiento, pero la involución del niño para el uso de los vehículos es forzosamente una cuestión individual. (El complemento de esto es por supuesto, el cuadrante de Libra a Capricornio). Lo que está “contenido” en el vehículo químico y etérico compuesto es por supuesto aquello que ha de ser expresado, redimido y cumplido en la encarnación.
 
-Este diseño de cuadros en símbolos presenta un hecho extraño y extraordinario:
-Cada ser humano es su propia ascendencia, su propia fraternidad y su propio complemento
-- cualidad de marido - y cualidad de esposa. Otras personas están relacionadas con nosotros
-por nuestra reacción de sentimiento a ellos, pero todas nuestras reacciones de sentimiento
-emanan de la misma fuente: nuestra conciencia. Por lo tanto las otras personas son
-expresiones físicas, o exteriorizaciones de nuestras propias mezclas vibratorias. Sabiendo
-esto, los Grandes nos han dicho: “Amaos Los Unos A Los Otros”.
+Este diseño de cuadros en símbolos presenta un hecho extraño y extraordinario: Cada ser humano es su propia ascendencia, su propia fraternidad y su propio complemento - cualidad de marido - y cualidad de esposa. Otras personas están relacionadas con nosotros por nuestra reacción de sentimiento a ellos, pero todas nuestras reacciones de sentimiento emanan de la misma fuente: nuestra conciencia. Por lo tanto las otras personas son expresiones físicas, o exteriorizaciones de nuestras propias mezclas vibratorias. Sabiendo esto, los Grandes nos han dicho: “Amaos Los Unos A Los Otros”.
 
-Ya hemos representado la base de las relaciones humanas: El masculino-femenino
-varón que es un causante de efectos y que reacciona a los efectos, (“dador” y “recibidor”) y
-ella que es hembra bipolar, causante y respondiente, dadora y recibidora. Todas las
-relaciones humanas son derivadas de esta base cuádruple. Por lo tanto la Cruz Cardinal en
-nuestro primer diagrama representa la identidad de “cuatro en uno”, las cuatro maneras de
-los seres humanos de decir “Yo Soy”. Pero la identidad no es suficiente en sí misma,
-necesita expresión para perfeccionarse. Por lo tanto, cada uno de estos signos cardinales
-emana de si mismo, así como una línea emana de un punto, o un plano emana de una línea -
-dos expresiones de identidad espiritual - amor y sabiduría, el amor es la meta espiritual –
-redención - del deseo; la sabiduría es la meta espiritual – redención - de la ignorancia. El
-deseo y la ignorancia son la compulsión kármica doble hacia la reencarnación; a través de
-ella forjamos el sendero evolutivo desde la virginidad hasta la realización de la idealidad.
-Los signos cardinales son, abstractamente, las piedras angulares de nuestra “casa de la
-vida”, los cuartos de la cual son las doce casas del horóscopo.
+Ya hemos representado la base de las relaciones humanas: El masculino-femenino varón que es un causante de efectos y que reacciona a los efectos, (“dador” y “recibidor”) y ella que es hembra bipolar, causante y respondiente, dadora y recibidora. Todas las relaciones humanas son derivadas de esta base cuádruple. Por lo tanto la Cruz Cardinal en nuestro primer diagrama representa la identidad de “cuatro en uno”, las cuatro maneras de los seres humanos de decir “Yo Soy”. Pero la identidad no es suficiente en sí misma, necesita expresión para perfeccionarse. Por lo tanto, cada uno de estos signos cardinales emana de si mismo, así como una línea emana de un punto, o un plano emana de una línea - dos expresiones de identidad espiritual - amor y sabiduría, el amor es la meta espiritual – redención - del deseo; la sabiduría es la meta espiritual – redención - de la ignorancia. El deseo y la ignorancia son la compulsión kármica doble hacia la reencarnación; a través de ella forjamos el sendero evolutivo desde la virginidad hasta la realización de la idealidad. Los signos cardinales son, abstractamente, las piedras angulares de nuestra “casa de la vida”, los cuartos de la cual son las doce casas del horóscopo.
 
-Existe, como dijimos antes, una sola .cruz como un patrón, el intercambio de
-positivo y negativo. Ahora para correlacionar la cruz fija y la cruz común con la cruz
-cardinal, haga una rueda de doce casas en cada una de las dos secciones restantes de la línea
-de arriba que usted había designado ya como “fija” y “común”, respectivamente, de fuego.
-En la “fija” coloque el símbolo de Leo en el Ascendente, Tauro en la décima, Acuario en la
-séptima y Escorpión en la cuarta; en la “común” o “mutable” coloque el símbolo de
-Sagitario en el Ascendente, Virgo en la décima, Géminis en la séptima y Piscis en la cuarta.
-Deje que sus ojos se muevan de Aries a Leo y de Leo a Sagitario. Usted está impresionando
-su mente con el hecho de que los tres signos del Trino de Fuego inician las primeras
-representaciones de la cruz del Gran Mándala. Los patrones de los elementos en cada uno
-son paralelos: Fuego-Hijo, Tierra-Padre, complemento de Aire-Hembra, y Agua-Madre.
-(Al invertir estas ruedas, queda el fuego como el complemento varón). Desde Aries a través
-de nueve signos hasta Capricornio es “exaltación” – madurez - del “Yo Soy”; de ser un
-“engendrado”, el gran símbolo de expresión – Marte - se realiza en la “paternidad” -
-convirtiéndose en un dador de vida -. Esto simboliza los primeros tres cuadrantes de la
-Luna progresada después del nacimiento, el clima de la involución física, mental y
-emocional. (La involución espiritual es alcanzada durante los veintiocho y treinta años, la
-terminación del primer ciclo de la Luna progresada y del tránsito de Saturno).
+Existe, como dijimos antes, una sola .cruz como un patrón, el intercambio de positivo y negativo. Ahora para correlacionar la cruz fija y la cruz común con la cruz cardinal, haga una rueda de doce casas en cada una de las dos secciones restantes de la línea de arriba que usted había designado ya como “fija” y “común”, respectivamente, de fuego. En la “fija” coloque el símbolo de Leo en el Ascendente, Tauro en la décima, Acuario en la séptima y Escorpión en la cuarta; en la “común” o “mutable” coloque el símbolo de Sagitario en el Ascendente, Virgo en la décima, Géminis en la séptima y Piscis en la cuarta. Deje que sus ojos se muevan de Aries a Leo y de Leo a Sagitario. Usted está impresionando su mente con el hecho de que los tres signos del Trino de Fuego inician las primeras representaciones de la cruz del Gran Mándala. Los patrones de los elementos en cada uno son paralelos: Fuego-Hijo, Tierra-Padre, complemento de Aire-Hembra, y Agua-Madre. (Al invertir estas ruedas, queda el fuego como el complemento varón). Desde Aries a través de nueve signos hasta Capricornio es “exaltación” – madurez - del “Yo Soy”; de ser un “engendrado”, el gran símbolo de expresión – Marte - se realiza en la “paternidad” - convirtiéndose en un dador de vida -. Esto simboliza los primeros tres cuadrantes de la Luna progresada después del nacimiento, el clima de la involución física, mental y emocional. (La involución espiritual es alcanzada durante los veintiocho y treinta años, la terminación del primer ciclo de la Luna progresada y del tránsito de Saturno).
 
-Puesto que el orden genérico es de Fuego a Tierra, a Aire, a Agua, ahora podemos
-completar nuestra tabla de las otras “emanaciones”. Las tres ruedas de la línea de Tierra
-tendrán como Ascendente, a Capricornio, Tauro y Virgo respectivamente; las tres ruedas de
-la línea de Aire tendrán a Libra, Acuario y Géminis respectivamente; las tres ruedas de la
-línea de Agua tendrán a Cáncer, Escorpión y Piscis como Ascendente, respectivamente.
-Coloque los símbolos de los otros tres puntos estructurales apropiadamente en todas las
-ruedas, la última de las cuales, Piscis Ascendente, representará la cruz que enfoca lo más
-femenino, receptivo y reflexivo de todos los doce. La línea de gestación en cada rueda es
-(siendo doble): desde hembra de la vertical a varón de la horizontal (como Cáncer a Aries)
-y desde varón de la vertical a hembra de la horizontal (como Capricornio a Libra), siempre
-atravesando tres cuadrantes.
+Puesto que el orden genérico es de Fuego a Tierra, a Aire, a Agua, ahora podemos completar nuestra tabla de las otras “emanaciones”. Las tres ruedas de la línea de Tierra tendrán como Ascendente, a Capricornio, Tauro y Virgo respectivamente; las tres ruedas de la línea de Aire tendrán a Libra, Acuario y Géminis respectivamente; las tres ruedas de la línea de Agua tendrán a Cáncer, Escorpión y Piscis como Ascendente, respectivamente. Coloque los símbolos de los otros tres puntos estructurales apropiadamente en todas las ruedas, la última de las cuales, Piscis Ascendente, representará la cruz que enfoca lo más femenino, receptivo y reflexivo de todos los doce. La línea de gestación en cada rueda es (siendo doble): desde hembra de la vertical a varón de la horizontal (como Cáncer a Aries) y desde varón de la vertical a hembra de la horizontal (como Capricornio a Libra), siempre atravesando tres cuadrantes.
 
-Para la aplicación práctica, puesto que el regente planetario de un mapa enfoca la
-vibración del signo Ascendente, se sugiere que estos mándalas sean estudiados con respecto
-al mapa genérico; esta es la variación del mapa natal en la cual el mapa es volteado (a
-menos que el regente del Ascendente esté en el signo del Ascendente) para que la cúspide
-cubierta por el signo que contiene el regente aparezca como el Ascendente. Si la persona es
-varón y ese signo es un signo masculino esa variación es el mapa masculino genérico; el
-signo masculino y la persona femenina, invertidos y leídos como hembra, etc. Aplique la
-“línea de gestación” al mapa genérico que coincide con el sexo físico para la identificación
-de la ascendencia, correlaciónelo con el mapa natal. Las dos variaciones genéricas unen el
-compuesto genérico del horóscopo natal y los elementos genéricos, por lo tanto pueden ser
-estudiados separadamente.
+Para la aplicación práctica, puesto que el regente planetario de un mapa enfoca la vibración del signo Ascendente, se sugiere que estos mándalas sean estudiados con respecto al mapa genérico; esta es la variación del mapa natal en la cual el mapa es volteado (a menos que el regente del Ascendente esté en el signo del Ascendente) para que la cúspide cubierta por el signo que contiene el regente aparezca como el Ascendente. Si la persona es varón y ese signo es un signo masculino esa variación es el mapa masculino genérico; el signo masculino y la persona femenina, invertidos y leídos como hembra, etc. Aplique la “línea de gestación” al mapa genérico que coincide con el sexo físico para la identificación de la ascendencia, correlaciónelo con el mapa natal. Las dos variaciones genéricas unen el compuesto genérico del horóscopo natal y los elementos genéricos, por lo tanto pueden ser estudiados separadamente.
 
 Ahora usemos el segundo papel para condensación adicional. 
 
-Desde el centro de la
-página haga una rueda de un radio de aproximadamente dos pulgadas; coloque los símbolos
-zodiacales en sucesión regular a una pulgada alrededor de la circunferencia. Entre este aro
-de símbolos de signos y la circunferencia, formando un segundo aro, coloque los símbolos
-desde el Ascendente en sentido contrario a las agujas del reloj: Aries, Leo, Sagitario;
-Cáncer, Escorpión, Piscis; Libra, Acuario, Géminis; Capricornio, Tauro, Virgo. Los signos
-cardinales, las casas fijas y las casas comunes. Este aro interno de los signos nos demuestra
-el “desenvolvimiento” de los elementos en términos de las potencialidades de su Sabiduría
-Amorosa, las expresiones espirituales de la identidad. Este “desenvolvimiento” o dispersión
-demuestra los decanatos en acción. La congestión de Identidad, la congestión del Deseo y
-la congestión de la Ignorancia de las cruces cardinal, fija y mudable respectivamente,
-busque sus redenciones por medio de los atributos de la Sabiduría Amorosa que son
-inherentes a cada signo como una expresión del principio de “Yo Soy”.
+Desde el centro de la página haga una rueda de un radio de aproximadamente dos pulgadas; coloque los símbolos zodiacales en sucesión regular a una pulgada alrededor de la circunferencia. Entre este aro de símbolos de signos y la circunferencia, formando un segundo aro, coloque los símbolos desde el Ascendente en sentido contrario a las agujas del reloj: Aries, Leo, Sagitario; Cáncer, Escorpión, Piscis; Libra, Acuario, Géminis; Capricornio, Tauro, Virgo. Los signos cardinales, las casas fijas y las casas comunes. Este aro interno de los signos nos demuestra el “desenvolvimiento” de los elementos en términos de las potencialidades de su Sabiduría Amorosa, las expresiones espirituales de la identidad. Este “desenvolvimiento” o dispersión demuestra los decanatos en acción. La congestión de Identidad, la congestión del Deseo y la congestión de la Ignorancia de las cruces cardinal, fija y mudable respectivamente, busque sus redenciones por medio de los atributos de la Sabiduría Amorosa que son inherentes a cada signo como una expresión del principio de “Yo Soy”.
 
-Cada casa del horóscopo es un foco especializado ambiental de relación de
-experiencia para la evolución; el orden de los signos del Gran Mándala sincroniza e
-principio con la actividad; en otras palabras, los principios filosóficos inherentes a cada uno
-de los doce “departamentos de experiencia” básicos son representados por la significación
-esencial del signo que está identificado abstractamente con él. Las variaciones de ubicación
-de los signos en las cúspides de las casas son asuntos de evolución individual; pero
-nosotros podemos percibirlos con mayor claridad si reconocemos que todas las variaciones
-son emanaciones - no diferencias - de una base arquetípica.
+Cada casa del horóscopo es un foco especializado ambiental de relación de experiencia para la evolución; el orden de los signos del Gran Mándala sincroniza e principio con la actividad; en otras palabras, los principios filosóficos inherentes a cada uno de los doce “departamentos de experiencia” básicos son representados por la significación esencial del signo que está identificado abstractamente con él. Las variaciones de ubicación de los signos en las cúspides de las casas son asuntos de evolución individual; pero nosotros podemos percibirlos con mayor claridad si reconocemos que todas las variaciones son emanaciones - no diferencias - de una base arquetípica.
 
-El cinturón zodiacal alrededor de la parte externa del horóscopo es siempre una
-sucesión completa e intacta. La “dispersión” de cada elemento en la formación del trino,
-incluyendo la rueda, es el desenvolvimiento espiritual de cada una de las cuatro bases
-genéricas por todo el mapa. La confusión experimentada por los estudiantes es que la
-sucesión de “cardinal, fijo, común”, está sincronizada con “Fuego, Tierra, Aire, Agua”.
-Reconozca ahora si nunca lo ha hecho antes que la aparente “mezcla” de la cruz con trino
-es una representación simbólica de una Verdad Cósmica: El Microcosmo nunca está
-separado de la Sabiduría Amorosa de su Macrocosmo, o la “Humanidad del Padre-Madre
-Dios”.
+El cinturón zodiacal alrededor de la parte externa del horóscopo es siempre una sucesión completa e intacta. La “dispersión” de cada elemento en la formación del trino, incluyendo la rueda, es el desenvolvimiento espiritual de cada una de las cuatro bases genéricas por todo el mapa. La confusión experimentada por los estudiantes es que la sucesión de “cardinal, fijo, común”, está sincronizada con “Fuego, Tierra, Aire, Agua”. Reconozca ahora si nunca lo ha hecho antes que la aparente “mezcla” de la cruz con trino es una representación simbólica de una Verdad Cósmica: El Microcosmo nunca está separado de la Sabiduría Amorosa de su Macrocosmo, o la “Humanidad del Padre-Madre Dios”.
 
-Piense sobre esto calladamente, profundamente y concentración enfocada. Los
-maestros han manifestado esto repetidamente durante muchas épocas a través de la religión
-y la filosofía; permita que la realización emane de su conocimiento interno.
+Piense sobre esto calladamente, profundamente y concentración enfocada. Los maestros han manifestado esto repetidamente durante muchas épocas a través de la religión y la filosofía; permita que la realización emane de su conocimiento interno.
 
-Puesto que nosotros como “Ascendentes” somos el microcosmo del Padre-Madre
-Dios, la ley de Correspondencia (como es arriba, así es abajo; como es abajo, así es arriba)
-se aplica a nosotros de esta manera: nuestras potencialidades para la Sabiduría Amorosa
-están en nosotros eternamente, no importa nuestras congestiones, confusiones e ignorancia.
-Esta ignorancia de conciencia prueba que la falta de amor y la falta de sabiduría se han
-manifestado, pero nosotros mismos somos las fuentes de sus transmutaciones.
+Puesto que nosotros como “Ascendentes” somos el microcosmo del Padre-Madre Dios, la ley de Correspondencia (como es arriba, así es abajo; como es abajo, así es arriba) se aplica a nosotros de esta manera: nuestras potencialidades para la Sabiduría Amorosa están en nosotros eternamente, no importa nuestras congestiones, confusiones e ignorancia. Esta ignorancia de conciencia prueba que la falta de amor y la falta de sabiduría se han manifestado, pero nosotros mismos somos las fuentes de sus transmutaciones.
 
-Pruebe esta condensación con muchos mapas si usted los tiene a su disposición.
-Anote los planetas en cada mapa de acuerdo con la cruz, entonces identifique la ubicación
-de sus trinos. Haga “bosquejos de ruedas” utilizando la “dispersión de los decanatos”,
-comenzando desde el signo Ascendente para fijar el cuadro en su mente que cada signo es
-un poder de conciencia que puede expresarse en más y más altas octavas. De ese modo su
-acercamiento total al análisis y síntesis del mapa será simplificado y esclarecido.
+Pruebe esta condensación con muchos mapas si usted los tiene a su disposición. Anote los planetas en cada mapa de acuerdo con la cruz, entonces identifique la ubicación de sus trinos. Haga “bosquejos de ruedas” utilizando la “dispersión de los decanatos”, comenzando desde el signo Ascendente para fijar el cuadro en su mente que cada signo es un poder de conciencia que puede expresarse en más y más altas octavas. De ese modo su acercamiento total al análisis y síntesis del mapa será simplificado y esclarecido.
