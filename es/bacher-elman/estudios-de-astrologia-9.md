@@ -1,0 +1,2288 @@
+---
+title: "Estudios de Astrología - Volumen IX"
+language: "es"
+original_title: "Studies in Astrology - Volume IX"
+original_language: "en"
+author: "Elman Bacher"
+original_source_file: "studies-in-astrology-volume-9.md"
+---
+
+<h1 id="studies-in-astrology-volume-9">Elman Bacher – Estudios de Astrología IX</h1>
+
+por Elman Bacher
+
+Second Printing
+
+### <h3 id="table-of-contents">Índice</h3>
+
+- [Capítulo I: La Complementación](#chapter-1)
+- [Capítulo II: La Seguridad](#chapter-2)
+- [Capítulo III: El Diámetro, el Cuadrante y el Decanato](#chapter-3)
+- [Capítulo IV: La Luz – Primera Parte](#chapter-4)
+- [Capítulo V: La Luz – Segunda Parte](#chapter-5)
+- [Capítulo VI: La Luz como Terapia](#chapter-6)
+- [Capítulo VII: La Luz como Comunicación](#chapter-7)
+- [Capítulo VIII: La Luz como Afluencia](#chapter-8)
+- [Capítulo IX: La Astrofilosofía Discute la Experiencia del Hospital](#chapter-9)
+- [Capítulo X: El Sendero Astrológico](#chapter-10)
+
+### <h3 id="chapter-1">Capítulo I: La Complementación</h3>
+
+“Complementación” es la palabra singular más importante en el estudio de
+relaciones humanas porque es una palabra simbólica del arquetipo de los intercambios
+vibratorios que hacen que la relación sea lo que es. Su vida es polaridad; sus dos
+macrocosmos básicos son lo masculino y lo femenino. Todos los patrones básicos de
+relación humana (marital, fraternal, padres a hijos, etc.) representan un patrón específico de
+complementación en acción como “igniciones” de conciencia vibratoria humana.
+
+La persona cuyas cualidades vibratorias no contienen nada a lo cual nosotros
+reaccionamos en nuestros sentimientos subconscientes es aquella hacia la cual somos
+indiferentes; en tales contactos casuales nos encontramos con esa persona solamente en la
+dimensión de tiempo-espacio. La falta de ignición vibratoria mutua despoja del contacto
+todo lo que pudiera conducir a la relación. La ignición hecha por una persona sobre el
+cuerpo vibratorio de otra hace que la persona “encendida” reaccione con sentimientos
+subconscientes; por sus reacciones ella identifica subconscientemente el contacto por cierta
+clase de palabra de relación. Careciendo de mutualidad, la “cualidad de relación” existe
+solamente en su propio sentimiento.
+
+No obstante, cuando meditamos sobre el tema de nuestra facultad de reacción
+subconsciente, reconocemos una cosa extraordinaria: nosotros como “mecanismos
+reactivos”, reaccionamos hasta cierto punto a casi todos los otros seres humanos. Si
+caminamos por una calle bulliciosa de una ciudad, pasamos y nos cruzamos con numerosas
+personas; a menos que estemos intensamente preocupados con algún cuadro mental
+enfocado, reaccionamos ligeramente a impresiones de rostros, rasgos, cuerpos, trajes,
+modos de andar, deformidades, bellezas y acciones de otros; aún una honda preocupación
+puede ser agitada cuando entramos al campo vibratorio de alguien que coincide
+notablemente con alguna de nuestras imágenes internas de relación - nuestra atención
+“irrumpe en la percepción” de semejante persona y nosotros experimentamos una reacción
+de sentimiento. Esa reacción de sentimiento es conciencia de relación porque uno de
+nuestros cuadros de relación subconsciente ha sido “encendido” al menos por un momento.
+Esa persona - por otro lado un perfecto desconocido a quien quizás no volvamos a ver - es
+una exteriorización de una faceta de nuestro recurso de relación subconsciente y como tal
+está relacionada con nosotros vibratoriamente. Esta “relación” será placentera o no
+dependiendo de la cualidad básica de nuestro “cuadro interno”.
+
+Nosotros nos acostumbramos tanto a nuestros patrones de relación básicos que rara
+vez reconocemos su verdadero origen o cualidad. Simplemente reaccionamos,
+reaccionamos y reaccionamos. El Arte de la Relación Humana - el más grande de las artes -
+es la armonización de nuestras reacciones hacia la gente a fin de conducirnos a una
+percepción más y más clara del ideal que es el arquetipo de cada persona. Es verdad que la
+realidad de cualquier persona - para usted, en cualquier punto de su época evolutiva - es la
+cualidad de su reacción a la persona; altere su reacción y usted cambia la cualidad de la
+relación, para bien o para mal.
+
+Esto no es simplemente una teoría; pruébelo usted mismo ensayando mentalmente
+sus propios cambios de cualidad reaccional hacia gente que ha figurado significativamente
+en su experiencia durante esta encarnación. ¿Amó usted profundamente a alguien para
+luego encontrar que su reacción se trocaba en un sentimiento de antipatía y aversión?.
+¿Temió usted alguna vez a alguien y luego con una comprensión más clara llegó a
+considerarlo como un amigo estimable?. ¿Ha experimentado alguna vez una desintegración
+de congestión al volverse más comprensivo y amoroso hacia uno de sus padres o
+hermanos?. ¿Odió usted alguna vez a alguien tan profundamente que sintiera el deseo de
+destruirlo o de hacerle daño en alguna forma drástica para luego experimentar un cambio de
+corazón tan marcado (frase significativa) que lo condujera a un sentimiento de profundo
+respeto y admiración?. ¿Fue usted alguna vez en apariencia bastante diferente hacia alguien
+que figuraba en su experiencia por largo tiempo y luego sufrió un cambio de sentimiento tal
+que usted se enamoró y se casó con esa persona?. Todos estos tipos de cambios internos
+representan las realidades de la transformación de relación por la “modulación a octavas y
+tonos diferentes” - y a patrones diferentes. El Amor-Sabiduría alimenta la realidad del
+arquetipo de todas las relaciones entre personas.
+
+En esta disertación sobre la “complementación” no nos conciernen principalmente
+las casas del horóscopo; las casas son la descripción espacial (física) de experiencias y
+relaciones. Nos conciernen las cualidades vibratorias, las cualidades genéricas, el enfoque
+de cualidades genéricas por los planetas y los patrones genéricos representados por los
+aspectos planetarios.
+Procure preparar su mente dándole flexibilidad para este estudio: haga una copia de
+su mapa natal sin las cúspides de las casas; simplemente coloque los planetas en sus
+ubicaciones (relativamente) exactas en la rueda por el signo y grado de ubicación. Esto es
+para que usted tenga en mente los aspectos formados por los planetas entre sí. Ahora haga
+una lista de los regentes planetarios de los doce signos; sugiero: Marte para Aries, Venus
+para Tauro-Libra, Mercurio para Géminis-Virgo, la Luna para Cáncer, el Sol para Leo,
+Plutón para Escorpión, Júpiter para Sagitario, Saturno para Capricornio, Urano para
+Acuario, y Neptuno para Piscis. Apréndase esta lista para que esté familiarizado
+perfectamente con ella. Ella es la regencia planetaria del zodíaco; aprenda también los
+dispositores planetarios del zodíaco; todos los planetas en Aries están dispositados por
+Marte, todos aquellos en Tauro-Libra están dispositados por Venus, aquellos en Géminis-
+Virgo están dispositados por Mercurio, aquellos en Cáncer dispositados por la Luna,
+etcétera. En otras palabras, las planetas en un signo dado están dispositados por el regente
+de ese signo; el regente planetario de un signo dado disposita todos los planetas en ese
+signo. Adquiera fluidez sobre estos puntos.
+
+Ahora, para mayor clarificación, encierre por un círculo todos los planetas en cada
+signo particular en la rueda “sin cúspides” que usted hizo. Esto da a su juicio una
+oportunidad de agrupar sus planetas por signo de ubicación, sin tener en cuenta la casa de
+ubicación; haga una lista de sus planetas por ubicación del signo y ponga entre paréntesis
+cada grupo por el dispositor planetario; esta lista es la agrupación vibratoria de su
+horóscopo y debe aprendérsela concienzudamente. Ahora trace un diámetro en la rueda sin
+cúspides; el punto de arranque será el regente planetario de su horóscopo natal; el signo que
+contiene el punto opuesto es su signo de complementación; su regente (cualquier planeta
+que sea) enfoca esa vibración y así es su vibración complementaria esencial. De ese modo
+vemos que el dispositor del regente de su Ascendente y el regente del signo opuesto al que
+contiene el regente de su Ascendente, son dos puntos básicos de sus patrones de
+complementación en esta encarnación. El signo que contiene su “planeta de
+complementación” y su regente serán la vibración principal calificadora de su
+complemento. Estudie el dispositor del regente de su Ascendente y su complemento
+planetario desde todo punto de vista concebible; en ellos se hallan los secretos internos de
+su conciencia de relación en esta encarnación; ellos representan las vibraciones enfocadas o
+cuadro interno de “usted mismo” y el cuadro interno de su “otro yo”.
+
+Ahora vamos a crear el primero de sus dos “mapas genéricos”. Este es derivado
+directamente de su Ascendente natal. Haga una copia de su horóscopo natal, correcta en
+todo detalle, usando como Ascendente la cúspide que aloja el signo que contiene el regente
+de su Ascendente; no altere nada en la rueda; el signo que aparece ahora como Ascendente
+(conteniendo su regente natal en la duodécima o en la primera casa) es su Ascendente
+vibratorio. El planeta que rige este signo es su regente vibratorio y su posición por signo,
+trino elemental (Fuego, Tierra, Aire, Agua), cruz estructural (cardinal, fija, mudable), y los
+aspectos planetarios da el cuerpo de reconocimiento interno de usted mismo; su regente
+natal es lo “externo” de usted - como usted piensa de usted mismo conscientemente y como
+aparecerá usted directamente ante los otros. Recuerde que el regente de su Ascendente natal
+es proyectado en la rueda desde el Ascendente y por su casa de ubicación indica sus propios
+reconocimientos en términos de espacio-tiempo y actividad. El regente vibratorio no
+obstante, es proyectado del signo que rige y su relación con el cuerpo de la rueda es en
+términos de extensión de su propio signo de dignidad. Si el regente vibratorio está en el
+mismo elemento que el signo que rige (el signo Ascendente vibratorio), entonces es la
+expresión del Poder o del Amor o de la Sabiduría de su naturaleza interna que es enfocada
+para indicar su poder espiritual básico. Si el regente vibratorio está en un signo que se
+refiere a la misma cruz estructural perteneciente al signo que él rige, entonces él está
+“cuadrado” o en “oposición” a su signo de dignidad y esto representa un punto crítico
+evolutivo análogo a los “puntos críticos” de las cuadraturas (o “cruces”) cardinal, fija y
+mudable del Gran Mándala Abstracto.
+
+Su mapa, como se halla ahora, (con el Ascendente vibratorio) es la variación
+genérica básica de su mapa natal. La calidad genérica del regente vibratorio, el signo en que
+se halla y la cualidad del dispositor servirán para identificar la cualidad genérica básica de
+su mapa natal, puesto que esta variación es derivada de la posición del signo del regente del
+Ascendente natal. Sintetice cuidadosamente haciendo referencia al espectro genérico y
+recuerde que esta variación no es un cuadro de su Ser como “varón” o como “hembra”; él
+es la masculinidad básica o la feminidad básica de su naturaleza interna. Puesto que esta
+variación se deriva directamente del horóscopo natal, tome en consideración este
+pensamiento: ¿Qué casa en su mapa natal contiene su regente vibratorio?. Esta casa,
+cualquiera que fuera, describirá el foco físico o de “espacio-tiempo” de este florecimiento
+vibratorio particular. En otras palabras, el “dónde y cuándo encontrará usted en su
+encarnación la perfección de esta cualidad interna básica de su naturaleza”. ¿Qué indica su
+mapa concerniente a esto?.
+
+Si usted está suficientemente inclinado filosófica o psicológicamente (y
+naturalmente usted lo está o de lo contrario no estaría leyendo esto) reconocerá que usted y
+sólo usted es el factor determinante de sus experiencias de relación. Los filósofos por lo
+general no labran ciegamente a través de sus encarnaciones, cometiendo repetidamente los
+mismos errores viejos en la misma forma anterior; ellos buscan la iluminación hacia el
+mejoramiento de sus condiciones internas y de ese modo aprenden cómo mejorar la
+cualidad de sus expresiones. Los filósofos no gastan su tiempo en inculpar o acusar a los
+otros porque ellos saben que no es la gente sino sus propias reacciones negativas las que
+causan su dolor. Así es que ahora, como filósofos, disfrutaremos del estudio del mapa
+básico genérico tal como se presta para representar lo “interno” de nuestra conciencia de
+relación.
+Otra variación.
+
+Voltee (o haga otra copia) del mapa tal como aparece ahora como “básico
+genérico”, de manera que el signo opuesto al signo que contiene el regente natal aparezca
+como Ascendente. Esto es, o lo llamaremos, su “Ascendente de complementación”; su
+regente planetario es su “regente de complementación”.
+
+Ahora, este planeta, cualquiera que sea, es la destilación de su conciencia de
+relación complementaria - hondo muy hondo. Es el retrato vibratorio esencial de su “otro
+yo” e inversamente, es el retrato del enemigo que usted lleva dentro de usted mismo; esta
+“enemistad” está naturalmente modificada por los aspectos regenerados formados por este
+planeta, pero sus congestiones (cuadraturas y oposiciones), en la opinión del autor, es más
+importante que se comprendan que cualquier otro factor de su constitución astrológica
+porque cada una de estas congestiones es la “paja en su propio ojo” por la cual usted ve el
+mal en el otro.
+
+Cada congestión a este regente complementario representa realmente una ciega
+ignorancia profunda de un principio de Vida específico. Los estímulos a estas congestiones
+harán que “otras personas la hieran a usted intensamente” - sus reacciones a ellas por este
+estímulo, en diferentes momentos, es lo que usted siente cuando la Vida en su Sabiduría usa
+un bisturí para efectuar una pequeña operación quirúrgica de sus condiciones internas
+congestionadas y cristalizadas. Mientras usted viva estos patrones reaccionando a ellos,
+sufrirá a través de sus reacciones a las personas representadas por los aspectos; pero cuando
+usted ilumina su conciencia respecto a la naturaleza del principio representado por este
+planeta articular, reconocerá que usted debe ajustarse conscientemente para hacer de este
+principio una expresión constructiva en su vida; al grado que usted lo haga, se “dará las
+manos internamente con el enemigo y lo hará su amigo”. El Gran Maestro dijo: “no resistas
+el mal”; “quiso decir El: “cese este enojo y agitación sobre lo que los otros hacen - gaste su
+tiempo en enderezar su propia conciencia en conformidad”.
+Se sugiere, ya que este punto particular es de importancia urgente, que haga un
+estudio tan detallado como le sea posible de este “regente complementario”. Estudie su
+ubicación y significación en relación con el Gran Mándala; estudie su significación
+genérica, su significación de relación. ¿Qué representa como principio espiritual y desde el
+punto de vista kármico?. ¿Qué hizo usted en el pasado para crear los presentes aspectos
+congestionados?. ¿Cuántas personas (cuyos mapas usted tiene) tienen “puntos” que
+sincronizar con este planeta en su patrón?. ¿Cuál ha sido su influencia sobre ellos?. ¿Tiende
+usted a inculparlos por “hacerle cosas a usted” y volver la cara para hacerle lo mismo a
+otros?. Nos parece que en ningún otro factor astrológico necesita el estudiante poner al
+descubierto sus pensamientos, sentimientos y reacciones, honesta y honradamente que en
+aquellos asuntos pertenecientes a este planeta particular.
+
+Los mapas, por supuesto, varían considerablemente en cuanto concierne a cualidad
+vibratoria. Quizás este “regente complementario” en su mapa no tenga congestiones -
+solamente sextiles y trinos; en tal caso se sugiere que compare este planeta con su “regente
+vibratorio”. ¿Cuál le ofrece la mayor “ventaja”, cuál representa la expresión más libre de
+Poder como Amor-Sabiduría, cuál actúa con mayor efectividad como “disolvente de
+cristalizaciones de congestiones”, cuál representa el principio del cual usted está mejor
+informado en su ser consciente, cuál representa con mayor claridad un ideal que usted
+pueda ver exteriorizado en otros, o un ideal que usted mismo exteriorice para los otros?.
+Hay muchas preguntas que usted puede hacer de su Yo Superior relativas a estas cosas,
+pero deben hacerse con honradez - las excusas, las justificaciones de sí mismo y las
+inculpaciones no tienen lugar en esta clase de análisis. El “regente complementario” puede
+ser estudiado naturalmente de un factor adicional: La cualidad del planeta que lo deposita,
+ese planeta podría estar muy congestionado aún si el regente de complementación mismo
+no lo está; si tal fuera el caso, entonces aprenda de sus relaciones (la buena exteriorización
+de otras personas) cómo tratar con esa congestión particular. Usted verá algo maravilloso
+en otras personas que a usted mismo le gustaría tener; trate de determinar lo que este
+principio es y póngalo a funcionar en su vida diaria. Esto es lo que el “aprendizaje de la
+vida” significa realmente.
+
+De modo que ahora tenemos el horóscopo natal y sus dos variaciones genéricas
+básicas. (Se sugiere hacer copias completas de los tres para referencia). Los signos
+cardinales enfocan la estructura de relación vibratoria y este enfoque está representado por
+las posiciones de los signos y los aspectos de los planetas estructurales: Marte, la Luna,
+Venus y Saturno. La agrupación genérica de los planetas servirá para determinar cuál de las
+dos “variaciones” es el “mapa genérico masculino” y cuál es el “mapa genérico femenino”
+y de estas síntesis usted puede determinar la cualidad genérica de sus patrones de relaciones
+básicos. ¿Cuáles relaciones enfocan sus expresiones masculinas y cuáles enfocan sus
+expresiones femeninas; cuáles enfocan sus patrones de reacción; qué clase de patrón de
+relación sirve para traerle sus más necesitadas lecciones espirituales; a cuál o cuáles dos
+contribuye usted naturalmente lo mejor de usted en amor y sabiduría?.
+
+Uno llega a la comprensión de los valores astrológicos a través del estudio fuerte, la
+meditación, la observación y la experiencia; es imposible poner de una vez en palabras
+todos estos factores sutiles. Pero cuando un estudiante de astrología es a la vez un filósofo
+que mantiene su mente receptiva a nuevas octavas de comprensión, él “enciende” su
+Sabiduría Interna poco a poco hasta elevar a la superficie de la conciencia niveles
+profundos de realización para la aplicación práctica. Nosotros nos hemos dado cuenta que
+es inútil centralizar nuestra atención en la gente como “varón y como hembra” - el “proceso
+de repolarización” ha estado en efecto demasiado tiempo para hacer esencialmente válido
+este acercamiento. Estamos verificando que la verdad de las relaciones humanas es
+polaridad cósmica. La masculinidad y la feminidad - “expresión y reflexión” - son
+expresadas por toda la gente, no importa sus cuerpos físicos y sus propósitos y sus
+capacidades generadoras.
+
+Por tanto, si nos ponemos claramente alertas a los valores simbólicos de Marte, la
+Luna, Venus, Saturno y los otros cuerpos planetarios que enfocan el valor genérico de los
+signos zodiacales, veremos en todo el horóscopo la masculinidad-feminidad de todo ser
+humano. Debemos aprender - es nuestro propósito principal aquí - las formas de expresar y
+reflejar los Principios Genéricos de la Vida; nuestra “escuela” es la Humanidad; nuestros
+“salones de clase” son la suma total de todas nuestras experiencias de relación como varón
+y como hembra en todas nuestras encarnaciones. Nada menos que esto podría proveer
+pábulo para la completa realización del ideal humano.
+
+### <h3 id="chapter-2">Capítulo II: La Seguridad</h3>
+
+“Existir” es “estar en un estado de movimiento”, pero “vivir constructivamente” es
+“existir consciente del origen y el objetivo.” En este estado de conciencia se halla la raíz del
+sentimiento de seguridad haciendo caso omiso de la condición de las circunstancias
+externas. El mándala astrológico lo describe de la manera siguiente: Trace un círculo con
+los diámetros vertical y horizontal; coloque el símbolo de Aries en el Ascendente,
+Capricornio en la parte superior de la rueda; Cáncer en la parte inferior; conecte a Aries con
+Capricornio y Cáncer por medio de líneas rectas.
+
+Aries es el Yo Soy primordial - la conciencia de la egoidad individualizada. A causa
+de la Vida ser Acción, “ser” significa “expresar”, “proyectar” y “actuar y reaccionar”. La
+creatividad y la epigénesis son, dependiendo de la octava envoltura, los archiprincipios de
+la acción de la Vida porque todas las expresiones son irradiantes y afectivas por naturaleza.
+Marte es por consiguiente, el Principio de la Acción, la “Chispa de la Llama Central” la
+cual provee todo lo epigenético con la facultad del movimiento de proyección. Pero, Marte
+tiene que tener un objetivo hacia el cual moverse, de lo contrario su acción estaría
+desprovista de propósito y de significación. Sus acciones desenfocadas serían por lo tanto
+energía desperdiciada. Desperdiciar la provisión de energía de uno es disipar la conciencia
+del Yo Soy; el resultado de esta disipación es una de las polaridades del sentimiento de
+inseguridad.
+
+Tener una conciencia poco clara del Yo Soy es estar relativamente descentrado y
+correspondientemente relativamente susceptible a los impactos de otras proyecciones de
+poder mentales, emocionales, psíquicas y físicas. Recuerde que en el tiro al blanco, el tirar
+y lanzar no tienen significación si no hay el blanco en el cual enfocar para el entrenamiento;
+el blanco simboliza químicamente el objetivo del desarrollo de la coordinación física para
+lo cual el tirador o lanzador practica. Continuar tirando o lanzando sin el foco del blanco es
+“Marte sin objetivo”; tal acción tiene por resultado un mero mínimo de ejercicio muscular,
+pero muy poca o ninguna coordinación muscular.
+
+Hablamos de los niños y niñas que están en crecimiento como “tirando hacia la
+condición de hombre o de mujer joven”. Cuando los objetivos de la madurez dadora de vida
+no son enfocados, entonces el crecimiento mecánico - tal como el tiro y lanzamiento sin
+objeto - conduce eventualmente a la inseguridad de movimiento y de energía
+desperdiciados. La encarnación tiene por propósito el dar vida lo cual es madurez y está
+indicado astrológicamente en la exaltación de Marte en Capricornio, el signo saturniano del
+poder de asumir y de cumplir responsabilidades. Estas responsabilidades están inherentes
+en el hecho que la madurez de conciencia implica dirección propia y la responsabilidad
+espiritual es expresión constructiva. En la octava genética de expresión, la “expresión
+constructiva” es vida generadora y mayordomía de lo que es generado, ya sea la
+encarnación de otros Egos - “nuestros hijos” - o la iniciación de un patrón de trabajo -
+“nuestro servicio”.
+
+El crecimiento desperdiciado es, en alto grado, una acción mecánica que resulta en
+la inseguridad cuando la persona está preparada para la expresión madura; pero incapaz de
+tal funcionamiento. Ella está a la merced de las vibraciones y poderes de otras personas y es
+incapaz de funcionar desde su centro de dirección propia. Marte, dejando a Aries y
+caminando a través de la rueda en la dirección opuesta a las agujas del reloj, debe subir del
+punto de Cáncer en la parte inferior de la rueda; permanecer en la seguridad de
+dependencias es evadir la propulsión dinámica hacia arriba del verdadero crecimiento.
+Cualquier persona así atascada trata de funcionar por medio de la fuerza de otro; ella no
+“conoce su propia fuerza”. Ella permanece fija en la “fuente”, pero como no está consciente
+de los objetivos individualizados, no puede evitar que se malogre la realización del ideal de
+la verdadera seguridad.
+
+Ya que aquello que está creciendo necesita protección y sostenimiento, la verdadera
+seguridad de la dependencia es la realización de las necesidades legítimas. El feto necesita
+la substancia materna, el bebé y el niño en crecimiento necesitan alimento, albergue, guía y
+amor; el estudiante necesita educación, el trabajador necesita un objetivo de servicio y un
+ingreso. Todas las personas que están evolucionando necesitan el sentido de seguridad de
+identidades específicas - afiliación de familia, afiliación religiosa, nacional y racial - hasta
+el momento en que la verdad de la egoidad se realice. Las congestiones en la seguridad de
+dependencia conducen a la subnormalidad psicológica y sexual, a la cristalización de la
+opinión, al prejuicio, la intolerancia, la fijación en expresiones químicas como símbolos de
+seguridad, a temores y enemistades raciales y nacionales y sobre todo a la incapacidad de
+ajustarse a cambios necesitados para el desarrollo y la flexibilización de la conciencia.
+
+Una persona “llega” a un punto específico en su evolución; cuando identifica ese
+punto como “una realidad”, permanece, en cierto sentido, estática por un tiempo para la
+realización de los requisitos de ese punto. Si entonces deja de ajustarse a los cambios
+necesarios - y permanece fija en aquello con que se ha familiarizado - ella “muere
+interiormente” porque su conciencia de sí misma no permitirá que las fuerzas evolutivas de
+la vida se expresen a través de ella. En ese “punto” pueden hallarse una de las cosas
+innumerables con las cuales los humanos se identifican durante la sucesión de sus
+encarnaciones.
+
+El signo de Cáncer en el Gran Mándala es el símbolo “del hogar” para la persona
+dependiente. Exotéricamente él es “origen quimicalizado” - matriz, madre, hogar, nación y
+raza. Esotéricamente él es su propia base psicológica - las cosas sobre las cuales descansa
+dentro de sí mismo como la conciencia del recurso para expresar su necesidad individual
+hacia un mayor cumplimiento. La base psicológica no es dependiente nunca de las
+expresiones químicas de la vida; una vez establecida, la persona se apoya sobre ella y en
+ella a donde quiera que vaya durante su encarnación. Este establecimiento interno la
+posibilita para ajustarse a cualquier cambio exterior de circunstancias; aquí se ve una
+representación de la Luna - regente de Cáncer - exaltada en su propio signo de su undécima
+casa, Tauro. Tauro corresponde a Cáncer como Acuario regido por Urano corresponde a
+Aries - el patrón del signo de la casa undécima es liberación e impersonalización.
+
+La persona desorganizada - el vagabundo, el forajido, y el demente - lo es porque
+ella ha perdido su sentido de contacto con la identidad y el foco interno. El vagabundo tiene
+experiencia ciertamente; pero es de la naturaleza de un movimiento sin propósito a través
+de la vida; el forajido ha perdido su sentido de pertenencia de otras personas - él está en un
+estado continuo de protesta contra algo de sí mismo (algo de la fuente vibratoria de la
+encarnación presente) que él no ha comprendido o percibido claramente. En otras palabras,
+en las mentes de esas personas no hay conexión entre lo que fueron en el pasado, lo que
+deben ser ahora y lo que pudieran ser en el futuro. Su pasado olvidado y su futuro sin
+descubrirse, las suspenden en el presente sin propósito.
+
+La persona que designamos como miserable es una de las más inseguras porque no
+está consciente del origen de su apego excesivo a la quimicalidad - el dinero - como
+símbolo de la seguridad. Su codicia y usurpación incesante exterioriza su fundamento
+interno desmoronado - ella busca la seguridad en la “posesión” de algo cuya identidad
+esencial es un “medio de intercambio como una expresión de sentimiento hacia otras
+personas”.
+
+El apego excesivo hacia un ser amado es también una exteriorización de seguridad
+de dependencia negativa porque la persona doliente identifica a otro ser humano como su
+base psicológica. El amor devoto y fiel no es, en sí, un “mecanismo de congestión”, sino
+que es una expresión de la octava más alta del corazón humano. Pero la clase de amor que
+no puede vivir independiente de parentesco químico no es amor verdadero, sino un símbolo
+de inseguridad interna; cualquiera que identifique a otro como “seguridad” está fuera de su
+propia base interna - ella está afligida continuamente con ansiedades, aprehensiones y
+tensiones. La persona que se ha “dislocado” a sí misma dice que está inquieta por el
+bienestar del ser amado, pero ella está verdaderamente inquieta por su propia seguridad. El
+amar verdaderamente da salud, fortalece la fe, inspira la confianza; el “amar” que es
+dependencia temerosa y tensa es justamente lo opuesto.
+
+De ese modo vemos que el exceso de dependencia en las formas externas es la
+archiraíz de la inseguridad. La corrección se halla en la comprensión de lo que lo externo
+simboliza estableciendo luego la realidad de ese símbolo en la conciencia y expresándose
+desde esa base psicológica; tal expresión es autogeneradora y autodirectriz; está
+simbolizada por la línea trazada desde Cáncer hacia arriba a Capricornio en el Gran
+Mándala. Este es el cuadro de la persona dependiente, inmadura, transmutando su
+conciencia con la experiencia para alcanzar el estado del individuo maduro, independiente.
+Nosotros reconocemos, debido a que la polaridad es interactiva y retroactiva, que el
+diámetro de Cáncer-Capricornio pinta las inseguridades presentes que han resultado de
+incumplimientos pasados y seguridades presentes que han resultado de cumplimientos
+pasados. Aquello que está establecido ahora como poder básico, psicológico, sano e
+integrado, es pábulo para el ejercicio de cumplimientos de responsabilidad. El estar libre de
+dependencia en las formas externas califica para un funcionamiento dinámico autodirectriz
+y eficiente. Muchas personas asumen responsabilidades - paternidad, trabajo, etcétera - pero
+su base psicológica desmoronada, con la resultante dependencia en lo externo como
+seguridades, las descalifica para el cumplimiento airoso y completo de aquello que han
+asumido.
+
+Por ejemplo - y hay muchos de ellos que deben estudiarse en estos tiempos - un
+hombre asume la responsabilidad del trabajo gubernamental; él está inseguro a causa de su
+dependencia excesiva en el dinero como símbolo de seguridad; él denigra de los principios
+inherentes en las responsabilidades de su empleo; él “trabaja los ángulos de la
+conveniencia”, pero quebranta la fe con el fin de realizar su símbolo ilusorio de seguridad;
+en su encarnación siguiente - o en alguna encarnación futura - su fe en otras personas será
+destrozada por la falsedad y falta de principios en ellas; ellas exteriorizarán simplemente su
+propia inseguridad intensificada, resultado de su inmadurez espiritual previa. Este es un
+punto importante que se debe considerar: adherirse a los principios de un patrón de trabajo
+o patrón de relación asegura la eficiencia máxima del cumplimiento de responsabilidad y
+correspondientemente, la eficiencia máxima de madurar la base psicológica para traspasarla
+como “pábulo de fuerza” a la encarnación siguiente. Las acumulaciones de pábulo de
+fuerza totalizan la acumulación de la maestría relativa; el empobrecimiento del pábulo de
+fuerza es la renuncia a la realización de la Idealidad.
+
+La persona que asume un patrón de responsabilidad y lo traiciona por ignorancia
+interna y carencia de principio, desintegra hasta cierto grado su propia base psicológica.
+Ella no califica para expresión de poder adicional hasta que se haya reivindicado su
+conciencia, afronte y pase las pruebas que la Vida (su propia conciencia) le traiga para
+probar su merecimiento. Cuando usted como astrólogo filósofo estudia mapas para analizar
+las fuentes de los problemas de otro y usted reconoce que el sufrimiento de éste se ha
+debido directamente a su excesiva dependencia en lo externo, sepa entonces, que en alguna
+parte de su pasado, él no calificó y sus descalificaciones han sido exteriorizadas esta vez
+por su reacción de dependencia en los debilidades de otros. El le dirá que sus padres nunca
+le dieron lo suficiente, que nunca le dieron oportunidades, que su jefe nunca lo aprecia, que
+se han aprovechado de él continuamente y lo han engañado; siempre está envuelto en
+accidentes de automóviles, sus hijos están siempre enfermos, se divorció tres veces, fue
+traicionado por la mujer a quien amó.
+Tales cuentos exteriorizan terriblemente inseguridades profundas, resultado directo
+de la traición a los cumplimientos de responsabilidad en el pasado. Pues bien, tal persona
+no sabe justamente quién es ella o para qué está aquí; sus motivaciones son percibidas sólo
+obscuramente; no está consciente de sus recursos de poder (pábulo de fuerza); y su
+conciencia de los principios de la experiencia es a lo más, confusa. Ella tiene que aprender
+de nuevo cuál es su identidad y lo que significa comprender los principios de la experiencia
+y los métodos espirituales para expresarse de acuerdo con el Principio.
+
+Ahora - un caso muy a propósito en estos tiempos - la seguridad internacional.
+
+Este término es un compuesto de la conciencia de seguridad de todo ser humano
+encarnado en el presente. En estos últimos tiempos hemos llegado a un reconocimiento más
+claro que nunca en nuestro historia de “Un Solo Mundo”. Reconocer “Un Solo Mundo” es
+asumir la responsabilidad de vivir en conformidad. No reconocer o no estar capacitado para
+reconocer “Un Solo Mundo” exterioriza sencillamente la adhesión a los conceptos
+nacionalistas separatistas; la gente de mentalidad nacionalista no se puede esperar que
+“piense internacional-mente”, no más que pueda esperarse que un niñito ame a los padres
+de otros niños más que a los suyos. Pero - y esto es muy significante - existen muchos
+encarnados ahora que profesan la “Conciencia de Un Solo Mundo”, pero que la violan
+continuamente, lo cual nos trae al tema del “Americanismo”:
+
+Encarnar como ciudadano de los Estados Unidos de América es asumir la
+responsabilidad de vivir la “Conciencia de Un Solo Mundo”. Usted y yo y todos los otros
+ciudadanos americanos calificamos para la encarnación aquí y debemos justificar esa
+calificación o reencarnar en una forma de gobierno mucho menos liberal. Nosotros estamos
+establecidos como una nación bajo la directriz espiritual de “libertad y justicia para Todos”
+- y el Todos no significa americanos solamente. Los ciudadanos de esta nación descienden
+principalmente de trasfondos europeos, asiáticos y africanos; pero debido a la cualidad de
+conciencia estamos entonados a los principios de vida democráticos y se nos permitió
+encarnar bajo una forma de gobierno basada en esos principios.
+
+El horóscopo de los Estados Unidos de América presenta el Sol y tres planetas en el
+signo de Cáncer - nosotros somos verdaderamente un “nido” para humanos de toda clase de
+trasfondo racial, nacional y religioso. El Sol en Cáncer es regente de la cuarta casa y en ese
+signo está en su propio signo de la duodécima casa - el “patrón de redención”. Cáncer está
+en la segunda y tercera cúspides; el Sol y dos de los planetas están en la segunda casa;
+Mercurio, regente de Géminis que está en el Ascendente y dispositor del Marte y el Urano
+de Géminis, está en Cáncer en la tercera casa; la Luna, regente de la segunda y tercera, está
+en Acuario; Saturno, regente de la octava y novena casas, está exaltado en Libra y trino a la
+Luna. Nuestra “base psicológica nacional” (no hay planetas en Leo, signo de la cuarta casa)
+está enfocada en esta “agrupación planetaria” en el signo de Cáncer; esto puede
+interpretarse como: intercambios de substancia material y educación de acuerdo con
+principios gubernamentales democráticos como fuente espiritualizada de nuestra evolución
+y progresos nacionales.
+
+¿Hemos violado alguna vez estos Principios?. Nuestro trato a nuestros ciudadanos
+indios y negros americanos dice que Sí. ¿Hemos alentado las debilidades de otros pueblos?.
+La historia de incumplimiento de deudas de guerra de otras naciones dice que Sí. Estamos
+en diciembre de 1950 - los diarios han revelado en las últimas semanas cómo se permite la
+venta de materiales americanos a la misma nación contra la cual estamos en guerra - una
+repetición, en parte, del relato de la venta de hierro viejo a los japoneses durante sus
+ataques a los chinos en los años de la década del treinta. Esto, de parte de un gobierno
+democrático, es ciertamente la blasfemia suprema contra nuestro principio de “justicia para
+todos”.
+
+Decir además, como dicen algunos, que “no se puede hacer nada sobre el asunto”,
+es el extremo supremo de la aquiescencia cobarde; tales violaciones de nuestros poderes
+como mayordomos de los principios deben detenerse. Puesto que una expresión química
+exterioriza sólo un estado interno, es decir que “tememos a los chinos comunistas”, que
+“tememos a los rusos”, que “tememos al bombardeo atómico”, que es sólo la mitad de la
+verdad. Nosotros tememos a los resultados de nuestra propia violación de los principios y
+lo que atravesamos ahora en el Oriente es el resultado de haber denigrado esos principios
+que inspiraron la fundación de esta nación. ¡Material para pensar!. Dejad que cada
+americano tome en cuenta cómo vive su ciudadanía. La ciudadanía americana es una
+bendición que debe honrarse viviéndola - no es simplemente “algo que se arroja a nuestro
+regazo” para aprovecharse en usos disipadores e irreflexivos. Al grado que nos expresemos
+de acuerdo con la intolerancia religiosa, el odio racial, la corrupción monetaria y la
+desintegración personal, nos descalificaremos para este privilegio; al grado que ayudemos a
+otros a ayudarse, que ejerzamos la mayordomía sobre nuestros recursos inteligentemente y
+para el mayor bien en el mundo y mantengamos nuestras mentes abiertas a una mayor
+apreciación de las cualidades y derechos de todos, es que mantendremos nuestras
+calificaciones democráticas. Nosotros como nación, somos poder democrático; como
+americanos individuales somos microcosmo de ese poder y es nuestra responsabilidad
+espiritual y nuestra alegría personal manifestar ese ideal mientras estemos encarnados. Eso
+y nada menos asegurará nuestra seguridad individual y nacional. Debemos funcionar, como
+americanos y como terrícolas desde la base psicológica - el “pábulo de poder” - o desde
+nuestros principios espirituales. La regeneración y el cumplimiento del idealismo
+democrático de Capricornio es aquello que se ha “madurado” de la base de Cáncer.
+Realizar esta madurez es la significación de “ser americano” y la significación de “ser
+terrícolas democráticos”.
+
+### <h3 id="chapter-3">Capítulo III: El Diámetro, el Cuadrante y el Decanato</h3>
+
+Para la prosecución de este material, será necesario un breve repaso del Espectro
+Genérico.
+
+El zodíaco no es simplemente un “cinturón”; es una emanación de cualidades
+vibratorias que comienzan en el primer grado de Aries, signo cardinal de fuego; este punto
+es, abstractamente, la iniciación de la circunferencia de la rueda vibratoria de la ciencia
+astrológica. Este punto es la objetivación - encarnación - de las potencialidades inherentes
+en el punto central del círculo. El radio del Ascendente - la horizontal izquierda - es la
+“proyección de potencialidades de la subjetividad a la objetividad”. En cualquier círculo
+dado, se usa el mismo radio para manifestar el círculo; por lo tanto todas las cúspides de las
+casas en la rueda son emanaciones del radio del Ascendente y representan el
+desenvolvimiento de la conciencia genérica en la experiencia y la realización del ideal a
+través de transmutaciones y expresiones espirituales.
+
+El Mándala que describe la estructura de la cualidad genérica es la rueda de doce
+casas con los signos de Aries, Cáncer, Libra y Capricornio en las cúspides de la primera,
+cuarta, séptima y décima casas, respectivamente. Los diámetros horizontal y vertical que se
+intersectan en el centro, forman la cruz de la encarnación; las líneas rectas que conectan las
+cúspides cardinales forman el campo evolutivo mediante el cual la humanidad tiene
+experiencia en relación entre sí. En este Mándala vemos la bisección de dos campos del
+círculo; dos diámetros creando dos pares de semicírculos. Estos diámetros representan la
+expresión doble de la Polaridad; aquella que genera (Capricornio-Cáncer: el diámetro de la
+paternidad), y la que es generada (Aries-Libra: el Ascendente y su complemento). Este
+mándala ilustra en símbolo astrológico, el número veintidós del Maestro. El dos es el único
+dígito que da el mismo resultado (cuatro) cuando se le suma a sí mismo y cuando se
+multiplica por sí mismo. El veintidós es el número de la maestría expresándose en la forma
+- es la octava superior de complementación y es significativo que todo ser humano debe
+realizar la experiencia evolutiva por la encarnación en ambos sexos físicos. Los cuatro
+signos cardinales descritos en este mándala comprenden la forma encarnada por la cual
+evoluciona la condición de hombre y la condición de mujer de cada ser humano a través de
+la experiencia de la relación y destila sus espiritualizaciones por las cuales se manifiesta el
+ideal. Todas las relaciones humanas - biológicas - y de alguna otra clase son derivadas de
+esta base arquetípica: el engendrador bipolar y el engendro bipolar.
+
+Puesto que los trinos elementales simbolizan la espiritualización de las cualidades
+genéricas, nosotros derivamos nuestro espectro genérico de la relación de los signos de
+exaltación de los regentes de estos cuatro signos. Marte (varón engendrado y regente de
+Aries) está exaltado - maduro - en Capricornio, regido por Saturno, símbolo del padre;
+Saturno está exaltado en Libra, regido por Venus y complemento de Aries, signo de Marte;
+Venus, está exaltado en Piscis, tercera octava del trino de agua, el último signo en la
+sucesión zodiacal y este trino está iniciado por el signo cardinal de Cáncer, regido por la
+Luna - símbolo de la Madre - y complemento del Capricornio de Saturno.
+
+Por lo tanto, los signos de fuego y de tierra, como son “iniciados” por símbolos
+machos, son los signos machos; los signos de aire y de agua, iniciados por símbolos
+hembras, son los signos hembras. Comoquiera que cada ser humano, como varón o como
+hembra, es bipolar, nosotros reconocemos una división doble de los signos machos y de los
+signos hembras en masculinos y femeninos. Los signos de fuego forman la primera mitad
+de la mitad varón del zodíaco y por eso ellos son los signos masculinos machos; los signos
+de tierra siguen en sucesión (Tauro sigue a Aries), por lo tanto ellos son los signos machos
+femeninos. Los signos de aire iniciados por el signo cardinal Libra, regido por Venus
+representan la mitad masculina de los signos femeninos; los signos de agua, iniciados por
+Cáncer comprenden los signos hembras femeninos. De ese modo vemos el zodíaco
+completo representando una expresión doble de polaridad doble; desde el primer grado de
+Aries, el punto más masculino, hasta el trigésimo grado de Piscis, el punto más femenino.
+Haga una lista de los signos en este orden y aprenda para experiencia futura.
+
+La mitad inferior (bajo el diámetro horizontal de la rueda) está iniciada por Aries; la
+mitad superior está iniciada por Libra, como “reflejo” de la mitad inferior. La nota clave
+oculta del primer grado de Aries - punto Ascendente del Gran Mándala - es Yo Soy. En la
+línea del Ascendente están implicadas todas las potencialidades demostradas en el
+desenvolvimiento zodiacal y los contenidos de la rueda astrológica. Por lo tanto, se
+desprende naturalmente, que en los 30° de Aries está implicado el “contenido” de la mitad
+superior de la rueda. Este “contenido” está implicado simbólicamente por los últimos
+quince grados del signo. La “cúspide” del grado decimosexto del signo es la potencialidad
+del diámetro horizontal terminado de la rueda. Cuando el radio horizontal izquierdo es
+“desplegado” para formar un diámetro terminado, la “extensión” resulta en lo que
+llamamos la cúspide de la séptima casa el punto iniciador de la mitad superior del círculo.
+Puesto que cualquier grado de cualquier círculo puede aparecer como Ascendente de un
+horóscopo, nosotros reconocemos que la división de cualquier signo en dos mitades de 15°
+cada una, representa un cuadro simbólico de la polaridad de ese signo embrionario, y
+aunque el autor no ha llegado, hasta este momento, a ninguna conclusión específica en
+cuanto a la diferencia significativa de los planetas colocados en los primeros quince grados
+de un signo y aquellos colocados en los últimos quince grados, se sugiere el cuadro que los
+planetas colocados en la segunda mitad de los treinta grados, si son expresados sin
+regeneración, son potencialidades para karma negativo mucho más “efectivo”, en el sentido
+que por estar en la “mitad de polaridad” del signo, sus expresiones negativas implican la
+posibilidad de ser reflejadas en encarnaciones futuras por otras personas con las cuales el
+sujeto tendrá relaciones. En otras palabras, los siguientes quince grados, por analogía,
+pueden denominarse como la “mitad femenina” del signo. “Femenina” significa
+“reflexiva”. Por lo tanto, si queremos evitar sufrimientos futuros a través de las reacciones
+dolorosas a los otros, es nuestro deber regenerar los planetas así ubicados, implicándose
+que en el futuro (desenvolvimiento en Tiempo-Espacio) esas vibraciones planetarias
+enfocarán nuestros patrones de relación complementarios y “recobraremos mucho más
+eficazmente de los otros lo que hemos servido esta vez”.
+Divida cada casa de un Gran Mándala en dos partes iguales; coloque sus posiciones
+planetarias natales en esta rueda y busque en qué mitad de su signo caen los planetas.
+Quizás usted como estudiante inquiridor puede llegar a una conclusión sobre esta materia.
+Si usted tiene cuadraturas u oposiciones entre planetas colocados en los últimos quince
+grados de sus signos, ¿Se siente usted más sensible a personas que expresan cualidades
+negativas representadas por esos planetas que lo que usted se siente a aquellas que reflejan
+negativamente los planetas de los “primeros quince grados”. ¿Se siente usted que con un
+análisis cuidadoso puede determinar si los planetas de los primeros quince grados le dan
+mayor libertad de expresión directa que los planetas de los últimos quince grados?. Analice
+sus cuadraturas y oposiciones planetarias desde este punto de vista y vea si el patrón de
+polaridad implicado le ayuda a esclarecer sus capacidades de expresión.
+
+LOS CUADRANTES:
+En el Gran Mándala la subdivisión de la primera casa - y el signo de Aries - en
+cuatro cuadrantes de 7-1/20 cada uno pinta el “estado embrionario” de la cruz cardinal.
+Aplicando la Ley de Correspondencia relacionamos esta división de un signo con la
+división cuádruple de la rueda completa. Comenzando con Aries y “desplegando” la rueda
+en la dirección de las agujas del reloj, encontramos que cada cuadrante subsiguiente está
+iniciado respectivamente por Cáncer, Libra y Capricornio.
+
+La subdivisión de un signo en dos secciones de quince grados cada una sea
+aplicable particularmente al estudio de los aspectos de oposición y de todo patrón
+complementario en general. La subdivisión de un signo en cuadrantes, sin embargo, se
+aplica al análisis de los aspectos de cuadratura, puesto que todo aspecto de cuadratura es,
+teniendo en cuenta el orbe, un patrón de relación de 90° y cada cuadrante de la rueda es una
+división de 90°. La división en cuadrantes (por grados y minutos) representa de cero a siete
+grados, treinta minutos; de siete grados, treintiún minutos a quince grados; de quince
+grados, un minuto a veintidós grados, treinta minutos; de veintidós grados, treintiún
+minutos, a veintinueve grados, cincuentinueve minutos. El siguiente “paso” nos lleva a cero
+del signo siguiente.
+
+Hay tres “cruces” implicadas en la estructura de los doce signos: cardinal, fija y
+mudable. En el desenvolvimiento del ciclo desde el Ascendente del Gran Mándala, las tres
+cruces aparecen cuatro veces, en los cuatro cuadrantes de la rueda: Aries, Tauro, Géminis;
+Cáncer, Leo, Virgo; Libra, Escorpión, Sagitario; Capricornio, Acuario y Piscis. Cada
+“iniciación” cardinal es una nueva forma de decir Yo Soy - como extensiones del Yo Soy
+básico de Aries; cada cruz representa un patrón de crecimiento y desarrollo a través de la
+experiencia en la expresión doble de la polaridad doble; nosotros evolucionamos a través de
+fases de recibidores de Vida y dadores de Vida varones y hembras. Las “cruces”
+representan simplemente los procesos por los cuales destilamos sabiduría de nuestras
+experiencias y desenvolvemos los recursos internos de amor hacia el logro de la realización
+del ideal. Como quiera que, en un horóscopo calculado correctamente, cada planeta está
+colocado donde está, por el legítimo proceso de la Ley, debe haber una clave valiosa en la
+ubicación de los planetas por cuadrante. Cada signo individual del zodíaco tiene su regente
+planetario particular, como enfocador básico de la cualidad genérica del signo. Pero como
+los treinta grados representan una sucesión de cualidad de signo y debido a que la Ley de
+Correspondencia se aplica a la estructura astrológica, así como a cualquiera otra
+manifestación, consideremos la ubicación de planetas por cuadrante en términos de
+regencias secundarias. El primer cuadrante de un signo mudable está regido por el regente
+planetario del signo; el segundo cuadrante está regido secundariamente por el planeta que
+rige al siguiente signo de esa cruz; el tercer cuadrante está regido secundariamente por el
+planeta que rige al siguiente signo de la cruz y el cuarto cuadrante está regido
+secundariamente por el siguiente. Por ejemplo:
+
+<pre>
+Capricornio: Regente principal: Saturno.
+Capricornio es el signo cardinal.
+Primer cuadrante: regente secundario Saturno.
+Segundo cuadrante: Marte - regente de Aries.
+Tercer cuadrante: La Luna - regente de Cáncer.
+Cuarto cuadrante: Venus - regente de Libra.
+
+Leo: Regente principal: el Sol.
+Leo es un signo fijo.
+Primer cuadrante: el Sol - Regente de Leo.
+Segundo cuadrante: Plutón - regente de Escorpión.
+Tercer cuadrante: Urano - regente de Acuario.
+Cuarto cuadrante: Venus - regente de Tauro.
+
+Piscis: Regente principal: Neptuno.
+Piscis es un signo mudable.
+Primer cuadrante: Neptuno - regente de Piscis.
+Segundo cuadrante: Mercurio - regente de Géminis.
+Tercer cuadrante: Mercurio - regente de Virgo.
+Cuarto cuadrante: Júpiter - regente de Sagitario.
+</pre>
+
+Note que la extensión del primer y tercer cuadrantes y del segundo y cuarto
+cuadrantes han de representar dos aspectos de polaridad; este compuesto de polaridad está
+representado en la rueda horoscópica como los dos diámetros de cada cruz. Préstele
+consideración cuidadosa a sus aspectos de cuadraturas y a los planetas envueltos con
+respecto a las regencias secundarias; los regentes secundarios actúan como “azafatas” o
+como “hombres de confianza” para los regentes primarios y su influencia es efectiva en el
+análisis de las cualidades de expresión planetarias.
+
+LOS DECANATOS:
+En el estudio de los decanatos llegamos al análisis de cada signo desde el punto de
+vista de sus potencialidades espirituales. Así como las tres cruces de cuatro signos cada una
+son “desenvueltas” del Ascendente del Gran Mándala, del mismo modo los cuatro trinos
+genéricos de tres signos cada uno son “desenvueltos” del Ascendente. Las divisiones del
+15° y 7 1/2° prosiguen como “desenvolvimiento” de experiencia - a través del zodíaco en
+dirección contraria a las agujas del reloj desde el Ascendente; el cuadro demostrado es el de
+la Humanidad moviéndose a través de sus patrones de experiencia por el sendero “hacia
+adelante y hacia arriba” - de nivel a nivel, siempre ascendiendo por medio de los procesos
+evolutivos. No obstante, en el ciclo de los trinos genéricos, el sendero es la dirección de las
+agujas del reloj - y este no es un movimiento “cíclico”.
+Es una evaluación de los poderes zodiacales desde el punto de vista de la
+potencialidad espiritual. Como vimos antes en esta disertación, está basado en los puntos de
+exaltación de los planetas que rigen los signos de la estructura - los signos cardinales.
+
+La potencialidad espiritual de la cualidad genérica de cada signo zodiacal es triple;
+las palabras claves arquetípicas son (1) Poder; (2) Amor y (3) Sabiduría. La segunda y la
+tercera de estas octavas son las perfecciones emocional y mental por las cuales el poder
+esencial de cada signo cardinal es liberado, en expresión transmutada. Los decanatos de
+cada signo son la división del signo en tres grupos de 10° cada uno. El segundo y tercer
+decanatos de un signo simbolizan el estado embrionario de las potencialidades del Amor-
+Sabiduría; estas potencialidades se expresan en la rueda por medio de los dos signos que
+corresponden al decanato; ellos son los otros dos signos del mismo elemento como el
+cardinal particular. En los signos fijos y mudables vemos en acción la Ley de
+Correspondencia y el Principio de Recapitulación y de ese modo podemos atribuirle a cada
+decanato su corregente apropiado de la manera que sigue:
+
+Signos de Fuego: Primer decanato: Aries - Marte; Segundo: Leo - Sol; Tercero: Sagitario - Júpiter.
+
+Signos de Tierra: Primer decanato: Capricornio - Saturno; Segundo: Tauro - Venus; Tercero: Virgo - Mercurio.
+
+Signos de Aire: Primer decanato: Libra - Venus; Segundo: Acuario - Urano; Tercero: Géminis - Mercurio.
+
+Signos de Agua: Primer decanato: Cáncer - Luna; Segundo: Escorpión - Plutón; Tercero: Piscis - Neptuno.
+
+La Ley Hermética de Correspondencia está bellamente demostrada, particularmente,
+por un ejemplo de este análisis de decanato. El segundo decanato de cada elemento es el
+decanato de “signo Fijo”, Cuando extendemos los tres decanatos de cada elemento a la
+rueda de doce signos, vemos que los decanatos de signo fijo se convierten en el punto
+medio de cada cuadrante de la rueda. El “medio del signo” se convierte por
+correspondencia en el “medio del cuadrante del círculo”. El punto medio de cada signo fijo
+de la casa (Tauro, Leo, Escorpión, Acuario) (Segunda, quinta, octava, undécima) cuando se
+conecta por líneas rectas se convierte en el símbolo del aspecto de cuadratura - el
+archisímbolo de la congestión; puesto que el decanato fijo de cada signo es el decanato del
+Amor, vemos cómo el mándala astrológico señala claramente hacia la liberación espiritual
+de las congestiones emocionales: la de la expresión de la conciencia del amor. Cada signo
+(no importa su cualidad genérica) alcanza su vértice de compresión en el punto medio - la
+unión de los grados decimoquinto y decimosexto. Esta unión está exactamente en el medio
+del segundo decanato. El decanato cardinal - los primeros diez grados de cualquier signo -
+lleva a cabo, por la Ley de Correspondencia, el atributo de los “comienzos” de los signos
+cardinales según ellos representan los “puntos culminantes” básicos en el progreso a través
+de la rueda. Los terceros decanatos (los últimos diez grados) realizan la “cualidad
+transicional de los signos mudables, puesto que después que ha sido pasado el punto medio
+del signo, las “energías” empiezan a “retirarse” de la cualidad básica del signo y a acercarse
+a la modulación al signo siguiente. Por tanto los signos mudables del zodíaco forman los
+puntos de transición de un cuadrante de 90° al cuadrante siguiente.
+
+Usted preguntará ¿De qué valor práctico es todo esto?. Y usted tiene el derecho de
+preguntar. Cuando recordamos que “todo problema contiene su propia cura” podemos
+estudiar los planetas afligidos y congestionados desde el punto de vista de su ubicación por
+cuadrante del signo y decanato del signo y extraer de esa información muchísimo que nos
+enseñe sobre las posibilidades inherentes para regenerar la expresión de ese planeta. Por
+ejemplo: un planeta congestionado en el grado veintiséis de Capricornio; este planeta está
+en el cuadrante de Libra regido secundariamente por Venus; está en el decanato de Virgo,
+regido secundariamente por Mercurio. Su ubicación en el cuadrante de Libra (cuarto
+cuadrante de Capricornio) es análoga a la relación entre Capricornio y Aries en el Gran
+Mándala - siendo Capricornio el cuarto cuadrante de Aries; la palabra clave es
+cumplimiento de responsabilidad; la sub-vibración de Libra transmite “armonización de
+relación” a través del balance y el recto intercambio. El decanato de Virgo (la tercera
+octava - Sabiduría) del trino de tierra nos dice que el propósito espiritual de las experiencias
+representadas por el planeta congestionado es el desenvolvimiento de mayor comprensión;
+la persona debe estar ansiosa de aprender de su experiencia en este asunto; al grado que ella
+trate de aprender, de mantener una mente libre y receptiva a la instrucción y guía, utilizará
+su recurso espiritual para disolver la congestión. Si la persona, por falso orgullo, terquedad,
+etc., cierra su mente a la orientación, cerrará la puerta hacia su desarrollo; la armonización
+de relación no podría establecerse y la congestión se intensificaría.
+
+Ejemplo: Un planeta congestionado en el noveno grado de Leo (Fijo de Fuego -
+regido por el Sol). Este grado está en el cuadrante de Escorpión de Leo (segunda división
+de 7 1/2°) y en el decanato de Aries (los primeros diez grados). Como el planeta es aludido
+como “congestionado” y está en un signo fijo, nosotros reconocemos que la congestión es
+intensa, por estar en un signo fijo y en el cuadrante de Escorpión. Escorpión, en relación
+con Leo, es análogo a Cáncer en relación con Aries en el Gran Mándala; esta relación es
+“congestión en la relación de familia”, “apego al hogar”, “complejo paternal” y
+(posiblemente) congestión del recurso del Amor por las exigencias de la naturaleza de
+deseo sexual. No obstante, este punto está en el decanato de Aries - primer decanato de un
+signo de fuego - y la espiritualización de la vibración de Marte es el valor. Semejante
+persona encontrará que el esfuerzo subjetivo y el darse cuenta de sus derechos individuales
+servirán de liberación de poder para disolverle las congestiones al planeta Leo. La regencia
+principal de Leo por el Sol hace de una actitud positiva una “necesidad imprescindible” en
+la brega con estos problemas.
+
+Y así sucesivamente - con otros patrones congestionados. Relacione el decanato y el
+cuadrante con la representación abstracta del Gran Mándala y encontrará que toda variación
+de “problemas” que se encuentren en los mapas de seres humanos contienen, por su
+ubicación, una pista directa para las soluciones vibratorias. Las expresiones de poderes
+planetarios por medio de las implicaciones espiritualizadas de los signos es la señal de “siga
+adelante” para los procesos evolutivos y el desenvolvimiento armonioso de las
+potencialidades
+
+### <h3 id="chapter-4">Capítulo IV: La Luz (Primera Parte)</h3>
+
+La iluminación es siempre un acto revelador. No significa, como algunos suponen,
+dar algo nuevo al asunto en consideración ni aún a la persona que lo está considerando. Es
+siempre un acto por el cual la verdad del asunto en consideración puede ser lograda
+relativamente con mayor claridad. Tal realización jamás puede ser “dada” por una persona
+a otra, porque la realización es siempre una experiencia subjetiva; la persona que la
+experimenta lo hace solamente cuando está acondicionada apropiadamente y en su
+momento oportuno. Su acondicionamiento adecuado y su hora - la sincronización del
+anhelo por la Verdad con la capacidad para utilizar lo que se ha realizado - le hace posible
+reaccionar al estímulo de otra persona o a una experiencia de tal forma que su conciencia
+del asunto considerado se haga accesible a un grado relativamente superior de la Verdad.
+Podemos decir que en ese momento la persona ha “ganado más sabiduría acerca del asunto”
+- su conciencia de la naturaleza de tal asunto es entonces más sabia de lo que era.
+
+En estos tiempos de indagación creciente en todas las facetas de la experiencia y del
+funcionamiento humanos, no es sorprendente en realidad que mucha gente por todo el
+mundo esté abriendo sus mentes a realizaciones más claras sobre la naturaleza de la ciencia
+de artes ocultas llamada “astrología”. Esta serie de artículos bajo el título general de la Luz,
+de la cual esta es la primera disertación, es ofrecida a estos, investigadores con la esperanza
+de que aquellos que ya están “acondicionados adecuadamente y a tiempo oportuno”
+hallarán, mediante la lectura cuidadosa, la experiencia de lograr cuadros más claros de lo
+que es la astrología verdaderamente y cómo el conocimiento de su naturaleza puede ser
+utilizado más constructiva y filosóficamente. Su propósito es completamente consistente
+con su naturaleza - su propósito es iluminar y su naturaleza es la presentación simbólica de
+la conciencia evolutiva de la Humanidad, “en masa” o individualmente.
+
+A veces nos damos cuenta más intensamente de una cosa por la consideración de lo
+que la cosa no es. Básica y esencialmente la astrología no es un estudio de eventos; no es
+un estudio de las “personas en su vida”; no es una superstición aunque muchos la han usado
+en tales formas que dan evidencia de su temor supersticioso a la vida y a la experiencia; no
+es ciertamente un estudio de “mala o buena suerte”; su propósito principal no es determinar
+la hora de los eventos pasados o futuros y - dadle gran consideración a esto - no es un
+“estudio de las estrellas”.
+
+Los “no” de la astrología mencionados arriba muy bien podrían referirse como los
+“nudos” en los conceptos de la mayoría de las personas sobre astrología. Dos de ellos se
+basan en la mentira, los otros contienen suficiente contenido de conocimiento o de
+sabiduría para hacer la astrología de utilidad constructiva - pero solamente cuando el que la
+practica está motivado por altos ideales de auxilio a los otros; y cuando es la clase de
+persona que está siempre lista para considerar nuevas revelaciones de la verdad astrológica.
+Ninguna persona encarnada ahora capacitada para usar el conocimiento astrológico es
+“nueva en el asunto”; todas esas personas están recapitulando conocimiento del tema
+obtenido en vidas pasadas y en justicia a ese esfuerzo del pasado, ahora se requiere esfuerzo
+para desenredar los “nudos” de conceptos congestionados, supersticiones y medias
+verdades mediante la expansión de la mente y el incremento de la “voluntad de la Verdad”.
+El nombre de esta ciencia - arte que contiene la clave de lo que ella es verdaderamente;
+vamos a analizarla para uso continuo durante la lectura asidua de estas series.
+
+El “astr” de astrología es una de muchas palabras raíces derivada de lenguajes
+antiguos que tiene significación esotérica y exotérica. Exotéricamente se refiere a “estrella”
+y en esta connotación la astrología sobreentiende que es el estudio de la influencia en el
+carácter y destino humanos ejercida por las estrellas en los cielos, como si nosotros los
+humanos “tuviéramos que hacer lo que las estrellas nos mandan a hacer, a ser, a pensar, o a
+desarrollar”. Tal concepto irracional de la “influencia estelar” tiene el efecto desintegrador
+de intensificar los temores del hombre concerniente al “destino”, así como a sus propias
+debilidades e ignorancia. En el plano del ejercicio Intelectual aún los acercamientos más
+exotéricos pueden ser de ayuda en cuanto a familiarizar a las personas con un grupo
+particular de símbolos y el estudio de las palabras claves interpretadoras de estos símbolos
+conduce al entrenamiento de la facultad del pensamiento abstracto. Pero debido a que el
+conocimiento sin uso no es la razón de ser de la astrología, debemos mirar más hondamente
+la palabra en sí para lograr las verdades de su propósito.
+
+Esotéricamente la “astr” de astrología se refiere a la luz. El hombre ha considerado
+desde edades innumerables las estrellas en los cielos, como símbolos de luz purísima. El
+astrónomo estudia los cuerpos celestes en términos de la distancia entre ellos y nosotros, de
+su tamaño, peso, densidad y relaciones recíprocas espaciales. El astrólogo estudia lo que
+estos cuerpos celestes simbolizan como luces de conciencia.
+
+Asimismo, hay esotéricamente las connotaciones para la palabra “luz”. Una es esa
+forma de luz que hace posible la percepción visual a los que están encarnados. En términos
+de la vida manifestada, la luz es un poder creador, un atributo de todas las cosas
+manifestadas que poseen una potencialidad creadora o manifestadora. Pero antes que esa
+luz pueda “ser”, tiene que haber aquello que crea la luz visual y eso es la luz de la
+conciencia. La conciencia creadora de lo que llamamos “vida” (por falta de una palabra
+más específica), por medio de la conciencia creadora “reducida” de logos galácticos y
+solares - todos los cuales están evolucionando - origina cualquiera y todas las formas y
+grados de luz que pueden percibirse por todo el mundo manifestado. En otras palabras, la
+luz perceptible es la polaridad negativa, la reflexión manifestada del atributo creador
+positivo - la conciencia. Los primeros versículos del libro del Génesis manifiestan: “Dios
+dijo, Sea la luz y fue la luz”. Ya sea que uno crea que la palabra “Dios” se refiere a la
+esencia cósmica creadora o a la voluntad y la mente creadora de un logos solar, no importa
+en esta conexión; lo que se quiere considerar es que la conciencia del poder creador fue
+establecida y que la luz fue el primer gesto del acto creador. Las “tinieblas” aludidas se
+refieren al estado de la vida sin forma que nosotros llamamos “caos”. “Caos” no significa
+“la nada” como algunos creen, sino la esencia única de la vida que ha de ser utilizada por
+las voluntades y mentes creadoras para la manifestación. La luz manifestada es la
+proyección en la manifestación de la inteligencia creadora. La conciencia es ese grado de
+darse cuenta - iluminación - del poder que es el requisito principal de la acción creadora.
+Un logos solar está consciente del poder de crear - de manifestar - a través del
+establecimiento de un cuerpo central - “el sol” - y la emanación de otros cuerpos - “los
+planetas” que en su totalidad comprenden su campo de evolución. El logos evoluciona a
+través de la evolución de sus miríadas de olas de vida y de formas que habitan los cuerpos
+planetarios; el macrocosmo y el microcosmo son dependientes uno de otro - la evolución de
+cada uno sirve y es concurrente con la evolución del otro. Por el atributo de la conciencia y
+la facultad de elección, los humanos ejercen su potencialidad creadora de adelantar su
+evolución. Nosotros los humanos no somos “creadores”; pero, como tenemos el poder de la
+regeneración consciente, revelamos la potencialidad de la creación. Así como nuestro
+Logos solar - Dios es, “asimismo nosotros estamos, destinados a llegar a ser a través del
+desenvolvimiento de la conciencia de nuestra verdadera identidad y correspondientemente,
+de nuestros poderes. Si, entonces, la astrología no es un “estudio de las estrellas”, sino un
+estudio en símbolos arquetípicos de la conciencia, podemos despojarnos de nuestros
+acrecentados conceptos falsos sobre el asunto y buscar en los horóscopos - los nuestros
+particularmente - lo que ellos son realmente y para lo que son.
+
+La aseveración que la astrología es el estudio de la influencia del Sol, la Luna, y los
+planetas sobre nosotros - como humanos individuales o colectivos - no es falsa; pero, para
+nuestro propósito hay otro acercamiento al asunto que va más hondo y por lo tanto debe ser
+considerado. Hasta donde el “efecto de los planetas en los humanos” concierne, diremos
+que la astrología es el estudio de las correspondencias entre los poderes vibratorios
+planetarios y nuestros poderes reales o potenciales. Nosotros, como humanos, estamos
+relacionados fraternalmente con todos los otros humanos como expresiones del mismo
+arquetipo en este planeta. También somos - pero más indirectamente - fraternales a todas
+las expresiones de vida en este planeta. Nuestra morada - la Tierra - es el cuerpo
+manifestado de un Ser, que en su octava de funcionamiento, es fraternal a los Regentes
+planetarios de nuestro sistema solar; por tanto, en miríadas de niveles de correspondencia,
+todos en este sistema estamos relacionados mutuamente. Y, todos somos las ideas
+manifestadas de nuestro Creador - nuestro Logos Solar - el “Padre-Madre-Dios”. Puesto
+que los planetas de nuestro sistema son la incorporación de Seres cuya conciencia de la
+vida los capacita para ese ministerio y cada uno tiene su función evolutiva particular y
+efecto en el sistema total o en cualquier factor de éste, nosotros, como humanos y
+estudiantes de astrología, estudiamos nuestros horóscopos para darnos cuenta de niveles de
+conciencia de vida más elevados a través del conocimiento o del darnos cuenta de nuestras
+potencialidades en correspondencia con las cualidades y significación de aquellos seres
+cuya conciencia provee estructura y patrón a nuestro sistema. Los símbolos astrológicos del
+Sol, la Luna y los planetas, designan lo que llamamos “regencia” de parte de nuestros
+cuerpos, cualidades de la personalidad y el carácter, los principios inherentes en nuestras
+capacidades para la expresión y la reacción y las calificaciones vibratorias de nuestras
+experiencias y relaciones. Todos estos factores son, considerados juntos o individualmente,
+para el único propósito de ampliar y purificar la conciencia - “iluminándonos” o
+sirviéndonos para hacer el yo más consciente de la luz del Yo - y el Yo es el Espíritu que
+identifica el parentesco y la unidad del hombre con su Creador.
+
+A fin de establecer un acercamiento o entendimiento nuevos, se ha encontrado de
+gran utilidad que se deje de hablar del asunto bajo consideración en los patrones habituales
+que quizás uno ha usado por largo tiempo. Hay varios “clisés” que los estudiantes de
+astrología han aprendido y usado y, para el desenvolvimiento más extenso de una
+conciencia de “Astro-Luz”, podríamos poner en práctica algunas palabras y referencias
+nuevas. Por ejemplo:
+
+Encontramos muy fácil y natural decir, con relación al horóscopo de una persona:
+“Esta persona tiene un Urano malo”. Fíjese en esa manifestación por un momento con
+miras a hacerse más consciente de lo que dice. En primer lugar, nadie puede “tener” ningún
+planeta; en segundo lugar, ningún planeta es “malo”. ¿Cómo podría ser malo siendo una
+creación divina?. Revisemos esto: “La conciencia de esta persona sobre los principios
+simbolizados por Urano está congestionada, desorganizada, inmadura o sin evolucionar”.
+No decimos por tanto, que la persona es mala, perversa o desafortunada. Simplemente
+queremos decir que su desarrollo - a través de quién sabe cuánto tiempo - no ha incluido
+gran atención regeneradora a los aspectos del Espíritu que están caracterizados por el
+símbolo planetario de Urano; queremos decir que tiene reserva de experiencia considerable
+en crecimiento y desarrollo e integración por llevarse a cabo en ese punto. Pero eso no la
+hace mala, perversa, ni aún desafortunada - significa simplemente que ella tiene que
+realizar un desenvolvimiento especial en su llegar a ser evolutivo. El horóscopo es registro
+simbólico de conciencia - no es un cuadro de tinieblas estáticas, sino que su gran valor
+estriba en representar las esencias de las misiones de vida de la persona y su estado relativo
+de evolución.
+
+Decimos con frecuencia: “Esta ubicación de Saturno y este aspecto con Saturno
+hace de esta persona un miserable”. ¡Deténgase un momento!. Toda la hueste celestial en
+conjunto no puede hacer de nadie un avaro. El registro de Saturno en el horóscopo pinta
+una acción de la conciencia de la persona - o la falta de conciencia-respecto a la posesión
+de bienes materiales. La avaricia es un desequilibrio en la conciencia - atención excesiva a
+la adquisición para contrarrestar un temor a perder, profundamente arraigado. Suprima esta
+actitud injusta hacia Saturno - él se esfuerza en enseñarnos lecciones importantes y una de
+ellas es el uso inteligente de los medios materiales. El dice “Mi naturaleza corresponde a su
+potencialidad de aprender - entre otras cosas - a usar la substancia y medios naturales
+inteligentemente”. “Hasta tanto usted admita en su conciencia el darse cuenta de este
+principio para su propia elevación, tendré que hablarle a través de su temor a la pérdida;
+cuando usted aprenda a usar en forma balanceada, el poder particular de conciencia que yo
+simbolizo, usted sabrá que he sido siempre su amigo y su maestro. Convenga con lo que yo
+represento como poder y cualidad de conciencia y su acercamiento a su propia Maestría
+será adelantado en libertad y regocijo; usted sabrá entonces que no tiene que culparme más
+por sus temores e inseguridades”.
+Decimos a veces con cierto ardor de envidia: “¡Qué hombre afortunado!. Tiene algo
+en trino con Júpiter”. Júpiter nos responde con una sonrisa en su forma bondadosa y
+comprensiva y nos dice - tal vez un poco triste por nuestra envidia: “Me han llamado
+frecuentemente el planeta de la abundancia y la buena fortuna - permítanme recordarles que
+yo simbolizo simplemente vuestra propia conciencia de vuestro poder de mejorar, de
+engrandecer y ampliar su naturaleza y sus condiciones; ustedes no reciben nada de mí -
+ustedes expresan mi principio de ampliación y expansión por medio del optimismo, la
+bondad, la generosidad y la audacia; lo que usted da en expresión, eso atrae hacia usted; si
+vuestra conciencia de mí se revela a través del desajuste de la extravagancia, la
+gratificación, el falso orgullo o la avaricia, yo no puedo registrar regeneradoramente en su
+mapa, porque usted en su conciencia de mí no ha calificado para tal registro como lo ha
+hecho este hombre. No puede envidiar su desarrollo. Mi principio les sirve a todos. Tómelo
+en su conciencia de la vida, hágalo suyo por medio de la buena acción y su conciencia
+desplegará tarde o temprano, el darse cuenta y la manifestación de esa forma particular de
+la Luz que yo represento”.
+
+Y así sucesivamente - con cada uno de los otros puntos planetarios. En conclusión,
+debemos considerar otro punto por su significación especial en nuestro horóscopo - el
+símbolo del Sol mismo.
+
+El autor sugiere que cada estudiante de astrología bien inclinado, inaugure la
+práctica de colocar el símbolo tradicional del Sol - el punto circunscrito por un círculo - en
+el centro de cada horóscopo; este símbolo es por correspondencia el símbolo de nuestro
+Creador, nuestra propia esencia espiritual, nuestro átomo simiente, la voluntad de vivir
+eterna e indestructible, que caracteriza a la conciencia a través de todo el tiempo y el
+espacio. Este es el símbolo construido con mayor sencillez, enfocado con mayor perfección
+y el de mayor pureza arquetípica de todos los símbolos astrológicos - es apropiado que se
+use para designar la conciencia Humana de la Fuente Divina, la Identidad y el Atributo.
+Otro símbolo - el autor sugiere un semicírculo pasando sobre una línea horizontal - puede
+ser utilizado legítima y efectivamente cama el Sol en el horóscopo, como “factor
+planetario” - regente del signo fijo de fuego - Leo. Como este símbolo está sujeto a formar
+patrones y aspectos, calificaciones y movimiento como en cualquier otro símbolo
+planetario, podría estudiarse para representar la evolución de la conciencia de la naturaleza
+Solar del individuo. La apariencia del símbolo Solar circular (el “Símbolo del Espíritu”)
+corresponde a la apariencia del círculo del horóscopo - ambos centralizados por el mismo
+punto. El “símbolo Solar planetario” corresponde en apariencia con el semicírculo superior
+del horóscopo, la línea horizontal corresponde con el diámetro horizontal del horóscopo - el
+“Yo Soy” de la conciencia del individuo y la complementación del Ascendente por la
+cúspide de la séptima casa. Este símbolo sugiere además, como imagen, la salida del Sol en
+el amanecer - y su uso en el horóscopo es recordarnos nuestra conciencia de los atributos
+solares que estamos tratando de desenvolver por medio de nuestra experiencia evolutiva.
+
+### <h3 id="chapter-5">Capítulo V: La Luz (Segunda Parte)</h3>
+
+Con el propósito de esclarecer la expresión y el entendimiento de este material,
+convendremos en que la palabra “luz”, iniciada con la “l” minúscula se referirá a la
+vibración perceptible visualmente; “Luz”, iniciada por la “L” mayúscula, se referirá a la
+Conciencia; conciencia, con “c” minúscula, se referirá a la sensibilidad de percatarse del ser
+humano.
+
+Es maravilloso apreciar, mediante la reflexión, que por períodos incontables los
+seres humanos han revelado la conciencia de la naturaleza oculta o esotérica de la luz, tal
+como ha sido - y es - percibida en términos de negro, blanco y los colores del espectro. El
+tema ha figurado prominentemente en programas de enseñanza y aprendizaje filosófico en
+muchas tierras y en estos últimos tiempos se ha convertido en un factor importante en los
+campos de la terapia objetiva y subjetiva. Aquellos que actualmente patrocinan y adelantan
+este tema en el trabajo de curación están recapitulando conocimientos adquiridos en vidas
+anteriores. No es “nuevo” en esta época, simplemente ha sido expuesto de nuevo para las
+necesidades espirituales de la humanidad actual. La respuesta inspiradora a la potencia de la
+luz natural, a la de los colores y la del bello color en las substancias, sirve para recargar el
+aura - vista siempre como color o colores en el estudio clarividente - de la persona doliente
+de tal forma que ella se hace consciente de una elevación espiritual; la condición del aura -
+la matriz etérica - es fortalecida y armonizada hasta cierto grado, y es mejorada al mismo
+grado, la salud del cuerpo físico. No todos los humanos han conocido verdaderamente el
+aura y la significación de ésta en su existencia; pero se puede conjeturar que todos, en algún
+momento, han experimentado la elevación “dentro de sí mismos” que acompaña la reacción
+al valor espiritual de la luz en sus múltiples aspectos hermosos e inspiradores del color.
+
+Préstele a esto una gran consideración meditativa: Reacción a es evidencia de
+correspondencia con. No podemos reaccionar a nada ni a nadie con lo cual o con quien no
+tengamos algún grado de afinidad negativa o positiva. El hecho indisputable de que un
+humano pueda reaccionar al matiz o a la cualidad de un color revela que “algo” en él tiene
+afinidad con “algo” en el color, o en el negro o el blanco. El hecho igualmente indisputable
+que tal reacción pueda bajar o elevar la cualidad de su condición áurica, corpórea y
+espiritual revela que su conciencia del color tiene afinidad con la Conciencia simbolizada
+por el color. El poder, en tal o cual grado, es lo único que puede cambiar cualquier estado
+vibratorio - químico, emocional, mental o anímico. Por lo tanto, si la condición química,
+emocional, mental o anímica de un humano es bajada o disminuida por su reacción al
+negro, al blanco o al color, él revela una conciencia de poder debilitada o inmadura dentro
+de sí. Si, no obstante, su condición es mejorada, fortalecida, purificada o armonizada, su
+respuesta al negro, al blanco o al color revela una afinidad entre su Espíritu y el espíritu que
+para su conciencia simboliza el negro, el blanco o el color. Reflexione por un momento
+sobre esas ocasiones en que su reacción a un matiz particular de verde, rojo, negro, o una
+combinación ¿Estaba usted consciente del regocijo, la salud, la armodez, desaliento o
+irritación; en ese estado de sensación de colores provocaron una sensación de náusea,
+morbidez, desaliento o irritación; en este estado de sensación?. ¿Estaba usted consciente del
+regocijo, la salud, la armonía o la paz?. Su reacción desgraciada reveló una falta de dominio
+interno de usted mismo - algo en el poder de la cualidad del color estimuló una cualidad
+correspondiente en su naturaleza astral, mental o anímica. Su reacción, que sirvió “para
+bajar su tono”, reveló simplemente la necesidad de usted regenerar algún factor de su
+constitución interna. No pierda tiempo ni energía en “culpar al color”. Con la regeneración
+interna a través de la dirección de poderes, su capacidad mejorada de reaccionar, servirá
+para revelarle el valor estético y el poder en el color, no reconocidos hasta ahora. La
+regeneración de nuestra conciencia nos sirve siempre para revelarnos el Espíritu.
+
+Los humanos, como individuos, varían considerablemente en la capacidad y en la
+inclinación para reaccionar negativamente a estados de luz. Pero existe un estado semejante
+al cual ha reaccionado la humanidad - colectiva o individualmente - con mucho más
+negativismo que a ningún otro durante edades y ese es el Negro. En sentido cósmico el
+Negro es vida sin diferenciación y sin manifestación; el Blanco es la Conciencia, la Luz,
+que hace posible toda creación y manifestación. Por reversión en el plano de la percepción
+física, el Negro es la congestión de todo el Color y el Blanco es el estado del Color sin
+diferencia. Por lo tanto, el Blanco ha simbolizado para los reconocimientos subconscientes
+de la humanidad el estado de pureza, de espiritualidad más elevada y de la Luz perfecta. El
+Negro simbolizaba aquello que no se puede percibir en términos de sus partes o sus
+factores. Puesto que nuestra cognición y reconocimiento de los fenómenos dependen de
+nuestra habilidad de “diferenciar unas cosas de otras”, nosotros al comienzo de la evolución
+nos congestionamos por el miedo, la inseguridad y la desesperación en nuestra reacción a la
+negrura (ausencia de luz) de la noche. Esta reacción era una experiencia individual y
+colectiva y lo es aún en el presente para muchas personas. Como seres que han estado
+conscientes (encarnados y/o desencarnados) por largo tiempo, no podemos ni aun
+imaginarnos un estado de “no ser” o de “no existencia”. Por lo tanto, el Negro simboliza
+como color, aquellas cosas que llamamos “muerte”, lo “desconocido”, las congestiones de
+conciencia completamente irredimidas - en resumen, todas aquellas cosas a las cuales
+reaccionamos con sentimientos de obstrucción o de amenaza en nuestro progreso a través
+de la existencia. Al grado que aceptemos o nos relacionemos con estos estados oscuros, así
+intensificaremos nuestra capacidad e inclinación de existir en términos de dar Vida y de
+expresar la Vida, nosotros agotamos nuestra conciencia de la Luz del Espíritu. Sin
+embargo, la “negrura” en el alma no significa ni puede significar, la cesación de la vida
+absolutamente en ningún sentido; simplemente indica un estado de congestión, que a su
+vez, indica una necesidad urgente de medidas regeneradoras. La Luz es y es para nosotros
+siempre; un humano puede crear mucho karma doloroso entrando en acción a base de su
+relación con la negrura de alma; pero ese karma, en cambio, le proporciona experiencia
+subsiguiente que altera el curso de su regeneración y evolución hacia nuevos
+reconocimientos de la Luz de Dios y la Luz dentro de sí mismo.
+
+En sentido cósmico, asimismo, el Blanco es el color simbólico de la pureza de la
+inocencia - conciencia aún sin diferenciar o sin calificar por la experiencia de la
+encarnación. El Blanco simboliza la “identidad del color” de los Espíritus Virginales antes
+de su descenso involutivo como individualizaciones en cuerpos. Al otro extremo el Blanco
+es la conciencia purificada del individuo después de completar su evolución como humano
+- la realización unificada, clara y pura de su verdadera identidad como una creación de la
+divinidad. Al comienzo, él era pureza inconsciente de su pureza; al final será pureza
+realizada. Su reacción inspiradora al valor oculto del Blanco en su estado encarnado en
+evolución es evidencia de la omnipresencia de su Espíritu; recuerde que si el humano no
+tuviese dentro de sí mismo algo que corresponda a la perfección pura del Blanco, él no
+podría responder a éste con resultados espiritualizadores. Los semejantes se atraen y se
+reconocen mutuamente.
+
+Se sugiere a todos los estudiantes que están penetrando en la significación espiritual
+y esotérica de la astrología que se percaten con mayor concentración y conciencia del
+significado para ustedes del Negro y del Blanco como “matices de colores”, como
+símbolos de cualidades personales y espirituales, como poderes vibratorios que los
+estimulen en alguna forma, y como figuras del lenguaje que se encuentran en la poesía, la
+alegoría y la leyenda. Debe la posición ventajosa de la educación y el entendimiento
+filosóficos hacerse más conscientes que nunca de cómo la mente y el sentimiento colectivos
+de la humanidad han interpretado estos dos símbolos de la luz - Negro y Blanco - y sus
+conocimientos sobre ellos - tiene gran significación para su acercamiento espiritual a la
+astrología y a su habilidad en desarrollo para interpretar horóscopos - los suyos propios y
+los de otras personas. El simbolismo de estas dos palabras es muy profundo, sobre lo cual
+diremos algo más inmediatamente.
+
+Los colores del espectro son símbolos de luz de cualidades anímicas. Se refieren a la
+conciencia más espiritualizada de cuerpo, de mente y de emoción que el humano haya
+realizado hasta ahora o que pueda realizar alguna vez - mientras esté evolucionando en la
+identidad del ser humano. Un hombre de gran sabiduría dijo una vez que los colores son los
+sufrimientos y alegrías en la existencia de la luz y se cree que él quiso decir que los colores
+corresponden - o tienen correspondencia con los estados de sufrimiento y de alegría que los
+humanos experimentan en tanto que ellos puedan percibir la luz y fueron creados por la
+Luz. Se nos ha enseñado que más allá de los límites de los colores tal como los conocemos
+ahora, existen variaciones y extensiones infinitas de vibración de la luz que sólo pueden
+percibirse a través de la percepción extrasensorial en este plano o mediante el
+funcionamiento en dimensiones de existencia superiores. Pero aquí nuevamente debemos
+tener afinidad con las condiciones del alma o la conciencia representada por estas
+extensiones del color, antes de que podamos percibirlas.
+
+Como quiera que el aura de un ser humano es una cosa individual - que resulta del
+grado que realice su identidad de Espíritu - los matices del color y las cualidades del color
+que pueden simbolizar su estado espiritual, en cualquier punto de su desarrollo, pueden
+revelar acá y allá, una condición oscurecida que sugiere una tendencia hacia la “negrura” en
+uno o más de sus colores; correspondiendo por lo tanto, a un estado de su conciencia,
+debido a la acumulación de miedo, odio y otras cosas más. Recuerde que la negrura indica
+la congestión relativa, obstrucción o “pequeña muerte” en tendencia hacia la congestión o
+el “caos” en la conciencia humana; pero su presencia en el aura o la conciencia, es
+provechosa a la medida que revele la necesidad de regeneración. La indicación del negro
+está actuando como “barómetro del alma” en forma especializada. Al grado que la
+reactividad de una persona al color puro, luminoso y potente, se convierta más y más en
+una parte de su funcionamiento natural, veremos la evidencia de su esfuerzo anímico, de
+sus impulsos de aspiración, su amor, su desinterés, su idealismo y su devoción por el
+establecimiento del Bien.
+
+El aura de una persona puede revelar un área llena de un rico matiz intenso de un
+color particular. Esta cualidad de color revelará la evidencia del gran esfuerzo y la atención
+que se ha dado a cierta clase de desarrollo. Su personalidad revelará correspondientemente
+una habilidad marcada en esa línea de esfuerzo y las características mentales y emocionales
+nos señalarán en una forma muy individualista. Su “alma es poderosa y está enfocada” en
+ese punto particular. Pero el desarrollo espiritual y la realización están indicados por el gran
+cuerpo-alma y los colores del aura en vez de ser profundos e intensos en sus matices,
+tenderán hacia la cualidad del color pálido - ya que están “cargados con Blanco”. Se hallará
+una correspondencia muy significativa e interesante entre la “tendencia hacia la Blancura”
+en las auras de humanos evolucionados espiritualmente y su inclinación personal hacia la
+sencillez en las maneras y la pureza de integridad, motivos y propósitos. La
+espiritualización resulta en la simplificación y de ese modo, con la evolución, los colores
+que representan la conciencia de la persona tienden hacia la simplificación de la Blancura.
+Por muy pálido que pueda ser un matiz de color en las auras de humanos evolucionados
+espiritualmente, éstos bellos y delicados matices del color claro tienen gran potencia
+vibratoria o “influjo de poder”. Frases tales como “gota a gota (la acción suave y persistente
+del agua) desgasta la piedra” y “una contestación dulce aparta la ira” y “perdona a tus
+enemigos” son correspondencias de poder entre los colores pálidos emblanquecidos del
+aura espiritualizada y la conciencia espiritualizada de un humano altamente evolucionado.
+Además la presencia de la “potencia del color pálido” en el aura revela el grado de
+integración de la conciencia del individuo hacia todos los planos de su funcionamiento - los
+diferentes aspectos de su ser y su conciencia son hasta cierto punto unificados y
+armonizados mutuamente.
+
+Todas estas observaciones relativas al Negro, al Blanco y a los Colores tienen
+aplicación espiritual directa y práctica para el estudio de los horóscopos. Cuando estemos
+preparados para abandonar nuestro uso de conceptos erróneos, encontraremos que:
+
+El punto que debe radicarse por un pequeño punto redondo, en el centro del
+horóscopo es un símbolo - y el único válido que tenemos del caos - la vida aún sin
+diferenciar, del cual se hace toda manifestación. El punto central aplicado al horóscopo del
+humano individual es la Idea (la humanidad) concebida por la Mente Divina de nuestro
+Logos; de esa Idea nosotros, como arquetipo terrestre fuimos proyectados a la experiencia
+individual. Un círculo circunscribiendo ese punto central simboliza nuestro Logos como
+una Conciencia creadora individualizada y su manifestación como Sol - el cuerpo central, o
+núcleo, de nuestro sistema solar. Como el hombre es Espíritu, este símbolo compuesto del
+punto y el círculo pinta su Esencia Espiritual, su átomo simiente y su Potencialidad de
+perfeccionar todos sus cuerpos. Entonces, de ese símbolo central emana la horizontal
+izquierda para formar la línea del Ascendente del horóscopo del humano individual. Si
+fuera posible gráficamente y fuera práctico, colocaríamos los símbolos del Sol (como
+regente de Leo), la Luna y los planetas, así como los de los nodos lunares y Parte de la
+Fortuna en los puntos apropiados en la circunferencia de la rueda completa; la
+circunferencia es, por supuesto, la emanación del radio Ascendente. La representación de
+los aspectos formados por los puntos planetarios serían demostrados por líneas rectas desde
+el círculo central a los puntos en el radio que da las posiciones astronómicas para esa hora y
+lugar. El ángulo formado por dos cualquiera de estas líneas indica por grado numérico el
+aspecto creado por los dos puntos planetarios en su relación mutua. Todo aspecto en un
+horóscopo - como una “cosa en sí misma” - tiene polaridad en los dos cuerpos que están así
+relacionados mutuamente y la polaridad - como quiera y donde quiera - es la ignición de la
+conciencia. La persona, desde su centro de conciencia como ser humano ha evolucionado
+ciertas relaciones recíprocas entre los factores de su conciencia humana. Estos son
+“aspectos” - llámelos o piense de ellos como “puntos de vista”; él mira desde el centro de
+su mapa (esta conciencia central) las condiciones de su mapa, de su ambiente, sus
+relaciones, actividades, flaquezas y deficiencias; sus aspiraciones, ideales y cumplimientos
+relativos. Cada uno de estos puntos en la circunferencia de la rueda tienen correspondencia
+con un color que puede aparecer en su aura y cada aspecto entre los pares de planetas en el
+patrón de su mapa corresponden - básicamente - con una cualidad de su color o colores
+áuricos. La blancura de un horóscopo humano está representada, no por el contenido de la
+rueda (porque el contenido de la rueda se refiere a él, o lo describe, como una personalidad
+desarrollando la conciencia de la verdad) sino por la blancura en el círculo central de la
+rueda - el símbolo del Sol central. Si los factores del mapa fueran a indicarse en matices de
+color, este círculo central se mantendría blanco - porque es el Espíritu omnipotente,
+omnisciente y omnipresente. El Negro es indicado en el horóscopo humano solamente por
+el punto central y en ningún otro sitio - y como tal simboliza la infinidad, la subjetividad
+inconmensurable e incomprensible de la vida misma, de la cual son derivados todos los
+Logos creadores y sus manifestaciones. En ningún lugar del horóscopo está indicada la
+“maldad” (o el Negro en el sentido del mal absoluto). Los “puntos de vista” que llamamos
+aspectos de “cuadratura” y “oposición” son patrones indicativos de tensión, inarmonía,
+ignorancia o congestión de cualquier clase; pero son, no obstante, registros del cuerpo-alma
+del humano; los puntos que forman cada uno de estos aspectos son poderes divinos según
+son diferenciados por la conciencia humana en evolución. El Blanco de la Conciencia
+Creadora establece, del Negro del Caos, un campo de evolución y ese programa evolutivo
+es lo que cada horóscopo revela. La realización de identidad con el Blanco de la Divinidad
+se efectúa finalmente a través de la purificación de los Colores áuricos (regeneración de
+“aspectos y puntos de vista”).
+
+### <h3 id="chapter-6">Capítulo VI: La Luz como Terapia</h3>
+
+La palabra terapia se deriva de una palabra del griego que significa “curación”. El
+verbo “curar” se deriva de una palabra teutónica que significa, entre otras cosas,
+“reconciliar”. “Reconciliar” viene directamente de las palabras raíces del latín “re” (otra
+vez) y “con” (con) - que juntas indican reunir. Así es que la palabra terapia significa más
+que el “proceso de poner en orden una parte del cuerpo”. Significa “reunir armoniosamente
+la parte afectada con el resto del organismo”. Toda terapia sirve el propósito de restablecer
+la conciencia de la unificación física, mental, psicológica y espiritual. Jesucristo dijo: “Mi
+Padre y Yo Somos UNO”, “Sed perfectos así como vuestro Padre en el Cielo es perfecto”,
+y “Amaos los unos a los otros”. En esta y otras manifestaciones similares se encuentra la
+declaración de la unidad de cada uno con los demás y de todos con cada uno - la salud,
+armonía y belleza de la unidad es la variedad. Si la palabra “salud” diera a entender el
+funcionamiento vital y armonioso de las partes de los cuerpos físico, emocional y mental,
+entonces la conciencia del amor es la salud de las relaciones humanas puesto que es en la
+conciencia del Amor que se efectúa el cumplimiento de la experiencia y las relaciones son
+los medios de la experiencia. 
+
+El impulso de realizar o de reconocer (re-conocer - conocer de
+nuevo) la unidad no está mejor ilustrado en ninguna otra parte que en aquellas actividades
+que caracterizan la curación. Si la enfermedad, las deformidades y las anomalías fueran
+características de la seidad humana verdadera, estas condiciones serían aceptadas y
+sobrellevadas sin esforzarse por corregirlas. En verdad, con semejante actitud, no se le
+ocurriría a nadie tratar de corregirlas. Pero el Hombre, que es el espíritu único de su
+Creador, trata de lograr la unidad que es su verdadera condición. Esa unidad se objetiva o
+se refleja en la mutua relación armoniosa de todas sus partes. La “búsqueda de la salud”, es
+la lucha, en la conciencia, de reconocer y realizar la Luz Blanca de la unidad.
+
+Parece que hay una gran divergencia en “estilo”, entre el trabajo del astrólogo de
+mente espiritual y el trabajo del terapista. El primero estudia un diagrama abstracto en un
+pedazo de papel y el último estudia el cuerpo humano que vive y respira. Sus “materiales
+de estudio respectivos son polos opuestos; pero es de suma importancia para los estudiantes
+de astrología apreciar que estos dos métodos de estudio humano son fraternales - el
+astrólogo y el terapista son “hermanos espirituales”. Ambos deben ejercer la facultad del
+análisis de los símbolos o de las partes o facultades del cuerpo, que es la base del arte del
+diagnóstico. Estos dos “hermanos” deben conocer la significación individualizada de cada
+símbolo o de cada parte del cuerpo y ese conocimiento es destilado por medio del estudio
+centrado y especializado. En la experiencia del astrólogo, el ejercicio concentrado de la
+intuición, a través de la meditación, es también un factor muy importante. Aquello que
+representa el conocimiento esencial obtenido por el análisis es el de la perfección inherente
+de la parte individualizada y de la significación de la relación de la perfección de la parte
+con la perfección inherente del todo - horóscopo o cuerpo. De esa manera vemos que el
+trabajo del análisis es duplicado y completado por el trabajo de la síntesis. La síntesis, en
+este respecto, puede ser considerada como la forma de estudio por la cual el verdadero
+conocimiento de los microcosmos - factores astrológicos o partes del cuerpo - es
+correlacionado con el conocimiento verdadero del macrocosmo - el horóscopo contienen la
+misma clase de ejercicio de la conciencia, emocional y mental. Estas dos formas de
+indagación completo o el compuesto entero de los cuerpos físico, “Ejercicio de la
+concierna” significa “el uso de los poderes de la luz” (como percepción sensorial para
+adquirir conocimiento real por la observación y el estudio), y el “uso de los poderes de la
+Luz” (realización intuitiva y espiritualizada de la verdad y las motivaciones de servicio
+dedicado al mejoramiento y la instrucción de la humanidad). La salud es como una forma
+de manifestar e identificar la unidad del espíritu. La curación, por cualquier medio - la
+terapia objetiva o la instrucción educativa - es una acción por medio de la cual se intensifica
+la conciencia de salud. Esto abarca en esencia, el servicio del astrólogo y del terapista.
+
+La astrología es primero y principalmente, un estudio en símbolos de la conciencia
+evolutiva de la humanidad. Por lo tanto, el lector de astrología que aspira a realizar un
+servicio de terapia debe familiarizarse con el asunto de la epigénesis. Esta palabra derivada
+de dos palabras raíces griegas, significa “construir sobre”. En su aplicación oculta o
+esotérica - se refiere a la facultad de los humanos de construir la cualidad de sus vehículos
+sobre la cualidad de su conciencia. “Tal como el hombre piensa, así es” describe esta
+facultad, que es la facultad creadora única expresada por todos los humanos desde el
+comienzo de su desarrollo evolutivo. De encarnación en encarnación en la espiral de
+desenvolvimientos de la conciencia, se desarrollan vehículos humanos en los planos
+etéricos, como matrices del físico, por el condicionamiento de la conciencia individual y la
+necesidad kármica. Como ningún humano puede usar la conciencia por otro - en el sentido
+absoluto - esto significa que nosotros individualmente determinamos la cualidad futura de
+los vehículos por el ejercicio actual de la conciencia. Como nosotros tendemos,
+subconsciente o instintivamente, a identificarnos y a identificar a otros como “cuerpos”,
+consideremos un horóscopo como si fuera un cuadro de un cuerpo: El círculo puede
+entonces tomarse como representando la cubierta de la piel, el “exterior del cuerpo físico”;
+los puntos planetarios serían los órganos vitales, los centros de percepción y todos los otros
+contenidos del cuerpo. Todo cuerpo humano es la expresión densa de un plan estructural o
+idea estructural y aunque un humano aparezca al nacer que carece de algún factor de
+percepción sensorial o de estructura o función orgánica, es importante reconocer que todos
+los horóscopos humanos tienen el mismo número y la misma clase de factores
+simbólicos. La falta de un miembro del cuerpo o la falta de algún órgano de los sentidos a
+través de toda una encamación no priva a ningún humano de su cociente completo de
+factores horoscópicos.
+
+Correspondientemente, si durante el curso de la encarnación la persona experimenta
+la separación de alguna parte del cuerpo o cesación de una percepción sensorial, su
+horóscopo todavía permanece completo - no se le ha quitado ningún planeta ni signo. Esto
+significa que como humano viviente y funcional, sus potencialidades permanecen
+intactas. La deficiencia del vehículo, de nacimiento o por accidente durante la encarnación
+exterioriza un oscurecimiento temporal de la conciencia de potencialidades en una forma
+especial. Experimentar alguna carencia física o accidental, es el resultado kármico de haber
+expresado la conciencia en alguna forma en el pasado que contribuyó a la carencia o
+limitación de otra persona. Al hacerlo así el perpetrador del acto el resultado inevitable que
+él para explorar por completo se identificó con el oscurecimiento de conciencia con ese
+factor, debe experimentar el oscurecimiento en la experiencia encarnada. Si la voluntad de
+sobrevivir y desarrollar es suficientemente fuerte, la persona hará un esfuerzo intenso para
+compensar la deficiencia del cuerpo; el alma evolucionada tratará de comprender la causa
+de su deficiencia además de sus esfuerzos para perpetuar la supervivencia física. Para este
+último tipo de humanos, es que el astrólogo puede actuar más satisfactoriamente como
+terapista porque en el estudio del horóscopo como registro de conciencia él puede ayudar a
+la persona afectada a comprender cómo puede regenerar su patrones de conciencia, de
+mente y de emoción. 
+
+El sendero de la “astroterapia” es probablemente el sendero más largo
+que puede recorrer el astrólogo porque cada paso tomado en él tiene que ser realizado
+primero en la propia conciencia del astrólogo. Así como “la belleza está en el ojo del que la
+contempla”, asimismo la idealidad de la salud debe ser establecida, de grado en grado, en la
+mente, en la emoción y en la habilidad de percatarse del intérprete astrológico. El astrólogo,
+que debido a alguna fijeza o congestión de actitud no está dispuesto a emprender programas
+de regeneración interna, puede asimismo dirigir sus energías y atenciones hacia alguna otra
+rama del asunto porque sería detenido en este sendero tan pronto comenzara. El deseo de
+auxiliar a otro a lograr una salud mejor (desenvolver una mayor realización de buen estado
+de salud) puede realizarse solamente al grado que el astrólogo llene su propia conciencia
+con mayor salud en forma de regeneración experimentada y de la realización
+subsiguiente de verdades espirituales transmitidas por el simbolismo del horóscopo que
+estudia. La prueba de su deseo es atestiguada por el grado en que el astrólogo trate de
+comprender con mayor claridad las causas detrás de las “evidencias de mala salud” en su
+propio mapa. Si no puede afrontar sus propias causas kármicas, ¿cómo es posible que
+perciba las de otra persona?. La voluntad de lo verdadero es la Luz básica que debe
+prenderse en su propio mapa; con esa aplicación, con motivación e idealismo sinceros, él
+califica para ayudar a otros. El material técnico sobre astrodiagnóstico - la correlación de
+símbolos con partes y condiciones del cuerpo - debe aprenderse primero. La astroterapia
+comienza cuando el astrólogo le enseña al cliente el modo de empezar el uso de su
+consciencia en formas regeneradoras especiales para disolver las cristalizaciones y
+transmutar los “oscurecimientos” señalados en el mapa. El astrólogo, para sí mismo o para
+otro, usa la astroterapia cuando comienza a realizar los siguientes, ofrecidos como unas
+sugerencias básicas:
+
+EL SOL: La apreciación que la conciencia de poder debe acompañarse del recto uso y
+aplicación del Poder; el Poder es para el buen uso, o para la satisfacción egotista; el
+impulso de sobrevivir no es una lucha competidora entre humanos - es la aspiración de
+lograr la unidad y la eternidad de la vida; el Sol simboliza la conciencia de la salud por
+medio del dominio propio.
+
+LA LUNA: Aprecie la significación e importancia del mecanismo de la mente instintiva como
+depósito de las memorias de vidas pasadas; los temores, tensiones y odios estimulados por
+la reacción a las relaciones domésticas, paternales, nacionales y raciales pueden ser
+armonizados y transmutados por (1) la comprensión más clara de las leyes de la atracción
+magnética kármica y (2) la cesación de la expresión de temores y tensiones en esas
+relaciones y sustituyendo actitudes más cooperadoras, constructivas, amorosas, amistosas y
+sabiamente apreciadas.
+
+MERCURIO: Deje de usar el (gran) poder de la palabra hablada y escrita como vehículo de
+expresar la crítica destructiva, la malicia, falsedad y prejuicio; comience a usar los poderes
+transmutados del pensamiento claro y exento de prejuicio para evaluar con mayor
+veracidad, para expresar el estímulo y el juicio constructivo, abrir la mente al deseo de
+aprender y de considerar las sugestiones provechosas; para responder con entusiasmo y
+regocijo a las oportunidades de aprender y comprender. Es su prerrogativa entrenar su
+mente en la forma que usted lo desee y usarla para percibir verdades; también es su
+derecho saber que sólo usted puede poner su conciencia - con su oscuridad o con su Luz -
+en palabras, y si usted desea lograr un grado mayor de salud mental, puede hacerlo
+mediante el uso del poder de la palabra para expresar lo que es verdadero y amoroso.
+
+VENUS: Usted no tiene que ser indolente, perezoso y negativamente pasivo; usted tiene
+recursos de energías para usar y puede aprender a usar energías en formas que hagan la vida
+más bella e inspiradora; puede desarrollar su sentido de la belleza a través de la disciplina
+de sus respuestas emocionales de tal manera que sus expresiones de conciencia
+contribuyan a la armonización de sus relaciones con otros humanos; usted puede
+volverse más cooperador y apreciativo con otras personas y anhelará hacerlo
+automáticamente cuando usted permita que su conciencia se torne más alerta del bien y la
+belleza que representan.
+
+MARTE: Cuando la energía representada por este símbolo se usa para aumentar potencia y
+efectividad a los esfuerzos constructivos y regeneradores, la crueldad, la malicia, las
+represalias terribles y otros impulsos semejantes, disminuyen; el organismo físico retiene
+sus cualidades magnéticas y vitales por medio de la conservación motivada
+constructivamente y con semejante disciplina interna, las realizaciones de capacidades,
+confianza propia y metas valiosas, son desenvueltas.
+
+SATURNO: Las tendencias hacia la cristalización y la disminución de la vitalidad son
+contrarrestadas cuando la conciencia del cumplimiento alegre y amoroso de las
+responsabilidades legítimas toma el lugar de la actitud onerosa. En el horóscopo individual,
+Saturno indica - por su ubicación y aspectos - un punto de equilibrio muy necesitado a
+través de cumplimiento adicional; el desequilibrio implicado tiene su recurso en la
+negligencia e incumplimiento de una vida pasada en ese departamento particular de
+experiencia. El valor terapéutico de Saturno yace en la conciencia de la justicia inmutable
+de la ley espiritual y evolutiva; los complejos de culpabilidad y remordimiento con sus
+correspondientes efectos corrosivos y cristalizantes en el cuerpo, pueden aliviarse por el
+reconocimiento que ahora es el momento de hacer lo que es correcto, y al hacerlo, la
+obligación kármica es cumplida en la conciencia de actitudes sanas y razonables.
+
+JÚPITER: Como Marte, éste representa un tipo de energía que requiere control y disciplina; en
+sus implicaciones negativas en el símbolo de la avaricia y la falsa compensación; la
+sinceridad de motivo, de palabra y de hecho es la espiritualización de conciencia
+representada por Júpiter porque el poder de la mente y corazón sinceros es el neutralizador
+de la falsedad interna que impele el desarrollo de codicias y compensaciones desviadas.
+Júpiter simboliza la realización de la verdad por el hombre y la aspiración de desarrollar
+juicios verdaderos. En la conciencia, la nobleza de la sinceridad verdadera debe suplantar la
+nobleza ilusoria de la falsa pretensión, el engrandecimiento y las afluencias.
+
+NEPTUNO Y URANO: Son los símbolos de la percepción extrasensorial y de las áreas trascendentales de
+conciencia; Neptuno es el poder espiritual de la fe, Urano es el poder del amor impersonal;
+Neptuno es el poder de visualizar internamente y de idealizar - la persona que tiene fe en
+la existencia de la salud puede visualizarla por sí mismo. Urano es el impulso hacia la
+liberación y aquel que se libera a sí mismo de las condiciones constrictivas debe
+contribuir amorosamente a la liberación de otros. Use estas interpretaciones como materia
+para pensar y sepa que sólo son algunos ejemplos que ilustran la “terapia de la conciencia
+humana por el poder de la Luz”.
+
+### <h3 id="chapter-7">Capítulo VII: La Luz como Comunicación</h3>
+
+Desde el punto de vista exotérico, la palabra “comunicar” como generalmente la
+usamos significa un proceso por el cual se transmite conocimiento o información de una
+mente a otra. Sin embargo, un estudio y síntesis de sus raíces derivadas revela su
+significación esotérica la cual nos hace posible comprender mejor la significación real y el
+uso recto de esta función de transmisión sensorial, intelectual y espiritual. Se deriva
+directamente de la palabra latina communicare que significa participar. En ella se
+encuentran dos palabras básicas: “com”, que se refiere a “con” o “junto”, y “un” que se
+refiere a “unicidad” o “unidad”. De ese modo vemos que la “comunicación” es un medio
+por el cual son unificadas hasta cierto punto una variedad de mentes y conciencias a través
+del proceso de la participación. Esta participación es un proceso polarizado: el polo
+positivo se revela en acciones de radicación, expresando, informando, enunciando,
+escribiendo, telepatía de proyección y proyección inspiradora; el polo negativo se revela en
+acciones de percepción, reacción a estímulos vibratorios, toda percepción sensorial,
+aprendizaje, comprensión y realización. Todo lo que está establecido en la mente divina
+puede ser transmitido o compartido con las diversas mentes o conciencias individualizadas.
+La meta evolutiva completa es la unidad realizada de las diversas mentes con la Mente
+Única de Nuestro Creador.
+
+Antes de emprender la consideración del significado oculto, kármico y evolutivo de
+la comunicación entre humanos, debemos considerar primero la comunicación básica,
+primordial o absoluta entre la Conciencia Divina y la conciencia humana - la
+“participación creadora de la “Luz.” La Mente Divina se nos da a conocer - “nos habla” -
+por su Propia manifestación como infinidad de estados cambiantes de vibración objetiva -
+el mundo natural físico; también nos ha provisto con centros y órganos de percepción
+sensorial en cuyo desarrollo y ejercicio podemos aprender de nuestro origen por la
+observación de la manifestación. Por medio de la vista, percibimos y conocemos la
+manifestación de Dios como color; por la audición, percibimos y conocemos la
+manifestación de Dios como tono; por el tacto, percibimos y conocemos la manifestación
+de Dios como textura y densidad; por el gusto percibimos y conocemos la manifestación
+de Dios como mezcla química; por el olfato, percibimos y conocemos la manifestación de
+Dios como emanación o radiación química invisible y silenciosa. Las formas de
+percepción sensorial extendidas, “trascendentales”, son incluidas en la clarividencia, la
+intuición, clariaudiencia, “claricognición”, telepatía e inspiración. Mediante estas
+facultades las apercepciones internas del Hombre son reveladas en reinos que trascienden
+las “limitaciones de Tiempo-Espacio”. Todas estas facultades y poderes sensoriales y
+supersensoriales hacen posible las numerosas variaciones de la acción y “rapport”
+comunicativas entre lo Divino y Su subhumano, microcosmos humanos y superhumanos,
+así como humanos entre sí y sus “hermanos y hermanas” subhumanos y superhumanos.
+Aquel que más sabe (que ha evolucionado más la conciencia) comparte con aquél que
+sabe menos (que está menos evolucionado en conciencia y conocimiento); aquel que sabe
+menos recibe y aprende de aquél que sabe más y está más evolucionado en la conciencia.
+La atracción magnética de diferencias relativas en conciencia y semejanza de impulso
+cósmico de realizar la unidad es la relación comunicativa entre todas las cosas vivientes.
+La comunicación es fraternidad en acción; la comunicación verdadera, constructiva y
+servicial es amor fraternal en acción. Ahora pasemos a la astrología:
+
+Antes de que un humano pueda expresarse a otra mente en forma comunicativa, él
+debe pasar por un “proceso dentro de sí mismo” por el cual formule aquello que desea
+transmitir. En forma sutil, pero imperecedera, esta formulación es una interacción de la
+mente subconsciente con las percepciones conscientes. Antes de que un hecho o realización
+puedan ser transmitidos, tiene que ser aprendido primero y la facultad particular para
+aprender haber sido ejercitada ante del momento presente. La mente subconsciente -
+simbolizada astrológicamente por la Luna - es la que actúa como depósito de las memorias
+- que son impresiones residuales establecidas por ejercicios de conciencia en el pasado. La
+mente consciente simbolizada astrológicamente por Mercurio, es la que conoce y expresa
+de acuerdo con la necesidad presente. Mediante la cualidad adhesiva, retentiva, de la
+mente subconsciente, el Hombre permanece ligado a lo que ha sido y ha expresado en el
+pasado y sus conocimientos e interpretaciones de su presente son establecidos sobre lo que
+él recuerda como memoria o recuerdo de sentimientos de su pasado. Por lo tanto vemos que
+un individuo se comunica siempre dentro de sí mismo antes de que transmita o exprese su
+conciencia a otro. Un ejemplo simple: Alguien le pregunta la hora - él necesita de ese
+factor de información; antes de que usted pueda contestarle; usted tiene que “recibir
+comunicación - por medios visuales por lo que su reloj le indique”. Al formular un juicio
+usted puede transmitir ese hecho como una acción comunicativa a la otra persona. Pero aún
+antes usted tenía que haber aprendido cómo leer el reloj para indicar la hora; su mente
+subconsciente conservaba el recuerdo de que usted había aprendido a leer el reloj en él
+pasado. Así es que usted “tomó su pasado” para realizar la necesidad presente de
+comunicación con su amigo. Y así se sigue eternamente: El pasado es el “pábulo” del cual
+toma el presente para formar el futuro. En el horóscopo individual, la correlación de la
+Luna y Mercurio demuestra la “mezcla” alquímica de la memoria del sentimiento,
+establecida por ejercicios de conciencia en el pasado siendo ejercidos por la conciencia la
+percepción sensorial y el intelecto en el presente. Además la correlación de la Luna y
+Mercurio con Júpiter demuestra el proceso alquímico por medio del cual el individuo está
+destilando la apercepción de la verdad - un conocimiento de hecho que está arriba y libre
+de todo prejuicio personal subconsciente de interpretación, por el dolor, el placer, el
+prejuicio, la antipatía o el favoritismo. La correlación de la Luna y Mercurio con Urano
+demuestra la evolución alquímica de tales facultades como la intuición y la previsión; con
+Neptuno, indica la “gestación de las facultades de clarividencia y clariaudiencia (la
+evidencia de cosas invisibles e inaudibles) así como el establecimiento evolutivo del poder
+de la fe y del poder de comunicarse por medio de la oración.
+
+Lo anterior debe comprenderse como un estudio básico general de la naturaleza de
+la comunicación. Ahora con propósitos prácticos astrosicológicos nos concentraremos en el
+archisímbolo de comunicación básico y la facultad comunicativa - el planeta Mercurio,
+regente de Géminis y de Virgo.
+
+Haga una copia del “mándala de Géminis”: el orden zodiacal alrededor de un
+círculo con Géminis como signo Ascendente. Observe que Tauro-Escorpión, el diámetro
+del poder del deseo y del poder procreador forma el diámetro de la duodécima y sexta
+cúspides. Tauro tiene relación con el centro en la garganta, que es el mecanismo por medio
+del cual las criaturas que poseen el órgano de la voz crean el tono; recuerde que todo lo
+que oímos es percibido como un aspecto de la vibración tonal. Escorpión se refiere a
+aquella facultad de producir o de “evocar” material para otro cuerpo físico. Por medio de
+Tauro generamos o “evocamos” material tonal para la incorporación, la manifestación
+perceptible de ideas, pensamientos, sentimientos, emociones, conocimiento, comprensión
+y realización; en el plano de la percepción sensorial física es el poder y facultad de generar
+tono que “cobija” y protege (la relación de la duodécima casa al Ascendente) toda acción
+comunicativa. Es el poder de Mercurio formular tonos como las palabras habladas o
+cantadas por la acción recíproca de la respiración pulmonar y el movimiento de la lengua y
+los labios; es además el poder de Mercurio usar las manos para escribir y trazar cuadros de
+imitación simbólicos de la palabra hablada como palabras escritas o diagramas, y de los
+tonos como notación musical. En el mándala de Géminis, Cáncer, el signo Lunar está en la
+segunda cúspide. Aquí vemos que la conciencia del Hombre de nacionalidad, administra la
+evolución de su facultad de expresarse y comunicarse mediante el lenguaje. La adhesión
+cristalizada a la nacionalidad propia provoca conocimiento y uso limitado del lenguaje
+sistematizado - una persona tal puede comunicarse en palabra y en escritura (o lectura)
+solamente con aquellos que conocen su lenguaje particular. Pero en el plano del uso actual
+del intelecto, esa adhesión puede disolverse aprendiendo otro u otros idiomas. Por medio
+de semejante extensión disolvente la persona puede comunicarse con un número de
+personas correspondientemente mayor, “su campo de comunicación humana” es
+acrecentado, su apreciación del modo de pensar y modo de vida de otros es ahondada y por
+consiguiente, en el plano de los reconocimientos espirituales ella se encuentra
+experimentando un mayor grado de unicidad con otros seres humanos. Las diferencias de
+lenguajes proporcionan barreras comunicativas únicamente a aquellos que no salen de las
+adhesiones cristalizadas a un lenguaje; en aquellos que se salen, las barreras se desintegran
+hasta cierto punto. En esto vemos nuevamente una ilustración concreta del hecho que la
+comunicación es la fraternidad expresada; al grado que se aprendan más medios de
+comunicación, será realizada, disfrutada y expresada la espiritualización de la
+comunicación fraternal y la compasión.
+
+En esta época que presencia la invención de la radio, la televisión, la aviación
+supersónica y todos esos mecanismos por medio de los cuales las limitaciones de tiempo-
+espacio han sido trascendidas científicamente, se observa un paralelo en la esfera de los
+esfuerzas espirituales humanos. Muchas personas de todas las naciones del mundo tratan
+también de explorar las causas de los impedimentos en el funcionamiento humano
+individual. Estas son personas que están dando un ímpetu regenerador poderoso a la
+evolución humana por sus servicios dedicados a los valores humanos redimiendo gran
+cantidad de karma negativo en sus vidas individuales pasadas y su devoción de “ayudar” a
+otras personas a ayudarse a sí mismas a salir de estados kármicos de anormalidad,
+subnormalidad y desviación de funciones saludables normales. Persistiendo sobre este tema
+de la comunicación se espera que las siguientes observaciones sirvan para promover una
+comprensión “interna” más profunda de las causas kármicas que socavan las facultades
+comunicativas en el cuerpo humano; el primer punto a considerarse es la epigénesis:
+
+La epigénesis se refiere a la facultad humana de construir la cualidad de su vehículo
+en correspondencia con la cualidad y los estados de su conciencia. “Epigénesis” viene de
+dos raíces que significan “construir sobre”. Es la facultad creadora poseída y - inconsciente
+o concientemente - ejercitada por todos los humanos desde la aurora de su proceso
+evolutivo como humanos. Mediante la epigénesis, el Hombre revela su semejanza creadora
+a su propio Creador; es la “raíz” que sirve de fundamento a la florecida, en épocas
+venideras, de su actividad verdaderamente creadora como conciencia de Dios. El
+principio, o la ley, de causa y efecto operante en la facultad de la epigénesis en los humanos
+explican toda cualidad condicionada de manifestación física, emocional y mental en el
+vehículo humano - congestionada, desviada, manca o armonizada, potente y eficiente. En la
+actual consideración de la facultad y propósito de la comunicación, encontramos que el
+mándala de Géminis tiene mucho que decirnos sobre la causa kármica de los defectos e
+impedimentos del habla que se registran en los cuerpos de seres humanos en su nacimiento
+o que “aparecen” durante la encarnación como resultado de una potencial vibratoria
+congestionada haber sido estimulada por la acción del tiempo. Tales condiciones congénitas
+como la mudez, hendidura del paladar, hipertrofia de la lengua, el tartamudeo y el gagueo,
+condiciones traumáticas que lesionan el mecanismo vocal, la lengua o los labios, etc., son
+las condiciones principales que revelan externamente que las personas afectadas causaron
+impedimento de la comunicación en el pasado. La memoria subconsciente retenida de la
+acción e influencia destructiva o congestiva y el cuerpo físico presente reproduce, por la
+epigénesis, la potencial negativa como “retribución kármica” para que la persona pueda
+explorar el aspecto de conciencia negativo desde “el otro lado de la cerca” y así aprender
+algo más sobre las verdades de la facultad de comunicación y su recto uso para el
+desarrollo futuro y la evolución. Muchas, muchas clases de acción e influencias en el
+pasado pueden causar defectos de comunicación en la vida presente; pero el mándala de
+Géminis nos da las pistas ocultas básicas sobre la causa de la mayor parte de estas
+condiciones defectuosas - y experiencias dolorosas:
+
+La ubicación del diámetro Tauro-Escorpión coincidiendo con las cúspides de las
+casas duodécima y sexta, es el primer punto a considerarse. Este es el diámetro de la
+conciencia del poder como “deseo”, o para decirlo de otra forma, la conciencia
+individualizada del deseo. Teniendo en mente que el deseo es una potencia de conciencia
+que puede extenderse en cualidad desde las más inhumanas lujurias, avaricias y represalias
+hasta las más sublimes formas de aspiraciones espiritualizadas, comprendemos que el recto
+uso de esta potencia - como mostrado en este mándala - es una forma de servicio
+contributivo (Escorpión en la cúspide de la sexta casa) y un constructor de la conciencia
+de la salud. Semejante ejemplo es la expresión del amor mutuo a través del ejercicio del
+mecanismo sexual; otro ejemplo es la conservación disciplinada de las energías vitales y
+magnéticas para el uso en empresas y obras constructivas. Nada más sobre Escorpión en la
+sexta cúspide; su polarización más elevada en el plano físico es Tauro, el signo opuesto, en
+la duodécima cúspide de esta mándala es el símbolo de la creación de tonos liberados a
+través de la palabra hablada - la incorporación audible de sentimientos, pensamiento,
+ideas, opiniones y realizaciones.
+
+Piense sobre esto: Una suave palabra - un “sí” o un “no” dicho en cierto tono de
+voz, comunicándole a otro una decisión específica, sentimiento, realización o
+reconocimiento puede alterar el curso de una vida humana si la persona a quien se hace
+la comunicación reacciona a lo que oye en la palabra. Una suave palabra pronunciada
+como un juicio para afectar la vida o el destino de otra persona, puede decirse de tal forma
+que la mente subconsciente del que habla “abarque y sostenga” una impresión de malicia o
+de destructibilidad o tal grado que la retribución kármica por esa expresión pueda objetivar
+en experiencias dolorosas varias vidas después. Por temor una palabra necesaria puede ser
+callada; el poder inherente en la palabra callada sería retenido como una potencialidad para
+lo negro más tarde; el contenido de dolor concomitante con la disolución necesaria
+subsiguiente será proporcionado al bien que hubiera resultado si la palabra suave original
+hubiera sido pronunciada.
+
+A fin de desenvolver realizaciones o cogniciones de causas kármicas de dificultades
+o impedimentos a la comunicación, debemos estar dispuestos a hacer más elásticos nuestros
+puntos de vista y reconocer que la causa de estos efectos manifestados en el presente por la
+epigénesis pueden haber estado establecidos por largo tiempo en la subconsciencia de la
+víctima. Utilizar el poder creador de la palabra hablada para encauzar las fuerzas de la
+conciencia destructiva y falsa es asegurar una experiencia futura con impedimento de la
+comunicación. En la repetición de formas externas el vehículo mental se desintegra hasta
+cierto punto y de tal manera que algunas condiciones identificadas como “imbecilidad” e
+“idiotez” resultan como retribución kármica, especialmente cuando la crueldad deliberada
+ha sido la motivación emocional originaria. La experiencia actual de muchas de esas
+víctimas ha sido auxiliada por el poder del amor expresado en el cuidado y la consideración
+ofrecidos por aquellos que tratan de asistirlos - y este amor es también una retribución
+kármica establecida por acciones de buena intención y bondad en el pasado. Así, vemos en
+estos tiempos por la observación del hecho que los humanos están tratando de ayudar y
+rehabilitar aun a aquellos casos más trágicos de oscuridad, impedimento y desintegración
+relativa - que las únicas barreras a la comunidad son aquellas que el hombre mismo ha
+establecido; el Creador nos ha dotado de las potencialidades de mente y espíritu y la
+facultad de asegurar nuestra comunicación eventual con todos los planos de vida. En el
+sentido universal o absoluto no existen barreras para la comunicación. Toda mente
+individualizada funciona bajo la ley y mediante la liberación y refinamiento de
+potencialidades dentro de la esfera inclusiva de la mente única - que es la luz única y la
+conciencia única - las líneas de comunicaciones siempre en desarrollo “de cada uno con
+todos y de todos con el Uno” son mantenidas perpetua y perfectamente. Por el recto uso de
+nuestros factores de Mercurio, reproducimos los caminos libres de nuestras líneas de
+comunicación con nuestros congéneres en este plano.
+
+### <h3 id="chapter-8">Capítulo VIII: La Luz como Afluencia</h3>
+
+La palabra afluencia es derivada de dos palabras latinas: “ad”, que significa “a” o
+“hacia”, y “fluere” que significa “afluir”. Nosotros la usamos generalmente para referirnos
+a condiciones caracterizadas por la abundancia y plenitud de provisión de riqueza; pero un
+examen de la derivación de la palabra nos da la clave de su significación esotérica. No es,
+básicamente, una descripción de condiciones sino una cualidad de conciencia por medio
+de la cual la abundancia se logra y se manifiesta. En otras palabras, la conciencia humana
+- la “luz mediante la cual un humano percibe la Luz” - contiene la potencialidad de
+funcionar “afluentementee” de manera que por correspondencia las condiciones de
+abundancia puedan afluir a los ambientes y asuntos humanos. Así como el deseo de lograr
+la salud es uno de los muchos esfuerzos humanos de percibir la Luz, así también es el
+deseo de lograr la afluencia; es importante considerar cómo puede un ser humano generar
+la clase de conciencia que hace patente la abundancia en su vida.
+
+Si la conciencia del “hambre” es indicativa de una necesidad profundamente
+sentida, entonces la “pobreza” es una combinación de esa necesidad con la convicción de
+que esa necesidad no se puede, no se podrá ni se deberá realizar. La pobreza es lo contrario
+de la abundancia - representa una privación de conciencia que está demostrada
+externamente por la deficiencia o carencia relativa de cosas esenciales o deseadas. No nos
+sentimos “pobres” por no tener algo que nos sea indiferente; “sentirse pobre” es sentirse
+privado de aquello por lo cual tenemos un fuerte deseo o necesidad. El complejo de
+pobreza es una forma de patrón mental, de cualidad congestionada, por la cual un humano
+se priva de las realizaciones de la afluencia; esta privación es una convicción de carencia
+que caracteriza generalmente su modo de vida o se manifiesta en algún factor específico o
+área de su vida. El complejo de pobreza es siempre una retribución kármica por abusos o
+mal uso de los medios y oportunidades en vidas humanas. Está construido esencialmente
+sobre el miedo residual y la culpa traída como reacción subconsciente de acciones pasadas
+caracterizadas por el derroche, la destrucción, la deshonestidad o el deshonor. Por el
+despilfarro socavamos nuestra conciencia del recto uso; por el espíritu de destrucción
+producimos un poder de repulsión en el subconsciente que “niega” nuestro deseo de atraer
+aquello que ahora deseamos o necesitamos; por la deshonestidad o el deshonor privamos a
+otros de lo que les pertenece legítimamente y el residuo subconsciente, ahora registrándose
+como complejo de pobreza, es la esencia enervante e inanimada del miedo y la
+culpabilidad. Ya sea de corta o larga duración, el “sentimiento de pobreza” es siempre una
+indicación comunicada a la gente consciente por reacción del inconsciente de que una
+revisión drástica de conciencia es necesitada. Esa revisión debe establecerse en la mente
+subconsciente antes de que las condiciones mejoradas puedan aparecer en los asuntos
+externos. En otras palabras, los sentimientos de la persona sobre la vida y sobre sí misma
+deben alterarse por un proceso de sinceridad, para que ella por la expresión de su
+conciencia, pueda “fluir con más libertad en la vida” y para que las manifestaciones de la
+abundancia de la vida puedan “influir con más libertad en sus asuntos”. El agua es quizás el
+símbolo más perfecto del principio de afluencia de la vida; recuerde que el agua debe
+dejarse libre de sus estados de suspensión como nube, nieve o hielo antes de que pueda
+fluir dando vida como los ríos. Es el poder del calor lo que pone libre las potencialidades
+del agua de su estado estático como hielo y como nieve; correspondientemente debe
+establecerse alguna forma de calor espiritual en el subconsciente del humano como un
+medio de revivificar su perspectiva de sí mismo, y de sus condiciones. ¿Cómo se lleva a
+cabo esta acción renovadora?. Consideramos lo que el Gran Mándala Astrológico (el
+círculo de doce casas rodeado por la franja zodiacal con Aries como signo Ascendente)
+tiene que indicarnos:
+
+Considere primero los dos signos que enfocan los dos brazos del diámetro vertical:
+Cáncer, cardinal de agua, está en el extremo inferior; Capricornio, cardinal de tierra, está en
+el extremo superior; la línea vertical completa es la línea de la generación o descendencia.
+La Luna, regente de Cáncer, es el símbolo arquetípico de la madre; Saturno, regente de
+Capricornio, es el símbolo arquetípico del padre. Esotéricamente estos dos signos y la línea
+que forman como “emanación” desde el centro de la rueda, se refieren al atributo de un ser
+humano de crear su propio destino por la forma en que ejercita su conciencia de
+encarnación en encarnación. El hombre determina la línea evolutiva de su existencia por
+lo que establece en su mente subconsciente (Cáncer) y por las formas en que exterioriza
+estos fundamentos (Capricornio). Por su participación en el poder creador del
+pensamiento, cada ser humano es la madre y el padre de la calidad de su propia línea
+evolutiva. Por sus poderes de reacción en él sentimiento se hace consciente de lo que ha
+establecido en su mente subconsciente; por sus poderes de expresión (pensamiento,
+palabra y acción), él le da forma a aquellos que ha establecido en sus reinos
+subconscientes. La “convicción de la pobreza” es una “oscuridad en el subconsciente” -
+significa que la persona se ha identificado en el pasado con la privación por alguna acción
+representando el mal uso o el abuso de oportunidades y medios. En resumen, por sus
+culpas en estos asuntos él “engendró” la condición o situación presente que “identifica
+como pobreza”. La pobreza no es una realidad de la vida, es una interpretación
+individual de condiciones basadas de la vida kármica. Piense por un momento: ¿Es la vida
+“tan pobre”?. ¿Es nuestro planeta “tan pobre”?. ¿Tiene todo ser humano la misma índole de
+complejo de pobreza que todos los otros?. ¿Tiene cada uno que sufrir el complejo de la
+pobreza eternamente?. La contestación a todas estas interrogaciones es no. Vamos a
+considerar ahora una clave astrológica esotérica muy importante e interesante para los
+medios a través de los cuales pueda disolverse el complejo de la pobreza de modo que las
+energías encerradas sean dejadas libres afluentemente.
+
+Encontramos esta pista en las exaltaciones planetarias - poderes anímicos de
+apercepción espiritual destilados de la regeneración consciente en vidas pasadas - según
+son representadas en el Gran Mándala Astrológico: Júpiter, regente de Sagitario, exaltado
+en Cáncer; la Luna, regente de Cáncer, exaltada en Tauro; Venus, principio del Equilibrio a
+través del intercambio, rige a Tauro y a Libra; Saturno, regente de Capricornio, exaltado en
+Libra; Marte, regente de Aries, exaltado en Capricornio. Primero, Júpiter exaltado en
+Cáncer, como la apercepción del poder de “dar”:
+
+Si deseamos sobreponernos al complejo de la pobreza, tenemos que demostrar
+nuestra sinceridad en ese punto haciendo algo de naturaleza afluente para manifestar la
+condición deseada en la experiencia humana. Esa forma de expresión es lo que llamamos
+“acción de dar”. La aseveración “es más bienaventurado dar que recibir”, significa mucho
+más que una vieja sentencia. Contiene un profundo directivo metafísico y oculto: La acción
+de dar es una bendición para la mente subconsciente del que da. Si usted está
+convencido, en su subconsciente congestionado, que una condición deseada o requerida
+“no es para usted”, pero usted hace algo para posibilitar el que otra persona logre esa cosa,
+usted está tomando el primer paso y él más importante en la disolución de su propio
+complejo de la pobreza. Si su complejo de la pobreza fuese “total”, usted ni aun pensaría en
+tratar de hacer esa cosa particular evidente para otra persona. El hecho de que usted haga
+esa cosa da la impresión en su mente subconsciente de que usted se da cuenta de la
+accesibilidad de la cosa. Con esa acción efectuada con sincera motivación de servicio,
+usted comienza a dejar libres las energías subconscientes encerradas porque la acción de
+dar es afluencia en acción. De tal modo usted se hace receptivo a las posibilidades de
+realizar la cosa deseada o requerida en sus propios asuntos y ambiente. Por consiguiente, el
+resultado es que usted ha establecido más luz en su mente subconsciente y ese
+establecimiento, de ahí en adelante, se convierte en un magneto para atraer aquellas cosas
+consistentes con su deseo o necesidad. Con el sentimiento iluminado resultante del alivio
+provisto por su acción de dar y mayor conciencia de dar, la exaltación de Marte en
+Capricornio lo hace a usted más consciente de lo que usted debe hacer, como disciplina y
+desarrollo personales, para hacer de ese establecimiento mejorado “una cosa fija” en su
+conciencia anímica. En otras palabras, la nueva accesibilidad lo conduce a usted a un nuevo
+sendero de esfuerzo espiritualizador el cual tiene como meta el establecimiento integrado,
+para uso permanente, de la nueva realización espiritual. Un acto de acción auxiliadora y
+sincera de dar origen al proceso afluente; pero Marte exaltado - esfuerzo constructivo
+persistente - debe ser aplicado de modo que el complejo de pobreza de muchos años de
+duración pueda disolverse por completo y las energías pertenecientes a éste puedan ser
+transformadas completamente con conciencia de Luz. Eso significa que debe realizarse
+mayor honestidad propia; debe aplicarse una dedicación más consistente y completa para
+las condiciones y esfuerzos corrientes; toda tendencia o inclinación de dominar a otros -
+mental, emocional o físicamente - en cualquier índole de indebida servidumbre debe ser
+abandonada. Recuerde que usted desea la liberación de su complejo de pobreza y así debe
+dar a otros el don de la liberación; para poder hacer eso usted tendrá que dejar ciertas clases
+de temores, pues la intrepidez es en sí un atributo de la afluencia. ¿Cómo podría el agua
+fluir si temiera al movimiento, o si el hielo y la nieve tuvieran miedo de derretirse?.
+Nosotros tenemos que estar deseosos de derretir y disolver las congestiones secretas si
+hemos de realizar la conciencia y evidencias de la afluencia. Los poderes de la Verdad, el
+Valor, la Fe, el Amor, el Regocijo, y la Libertad son las “cualidades térmicas” por medio de
+las cuales el Espíritu derrite las constricciones paralizadoras establecidas por el “ego
+personal” en su expresión de interpretaciones irredimidas.
+
+Si la abundancia financiera es su símbolo de afluencia deseado o requerido,
+entonces los dos puntos que están exaltados en los signos de Venus nos dan algunas claves.
+La persona que ejercita la mayoría desorganizada y caótica de materiales presentes - no
+importa cuanto dinero tenga - está actuando en contra de la afluencia porque esta clase de
+funcionamiento es evidencia concreta de debilidades en el trabajo. La exaltación de la
+Luna en Tauro - signo de la segunda casa - puede decirse que transmite la palabra clave:
+Yo establezco la afluencia por la recta mayordomía - ahora. En el hogar, en los
+establecimientos de negocios, en las actividades profesionales o en asuntos comerciales, los
+humanos no pueden establecer desorden en patrones de intercambio financiero y esperar
+que continúe el registro de afluencia. Imponemos cargas sobre otros si cometemos desorden
+en nuestros asuntos y tarde o temprano tenemos que rectificar el desequilibrio. El signo de
+Tauro está polarizado por el signo fijo de agua Escorpión, que se refiere a la conciencia
+sexual. Es un hecho establecido a través de la indagación psicológica y metafísica que la
+conciencia del dinero está duplicada por la conciencia del sexo. Ambas son aspecto del
+deseo de mantenimiento y perpetuación. Se ha determinado que las congestiones en las
+actitudes hacia el sexo o hacia el dinero tienen un efecto retroactivo en lo opuesto. En estos
+tiempos de “aceleración evolutiva” los humanos reciben las oportunidades de resolver gran
+karma de muchas vidas pasadas y el sexo y el dinero han sido los deseos que han
+impulsado gran expresión negativa en nuestras experiencias pasadas.
+
+Considere esto a la luz de los programas de altos impuestos con que estamos
+bregando en la actualidad. Además, a la luz de lo que se ha revelado en estos tiempos con
+relación a los aspectos sexuales de la naturaleza humana - las condiciones kármicas en la
+conciencia procreadora que han sido reveladas en tantas formas complejas. Por lo tanto, la
+“conciencia muy pobre del dinero” en un hombre podría encontrarse que tiene sus raíces en
+condiciones psicogenéticas constrictoras y estas condiciones requerirán mayor vivificación
+por la conciencia amorosa y la buena voluntad hacia otros seres humanos. Saturno,
+regente de Capricornio, está exaltado en Libra, signo de la séptima casa del Gran Mándala.
+Esta es la insignia, en simple forma astrológica, de la Regla de Oro - el cumplimiento
+perfecto de la experiencia a través de la conciencia de relación humana armonizada y la
+conciencia de la justicia espiritual que esa forma de realización incluye. La afluencia es la
+provisión de Vida para nuestro sostenimiento. Esa provisión ya está establecida para
+nuestro uso, pero si cualquier cosa en nuestra conciencia trata de privar a otro de lo que
+es su justa realización, entonces negamos nuestro reconocimiento de la afluencia de Vida;
+limitamos nuestra expresión de la afluencia y surge la pobreza.
+
+El símbolo tradicional del Sol - el punto circunscrito por un círculo - bien puede
+tomarse, para esta consideración, como el émbolo de todas las potencialidades afluentes,
+el símbolo de la total provisión de Vida. Por lo que representa, todas las cosas necesarias
+para nuestra evolución son emanadas - así como todo lo que está representado en un
+horóscopo es “emanado” del punto central. El Sol como regente del signo solar Leo, puede
+en tal caso tomarse como el símbolo de la afluencia de la luz espiritual - todo el Amor,
+toda la Sabiduría, toda la Verdad, toda la Belleza y toda la Ideación que los humanos
+puedan realizar y asimismo todas las representaciones materiales que nosotros
+interpretamos por la conciencia espiritualizada. El poder en todos los grados posibles está
+representado por el Sol y de ese modo representa todo grado posible de poder que un ser
+humano puede realizar. El Poder es - es parte del trabajo de nuestra vida para desplegar su
+reconocimiento en nosotros mismos.
+
+Puesto que la pobreza es una ilusión creada por una conciencia humana
+relativamente subdesarrollada, no es estrictamente cierto el punto de vista filosófico que
+“Saturno sea el símbolo de la pobreza”. Tal interpretación le hace una injusticia a Saturno.
+Saturno nos habla, a través de nuestros temores y culpas, de las áreas irrealizadas de
+nuestra experiencia; cuando estas áreas son realizadas, se establece la seguridad en la
+conciencia y por consiguiente se efectúa esa forma de quietud interna que produce la
+afluencia. Además, los aspectos de cuadratura en el horóscopo individual representan áreas
+de tensión internas y cada una de éstas puede interpretarse como una “potencialidad de
+pobreza”. La regeneración alquímica cuando se expresan los atributos espirituales de los
+puntos planetarios envueltos “derretirán el hielo” de la congestión interna. La persona que
+sufre de un sentimiento de “pobreza de educación” debe primero sanar su mente
+subconsciente revitalizándola con un fuerte deseo de aprender; el deseo de aprender es el
+deseo de experimentar la afluencia en el plano mental y esta forma de afluencia sólo puede
+ser experimentada cuando se le permite a la mente ponerse receptiva. Las tendencias al
+prejuicio, al dogmatismo, la terquedad y la tiranía mental deben desatarse y la humildad
+del verdadero estudiante debe establecerse en la subconsciencia. Si la enseñanza por sí no
+está disponible, entonces el verdadero estudiante abre su mente a la conciencia de otras
+fuentes de estudios y aprendizaje: bibliotecas, librerías y conferencias públicas están al
+alcance de todos en estos tiempos. Si la enseñanza específica es la cosa deseada, entonces
+la persona tendrá que indicar su deseo sincero mediante la disposición de organizar su vida
+y sus asuntos para la realización de su meta. Las personas pueden aprender mucho por un
+método más fácil, el de hacerse más receptivas del mundo que las rodea.
+
+La pobreza de amor, amistad y compañerismo es quizás la más trágica de todas las
+pruebas congestivas kármicas. La gente que sufre de estas privaciones bien podría prestar
+atención al hecho de que el amor y la amistad son estados de conciencia - el establecerlos
+en la conciencia hace posible su expresión afluente y su realización afluente en sus
+relaciones. Es importante también reconocer que muchas personas que anhelan hondamente
+las alegrías de la relación y los cumplimientos del compañerismo no son amistosas consigo
+mismas no importa lo devotas que puedan ser posiblemente con los otros. El respeto y el
+aprecio por uno mismo, como expresión de la Vida Divina y las potencialidades de uno de
+revelar aquello que es bueno y hermoso, deben ser establecidos en lugar del desprecio
+propio, los sentimientos de inferioridad y otros semejantes. La falta de armonía en patrones
+de relación como aquellos con uno de los padres o pariente fraternal deben ser transferidos
+por la expansión de la conciencia de relación en formas más universales. Pero recordemos
+siempre que la voluntad de comprender verdaderamente a los otros puede abrir las áreas
+oprimidas de cualquier relación humana. Debemos ser afluentes en nuestra buena
+voluntad hacia los otros si queremos realizar la afluencia en nuestra experiencia.
+
+### <h3 id="chapter-9">Capítulo IX: La Astrofilosofía Discute la Experiencia del Hospital</h3>
+
+Nosotros los humanos nos inclinamos a identificar las cosas en términos de los
+sentimientos que hemos experimentado en nuestro contacto o relación con ellas. “El dolor,
+el sufrimiento, las dificultades y el pesar” son las asociaciones a que estamos propensos
+cuando “el hospital” es sometido a nuestra atención. Con semejantes asociaciones en la
+mente y el sentimiento, acentuadas a través de los años, no es de extrañarse que la ansiedad,
+el miedo y el terror nos surjan cuando la experiencia del hospital se hace inminente.
+Reconocemos y admitimos por la evidencia de nuestras condiciones, que necesitamos
+ayuda; deseamos desesperadamente el alivio de la inarmonía y el malestar de la enfermedad
+y las lesiones; pero en nuestra comprensión limitada de la “verdad del hospital”, tendemos
+a intensificar nuestra dificultad. Nos preocupamos tanto con el dolor y el miedo que
+anestesiamos nuestra conciencia de la salud y nuestra fe en la eficacia de los poderes
+curativos. Es cierto que la gente puede liberarse de la inarmonía física, emocional y mental
+por una acción interna, una desviación en la conciencia de la congestión en la inarmonía a
+la realización de la salud. Estas personas dan una prueba viviente de que la curación es
+interna. La voluntad de vivir primordial e instintiva es el medio de curación básico aún
+para aquellas personas que no se dan cuenta de una fe consciente en la recuperación. Sin
+embargo la intensificación consciente del darse cuenta de la salud y la curación no sólo
+acelera la corrección de la condición particular, sino que restaura la salud en todos los
+planos de funcionamiento. Todas estas formas de servicio que podrían denominarse los
+“senderos de curación” son, en verdad, medios por los cuales los humanos ayudan a otros a
+disminuir el temor y la desesperanza y a intensificar sus reconocimientos de la naturaleza
+del bienestar. Piscis, el signo de la duodécima casa del Gran Mándala, es la clave.
+
+Existen dos mándalas astrológicos, extractos del Gran Mándala Astrológico (la
+rueda de doce casas, Aries como signo Ascendente, 30° de cada signo zodiacal
+correspondiente a cada casa), que pueden ser estudiados tomando en consideración el por
+qué los humanos tienen experiencia del hospital. El primero describe las causas evolutivas.
+Este es trazado por la indicación de los símbolos de los signos mudables en las cúspides de
+la novena, sexta, tercera y duodécima casas, el símbolo de Sagitario en la novena casa
+trazado de mayor tamaño, que los otros tres, y las cuatro cúspides conectadas por una serie
+de líneas rectas y los dos diámetros intersectados. Este diseño forma la cuadratura
+mudable y sus líneas de fuerza internas complementarias. El diseño de la cuadratura debe
+comenzar en la cúspide de Sagitario porque este signo es el “signo de fuego representativo”
+de la cruz mudable; como tal simboliza la apercepción de la verdad. El cuarto signo en la
+dirección de las agujas del reloj desde Sagitario es Piscis que representa el elemento de
+agua y el tema de esta disertación. Puede verse una representación más condensada de este
+orden de sucesión en una línea vertical de los cuatro signo mudables con Sagitario abajo,
+Virgo encima, Géminis arriba y Piscis en el tope; una línea vertical al lado con la punta de
+flecha más arriba de Piscis demostrará cómo (porque este es un “mándala de cuadratura”)
+“una falta en Sagitario conduce a condiciones negativas de Piscis”; en otras palabras, la
+falta de apercepción de la verdad conduce a condiciones kármicas de la duodécima casa,
+Piscis. En términos de la “interpretación de aspectos de cuadratura y oposición”, este
+mándala revela que los hospitales son sitios de limitación, de constricción y de sepultura
+para la conciencia que rehúsa las oportunidades de reconocer la Verdad; las condiciones
+que requieren hospitalización son siempre consecuencias de haber expresado la falso en
+el pasado. Pero la Verdad es un “atributo del Ser eterno; está siempre disponible, siempre
+capaz de servir y omnipotente para auxiliar. Por lo tanto, la necesidad kármica que
+denominamos “experiencia de hospital” puede ser considerada como una oportunidad de
+percibir la verdad de seidad en mayor grado que nunca antes.
+
+Si en este mándala de la cuadratura mudable, Sagitario representa errores pasados
+en la cognición y la expresión de la Verdad, entonces Piscis - en la parte superior de la serie
+- representa la exteriorización de esa falta en términos de la necesidad de hacer la
+expiación. Efectuamos la expiación por un proceso de nuevo enfoque de la conciencia y la
+exteriorización de este nuevo enfoque es la experiencia tardía de ser encarcelado en el
+hospital. El hospital es un lugar de limitación, encarcelamiento, pesar, dolor y dificultades
+solamente para la persona que rehúsa expandir su conciencia de sí misma en relación con
+su experiencia. Para una persona que verdaderamente busca la verdad, el hospital es un
+sitio de oportunidad para la renovación. La experiencia del dolor enfoca la gran
+interrogación interna de ¿“Por qué”?. Cuando “el por qué” de una persona es sincero, la
+Verdad siempre e inevitablemente revitaliza su conciencia y esclarece la significación de la
+experiencia. La compasión de sí mismo, la preocupación exorbitante y la amargura
+mantienen a la persona a raya con la “cuadratura mudable” - y todas sus implicaciones. El
+deseo sincero de lograr la salud inspira a la persona que sufre a buscar la comprensión
+verdadera de las causas de su condición.
+
+La experiencia de hospital de una persona también provee oportunidad similar para
+cada uno de sus seres amados, a quien se le brinda de ese modo la ocasión de expandirse e
+impersonalizarse en los planos emocional y mental. En la piedad irreflexiva recalcamos los
+elementos dolorosos de la experiencia de nuestros seres queridos porque nuestra atención
+está en el aspecto externo doloroso y no en la significación verdadera de la experiencia
+como una indicación de oportunidad para el crecimiento, la armonización y el logro.
+Sagitario como la “raíz” de esta representación de la cuadratura mudable, manifiesta que
+hay una comprensión de principio para ser percibida en la experiencia; cuando la
+oportunidad es impedida y resentida, se intensifica el encarcelamiento en la dificultad;
+cuando es aceptada con la disolución de la compasión propia y la justificación de sí misma
+el influjo de la Verdad no sólo esclarece la conciencia sino que también fortalece la fe y
+ahonda la capacidad de la compasión pura. Entonces uno llega a una comprensión más
+clara y verdadera de las dificultades de otros y los poderes del recto auxilio son expandidos
+y reforzados.
+
+El sendero de la evolución humana es aventurado en dos formas principales. Uno es
+el misticismo; este es el “Sendero del Corazón” de la simpatía, la inspiración, la
+instrumentación, la devoción impersonal, la oración y la dedicación. Está simbolizado
+básicamente por Piscis como signo de regencia de Neptuno y signo de exaltación de Venus.
+La otra es la forma del ocultismo, el poder radiante y Sendero de la mente. Identifica el
+sendero de los científicos, inventores, artistas, creadores, magos y alquimistas. Todos los
+seres humanos que sirven a través de las actividades de curación se inclinan básicamente a
+una u otra de estas formas; pero ambas son esenciales para la identificación de un Sanador
+Maestro.
+
+El sendero místico de la actividad de curación está bien ilustrado por personas tales
+como Bernadette Soubirous a través de cuya instrumentación inspirada se estableció la
+Gruta de Lourdes; el Padre Flánagan, quien estableció la Ciudad de los Niños y todas las
+personas que oran por la curación humana también ilustran la forma mística. Los
+investigadores, científicos, inventores, administradores, cirujanos y dentistas ilustran la
+forma ocultista. Florence Nightingale, primordialmente un ejemplo de la forma ocultista,
+fue un ejemplo maravilloso de la combinación de ambas formas.
+
+En el tipo de sanador que está más íntimamente asociado con la corrección de la
+dolencia del paciente puede hallarse un clave importante sobre la causa kármica de la
+dolencia. El sanador se destaca como representante personalizado de una expansión de
+conciencia que necesita hacer el paciente - verdaderamente corregir la causa de su
+dolencia. La destreza de un cirujano (ocultista) puede corregir el aspecto externo de la
+condición, pero la ternura devota y amable de la enfermera (mística) puede ser el poder que
+inspire mayormente al paciente con la renovación de su conciencia de la verdad de la
+salud; una enfermera negligente, indiferente y sin compasión puede desalentar al paciente y
+aumentar su preocupación sobre su dificultad. Su cirujano no obstante puede inspirarlo por
+su dominio del conocimiento y la destreza y esta forma de inspiración puede estimular en el
+paciente un deseo más profundo que nunca de conocer la verdad de su condición. El autor
+cree sinceramente que el sanador como ocultista está simbolizado por la exaltación de
+Neptuno en Leo, el signo del Sol y archisímbolo del poder.
+
+El segundo mándala de la experiencia de hospital es el mándala del trino de agua:
+un triángulo equilátero formado por una línea recta conectando las cúspides de las casas
+duodécima, octava y cuarta; los símbolos de Piscis, Escorpión y Cáncer colocados
+apropiadamente; el símbolo de Piscis trazado más grande que los otros dos símbolos de los
+signos y el símbolo de Neptuno colocado en la duodécima casa. Prepare tres de éstos. En el
+primero, indique el diámetro de Piscis-Virgo; en el segundo, indique el diámetro de
+Escorpión-Tauro; en el tercero, indique el diámetro de Cáncer-Capricornio. Estos
+mándalas ilustran la plenitud de la significación de cada uno de los signos de agua para la
+experiencia de hospital por la aplicación del Principio de Polaridad. Los símbolos de los
+tres signos de agua dispuestos en una línea vertical con Piscis en el extremo de arriba,
+Escorpión segundo y Cáncer abajo, representarán claramente el orden que es apropiado
+para esta disertación.
+
+Primer mándala - Piscis-Virgo: Este es el diámetro de la conciencia de la salud, la
+atenuación de la cual hace necesaria la terapia o experiencia del hospital. Virgo es la salud
+como potencia básica que hace posible la actividad del servicio; Piscis es la redención
+necesitada de esa potencia. La persona cuya conciencia de potencia o habilidad físicas es
+menos que su plenitud natural, no puede expresar la plenitud de su actividad servicial, aún
+cuando hiciera esfuerzos heroicos pese a su limitación. Esos esfuerzos hechos como una
+expresión de su voluntad, son en efecto una redención desde dentro, pero si la terapia
+puede ayudar a desarrollar la expansión de la habilidad, la persona pide la ayuda de Piscis -
+ella entra a un hospital, se separa de su actividad previa por un tiempo, acepta la limitación
+de actividad y al mismo tiempo acepta la oportunidad de mejorar con mayor cabalidad su
+condición física y su capacidad para la actividad del servicio. El edificio del hospital donde
+ella ingresa para ayuda y regeneración es una exteriorización de los poderes protectores de
+la gracia divina. Piense sobre esto.
+
+Nadie está inmune a la acción de la Ley de Causa y Efecto, pero como todo
+individuo debe encarar y resolver sus residuos kármicos, los poderes de la Gracia Divina
+están inherentes en cada actividad por lo cual los humanos reciben auxilio en la resolución
+de sus dificultades. La presencia de la Gracia Divina en el corazón humano se evidencia por
+cualquier hospital, desde el pequeño pabellón en el campo de combate hasta las
+instituciones enormes y complejas de las ciudades metropolitanas; todos los hospitales,
+desde el más pequeño hasta el más grande, están protegidos y revitalizados continuamente
+por influencias curativas desde dimensiones más elevadas. Nuestros sanadores de
+dedicación más inspirada son aquellos que están consciente o inconscientemente más
+sensibles al estímulo directivo de estas Influencias más Elevadas. Los humanos que ven
+solamente la superficie de las cosas interpretan los hospitales como lugares de dolor, de
+pesar y de tristeza. La verdad es exactamente lo contrario: Los hospitales son centros de los
+poderes sanadores de la luz y del amor. Cuando la humanidad doliente comprende esto,
+toda la actitud hacia su necesidad de la experiencia de hospital experimenta un cambio
+drástico e iluminador. La fe, la gratitud, la esperanza y la seguridad neutralizan los efectos
+constrictores del dolor y tanto la conciencia como el cuerpo se expanden para hacer un
+ajuste más eficiente al tratamiento de curación. El poder de la Divina Gracia transforma un
+hospital de un lugar donde el destino maduro de dolor, de pesar y de limitación debe ser
+sufrido, en un lugar donde la redención y la unificación pueden experimentarse.
+
+Si el primer mándala, gobernado por Piscis, es el “qué y dónde” de la experiencia de
+hospital, entonces el diámetro de Escorpión-Tauro indica los medios por los cuales se
+llevan a cabo y se cumple el servicio de hospital. Esotéricamente, Escorpión-Tauro es el
+diámetro de la mayordomía, el principio espiritual que es destinado en la conciencia
+humana a través de las experiencias de “posesión y propiedad”. Aquello que es
+administrado en el servicio y experiencia de hospital es el poder regenerador. Se origina en
+dimensiones superiores invisibles, es dirigido por Servidores Invisibles y encauzado en
+toda institución de curación por servidores humanos a los necesitados. Los Servidores
+Invisibles trabajan con dedicación a través de largos períodos de tiempo para dirigir la
+centralización de poder para las necesidades humanas y el signo de Escorpión simboliza
+claramente la conciencia dedicada y las habilidades disciplinadas de todo curador
+humano.
+
+Florence Nightingale, cuyas labores infatigables se extendieron durante toda una
+vida de noventa años, se destaca como un ejemplo humano maravilloso de los servidos
+persistentes de los Sanadores Invisibles. Los Sanadores se disciplinan para calificar, pero
+ningún curador es “dueño” del poder curativo - en la mayodormía de su equipo personal él
+actúa como “mayordomo” de aquello que es proyectado de Fuentes Invisibles para uso en
+este plano. Toda liberación de poder es subsiguiente a la centralización de Poder; el
+curador que en forma balanceada y armoniosa conserva sus recursos personales es aquel
+que puede liberar con mayor efectividad el poder que fluye a través de él a sus pacientes;
+estos recursos pertenecen a los aspectos físico, emocional, mental y espiritual de su ser. Por
+lo tanto, Escorpión-Tauro se refiere al material de poder que hace posible la regeneración
+de la curación a través del enfoque y la libertad; se refiere al Principio de Mayordomía que
+opera a través de la conciencia de curadores invisibles y visibles; se refiere a la Fuente
+omnipresente de poder, la provisión de Dios-Padre-Madre para la conservación y
+regeneración de formas y microcosmos en evolución. Aquel que sirve como “sanador”, en
+el servicio dedicado, se da las manos con sus Mayores Invisibles y sirve como su
+instrumento encarnado en la tierra.
+
+La tercera representación de este mándala recalcada por Cáncer, polarizado por
+Capricornio, ilustra aquello que inspira o impulsa a un humano a recorrer el Sendero del
+servicio de Curación. Es el poder paternal de la pura compasión. Se dijo una vez que “el
+primer hospital fue construido cuando un humano oró por primera vez desinteresadamente
+y en la plenitud de la fe por la curación de un congénere”. Esa forma de oración cuando se
+exterioriza en el físico es el edificio del hospital que encierra, así como el útero encierra al
+embrión en crecimiento, el surgimiento dilatado de la conciencia de la salud. Cáncer, el
+símbolo maternal, ilustra las cualidades de simpatía, ternura, misericordia y compasión que
+inspira a los humanos a ayudar en la curación de otros. Capricornio, el símbolo paternal,
+ilustra la provisión de la forma material organizada para la protección de las actividades de
+curación, correspondiente al hogar material que un padre provee para la protección de sus
+hijos. El “embrión en la matriz” y el “paciente en el hospital” se corresponden mutuamente
+en el sentido que cada uno recibe la oportunidad de desenvolver de nuevo su conciencia de
+vida a través de la experiencia.
+
+La relación de los administradores y servidores del hospital con los pacientes tienen
+muchos puntos de semejanza con la relación de los padres con sus hijos. Todos los
+terapistas son padres para la renovación de la conciencia de Vida de sus pacientes a través
+de las actividades en el mejoramiento de la salud, y el mejoramiento de la salud es siempre
+un medio de liberación. Aquel que desee liberarse de las causas de la inarmonía física
+deberá renovar, regenerar y revitalizar su conciencia; el que sirviere con mayor lealtad en el
+sendero de curación debe enriquecer su conocimiento y destreza técnicos, aprendiendo la
+importancia de ayudar a otros a regenerar su conciencia. La curación es una cosa espiritual;
+aquellos que han de curar verdaderamente son los que sirven para la revelación de la
+omnipotencia, la omnipresencia y la omnisciencia del Espíritu Morador Interno. La oración
+es la “técnica” para esta revelación; la oración y el conocimiento diestro unifican los
+poderes místicos-ocultistas en el curador. La simpatía, humildad y dedicación a la verdad
+real y espiritual, la disciplina personal equilibrada y la fe posibilitan al curador para poner
+en tierra las fuerzas regeneradoras de los reinos superiores para uso en el hospital en donde
+sirve.
+
+En conclusión, estas tres representaciones del mándala del trino de agua pueden
+usarse para estudiar la experiencia de la prisión. En su naturaleza y propósito esenciales las
+prisiones son hospitales. En ambos deben enfrentarse y resolverse los residuos kármicos; el
+mismo Poder y los mismos Medios sirven a ambos, el objetivo principal de ambas formas
+de servicio es: la unificación y “unificación” significa conciencia incrementada de unidad,
+la unificación armonizada de cuerpo, emoción, mente y alma con el Espíritu.
+
+### <h3 id="chapter-10">Capítulo X: El Sendero Astrológico</h3>
+
+El propósito de representar esta disertación es doble. Está bien que los estudiantes
+nuevos de astrología obtengan una perspectiva de lo que este Sendero les exige en
+entrenamiento mental y lo que incluye en expansión del conocimiento y la comprensión.
+Aquellos estudiantes con experiencia en el Sendero deben recordarse periódicamente de los
+requisitos de su Sendero elegido y refrescar sus propósitos, métodos y objetivos
+espirituales. El Sendero Astrológico es largo y contiene muchas complejidades de
+desenvolvimiento; el “punto de vista de largo alcance” y una paciencia calmada y firme son
+requisitos primarios para el cumplimiento de cualquiera de sus fases. Algunos estudiantes,
+en la vida presente, pueden estar recapitulando el conocimiento ganado por medio del
+estudio en vidas pasadas y ahora están listos para comenzar a aplicar su conocimiento y
+comprensión; algunos pueden estar continuando todavía su programa de absorción y aún
+otros pueden estar dando el primer paso en este Sendero. Prescindiendo de la localización
+presente, todos deben tener un conocimiento de gran alcance de todo el programa envuelto
+en este estudio complejo para que el ideal y propósito espirituales puedan sostenerse sin
+vacilar.
+
+La ciencia-arte llamada “astrología” es el estudio de leyes universales en su
+aplicación a la conciencia evolutiva en desenvolvimiento; la conciencia es la luz primordial
+única y los símbolos de las “luminarias” - el Sol, la Luna y los planetas - se usan para
+designar las facultades, vehículos y poderes mediante los cuales la conciencia en
+desarrollo percibe la conciencia divina. Tal como nuestro sistema solar es uno de siete
+sistemas que comprenden una galaxia, así cada una de las “luminarias de nuestro sistema
+solar” es una de una familia relacionada mutuamente con las otras y el sol central e
+interdependientes entre sí; siendo todas las exteriorizaciones de la conciencia divina
+creadora de nuestro Logos. La astrología no es primordialmente un “estudio de las
+estrellas” - esa es la labor de los astrónomos. El astrólogo es un estudiante de las formas de
+conciencia que son exteriorizadas como los cuerpos planetarios, solar y lunar de nuestro
+sistema. Nosotros los humanos tenemos correspondencia con estos cuerpos planetarios
+porque nosotros y ellos somos creaciones de la misma Fuente Divina y la afinidad
+vibratoria nos une en concordancia a todos en este sistema solar. El astrónomo auxilia al
+astrólogo proporcionándole datos calculados científicamente pertenecientes a las relaciones
+geocéntricas y heliocéntricas de las luminarias a la franja de los signos zodiacales; estos
+datos son sincronizados con principios de tiempo y espacio de encarnación para el cálculo
+del horóscopo natal que representa simbólicamente el estado cíclico presente de una
+conciencia humana en evolución. La “astr” de astrología se refiere a “estrella” sólo
+exotéricamente; esotérica y filosóficamente se refiere a aquélla luz que es la conciencia.
+Todo fenómeno, experiencia y relación son interpretados por el grado y cualidad de la
+conciencia en evolución; esto se refiere tanto al cuerpo físico como a todo ambiente,
+actividades, esfuerzos, lecciones kármicas, aspiraciones e ideales. Todos estos factores son
+representados simbólicamente en esencia por el horóscopo natal; la suma total del
+“contenido” de un mapa representa las inclinaciones básicas y las tendencias de puntos de
+vista de la persona - el resultado específico de la forma en que ella ha ejercitado sus
+inclinaciones y tendencias en vidas pasadas hasta la vida presente. Cuando el estudiante de
+astrología establece su conciencia del “astro-sendero” como el estudio de la conciencia -
+siempre evolucionando por medio de la experiencia encarnada y siguiendo los patrones de
+los grandes Principios arquetípicos del Universo - él entonces evalúa apropiadamente cada
+factor del estudio hasta su centro básico y de ese modo mantiene todas las evaluaciones en
+proporción y perspectiva adecuada. Todo factor en un horóscopo calculado correctamente
+es una representación exacta de resultados en la conciencia de causas en la conciencia.
+La regeneración de la conciencia determina condiciones mejoradas, evaluación más
+verídica de la experiencia y una percepción más clara y perfecta de los poderes -
+potenciales y efectivos.
+
+Los antiguos eran alentados en su percepción de la Naturaleza y Conciencia Divinas
+por la técnica de la “personalización”; modos y facetas de la Esencia Divina fueron puestos
+de manifiesto como “dioses y diosas”. Las versiones en inglés de algunos de estos nombres
+divinos son aplicadas ahora a nuestra entidad de los planetas - el nombre de cada planeta
+representando un compuesto o síntesis de potencialidades, principios y poderes divinos. De
+ese modo al considerar las diferentes frases del Sendero Astrológico personalizaremos
+también para hacerlo concreto, y considerar en la imaginación la naturaleza y habilidades
+de uno a quien llamaremos “El Astrólogo Maestro”, y a quien identificaremos como el
+prototipo de todos los astrólogos y estudiantes de astrología, del pasado, del presente y del
+futuro. Su nombre será “Astrófilo” (aquel que ama la astrología) y él es uno que se ha
+dedicado a través de muchas vidas durante muchos siglos a la comprensión en crecimiento,
+de los principios astrológicos. Como Astrólogo Maestro él es uno que ahora está capacitado
+para correlacionar todas las fases del saber con el simbolismo astrológico. Se le tendrá
+como el “ideal personalizado” de todos los que recorren el “Astro-Sendero”.
+
+Astrófilo ha sido siempre, es ahora y seguirá siendo un aspirante espiritual. Esto
+significa que él no permite que su deseo por el conocimiento astrológico impida su deseo
+de comprender el recto uso del conocimiento astrológico. El dedica su aplicación del
+conocimiento al servicio de la iluminación humana porque él sabe que el servicio de
+iluminación es en primer lugar el propósito básico .para el logro del conocimiento. El sabe
+que la plenitud máxima de su conocimiento no es sino un fragmento de sabiduría universal,
+de modo que con humildad sincera él mantiene su mente y su conciencia siempre abiertas y
+siempre adaptables a la consideración de ideas nuevas. El es tan impersonal y honesto en la
+evaluación de su propio mapa como con el mapa de cualquiera otra persona porque él sabe
+que sólo la honestidad total podrá alimentar su propio desarrollo y habilidad. Sus esfuerzos
+intelectuales y analíticos, no importa lo extensos, profundos y cristalinos que puedan ser,
+están alimentados continuamente por la oración; dondequiera que se necesite ayuda, él pide
+la revitalización de su conciencia y su intuición a los poderes de la Mente Superior. Todos
+sus actos o esfuerzos en su servicio astrológico son dedicados y consagrados por su amor a
+Dios y a sus semejantes. El reconoce que es Hermano Mayor probablemente para la mayor
+parte de la humanidad, pero nunca se olvida que él mismo es también un hijo del Padre
+Divino como lo es el más ignorante y menos inspirado de sus semejantes. Su cálculo de
+cada horóscopo es un acto de rito espiritual por medio del cual las fuerzas de su mente, de
+su conciencia y espíritu son enfocadas y unificadas para el cumplimiento de su servicio.
+
+Como un Hermano, Astrófilo aprecia sinceramente los esfuerzos y aspiraciones de
+los humanos en todos los senderos que sirven a la iluminación y regeneración humanas. A
+través de muchas vidas pasadas él ha compartido la absorción del conocimiento con
+compañeros de estudio que representan todas las líneas de indagación e investigación. El
+mantiene una gratitud esencial hacia todos los maestros y experiencias que sirven para
+adelantar su educación astrológica, filosófica y espiritual. Cuando encuentra una
+correlación entre su mapa y cualquier experiencia, él aprecia la experiencia no importa lo
+dolorosa o difícil, porque le sirvió para extender su conocimiento y comprensión. El no se
+apena ni se resiente de ninguna experiencia; el ajuste sano de su mente - dedicado a la
+recepción de la Verdad - no permite ninguna retención morbosa de Interpretaciones
+negativas de la experiencia, pero sí se regocija en cada una y en cada oportunidad de
+expandir su comprensión y percepción. El busca siempre evitar actitudes o puntos de vista
+de prejuicio y por eso rehúsa retener en la conciencia esa cualidad de acción mental que
+engendra el prejuicio o la falsa aprobación. El se esfuerza en considerar sus propias
+experiencias con equidad espiritual para poder representar con mayor perfección la
+equidad de la verdadera iluminación a aquellos a quienes ayuda.
+
+Como científico, Astrófilo es, antes que nada, un matemático y geómetra. Los
+aspectos técnicos de su trabajo requieren una comprensión fácil de todos los principios
+aritméticos y de ciertos principios revelados por medio de la geometría. Puesto que el
+álgebra es la exposición matemática de la Ley de Correspondencia universal, el
+conocimiento de esta rama de la ciencia capacita a Astrófilo para evaluar y disponer en
+forma de tabla las ecuaciones vibratorias que se encuentren en un mapa particular o que
+formen “los patrones de enlace” entre dos o más mapas. En su entrenamiento allá para los
+primeros tiempos de Atlántida, Caldea y Egipto, Astrófilo aprendió que la exactitud en el
+cálculo matemático y la comprensión no sólo exteriorizaban la percepción de una forma de
+la Verdad, sino que también la aceptación de las disciplinas mentales envueltas en el
+entrenamiento exteriorizaba la sinceridad de su prosecución de la verdad. La exactitud es
+la verdad exteriorizada y debido a la complejidad tremenda de las “cosas” estudiadas en el
+Sendero Astrológico, la buena voluntad de disciplinar el cuerpo mental para obtener
+resultados correctos en los esfuerzos matemáticos es un factor importante en la dedicación
+del astrólogo a su servicio. Siempre que es posible, Astrófilo trata de determinar la
+exactitud de todos los datos; él trabaja con esos datos de tal forma que puede obtenerse la
+mayor exactitud. En su trabajo de enseñanza, Astrófilo estimula a sus estudiantes a
+apreciar en todo lo posible el valor del entrenamiento matemático; él sabe por su propia
+experiencia que la Humanidad tiene una gran deuda con las Matemáticas por lo que éstas
+proporcionan en la disciplina, armonización y enfoque de los vehículos mentales y los
+poderes de la conciencia. Para dedicarse con éxito a las tareas matemáticas, uno no debe
+satisfacerse con nada menos que los resultados correctos (verídicos).
+
+Es interesante y significativo notar que tantas formas de exploración visual se
+efectúan a través de una armazón circular. Nuestros ojos están centralizados de tal forma
+que todo lo que vemos lo vemos a través de una “ventana circular”; el astrónomo mira a
+través de un mecanismo circular para estudiar y explorar una parte del sistema solar, una
+galaxia o alguna otra división del universo fenomenal externo a la tierra; el químico y el
+biólogo miran a través de un microscopio circular para estudiar la “pequenez” de los
+fenómenos materiales. Astrófilo, en su trabajo como estudiante de la conciencia humana,
+centraliza su atención también en un diagrama circular formado por cierta disposición de la
+franja zodiacal que contiene un grupo especializado de símbolos colocados de acuerdo con
+principios matemáticos exactos y que transmiten una revelación de leyes espirituales.
+Astrófilo es un especialista en el sentido que su objetivo principal es servir en el adelanto
+de la iluminación humana, pero los principios inherentes en su estudio especializado están
+ligados a todas las formas de explotación efectuadas por otros científicos.
+
+En cuanto concierne a la esfera del conocimiento, Astrófilo coopera con todos sus
+hermanos científicos; las esencias de su estudio y exploración se hallan representadas en
+alguna forma o grado en todas las otras formas de estudio por medio de las cuales es
+revelada y comprendida la naturaleza del universo. Al grado que la naturaleza del universo
+es comprendida, se desenvuelve la realización de la unidad con el universo. Astrófilo debe
+usar los poderes del análiss tal como lo hace un químico, pero además él debe sintetizar
+porque su propósito no es enseñar la “separación del hombre del universo” sino revelar la
+unidad de los humanos entre sí, con todas las criaturas y con la fuente divina. El factor
+analítico en su estudio pertenece al humano como un aspecto de conciencia
+individualizado, con requisitos de experiencia kármicos particulares y “tendencias
+personales” particulares. El factor síntesis es realmente un proceso de la Mente Superior
+por medio del cual Astrófilo puede ayudar a la persona a experimentar una expansión de
+conciencia de unidad dentro de sí misma a través del desarrollo de la autonomía
+espiritual y de la conciencia de unidad con otros humanos por la afinidad de un destino y
+meta evolutiva comunes.
+
+Astrófilo además de ser un científico, místico y sacerdote, es también un artista
+interpretador. El trata de encontrar mediante el estudio de indicaciones horoscópicas,
+aquellos modos y técnicas por los cuales la persona concernida pueda, a través de la
+regeneración de la conciencia, darse más cuenta de las bellezas de su propia conciencia
+espiritual. Todo principio usado en la representación astrológica tiene su duplicado en una,
+o todas, las bellas artes. En un estudio completo de los factores astrológicos encontramos
+diseño, ritmo, color (por implicación) estructura, masa (por implicación), espectro y todo
+aspecto concebible de la belleza que pueda ser realizado o exteriorizado por seres
+humanos. Durante los muchos años y vidas de su experiencia, Astrófilo disfrutó del
+contacto con artistas e interpretadores artísticos de todas clases. Su afinidad espiritual con
+estas personas se basaba en el factor inspirador inherente en toda expresión artística y
+servicio de iluminación. “Iluminar” puede ser tomado como un proceso por el cual “se
+arroja luz en la conciencia” o la “presencia de la Luz en la conciencia es revelada”.
+Cualquier humano mediante cualquier modo o medio, que sirva para revelar la armonía a
+otras personas es un inspirador; la armonía es la revelación del equilibrio en todas las
+partes de una cosa y es la nueva adquisición consciente del equilibrio lo que caracteriza
+nuestra meta evolutiva. Fue de ese estado que fuimos proyectados como
+individualizaciones al comienzo de nuestra experiencia como humanos. Toda percepción de
+la Belleza es una vislumbre del “cielo en nuestra propia conciencia”, y por medio de su
+conocimiento de la alquimia, Astrófilo puede ayudar a la gente a comprender la forma de
+llevar a cabo la regeneración consciente de sus poderes internos y con ello desenvolver
+apercepciones más amplias y más puras de la belleza de su naturaleza divina.
+
+Después de muchas vidas dedicadas a la práctica de verdades alcanzadas y en
+concordancia con normas éticas elevadas, Astrófilo encontró un despertar extraño y
+maravilloso en su propia conciencia. Ello pertenecía a la cognición que “los planetas” que
+él había estudiado por tanto tiempo en los horóscopos eran modos por los cuales lo divino
+se revelaba a través de la conciencia humana. Como resultado, Astrófilo se halló más y
+más consciente de la presencia de Dios en todos los aspectos planetarios - cada aspecto
+siendo así percibido como una indicación no del “mal absoluto” ni del “bien absoluto” sino
+más bien del punto de vista espiritual. Los aspectos considerados como “malos” hasta
+ahora, fueron entonces percibidos como si fueran, en verdad, cuadros simbólicos de
+métodos de experiencia por los cuales un humano ha de lograr finalmente su propia
+naturaleza divina. Todos los aspectos de cuadratura y oposición registran
+condicionamientos vencidos y calificados kármicamente por los cuales el humano ha de
+ser traído a través de la experiencia encarnada, cara a cara ante los resultados de su
+pensamiento y acción pasados; por la experiencia de estos resultados él ha de aprehender
+en mayor grado aquellos modos de pensamiento y acción que adelanten en vez de
+obstruir el desenvolvimiento evolutivo y el logro de los más altos ideales del Espíritu.
+
+Lector, estas cosas dichas aquí sobre “Astrófilo” son dichas realmente acerca de
+usted - que es ahora un estudiante de astrología o tal vez un practicante - quien desde algún
+punto del Sendero pueda desenvolver los poderes del vehículo mental entrenado
+perfectamente, el poder alado de la Intuición y el poder diamantino de la claricognición a
+través de su aplicación continua y devota al estudio de la astrología. Que el Espíritu interno
+le conceda la fortaleza de paciencia, la dicha del regocijo inspirador y la bendición de una
+apreciación creciente de sus semejantes a través del estudio horoscópico, que busca la
+verdad según la necesidad para tal estudio sea sometida a vuestra atención.  La vida
+proporciona toda oportunidad para la realización del Sendero Astrológico.
