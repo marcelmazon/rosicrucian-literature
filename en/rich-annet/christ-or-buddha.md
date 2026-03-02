@@ -7,19 +7,19 @@ author: "Annet C. Rich"
 original_source_file: "self"
 ---
 
-<h1 id="christ-or-buddha-h1">CHRIST OR BUDDHA?</h1>
+<h1 id="christ-or-buddha-h1">Christ or Buddha?</h1>
 
 by Annet C. Rich
 
 With Foreword By Max Heindel
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 The following treatise was written by the author at my request for the purpose mentioned in the first two paragraphs, and being well fitted by years of study of both Eastern and Western religious systems to undertake such a commission, she has, in my estimation, given a most comprehensive view of the subject. She has taken a most sympathetic attitude towards the Eastern teaching as becomes an enlightened soul. Thus the spirit of this little book is not controversial in any sense, for we do not believe in trying to build up our own religion by casting aspersions upon that of other people. We are just as sure that the religion of the East is perfectly suited to the people who live there as that the Christian religion is the religion for the Western people. Were the Buddha teaching today and a student from the West asked his opinion as to whether he should follow him or the Christ, I feel sure that he would direct the inquirer to The Light of the World. This little book is therefore sent forth in the hope that it may show Western students that their religion is the Christian religion, and that they should leave the Eastern religion to the Eastern people, while embracing with their whole heart and soul the religion of the Christ.
 
 \- Max Heindel
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Contents</h3>
 
 - [Introduction](#introduction)
 - [A Historical Retrospect](#a-historical-retrospect)
@@ -37,9 +37,9 @@ The following treatise was written by the author at my request for the purpose m
 - [The Christ of the West](#the-christ-of-the-west)
 - [Conclusion](#conclusion)
 
-<h2 id="christ-or-buddha-h2">CHRIST OR BUDDHA?</h2>
+<h2 id="christ-or-buddha-h2">Christ or Buddha?</h2>
 
-### <h3 id="introduction">INTRODUCTION</h3>
+### <h3 id="introduction">Introduction</h3>
 
 When the eastern Occult Teaching was presented to the Western World about forty years ago, its explanations of the universe were accepted as reasonable by many students. The Rosicrucian Cosmo-Conception given in 1909, was similar in certain respects concerning the laws governing the universe. The question then naturally arises as to its scope and purpose, why it was given, and whether its teachings and methods of development are better suited to an advanced, modern, civilization.
 
@@ -61,7 +61,7 @@ The eighth chapter of Hebrews tells of a time to come when it will not be necess
 
 We may add that after many years' study of the ancient religions we speak without prejudice and with gratitude for the light received through them. Thus we feel free to voice our conviction that the Christian religion is more lofty than any of its predecessors; that the Christian Mystery Teachings, now promulgated by the Order of the Rosicrucians through the Rosicrucian Fellowship, are both scientific and specially adapted to our advanced civilization; and that to repudiate the Christian religion for any of the older systems is analogous to preferring the older textbooks of science to the new editions which embrace discovery to date.
 
-### <h3 id="a-historical-retrospect">A HISTORICAL RETROSPECT</h3>
+### <h3 id="a-historical-retrospect">A Historical Retrospect</h3>
 
 We no longer need to be reminded that we are living in times pregnant with innovations. Into every department of our civilization has swept the intrepid, invading spirit of inquiry, of investigations, of analysis. Neither can we fail to observe that we are living in an age when the intellect is reaching its most practical and intense expression; that it is arrogating to itself with a royal, self-sufficing confidence the right to challenge any code of ethics, any theory of life or religion, any landmarks of civilization, or any hypothesis of science, and to demand proof of its right to exist. Nothing in the universe is too colossal for its investigation or too infinitesimal for its analysis. Society has ceased to shrink from the revolutionary attacks of scientific discoveries which for many years have been beating back ignorance, prejudice, and dogmatism with resistless force. These have had their day, and are now powerless to retard progress; mankind is advancing whether it will or not.
 
@@ -91,7 +91,7 @@ In the new Christian religion the old ideals of slave and master, Jew and Gentil
 
 The material and intellectual achievements of modern civilization have naturally evolved the critical and analytical spirit that always accompanies individual growth. This was accentuated by the birth of modern science. Today the intellect sits enthroned upon the knowledge it has acquired, and refuses to accept anything as truth that cannot be seen, measured, or analyzed. But though physical science may scoff at the Christian religion of love and self- sacrifice as being unscientific and contrary to the laws of self-preservation and the survival of the fittest, the teachings of the lowly Nazarene have silently and almost imperceptibly inoculated the Western World with a spirit of altruism, impelling mankind to bear one another's burdens and make the cause of individual welfare the cause of the whole.
 
-### <h3 id="christian-rosenkreuz">CHRISTIAN ROSENKREUZ</h3>
+### <h3 id="christian-rosenkreuz">Christian Rosenkreuz</h3>
 
 Every student knows that this modern civilization has not been achieved by stages of smooth and uniform growth. Following the spiritual impulse of early Christianity came the gruesome Dark Ages with their cloak of superstition and intolerance. The Christian religion was used as a ladder for greed and ambition, and the inner teachings of Christ were submerged under a theological dogmatism that threatened to arrest human progress for the sake of ecclesiastical supremacy. The shackles of an autocratic priesthood were at length broken by modern science, and REASON leaped to the dangerous, tyrannical supremacy it still maintains.
 
@@ -103,7 +103,7 @@ During the sway of the ancient civilization humanity was more under the direct g
 
 The Hindu body (and I speak of the Hindu because most of the Eastern religious teachings that reaches the Western World comes from the Hindu) is especially adapted to metaphysical thought, the ethers of his vital body are as yet loosely interwoven into his physical, and therefore negatively., receptive to spiritual impacts, it lacks the sturdier qualities that render it capable of coping with and mastering the external world. All worlds of nature must be conquered by man that he may carry back the full fruitage of experience to God who sent him forth. The lessons of this physical world are as essential as the spiritual. The Western brain and body are characterized by adaptability and fertility of resource, both necessary to material evolution. Because the ethers are closely interwoven in our physical bodies, the Eastern methods of development tend to derange the Westerner's faculties instead of spiritualizing them. This Western direction towards outward things has produced many significant results. Within its scope has evolved the science of psychology, which furnishes not only a field for scientific research and development, but has also given such an impetus to the practical application of Altruism that no modern civilization ignores the physical or hygienic welfare of its people. To the knowledge of this and other branches of science the Western Wisdom Teaching of the Rosicrucians brings certain new and far-reaching explanations that furnish a reasonable solution to many of the problems of evolution.
 
-### <h3 id="involution-evolution-and-epigenesis">INVOLUTION, EVOLUTION, AND EPIGENESIS</h3>
+### <h3 id="involution-evolution-and-epigenesis">Involution, Evolution, and Epigenesis</h3>
 
 Besides presenting the theory of Involution of LIFE and the synchronous Evolution of FORM, the Western teaching includes a third factor, the Law of EPIGENESIS. Man is himself a factor in the building of his bodies. During antenatal life he works unconsciously, building in the "quintessence of former bodies"; later he begins to work consciously, and the more advanced he is, the better he can build. In each embodiment he does some ORIGINAL WORK, so that "there is an influx of new and original causes all the time," and this process of taking the initiative, of creating new possibilities of growth, is called "Epigenesis." This enables man to become a GENIUS and a co-worker with the Creative Hierarchies of the world. If evolution consisted merely in the unfoldment of germinal or latent possibilities, man could not thus become a creator. The Eastern teaching says nothing of this far-reaching principle.
 
@@ -137,15 +137,15 @@ A World of Thought.
 
 As a form built of chemical matter is required for life in the physical world, so also is it necessary to have a vehicle made of the substance of the other realms of nature in order to express their qualities. Further, life in evolution is ever seeking expansion of consciousness. To this end forms become more complex as we ascend the scale from mineral to man, and invisible vehicles are also added to the physical form. Man alone has vehicles correlating him to all four realms, which results in four states of consciousness analogous to those possessed by the four kingdoms.
 
-#### <h4 id="trance">TRANCE</h4>
+#### <h4 id="trance">Trance</h4>
 
 At spiritual seances invisible entities accomplish the feat of materialization by drawing out of a medium's body, forming it as they wish, and filling this warp to any desired density with a woof of physical particles floating in the atmosphere. The body of the medium is thus separated from the higher vehicles which link it with the spirit, hence the medium is in a state of deep unconsciousness which we call "trance." As the mineral has only a physical body it may be said to have a trance consciousness.
 
-#### <h4 id="dreamless-sleep">DREAMLESS SLEEP</h4>
+#### <h4 id="dreamless-sleep">Dreamless Sleep</h4>
 
 When we look at a person wrapped in dreamless slumber, the body seems inert; but when we focus our spiritual vision upon the sleeper, we see an inner activity. The processes of digestion, assimilation, secretion, etc., are carried on to even better purpose than in the waking state. This is because the dense body is interpenetrated by a vital body made of ether, but the higher vehicles float a few feet above the bed. When we examine the plants we find that they also have a dense and a vital body, which enable them to digest and assimilate food, to breathe the air, etc., and we may therefore say that the plants have a consciousness analogous to dreamless sleep.
 
-#### <h4 id="dreams">DREAMS</h4>
+#### <h4 id="dreams">Dreams</h4>
 
 Sometimes when we are unduly intent upon the affairs of this world, the higher vehicles do not properly separate when we go to sleep. The dense and vital bodies are then partially interpenetrated by the desire body which generates emotion and incentive to motion. Because the sense centers of our higher vehicles are then askew in relation to our brain, we see a galaxy of wild dream pictures, and toss about on the bed under the sway of emotions caused by these visions. We cannot reason about them, for the mind is outside the dense body, and we therefore accept unquestioningly even the most impossible situations.
 
@@ -153,7 +153,7 @@ A vital body and a desire body interpenetrate the dense body of animals, but are
 
 The supernormal intelligence and reason observable in domesticated animals are induced by association with man on the same principle that electricity of low voltage is induced when an uncharged wire is brought into close proximity with another carrying a current of high tension.
 
-#### <h4 id="the-waking-state">THE WAKING STATE</h4>
+#### <h4 id="the-waking-state">The Waking State</h4>
 
 In the waking state all of man's vehicles are concentric, and he is thus able to will and reason. The mineral cannot chooses whether it will crystallize or not, nor has the plant free will; it is compelled to bloom by conditions outside its control. The lion must prey, and the rabbit must burrow. Each species has certain generic habits, and all the separate plants or animals of a certain family act alike under like conditions because impelled to action by the common group spirit. Therefore if we know the habits of any one animal, we know the characteristics of the whole family. Not so with man, WHO IS GUIDED FROM WITHIN. Each is a species, a law unto himself, and no matter how many we study, we never can tell what any one will do in a certain case by knowing how another has acted. Neither can we write the biography of a rose, or a lion. Only a man, whose life is different from all other, can be thus sketched.
 
@@ -175,13 +175,13 @@ c. Organs not yet completely developed.
 
 The heart belongs to this class. It is an involuntary muscle, but it is invested with the cross stripes peculiar to voluntary muscles, and these cross stripes will become more and more marked as the ego gains control over this organ. All muscles are the expression of the desire body, and as man evolves more spiritual desires and grows in spiritual power, the heart will become a voluntary muscle, and the circulation of the blood will pass under voluntary control. Then he will have the power to withhold the blood from those areas of the brain devoted to selfish purposes, and to direct it to other centers devoted to altruistic ideals.
 
-### <h3 id="the-mystery-of-blood">THE MYSTERY OF BLOOD</h3>
+### <h3 id="the-mystery-of-blood">The Mystery of Blood</h3>
 
 In the Christian scriptures the following doctrines are given great prominence:
 
-1. Contamination of the blood by generation.
+1\. Contamination of the blood by generation.
 
-2. Cleansing of the blood by RE-generation.
+2\. Cleansing of the blood by RE-generation.
 
 The doctrine of blood is written large upon every page of the Bible from Genesis to the Apocalypse. It is undeniable that blood is the basis of all forms having sentient life; but so far as the writer has been able to learn, Eastern occultism has not one word upon the important subject. The Western Wisdom Teaching, on the other hand, throws a light upon the "Mystery of Blood" which is illuminative of many of the most intimate problems of life. It presents various far-reaching ideas concerning the blood. It calls the blood the "vantage ground of the spirit," the direct and individual vehicle through which man by means of its heat controls and directs his physical body. When man had entered the human kingdom and was developing his individuality, control over his actions was to a certain extent exercised by the RACE SPIRIT, who, in a manner somewhat analogous to the control of the group spirit over the animal kingdom, maintained dominion over him by preserving the purity of the tribal or family blood; the closer the intermingling of blood by marriage in the clan, caste, or tribe, the stronger the power of the race spirit. Since the blood is the vehicle of the ego, the carrier of its feelings and emotions and the recorder of its memory, the intermingling of the family blood had the effect of reproducing the mental pictures of the parents in their descendants, who saw themselves in this memory of nature, through a long line of ancestors. Events in the lives of their forebears thus seemed to have happened to themselves. It was through this common consciousness or memory that a man was said to live many generations. When we read that Adam lived 900 years and the patriarchs lived for centuries, it means, not that they themselves lived that long, but that their descendants felt themselves to be Adam, Methuselah, etc., because the ancestral blood, transmitted directly through intermarriage, was the storehouse of all experience, and carried the memory pictures of the life of these patriarchs. Thus certain faculties and traits were built in and the type strengthened until humanity could stand on its own feet without the aid of family or race spirit. During man's earlier evolution of self-consciousness he lived under this reign of law, which submerged the individual in the nation, tribe, or family that the type might be formed.
 
@@ -195,11 +195,11 @@ Man is building in all the worlds, and while at times he appears to build only f
 
 As we study more closely this wonderful teaching, we can understand in a measure the intricate problem of racial blood that has played such an important part in the world's history and in the perpetuation of family, tribe, and national ideas. Science is still searching for its significance; it recognizes the fact that the transfusion of blood from an animal of a higher species to one of a lower kills the latter (haemolysis). But this Western Wisdom Teaching further explains that as humanity evolves towards the divine stature, mixing of human blood will become impossible. In a far-off future age propagation of the race will no longer be necessary, for man will then have learned to create from within BY THE WORD. Even today man is building a finer and better body than he had in the past, more flexible, more adaptable; he is learning to know its functions, and is beginning to liberate himself from the crystallizing influence of racial blood and to become a citizen of the world.
 
-### <h3 id="the-mystery-of-sex">THE MYSTERY OF SEX</h3>
+### <h3 id="the-mystery-of-sex">The Mystery of Sex</h3>
 
 The Western Wisdom Teaching also gives a solution of the problem of sex and its purpose. "The ego itself, contrary to the generally accepted idea, is bi- sexual." This duality does not manifest as sex in the inner worlds, but as will and imagination, akin to the solar and lunar forces respectively. During the epoch when the earth was united with the sun "the solar forces supplied man with all needed sustenance, and he unconsciously radiated the surplus for the purposes of propagation." But when the ego began to dwell within the body and control it, it was necessary to use part of this creative force to build a brain and larynx that man might be furnished with instruments for self- expression. As the physical body became upright, the dual creative force was divided, one part being directed upward to build the brain and larynx, the other downward to build the procreative organs. As a result of this change only one part of the force essential for the creation of another body was available in each individual, and the co-operation of another became necessary for propagation. Thus man obtained brain consciousness at the cost of half of his creative power, but he gained an instrument with which he could create in the World of Thought, in the realms of music, of poetry, and of art, and enter into a heritage of the world's beauty; and if by this act his eyes were opened to the knowledge of death, of pain, and of sorrow, they were also opened to the knowledge of his own divinity, and to a knowledge of the law of sacrifice, of love, and of service. Eastern occultism teaches the fact of the separation into sexes, but the Western Wisdom Teaching SHOWS THE PURPOSE OF THE SEPARATION.
 
-### <h3 id="the-mystery-of-infant-mortality">THE MYSTERY OF INFANT MORTALITY</h3>
+### <h3 id="the-mystery-of-infant-mortality">The Mystery of Infant Mortality</h3>
 
 The Western Wisdom Teaching also logically explains how infant mortality, which has brought so much sorrow and suffering into the world, is really the merciful action of a beneficent law to prevent a still greater calamity. An understanding of the workings of this law will show us how we may prevent this anomaly and save ourselves the suffering incident to the premature departure of those beloved rays of sunshine which, alas, too frequently leave our earth cold and desolate.
 
@@ -215,7 +215,7 @@ Eastern occultism tells us that we should not grieve for those who pass on, for 
 
 The Western Wisdom Teaching gives invaluable instructions in the care of the dying, and shows how we may aid them, in the hour of passing to realize the greatest possible soul growth from the life just ending. Thus this teaching is of practical benefit in every contingency of life and death.
 
-### <h3 id="the-mystery-of-death">THE MYSTERY OF DEATH</h3>
+### <h3 id="the-mystery-of-death">The Mystery of Death</h3>
 
 Although the idea has been accepted by most thoughtful students that death is but a shifting of activities from this physical world to worlds less material, the Western Wisdom Teaching explains the working of natural law concerning length of earth life and the collapse of the physical body. Man builds the archetype of his dense body in the heaven world. This archetype is of course built according to his capacities. Sometimes a life is prolonged beyond the normal length when the Compassionate Ones see that it can be of special service, but generally speaking, the archetype persists only till the vibration given it at birth has been expended.
 
@@ -223,7 +223,7 @@ When the life is ended, the ascent of the Spirit is hindered by the desire matte
 
 Each generation as it ascends to the heaven world sings a song of its accomplishments while upon earth. Thus each sings a different measure in the harmony of our sphere, and as spores upon a glass plate are differently arranged when different tones set them into vibration, so these variations in the world anthem are the causes which change climate, flora, and fauna on earth. If we were diligent during our past earth life, when we reached the heaven world we sang of a land of plenty, and lo! we find it awaiting us on our return. If we neglected the land and spent our time in metaphysical speculation, our song in the heaven world was very different, and when we return to earth life, we find ourselves in a land of famine, flood, and desolation. All things in heaven and on earth are governed by the immutable law of consequence, which maintains the equilibrium of the world.
 
-### <h3 id="the-christ-of-the-west-is-not-the-christ-of-the-east">THE CHRIST OF THE WEST IS NOT THE CHRIST OF THE EAST</h3>
+### <h3 id="the-christ-of-the-west-is-not-the-christ-of-the-east">The Christ of the West is not the Christ of the East</h3>
 
 While the foregoing points are of importance in showing the superior concepts of the Western Wisdom Teaching relative to those of Eastern occultism, they become insignificant in comparison with the differences between the two teachings concerning the Christ, His identity, His mission, and the nature of His advent. On this important point, says Edith Ward in THE OCCULT REVIEW, there is such a radical and irreconcilable difference that BOTH CANNOT BE TRUE. She arrives at this conclusion by comparing THE ROSICRUCIAN COSMO-CONCEPTION by Max Heindel with the writings of a leader of the principal society promulgating Hinduism among the people of the West.
 
@@ -269,7 +269,7 @@ should have been entrusted with the great mission of proclaiming the return of C
 
 Let the reader answer these questions as he thinks the evidence merits. But we believe, nay, we know, that the Christ of all devout and believing Christians is entirely different from the one heralded by the NEW leaders of the Eastern school of occultism.
 
-### <h3 id="the-christ-of-the-west">THE CHRIST OF THE WEST</h3>
+### <h3 id="the-christ-of-the-west">The Christ of the West</h3>
 
 The Western Wisdom Teaching gives a comprehensive account of cosmogenesis. Three great evolutionary periods have preceded our present state. The Father is the highest Initiate of the first or Saturn Period. The Son (Christ) is the highest Initiate of the second or Sun Period, and Jehovah is the highest Initiate of the third or Moon Period.
 
@@ -289,7 +289,7 @@ Scarcely has the world yet begun to live the inner teachings of Christianity; on
 
 In the Western Mystery Teaching is found revealed the mission of Christ, who came to show and prepare the way to His Kingdom, that not the stragglers alone might be lifted up, but that all who are ready to enter into the narrow way and through the straight gate may find the Light and the Way. No longer is He "the One to come," but the One to COME AGAIN. NEITHER WILL HE AGAIN APPEAR IN THE FLESH, which, as Paul says, cannot inherit the Kingdom, but in the SOUL BODY. When humanity has evolved etheric consciousness, they can meet Him "in the air." But "of that day and hour, knoweth no man, no, not even the angels which are in heaven, neither the Son, but the Father." Then the law that was given by Moses will be superseded by the "grace and truth that came by Jesus Christ," and the stream of humanity that has been surging onward in its appointed course will bear witness as rightful sons of God that it is possible to obey the divine command, "Be ye perfect even as your Father in Heaven is perfect."
 
-### <h3 id="conclusion">CONCLUSION</h3>
+### <h3 id="conclusion">Conclusion</h3>
 
 In the foregoing pages we have scarcely touched upon the wealth of wisdom found in the Christian Mystery Teaching disseminated through The Rosicrucian Fellowship, but sufficient has been said to convince anyone acquainted with the teaching of Eastern occultism and who is open to conviction, that while both contain the same great basic truths common to all religions, both ancient and modern, they are very far from being THE SAME and that THE WESTERN WISDOM TEACHING IS AS FAR IN ADVANCE OF EASTERN OCCULTISM AS BUDDHA, THE LIGHT OF ASIA, IS OUTSHONE BY OUR GLORIOUS CHRIST, THE LIGHT OF THE WORLD, for whose coming we watch and pray.
 
