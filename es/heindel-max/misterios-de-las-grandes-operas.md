@@ -922,7 +922,7 @@ Pero aunque podamos, desprendiéndonos del cuerpo físico, entrar en el recinto 
 
 Cuando el buscador de la verdad ha llegado al punto que acabamos de describir, ya no permitirá ser contrariado en su afán, ora estos poderes sean diabólicos como Fafnar, o bien dioses como Wotan. El apartará todos los obstáculos con mano dura porque no tiene más que un solo deseo en este mundo, el ardiente e insuperable anhelo de conocer la verdad. Por esto, después de haber roto la lanza de Wotan, sigue adelante guiado por el pájaro de la intuición, basta llegar al círculo de llamas que rodea a Brunhilde, el espíritu dormido de la verdad. Tampoco no se acobarda al ver las llamas de Loge, que son ilusión y alucinación. Con paso firme las atraviesa sumergiéndose atrevidamente en ellas y por fin puede mirar lo que con tanto ardor había perseguido durante muchas vidas. Se inclina, coge a Brunbilde en sus fuertes, aunque tiernos brazos, y con un beso ferviente despierta al espíritu de la verdad de su largo sueño. 
 
-### <h3 id="chapter-12">CAPÍTULO XII: EL COMBATE DE LA VERDAD Y DEL ERROR<h3>
+### <h3 id="chapter-12">CAPÍTULO XII: EL COMBATE DE LA VERDAD Y DEL ERROR</h3>
 
 No existen palabras adecuadas para dar una idea de lo que el alma siente cuando se halla frente a frente con la verdad, muy por encima de este mundo (donde el velo de la carne oculta las realidades vivas bajo una máscara) aún más allá del Mundo de del Deseo y de la ilusión, donde formas fantásticas e ilusorias nos hacen creer que distinto de lo que son en realidad. Solamente la región del Pensamiento Concreto, donde los arquetipos de todas las cosas están unidos al gran coro celestial que Pitágoras llamo "armonía de las esferas," encontramos a la verdad revelada toda su belleza. 
 

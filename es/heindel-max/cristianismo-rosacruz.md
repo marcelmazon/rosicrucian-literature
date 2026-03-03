@@ -2009,7 +2009,7 @@ El árbol es casi carbón puro. ¿De donde saca el carbono? Del óxido de carbon
 
 Si pudiéramos encontrar una manera de retener ese carbono nos convertiríamos en lo que el hindú llama Alma Diamantina: el cuerpo inmortal perfecto. Estaríamos fabricando lo que los Rosacruces llaman la piedra filosofal que es el elixir de vida, la panacea para todas las desgracias del mundo. Entonces comprenderemos el significado del mar de cristal en la Nueva Jerusalén e interpretaremos el sentido del "mar fundido" que fue la última obra de Hiran Abiff, el Gran Arquitecto del Templo de Salomón, el que construyó sin manos. Porque todo esto expresa la misma verdad que el Santo Grial, la que solo alcanzan los puros de corazón, que han vencido al mundo y se han convertido en auxiliares de la humanidad. 
 
-### <h3 id="lecture-18">INSTRUCCIÓN XVIII: LA ORACIÓN DEL SEÑOR: El Padrenuestro
+### <h3 id="lecture-18">INSTRUCCIÓN XVIII: LA ORACIÓN DEL SEÑOR: El Padrenuestro</h3>
 
 Muchas personas que han meditado seriamente sobre los problemas de la vida superior han renegado desgraciadamente de los conocimientos primitivos, han dejado de creer en las enseñanzas de la Iglesia respecto a la remisión de los pecados, al poder salvador de la fe, a la eficacia de la oración y de los dogmas. Si bien desde el punto de vista de tales personas, que son honestas y sinceramente buscan la verdad, esas ideas pueden parecer palpables falacias, trataremos no obstante de hablar sobre ellas desde otros puntos de vista para que entonces puedan juzgar. Contempladas en esta forma aparecerán iluminadas por una luz que probablemente no se percibió antes, así ofrecerán un significado nuevo, más grande y más satisfactorio para el corazón y perfectamente aceptable para el intelecto. 
 

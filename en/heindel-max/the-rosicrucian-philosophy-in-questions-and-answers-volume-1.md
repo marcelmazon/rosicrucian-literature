@@ -2126,7 +2126,7 @@ Also, if we regard the manner of pitching the camp of the Israelites--grouping t
 
 The spiritual reason of the analogy between Jacob, his wives, their children and the cosmos, may be found in the hermetic axiom, as above, so below. Jacob, with his four wives, symbolize the sun and the four phases of the moon, which are the givers of life to all that live upon earth; the twelve sons and one daughter symbolize the Creative Hierarchies, which have been active in the evolution of our solar system and have brought not only humanity but also all the various other kingdoms to their present stage of evolutionary attainment, and are working with them now in order to still further develop them into spiritual beings. It was they who made man in their likeness. Even to this day humanity is stamped with the characteristics of the twelve celestial signs. Therefore the original Semites, who were to be the progenitors of a new race, were divided into twelve classes by their leader, each class representing one of the constellations. 
 
-### <h3 id="question-160">Question No. 160
+### <h3 id="question-160">Question No. 160</h3>
 
 Can you give an idea of the difference between heliocentric and geocentric astrology? Is the geocentric concerned only with the affairs of this earth the material life, and the heliocentric with the soul or the spiritual side? The Sun, being the spiritual planet and the ruler of our solar system, would lead to this conclusion, inasmuch as we use the Sun's zodiac in heliocentric astrology and the Earth's zodiac in geocentric. Can predictions in this life ever be made by the Sun's zodiac, or is the latter simply concerned with the spiritual side of a person's nature? 
 

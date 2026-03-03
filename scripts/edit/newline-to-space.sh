@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script converts single newlines to a space, but
+# leaves doubly repeated newlines intact
+
 file=""
 
 # Use perl for regex lookbehind/lookahead (sed/awk struggle with this)

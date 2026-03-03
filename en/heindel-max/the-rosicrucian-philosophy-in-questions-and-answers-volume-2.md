@@ -1218,7 +1218,7 @@ If you will read Freemasonry And Catholicism, you will find that Lazarus had pre
 
 In a similar manner, and upon a smaller scale, the Apostles were given power to raise the dead. To the babes they gave only milk, but to those who were strong they gave the meat of the doctrine, and instructed them in the mysteries, until they had reached a certain point where, by living the life, they died and were raised up to a more abundant life in a larger sphere of usefulness. However, as already said, these deaths did not involve what we usually call the death of the body. 
 
-### <h3 id="question-74">Question No. 74: NATURAL RICHES AND SPIRITUALITY
+### <h3 id="question-74">Question No. 74: NATURAL RICHES AND SPIRITUALITY</h3>
  
 The Bible says: "Blessed are the poor for theirs is the kingdom of heaven." It also states that it is more difficult for a rich man to enter heaven than for a camel to go through the eye of a needle. Many other passages seem to show that poverty is a blessing and that riches are a curse. Why then to the churches solicit money and acquire riches, and why is the Rosicrucian Fellowship starting to do the same? 
 
@@ -2543,7 +2543,7 @@ The following clipping from a newspaper sent by a correspondent is one of a numb
 
 "In the present crisis, amid the solemn surroundings of the Russian Parliament, Rasputin has been accused of seeking to sell his country to the enemy by trying to bring about a separate peace on humiliating terms between Russia and the Central Powers. The crime that brought an end to his mystic overlordship of the imperial mind and conscious has been greeted in the Duma and by the Russian press as an act of national deliverance." 
 
-### <h3 id="question-158">Question No. 158: HUMANITY'S AVERSION TO SNAKES
+### <h3 id="question-158">Question No. 158: HUMANITY'S AVERSION TO SNAKES</h3>
  
 Why is humanity averse to a snake? Is the Group Spirit of the snake man's enemy? 
 
