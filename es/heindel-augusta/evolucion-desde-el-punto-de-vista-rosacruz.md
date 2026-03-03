@@ -18,7 +18,7 @@ por Augusta Foss Heindel
 - [Chapter III: The Lucifer Spirits and the Children of the Mist](#chapter-3)
 - [Chapter IV: Biblical Correspondences and the Darwin Theory](#chapter-4)
 
-### <h3 id="chapter-1">Capítulo I: Períodos prehistóricos</h3>
+### <h3 id="chapter-1">Capítulo I: Períodos prehistóricos</h3>
 
 Cuando miramos a la cúpula estrellada de los cielos, podemos ver un cuadro sublime, de maravillosa inspiración, y cuanto más la miramos, mayor es el número de las estrellas que se presentan a nuestra vista. Entre ellas hay dos muy brillantes llamadas por los astrónomos las lámparas de la noche. Siempre están girando en torno del Polo Norte o de la Estrella Polar, la guía del marinero. Estas dos estrellas son las más destacadas de las que forman el grupo de la Osa Mayor, y siempre están apuntando a la dirección de la Estrella Polar, la cual es casi estacionaria y por tal razón tan confiable como un buen amigo para señalar la dirección que el marinero debe seguir en el mar. Nosotros admiramos el esplendor de estas brillantes estrellas y nuestros ojos inmediatamente sorprenden la figura de la Osa Mayor, de la cual, como hemos dicho, forman parte. 
 
@@ -50,7 +50,7 @@ Esta pérdida de la vista espiritual hizo que el espíritu girase en torno hacia
 
 El reino vegetal, como podemos observar en nuestro cuadro, crecía hasta una altura enorme, pues la atmósfera cargada de vapor favorecía y conducía a tan rápido crecimiento y desarrollo. 
 
-### <h3 id="chapter-2">Capítulo II: El desarrollo de los cuerpos</h3>
+### <h3 id="chapter-2">Capítulo II: El desarrollo de los cuerpos</h3>
 
 Nosotros emergimos del largo sueño de una Noche cósmica después del Período Lunar. Según hemos relatado en el capítulo precedente, una Noche cósmica debe seguir después de cada Período. Ahora también observaremos ligeramente las vistas del cuarto o Período Terrestre. Al igual que el espíritu humano, el cual debe hallar su crecimiento y expresión a través de vidas sucesivas en el cuerpo físico, así pasa también con la Tierra, que es el cuerpo de un Gran Espíritu, que busca su desarrollo por medio de Períodos sucesivos. 
 
@@ -92,7 +92,7 @@ Volviendo otra vez a las escenas de la Tierra durante la Época de Lemuria, enco
 
 El hombre había desenvuelto el sentido del oído, y el de la vista empezaba precisamente a manifestarse por dos puntos sensitivos, a los cuales el Sol, que brillaba tenuemente a través de las nieblas, estaba sensibilizando, y que por último se convirtieron en ojos. 
 
-### <h3 id="chapter-3">Capítulo III: Los espíritus de Lucifer y los hijos de la niebla</h3>
+### <h3 id="chapter-3">Capítulo III: Los espíritus de Lucifer y los hijos de la niebla</h3>
 
 Ahora llegamos a la parte del rollo de esta gran película de Dios que retrata la Tierra en la última parte de la Época Lemuriana. El hombre había ido tomando gradualmente una posición recta y erguida. La columna espinal se empezaba a endurecer y la sangre se iba cargando de hierro que se nos suministraba por la influencia de Marte. El ego, que hasta tal momento había trabajado sobre sus vehículos desde afuera, iba gradualmente penetrando dentro de los mismos y el hombre empezaba a sentir las cosas fuera de él. En este período, el hombre estaba totalmente inconsciente de su cuerpo físico. Sin embargo, estaba muy despierto y consciente en el Mundo de Deseos y podía en tal época comulgar directamente con los dioses. 
 
@@ -118,7 +118,7 @@ Una condición semejante puede notarse actualmente: en las fases inferiores de l
 
 Ahora pasemos a la parte del panorama de nuestra película que es, acaso, la época más familiar para nosotros, o sea la quinta o Época Aria. El hombre que hemos presentado hasta este período actual, se fue manifestando a través de un cuerpo cuádruple: el físico, el vital, el de deseos y el de la mente, parcialmente conformado; pero a medida que el hombre evoluciona y la necesidad se impone, se presentan nuevos cambios. Ahora el hombre está formando la matriz de un nuevo cuerpo: el cuerpo del alma, ese traje brillante en el cual el hombre debe encontrar a Cristo en el aire; el cuerpo en el cual volverá otra vez a hallar a sus maestros espirituales y a comunicarse directamente con ellos. Este cuerpo está ahora tomando forma en muchos que están esforzándose en purificar sus vidas y que están empezando a sentir la necesidad de vivir no para sí sino para todos. A medida que el cuerpo de deseos se domina y se purifica el cuerpo físico, y según se van desarrollando los dos éteres superiores, este nuevo cuerpo del alma se modela y se conforma. 
 
-### <h3 id="chapter-4">Capítulo IV: Las correspondencias bíblicas y la teoría de Darwin</h3>
+### <h3 id="chapter-4">Capítulo IV: Las correspondencias bíblicas y la teoría de Darwin</h3>
 
 Hemos tocado ligeramente hasta aquí los puntos principales del sendero de evolución de la Tierra y del hombre en el presente período. Ahora veamos cómo se coordina con la doctrina y relato que se nos ha dado en la Biblia. 
 

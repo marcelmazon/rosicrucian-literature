@@ -19,7 +19,7 @@ P.O. Box 713
 Mt. Ecclesia  
 Oceanside, California, 92054, U.S.A.  
 
-### <h3 id="table-of-contents">Table of Contents</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [FAUST](#faust)
     - [Chapitre I: Dissonance Divine](#chapter-1)

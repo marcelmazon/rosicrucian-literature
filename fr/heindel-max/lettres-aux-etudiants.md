@@ -19,7 +19,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Préface](#foreword)
 - [1. L'Idéal de l'Amitié](#letter-1)

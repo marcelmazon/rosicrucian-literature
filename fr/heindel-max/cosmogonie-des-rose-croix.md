@@ -30,7 +30,7 @@ International Headquarters
 Mt. Ecclesia  
 Oceanside, California, 91054, USA  
 
-### <h3 id="list-of-contents">List of Contents</h3>
+### <h3 id="list-of-contents">Table des matières</h3>
 
 - [Crédo ou Christ](#creed-or-christ)
 - [Un mot pour le sage](#a-word-to-the-wise)

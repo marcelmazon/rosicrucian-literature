@@ -23,7 +23,7 @@ Cette compilation de documents traitant de la santé et de la guérison de l'org
 
 Le Christ exhortait ainsi Ses disciples: «Allez et prêchez l'Evangile, et guérissez les malades.» Le maintien de la santé, une fois qu'elle est acquise ou retrouvée, exige une connaissance approfondie de «l'Evangile» ou Lois de Dieu et ce livre, dédié à l'Humanité qui souffre, est bien dans l'esprit de ces deux commandements du Maître. Puissent ces pages, inspirées par la compassion et imprégnées de l'amour mystique de leur auteur, apporter un secours efficace et un allègement aux innombrables détresses physiques et morales ainsi que hâter le jour où sera rendue possible la génération de véhicules humains plus parfaits.
 
-<h2 id="contents">CONTENTS</h2>
+### <h3 id="contents">Table des matières</h3>
 
 - [Foreword](#foreword)
 

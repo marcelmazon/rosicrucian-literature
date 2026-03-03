@@ -16,7 +16,7 @@ MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, U.S.A., 92054
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Table des matières</h3>
 
 - [Avant-Propos](#foreword)
 - [Introduction](#introduction)

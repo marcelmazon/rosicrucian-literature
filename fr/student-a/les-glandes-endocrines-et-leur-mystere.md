@@ -26,7 +26,7 @@ La matière de ce livret faisait l’objet de lettres mensuelles adressées aux 
 
 Mt. Ecclesia, June 1940
 
-### <h3 id="contents">Contents</h3>
+### <h3 id="contents">Table des matières</h3>
 
 - [Dedication](#dedication)
 - [Foreword](#foreword)
@@ -57,7 +57,7 @@ Mt. Ecclesia, June 1940
     - [L'hypophyse - le monde de l'esprit de vie](#pituitary--world-of-life-spirit--uranus)
     - [La glande pinéale - le monde de l'esprit divin](#pineal--world-of-divine-spirit--neptune)
 
-### <h3 id="Illustrations">ILLUSTRATIONS</h3>
+### <h3 id="Illustrations">Table des illustrations</h3>
 
 - [Adrenal Type](#adrenal-type)
 - [Thymus Type](#thymus-type)

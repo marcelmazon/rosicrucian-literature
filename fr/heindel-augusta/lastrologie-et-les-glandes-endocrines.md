@@ -13,7 +13,7 @@ par Augusta Foss Heindel
 
 With an Introduction by Manly P. Hall
 
-### <h3 id="contents">Contents</h3>
+### <h3 id="contents">Table des matières</h3>
 
 - [Introduction by Manly P. Hall](#introduction)
 - [Chapitre I - L'époque polaire](#chapter-1)

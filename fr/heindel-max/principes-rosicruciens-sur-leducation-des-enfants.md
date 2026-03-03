@@ -18,7 +18,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA   
 
-<h2 id="contents">CONTENTS</h2>
+### <h3 id="contents">Table des matières</h3>
 
 - [Chapitre I: Les Trois Étapes de la Croissance](#chapter-1)
 - [Chapitre II: Hérédité et Problèmes de l'Enfance](#chapter-2)

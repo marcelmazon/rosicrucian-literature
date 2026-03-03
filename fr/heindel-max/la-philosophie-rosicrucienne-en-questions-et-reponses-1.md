@@ -16,7 +16,7 @@ International Headquarters
 P.O. Box 713  
 Oceanside, California, U.S.A., 92054 
 
-### <h3 id="table-of-contents">Table of Contents</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Word of Explanation](#a-word-of-explanation)
 

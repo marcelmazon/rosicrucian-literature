@@ -26,7 +26,7 @@ C'est pourquoi les Enseignements de la Sagesse Occidentale mettent l'accent sur 
 
 () - Note de traduction: le mot anglais Life Spirit , propre à notre enseignement Rosicrucien a toujours été traduit par Esprit Vital; nous reprenons ici la traduction exacte de ce terme: Esprit de Vie. Il en est de même pour Life Ether, traduit par Ether Vital et dont la traduction correcte est Ether Vie (cf. éther lumière).
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Table des matières</h3>
 
 - [Avant-Propos](#foreword)
 - [Partie I: Le Monde du Désir Planétaire](#part-1)

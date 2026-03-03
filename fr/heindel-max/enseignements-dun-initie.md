@@ -27,7 +27,7 @@ Max Heindel, qui était le porte-parole du véritable Ordre de la Rose-Croix, vi
 
 \- Augusta Foss Heindel
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Préface](#foreword) 
 - [Chapitre 1 - Les Jours de Noé et du Christ - Novembre 1916](#chapter-1)

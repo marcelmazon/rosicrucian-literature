@@ -23,7 +23,7 @@ La matière de ce livre a été rassemblée à partir des écrits de Max Heindel
 
 Mount Ecclesia, Novembre 1949.
 
-### <h3 id="contents">Contents</h3>
+### <h3 id="contents">Table des matières</h3>
 
 - [Dedication](#dedication)
 - [Foreword](#foreword)

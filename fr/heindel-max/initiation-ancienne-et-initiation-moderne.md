@@ -31,7 +31,7 @@ En souhaitant que sa Vérité puisse éclairer, sa Sagesse guider et son Amour e
 
 "Le Royaume des Cieux est semblable à un marchand qui cherche de belles perles. Et qui, en ayant trouvé une de grand prix, va vendre tout ce qu'il a et l'achète." (Matthieu 13:45-46).
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Préface](#foreword)
 

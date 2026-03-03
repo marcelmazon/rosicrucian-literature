@@ -31,7 +31,7 @@ Augusta Foss Heindel
 
 28 octobre 1920
 
-### <h3 id="table-of-contents">Table of Contents</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Chapitre 1: Signification Cosmique de Noël - Décembre 1910](#chapter-1)
 - [Chapitre 2: Lumière Spirituelle: Le Nouvel Élément et la Nouvelle Substance - Décembre 1911](#chapter-2)

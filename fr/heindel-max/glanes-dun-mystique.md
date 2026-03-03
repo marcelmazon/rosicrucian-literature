@@ -33,7 +33,7 @@ Cet ouvrage-ci, Glanes d'un Mystique , contient vingt-quatre des leçons mensuel
 
 () - NB: partout où il est écrit "croissance spirituelle", il s'agit de la "croissance de l'âme" ("soul growth" dans le texte anglais, soit le "produit spiritualisé du corps triple"); voir Index "Cosmogonie des Rose-Croix".
 
-### <h3 id="table-of-contents">Table of Contents</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Chapitre 1 - L'Initiation, ce qu'elle est, ce qu'elle n'est pas - partie 1 Septembre 1914](#chapter-1)
 - [Chapitre 2 - L'Initiation, ce qu'elle est, ce qu'elle n'est pas - Partie 2 - Octobre 1914](#chapter-2)

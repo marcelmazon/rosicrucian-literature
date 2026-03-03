@@ -18,7 +18,7 @@ International Headquarters
 P.O. Box 713  
 Oceanside, California, 92054, U.S.A.  
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Chapitre 1 - Lucifer, l'Ange Rebelle](#part-1)
 - [Chapitre 2 - La Légende Maçonnique](#part-2)

@@ -33,7 +33,7 @@ The spiritual value of Astrology as a key to the soul is brought out in one lect
 Mt. Ecclesia  
 October, 1939  
 
-### <h3 id="table-of-contents">Table of Contents</h3>
+### <h3 id="table-of-contents">Table des matières</h3>
 
 - [Préface](#foreword)
 - [Première Conférence: L'énigme de la vie et de la mort](#lecture-1)
@@ -57,7 +57,7 @@ October, 1939
 - [Dix-neuvième Conférence: La Force de l'Avenir](#lecture-19)
 - [Vingtième Conférence: Amitié (Fellowship) et Race Future](#lecture-20)
 
-### <h3 id="diagrams">Diagrams</h3>
+### <h3 id="diagrams">Table des illustrations</h3>
 
 - [A Life Cycle](#diagram-a-life-cycle)
 - [The Seven Days of Creation](#diagram-the-seven-days-of-creation)

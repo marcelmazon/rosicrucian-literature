@@ -30,7 +30,7 @@ Cependant, en plus de cet Instructeur de l’Ere, un messager est aussi envoyé,
 
 L'Utopie actuelle [Note: "Utopia", oeuvre célèbre de Sir Thomas More publiée en 1516, qui décrit une île imaginaire dotée d'un système politique et social parfait.] de l'homme n'est pas une simple cité à la surface de la Terre ni sur aucun des pays terrestres, mais l'ensemble de l'univers vivant au travers duquel le mystique perçoit le doux bruissement des ailes de Dieu et le Chant incessant de Sa Parole.
 
-### <h3 id="contents">Contents</h3>
+### <h3 id="contents">Table des matières</h3>
 
 - [PREMIÈRE PARTIE - L'ÉTHER CHIMIQUE](#part-1)
     - [Chapitre I - La nature de la vision étherique](#chapter-1)  
