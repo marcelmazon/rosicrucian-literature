@@ -188,7 +188,7 @@ by Max Heindel
     - [Question No. 154: Sowing Without Reaping](#question-154)
     - [Question No. 155: Mother Shipton's Prophecies](#question-155)
     - [Question No. 156: The Governing Ray](#question-156)
-    - [Question No. 157: Whereabouts of Christian Rosenkreuz](#questino-157)
+    - [Question No. 157: Whereabouts of Christian Rosenkreuz](#question-157)
     - [Question No. 158: Humanity's Aversion to Snakes](#question-158)
     - [Question No. 159: The Soul and the Soul Body](#question-159)
     - [Question No. 160: Relation Between Soul and Mind](#question-160)
