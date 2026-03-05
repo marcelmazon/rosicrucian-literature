@@ -1,4 +1,14 @@
+# ALL
+
+### Inconsistencies in title case vs term case vs sentence case...
+
 # Космогонията на Розенкройцерите
+
+### Раждането на ~~Индивидуалността~~ Индивида
+- what to do about this? need bulgarian's opinion on which one to keep
+
+### Алхимия и ~~душевно растене~~ Растене на душата
+
 
 ### This was between la portada and Creed or Christ:
 
