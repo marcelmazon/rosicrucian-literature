@@ -17,17 +17,17 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">VORWORT</h3>
+### <h3 id="foreword">Vorwort</h3>
 
 Diese Zusammenstellung von Material über die Gesundheit und Heilung des menschlichen Organismus aus okkulter Sicht bietet allen, die an der Erlangung und Erhaltung der Gesundheit interessiert sind, eine Fundgrube wertvoller Informationen. Max Heindel, ein ausgebildeter Hellseher und Erforscher der überphysikalischen Welten, hat viel Zeit und Mühe darauf verwendet, die wahren Ursachen körperlicher und geistiger Störungen zu ermitteln, wie sie sich im Reich der Ursachen, den höheren oder überphysikalischen Ebenen, offenbaren, und dieser Band enthält die Früchte seiner Arbeit. Dieser Band enthält die Früchte seiner Arbeit. Er verkörpert einige der unbezahlbarsten Wahrheiten über den Ursprung, die Funktionen und die richtige Pflege der menschlichen Organe, die auf einer gedruckten Seite zu finden sind, und diejenigen, die sich mit der wahren Kunst des Heilens befassen, werden ihn als unverzichtbare Ergänzung ihrer Bibliothek betrachten.
 
 Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranken". Die Erhaltung der Gesundheit, wenn sie einmal erlangt oder wiedererlangt ist, erfordert die Kenntnis des "Evangeliums" oder der Gesetze Gottes, und deshalb ist dieses Buch im Lichte beider Teile des Gebots des großen Lehrers den Geplagten der Menschheit gewidmet. Möge der Inhalt dieser Seiten, die von der Liebe und dem mitfühlenden Verständnis des mystischen Herzens des Autors durchdrungen sind, zahllosen schmerzenden Herzen und leidenden Körpern neuen Trost und Erleichterung bringen und den Tag der Erzeugung vollkommenerer menschlicher Fahrzeuge beschleunigen. 
 
-<h2 id="contents">CONTENTS</h2>
+### <h3 id="contents">CONTENTS</h3>
 
 - [Foreword](#foreword)
 
-- [Teil I - DER MENSCH UND SEINE FAHRZEUGE](#part-1)
+- [Teil I - Der Mensch und seine Fahrzeuge](#part-1)
   - [Kapitel I: Der dichte Körper](#chapter-1)
     - [Einleitung](#chapter-1-introduction)
     - [Evolution](#evolution)
@@ -42,7 +42,7 @@ Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranke
     - [Der Wunschkörper](#the-desire-body)
     - [Der Geist](#the-mind)
     
-- [Teil II - ERKRANKUNG](#part-2)
+- [Teil II - Erkrankung](#part-2)
   - [KAPITEL IV: Allgemeine Krankheitsursachen](#chapter-4)
     - [Einleitung](#chapter-4-introduction)
     - [Ursachen für geistige Behinderungen](#causes-of-mental-disabilities)
@@ -105,7 +105,7 @@ Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranke
     - [Ratschläge für Heiler](#advice-to-healers)
     - [Heilungsdienst Eingeweiht](#healing-service-inaugurated)
 
-- [Teil IV - "ES GIBT KEINEN TOD"](#part-4)
+- [Teil IV - "Es gibt keinen Tod"](#part-4)
   - [Kapitel XXI: Die wahre Natur des Todes](#chapter-21)
   - [Kapitel XXII: Auswirkungen von Selbstmord](#chapter-22)
   - [Kapitel XXIII: Todesursachen im Säuglingsalter](#chapter-23)
@@ -114,7 +114,7 @@ Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranke
 
 PLATES
 
-<h2 id="part-1">TEIL 1. DER MENSCH UND SEINE FAHRZEUGE</h2>
+<h2 id="part-1">Teil 1. Der Mensch und seine Fahrzeuge</h2>
 
 ### <h3 id="chapter-1">Kapitel I: Der dichte Körper</h3>
 
@@ -132,7 +132,7 @@ Die okkulte Wissenschaft lehrt, dass der Mensch ein komplexes Wesen ist, das üb
 
 Das Ego ist der dreifache Geist, der diese Fahrzeuge benutzt, um in der Schule des Lebens Erfahrungen zu sammeln.
 
-#### <h4 id="evolution">EVOLUTION:</h4>
+#### <h4 id="evolution">Evolution:</h4>
 
 Die dichte Karosserie war das erste Fahrzeug, das gebaut wurde, und hat daher eine enorme Entwicklungszeit hinter sich. Er befindet sich in seinem vierten Entwicklungsstadium und hat jetzt einen großen und wunderbaren Grad an Effizienzerreicht. Er wird mit der Zeit die Vollkommenheit erreichen, aber schon jetzt ist er das am besten organisierte Vehikel des Menschen. Es ist ein wunderbar konstruiertes Instrument und sollte als solches von jedem anerkannt werden, der vorgibt, etwas über die Konstitution des Menschen zu wissen.
 
@@ -248,7 +248,7 @@ Das Blut ist jetzt anders zusammengesetzt als in den früheren Zeitaltern der me
 
 Wenn jemand getötet wird, haftet das Venusblut mit seinen Unreinheiten eng am Fleisch, und deshalb ist das arterielle Blut, das fließt, deutlich magerer als es sonst wäre. Das gereinigte Blut Jesu, das durch den großen Christusgeist veräußert wurde, überflutete die Welt, reinigte die ätherische Region weitgehend von Selbstsucht und gab dem Menschen eine bessere Chance, Materialien zu sich zu ziehen, die ihm erlauben, altruistische Ziele und Wünsche zu bilden.
 
-#### <h4 id="Die Abflusslosen Drüsen">DIE ABFLUSSLOSEN DRÜSEN:</h4>
+#### <h4 id="Die Abflusslosen Drüsen">Die abflusslosen Drüsen:</h4>
 
 Der esoterische Astrologe weiß sehr wohl, dass der menschliche Körper eine ungeheure Entwicklungszeit hinter sich hat und dass dieser herrliche Organismus das Ergebnis eines langsamen Prozesses des allmählichen Aufbaus ist, der immer noch andauert und jede Generation besser als die vorhergehende machen wird, bis er in einer weit entfernten Zukunft ein Stadium der Vollendung erreicht haben wird, von dem wir nicht einmal träumen können. Die tieferen Schüler verstehen auch, dass der Mensch außer dem physischen Körper noch feinere Vehikel hat, die von der großen Mehrheit der Menschen noch nicht gesehen werden, obwohl alle einen latenten sechsten Sinn in sich tragen, durch den sie mit der Zeit diese feineren Hüllen der Seele erkennen werden.
 
@@ -279,12 +279,12 @@ Dass die Schilddrüse unter der Herrschaft von Merkur, dem Planeten der Vernunft
 
 Die Wissenschaftler haben viel Zeit mit Spekulationen über das Wesen und die Funktion dieser beiden kleinen Körper, der Hypophyse und der Zirbeldrüse, verschwendet, aber ohne Erfolg, und zwar hauptsächlich deshalb, weil, wie Mephistopheles so sarkastisch zu dem jungen Mann sagt, der bei Faust Wissenschaft studieren will:
 
-```
+<pre>
 "WER WÜRDE JE ETWAS LEBENDIGES KENNEN UND BEHANDELN
 SUCHT ZUERST DEN LEBENDIGEN GEIST VON DANNEN ZU TREIBEN;
 DANN SIND DIE LEBLOSEN FRAGMENTE IN SEINER HAND;
 ES FEHLT IHM, LEIDER! DAS BAND DES LEBENDIGEN GEISTES."
-```
+</pre>
 
 Niemand kann die physiologischen Funktionen eines Organs unter Bedingungen wie im Labor, auf dem Operationstisch oder in der Sezier- oder Vivisektionskammer wirklich und wahrhaftig beobachten. Um zu einem angemessenen Verständnis zu gelangen, muss man notwendigerweise sehen, wie diese Organe ihre physiologischen Funktionen IM LEBENDIGEN KÖRPER ausüben, und das kann man nur mit Hilfe des geistigen Sehens. Es gibt eine Reihe von Organen, die entweder verkümmern oder sich entwickeln; die ersteren zeigen den Weg an, den wir während unserer vergangenen Entwicklung bereits zurückgelegt haben, die letzteren sind Fingerzeige, die unsere zukünftige Entwicklung anzeigen. Aber es gibt noch eine andere Klasse von Organen, die weder degenerieren noch sich entwickeln; sie sind derzeit einfach (geistig) ruhend. Die Physiologen glauben, dass die Hypophyse und die Zirbeldrüse verkümmern, weil sie diese Organe bei einigen niederen Lebewesen, wie z.B. den Würmern, stärker entwickelt finden, aber in Wirklichkeit liegen sie mit ihren Vorstellungen falsch. Einige haben auch vermutet, dass die Zirbeldrüse in irgendeiner Weise mit dem Verstand zusammenhängt, weil sie nach dem Tod bestimmte Kristalle enthält und die Menge bei geistig gestörten Menschen viel geringer war als bei Menschen mit normaler Mentalität. Diese Schlussfolgerung ist richtig, aber der Seher weiß, dass der Wirbelsäulenkanal der Lebenden nicht mit FLÜSSIGKEIT gefüllt ist, dass das Blut nicht FLÜSSIGKEIT ist, und dass diese Organe keine Kristalle enthalten, wenn der Körper lebt.
 
@@ -346,7 +346,7 @@ Nur ein kleiner Teil des Äthers, den sich ein bestimmtes Ego aneignet, wird auf
 
 Die westliche Weisheitsschule lehrt als ihre grundlegende Maxime, dass "alle okkulte Entwicklung mit dem Vitalkörper beginnt". Der Teil des Vitalkörpers, der aus den beiden höheren Äthern, dem Lichtäther und dem reflektierenden Äther, gebildet wird, ist das, was wir den SEELENKÖRPER nennen können; das heißt, er ist enger mit dem Wunschkörper und dem Verstand verbunden und auch der Berührung durch den Geist zugänglicher als die beiden niederen Äther. Er ist das Vehikel des Intellekts und verantwortlich für alles, was den Menschen zum Menschen macht. Unsere Beobachtungen, unser Streben, unser Charakter usw. sind auf das Wirken des Geistes in diesen beiden höheren Äthern zurückzuführen, die je nach der Art unseres Charakters und unserer Gewohnheiten mehr oder weniger leuchtend werden. So wie der dichte Körper Nahrungsteilchen aufnimmt und dadurch an Fleisch zunimmt, so nehmen die beiden höheren Äther unsere guten Taten während des Lebens auf und nehmen dadurch ebenfalls an Volumen zu. Je nach unseren Taten in diesem Leben vermehren oder vermindern wir also das, was wir bei unserer Geburt mitgebracht haben. Das ist der Grund, warum die westliche Weisheitslehre sagt, dass ALLE MYSTISCHE ENTWICKLUNG MIT DEM VITALKÖRPER BEGINNT. 
 
-### <h3 id="chapter-3">KAPITEL 3. Der Wunschkörper und der Geist</h3>
+### <h3 id="chapter-3">Kapitel 3. Der Wunschkörper und der Geist</h3>
 
 #### <h4 id="the-desire-body">Der Wunschkörper</h4>
 
@@ -392,7 +392,7 @@ In der Venus-Periode, wenn sein Geist "Gefühl" erlangt hat, kann er lebendige, 
 
 Wenn er am Ende der vulkanischen Periode seine Vollkommenheit erreicht hat, wird er in der Lage sein, sich Kreaturen "vorzustellen", die leben, wachsen, fühlen und DENKEN.
 
-<h2 id="part-2">TEIL 2. ERKRANKUNG</h2>
+<h2 id="part-2">Teil 2. Erkrankung</h2>
 
 ### <h3 id="chapter-4">Kapitel 4. Allgemeine Krankheitsursachen</h3>
 
@@ -570,7 +570,7 @@ Als ich in den Tempel des Rosenkreuzerordens in Deutschland aufgenommen wurde, w
 
 Am Tag unseres physischen Zusammentreffens sagte ich nach einigen Augenblicken des Gesprächs etwas, das ihn dazu veranlasste, mich ausdruckslos anzustarren. Ich hatte mich auf einen Vorfall bei unserer Begegnung im Tempel bezogen, und er zeigte deutlich, dass er nichts davon wusste. Ich hatte jedoch so viel gesagt, dass ich gezwungen war, mehr zu sagen, um nicht sehr dumm zu erscheinen, und so sagte ich ihm, dass er behauptet hatte, sich an alles zu erinnern. Er bestritt dies, und am Ende des Gesprächs bat er mich sehr ernsthaft, herauszufinden, warum er als Laienbruder des Rosenkreuzerordens sich nicht an das erinnern könne, was während seiner Abwesenheit vom Körper geschehen sei. Er war, wie ich wusste, bei verschiedenen Tempeldiensten. Er nahm daran teil, aber in seinem physischen Gehirn wusste er absolut nicht, was geschehen war. Das Rätsel löste sich etwas später, als ich von ihm erfuhr, dass er außerhalb des Körpers Zigaretten rauchte und Drogen nahm, die sein Gehirn so stark vernebelten, dass es ihm unmöglich geworden war, irgendetwas von seinen psychischen Erfahrungen zu verarbeiten. Als ich ihm das im Körper sagte, unternahm er eine tapfere Anstrengung, sich von dieser Gewohnheit zu befreien, was er auch zugab. Dieser Fall veranschaulicht, wie sehr wir darauf achten sollten, in unseren Gewohnheiten rein zu sein; in allem sollten wir unseren Körper als Tempel Gottes betrachten und ihn nicht beschmutzen, so wie wir ein aus Stein und Mörtel erbautes Gotteshaus nicht beschmutzen würden, das nicht ein Millionstel so heilig ist wie der Körper, mit dem wir ausgestattet sind. Insbesondere das Gehirn ist das große und wichtige Instrument, mit dem wir unsere Arbeit in der physischen Welt verrichten, und wir sollten natürlich keine Rauschmittel oder Drogen zu uns nehmen, die es verwirren und uns so daran hindern, die erwarteten Fortschritte zu machen.
 
-<h2 id="part-3">TEIL 3. HEILUNG</h2>
+<h2 id="part-3">Teil 3. Heilung</h2>
 
 ### <h3 id="chapter-8">Kapitel 8. Ursprung und Entwicklung der Heilung</h3>
 
@@ -837,12 +837,12 @@ Ihnen wurden die Geheimnisse des Vitalkörpers erklärt, wie er aus vier Äthern
 
 Diese Tatsachen wurden, wie gesagt, vor den Massen geheim gehalten, oder besser gesagt, sie hätten es sein sollen, aber einige Neophyten, die übereifrig waren, etwas zu erreichen, egal wie, vergaßen, dass das goldene Hochzeitsgewand, das aus den beiden höheren Äthern besteht, nur durch Dienst und Selbstlosigkeit wächst. Sie dachten, dass die okkulte Maxime:
 
-```
+<pre>
 "Gold im Schmelztiegel,  
 Geschmiedet im Feuer;  
 Leicht wie der Wind,  
 Höher und höher"  
-```
+</pre>
 
 Sie meinten nur, dass, solange die niedere Natur, die Schlacke, ausgetrieben wurde, es nicht darauf ankäme, wie, und wenn sie eine einfache Methode finden könnten, würden sie nur das Gold übrig lassen, das aus den beiden höheren Äthern besteht, den Soll-Körper, in dem sie ungehindert in die unsichtbare Welt eintreten könnten. Sie schlussfolgerten, dass der chemische Äther, da er das Mittel der Assimilation ist, aus dem Vitalkörper entfernt werden kann, indem man das physische Vehikel aushungert.
 
@@ -1018,7 +1018,7 @@ Unser hochmütiges Lächeln aus vergangenen Tagen, als wir die Geschichte von Jo
 
 So können wir sagen, dass jeder Planet einen Grundton ausstrahlt, der die Summe aller Geräusche auf ihm ist, die vom ihm innewohnenden planetarischen Geist vermischt und harmonisiert werden. Dieser Ton kann mit dem geistigen Ohr gehört werden. Wie Goethe sagt:
 
-```
+<pre>
 "Die Sonne stimmt ihr altes Lied an  
 Mitten im rivalisierenden Gesang der Brudersphären;  
 Sein vorgeschriebener Weg führt ihn entlang  
@@ -1029,7 +1029,7 @@ Der Tag der Neugeborenen ist da;
 Die Felsentore knarren und klappern,  
 Phoebus' Räder rollen, singen.  
 Was für ein intensiver Klang, den das Licht bringt."  
-```
+</pre>
 
 Die unsichtbaren Klangschwingungen haben große Macht über konkrete Materie. Sie bauen auf und zerstören zugleich. Wenn man eine kleine Menge sehr feinen Pulvers auf eine Messing- oder Glasplatte gibt und einen Geigenbogen über den Rand zieht, bewirken die Schwingungen, dass das Pulver schöne geometrische Figuren annimmt. Auch die menschliche Stimme ist in der Lage, diese Figuren zu erzeugen; immer die gleiche Figur für den gleichen Ton.
 
@@ -1067,7 +1067,7 @@ Betrachtet man es jedoch vom tieferen Standpunkt des Okkultisten aus, der dieses
 
 So überwindet das Opfer eines hypnotischen Heilers die schlechte Angewohnheit nicht aus eigener Kraft, sondern ist in dieser Hinsicht genauso gefesselt wie in Einzelhaft, und obwohl er in diesem Leben ein besserer Bürger zu sein scheint, wird er, wenn er in einer anderen Verkörperung auf die Erde zurückkehrt, dieselbe Schwäche haben und kämpfen müssen, bis er sie endlich selbst überwindet.
 
-#### <h4 id="Schützenden Einfluss">SCHÜTZENDEN EINFLUSS:</h4>
+#### <h4 id="Schützenden Einfluss">Schützenden Enfluss:</h4>
 
 Es gibt Methoden, um sich vor feindlichen Einflüssen zu schützen, und es ist besser, über die Dinge, die uns bedrohen, aufgeklärt zu sein, damit wir die notwendigen Vorkehrungen treffen können, um dem Notfall zu begegnen.
 
@@ -1227,12 +1227,12 @@ Bei der Frage, ob wir uns in das Schicksal einmischen sollten oder nicht, sollte
 
 Wie Ella Wheeler Wilcox es in poetischer Form ausgedrückt hat:
 
-```
+<pre>
 "Ein Schiff segelt nach Osten, ein anderes nach Westen,  
 Mit den gleichen Winden, die wehen.  
 Es ist das Setzen des Segels und nicht der Sturm  
 Das bestimmt den Weg, den sie gehen."  
-```
+</pre>
 
 Es ist von größter Bedeutung, dass wir die Segel der Barke des Lebens so setzen, wie wir es wollen, und keine Skrupel haben, in das Schicksal einzugreifen.
 
@@ -1295,7 +1295,7 @@ In dem Ritual, das bei den Gottesdiensten der Rosenkreuzer-Gemeinschaft verwende
 
 Um die Hilfe aller ernsthaften Studenten zu sichern und ihnen das Privileg zu geben, zu helfen, werden wir in den Echos jeden Monat das Datum veröffentlichen, an dem die Heilungsgottesdienste abgehalten werden, und wenn jeder Student sich in seinem eigenen Haus um halb acht hinsetzt und seine Gedanken auf Mt. Ecclesia, auf die kleine Pro-Ecclesia, richtet, wo das Symbol der Unsichtbaren Helfer dann enthüllt wird, wird die Liebe, das Mitgefühl und die Kraft, die diesen Arbeitern auf diese Weise gegeben wird, sie befähigen, einen viel größeren Dienst für die Menschheit zu tun; jeder von ihnen hat natürlich Anteil an diesem Werk. Das Symbol der unsichtbaren Helfer, auf das wir uns in Mt. Ecclesia konzentrieren, ist ein schneeweißes Kreuz mit den sieben roten Rosen und einer rein weißen in der Mitte; die üblichen Sterne (die Strahlen) gehen vom Kreuz aus, und der Hintergrund ist blau, das Ganze ist wunderschön beleuchtet, was es zu einem treffenden Sinnbild für den Glanz des Seelenkörpers macht, in dem diese Arbeiter reisen. Es wird nicht notwendig sein, zeitliche Korrekturen für euren Wohnort vorzunehmen, denn die Sonne wird alle Bestrebungen sammeln, während sie voranschreitet, und wenn die Strahlen im richtigen Winkel am Berg Ecclesia ankommen, wird sich der hierher gerichtete Einfluss sicherlich übertragen und sich mit unseren Bestrebungen, die zu dieser Zeit stattfinden, vereinigen und uns bei der Arbeit helfen. (ANMERKUNG: Die Zeit dieses Heilungsgottesdienstes wurde inzwischen auf halb sieben verlegt).
 
-#<h2 id="part-4">TEIL 4: "ES GIBT KEINEN TOD"
+#<h2 id="part-4">Teil 4: "Es gibt keinen Tod"
 
 ### <h3 id="chapter-21">Kapitel XXI: Die wahre Natur des Todes</h3>
 
@@ -1373,7 +1373,7 @@ Wie viel besser ist die Haltung derjenigen, die die Rosenkreuzerlehren gelernt u
 
 Durch den guten Willen, die Intelligenz, die Uneigennützigkeit und die Liebe der verbleibenden Freunde wird der vorübergehende Geist in die Lage versetzt, unter viel günstigeren Umständen in die neuen Verhältnisse einzutreten, und wir können nichts Besseres tun, als diese Lehre so weit wie möglich zu verbreiten. Es ist unser Verlust, wenn wir für die überphysikalischen Reiche blind sind, aber für alle, die sich die Mühe machen, ihre latenten Fähigkeiten zu wecken, ist die Öffnung des richtigen Sinns nur eine Frage der Zeit. Wenn diese Zeit gekommen ist, werden wir sehen, dass die so genannten "Toten" überall um uns herum sind, und dass es in Wirklichkeit "keinen Tod gibt", wie John McCreery in dem folgenden schönen Gedicht sagt:
 
-```
+<pre>
 Es gibt keinen Tod. Die Sterne gehen unter  
 An ein anderes Ufer zu gelangen,  
 Und hell in des Himmels juwelenbesetzter Krone  
@@ -1428,4 +1428,4 @@ Ja, sogar in unserer Nähe, wenn auch unsichtbar,
 Unsere lieben, unsterblichen Geister treten...  
 Für das ganze grenzenlose Universum Gottes  
 Ist Leben - es gibt keine Toten.  
-```
+</pre>

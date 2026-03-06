@@ -19,11 +19,11 @@ von Max Heindel
 
 seine Botschaft und sein Auftrag: 
 
-```
+<pre>
 Ein urteilsfähiger Intellekt
     Ein fühlendes Herz
         Ein gesunder Körper
-```
+</pre>
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
@@ -192,7 +192,7 @@ Oceanside, California, 91054, USA
 
 ### <h3 id="creed-or-christ">Credo oder Christus</h3>
 
-```
+<pre>
 Kein Mensch liebt Gott, der seinesgleichen haßt,  
 Der seiner Brüder Herz und Seele tritt.  
 Wer ihren Geist in Höllenfesseln faßt,  
@@ -234,7 +234,7 @@ Ein Balsam nur zum Wohl der Menschheit fehlt:
 Die Nächstenliebe ist's, die Menschlichkeit.  
 
 --Max Heindel 
-```
+</pre>
 
 ### <h3 id="a-word-to-the-wise">Ein Wort an die Weisen</h3>
 
@@ -272,9 +272,9 @@ Zum Schluß dieses Vorwortes ergreife ich die Gelegenheit, die Übersetzungsarbe
 
 -- Max Heindel
 
-<h2 id="part-1">ABSCHNITT 1: Die gegenwärtige Zusammensetzung des Menschen und die Methode seiner Entwicklung</h2>
+<h2 id="part-1">Abschnitt 1: Die gegenwärtige Zusammensetzung des Menschen und die Methode seiner Entwicklung</h2>
 
-### <h3 id="introduction">EINFÜHRUNG</h3>
+### <h3 id="introduction">Einführung</h3>
 
 Die westliche Welt ist ohne Zweifel die Vorhut der menschlichen Rasse. Aus Gründen, welche in den folgenden Seiten eingehend erörtert werden sollen, hält der Rosenkreuzer es für gewiß, daß weder Judentum noch "populäres Christentum", sondern das wahre esoterische Christentum zur Weltreligion bestimmt ist.
 
@@ -380,7 +380,7 @@ Doch davon wird später die Rede sein. Nachdem wir uns nun von der Vernünftigke
 
 Nach den Lehren der Rosenkreuzer zerfällt das Weltall in sieben verschiedene Welten oder Zustände der Materie, wie folgt:
 
-```
+<pre>
 1. Die Welt Gottes
 2. Die Welt der jungfräulichen Geister
 3. Die Welt des göttlichen Geistes
@@ -388,7 +388,7 @@ Nach den Lehren der Rosenkreuzer zerfällt das Weltall in sieben verschiedene We
 5. Die Gedankenwelt
 6. Die Empfindungswelt
 7. Die physische Welt 
-```
+</pre>
 
 Diese Einteilung ist nicht willkürlich, sondern notwendig. Denn der Grundstoff jeder dieser Welten unterliegt Gesetzen, die in den anderen Welten wirkungslos sind. So untersteht zum Beispiel in der physischen Welt die Materie dem Gesetz der Schwerkraft, der Zusammenziehung und Ausdehnung. In der Empfindungswelt gibt es weder Hitze noch Kälte, die Körper schweben so leicht in die Höhe, wie sie niedersteigen. Auch Raum und Zeit, die in der physischen Welt bestehen, verlieren in der Empfindungswelt beinahe allen Einfluß.
 
@@ -888,16 +888,16 @@ Wenn der Aufenthalt im Fegefeuer vorüber ist, steigt der gereinigte Geist (spir
 
 Man sei sich dessen bewußt, daß die Macht des Gebens nicht immer mit Reichtum verbunden ist. Unüberlegtes Geben von Geld kann sogar von Übel sein. Es ist richtig, für einen guten Zweck Geld zu geben, aber ein Dienst ist tausendmal besser. Wie Whitman sagt:
 
-```
+<pre>
 "Sieh! Nicht Lehren ich geb`, noch Almosen;  
 Wenn ich gebe, so geb` ich mich selbst!"  
-```
+</pre>
 
 Ein freundlicher Blick, der Ausdruck des Vertrauens, eine mitfühlende und liebevolle Hilfsbereitschaft - diese Gaben können von allen ohne Unterschied des Wohlstands gegeben werden. Noch mehr! Wir sollten vor allen Dingen dem Bedürftigen helfen, sich selbst zu helfen, sei es finanziell, moralisch oder geistig. Wir sollen ihn nicht von uns oder anderen abhängig machen.
 
 Der ethische Wert des Gebens und die geistige Lehre, die der Gebende durch seine Gabe empfängt, wird in schönster Weise in Lowell's Gedicht "Die Vision des Sir Launfal" gezeigt. Der junge und ehrgeizige Ritter, Sir Launfal, reitet in blitzender Rüstung auf prachtvollem Streitroß aus seiner Burg, um den heiligen Gral zu suchen. Auf seinem Schild glänzt das Kreuz, das Zeichen der Güte und des Mitgefühls unseres sanftmütigen und bescheidenen Heilands. Doch das Herz des Ritters ist erfüllt von Stolz und hochmütiger Verachtung für die Armen und Bedürftigen. Er begegnet einem Aussätzigen, der um ein Almosen bittet, und wirft ihm mit verächtlichem Stirnrunzeln eine Münze hin, so wie man einem Hund den Knochen vorwirft. Doch:
 
-```
+<pre>
 "Nicht hob der Sieche das Gold vom Grund.  
 Die Kruste, gespart von des Armen Mund,  
 Der Segen des Armen ist besser fürwahr,  
@@ -913,22 +913,22 @@ Sein Geschenk ist so groß, daß die Hand es nicht faßt,
 Das Herz nur bezwingt die kostbare Last,  
 Denn ihr folgt ein Gott und bringt sie als Hort  
 Zur im Dunklen verhungernden Seele fort."  
-```
+</pre>
 
 Bei seiner Rückkehr findet Sir Launfal einen anderen im Besitz seines Schloßes, und er wird vom Tor vertrieben.
 
-```
+<pre>
 "Ein alter Mann, zermürbt vom Gram,  
 Vom heil`gen Gral zurück er kam.  
 Des Reichtums Verlust, er achtet ihn nicht,  
 Kein Kreuz mehr erstrahlt vom Gewande so schlicht.  
 Doch tief im Herzen das Zeichen ihm stand,  
 Des Armen und Leidenden trostreiches Pfand."  
-```
+</pre>
 
 Wieder begegnet er einem Aussätzigen, der ihn um ein Almosen bittet. Diesmal erwidert der Ritter anders.
 
-```
+<pre>
 "Und der Ritter sagte: 'Du bist mir ein Bild  
 Des gekreuzigten Heilands, so gütig und mild;  
 Auch dich hat die Welt mit Dornen gekrönt,  
@@ -938,20 +938,20 @@ Dein Leben mit heiligem Schmerz empfand
 Die Wunden in Seite und Fuß und Hand.  
 Marias Sohn, sei gnädig mit mir,  
 Durch ihn, mein Bruder, schenke ich dir!'"  
-```
+</pre>
 
 Ein Blick in das Auge des Aussätzigen bringt ihm Erinnerung und Wiedererkennen und
 
-```
+<pre>
 "Zu Asch` und Staub ward ihm das Herz,  
 Die Brotkruste brach er, so hart wie Erz,  
 An des Baches Rand brach er das Eis  
 Und reichte dem Armen Trank und Speis.  
-```
+</pre>
 
 Eine Wandlung tritt ein:
 
-```
+<pre>
 Der ächzte nicht länger arm und beraubt,  
 Ein Glorienschein umstrahlte sein Haupt,  
 . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -970,7 +970,7 @@ Nicht was wir spenden, wie wir teilen im Leben,
 Denn ohne Herz ist es ein dürftig Geben;  
 Gibst mit der Gabe selber du dich,  
 So nährst du dich selbst, den Armen und mich!"  
-```
+</pre>
 
 Der erste Himmel ist der Ort der Freude, ohne einen einzigen Tropfen Bitterkeit. Der Geist schwebt über den materiellen, irdischen Zuständen und nimmt alles Gute aus seinem vergangenen Leben auf, so wie es an ihm vorüberzieht. Hier erfüllen sich ihm alle edlen Bestrebungen im vollsten Maß, welche auf der Erde nur angebahnt wurden. Er ist der Ort der Ruhe, und je härter das Leben mit dem Menschen umgesprungen ist, desto süßer wird die Ruhe empfunden werden. Krankheit, Kummer und Schmerz sind unbekannte Erscheinungen. Hier ist das Sommerland der Spiritualisten, hier ist der Ort, an dem die Gedanken der frommen Christen das neue Jerusalem aufgebaut haben. Menschen, die nach dem Besitz schöner Häuser, Blumen und dergleichen strebten, haben das alles hier; sie erbauen sich diese Dinge aus dem feinen Empfindungsstoff. Und trotzdem sind diese Dinge für sie ebenso wirklich und körperlich, wie für uns die materiellen Häuser. Hier erfahren alle die Befriedigung, die ihnen im Erdenleben nicht zuteil wurde.
 
@@ -984,12 +984,12 @@ Dieser Himmel ist auch ein Ort des Fortschritts für alle, die lernbegierig, kü
 
 Er malt mit lebendigem, glühendem Material und kann seine Entwürfe mit einer Leichtigkeit ausführen, die seine Seele mit Freude erfüllt. Der Musiker hat hier noch nicht den Ort erreicht, an dem seine Kunst voll zum Ausdruck gelangt. Die physische Welt ist die Welt der Form. Die Empfindungswelt, in der wir das Fegefeuer und den ersten Himmel finden, ist vorwiegend die Welt der Farbe. Aber die Gedankenwelt, der zweite und dritte Himmel, ist die Sphäre des Tones. Himmlische Musik ist eine Tatsache und nicht nur eine Redewendung. Pythagoras fabelte nicht, wenn er von der Musik der Sphären sprach, denn jeder der Himmelskörper hat seinen bestimmten Ton, und sie tönen zusammen zur himmlischen Symphonie, welche Goethe auch im Prolog zum "Faust" - dessen Schauplatz im Himmel liegt - erwähnt. Der Erzengel Raphael spricht:
 
-```
+<pre>
 "Die Sonne tönt nach alter Weise  
 In Brudersphären Wettgesang,  
 Und ihre vorgeschrieb'ne Reise  
 Vollendet sie mit Donnergang."  
-```
+</pre>
 
 Selbst hier in der physischen Welt erreichen uns Widerklänge der himmlischen Musik. Sie sind unser kostbarstes Gut, obwohl sie flüchtig wie ein Irrlicht sind und nicht wie andere Kunstwerke für die Dauer geschaffen werden können, wie eine Statue, ein Bild oder ein Buch. In der physischen Welt stirbt und verschwindet der Ton, nachdem er geboren wurde. Im ersten Himmel sind naturgemäß diese Widerklänge schöner und dauernder, daher hört der Musiker hier süßere Weisen als in seinem Erdenleben.
 
@@ -1097,10 +1097,10 @@ Es ist sehr wichtig, sich an diese Tatsache zu erinnern. Sonst wäre die Neigung
 
 Das Schicksal eines Individuums, das unter dem Gesetz der Ursache und Wirkung erzeugt wurde, ist von großer Komplexität. Es steht die ganze Zeit in einer sehr verflochtenen Verbindung zu den Egos, die sich innerhalb und außerhalb der physischen Existenz befinden. Selbst diejenigen, die zur gleichen Zeit leben, können nicht alle an dem selben Ort sein, so daß es für das Schicksal eines Individuums unmöglich ist, in einer Lebenszeit oder an einem Ort aufgearbeitet zu werden. Darum wird das Ego in eine gewisse Umgebung und Familie gebracht, mit der es bereits in irgendeiner Beziehung steht. Was das abzuarbeitende Schicksal anbelangt, so kann es unter Umständen gleichgültig sein, in welcher von mehreren Umgebungen sich das Ego wiederverkörpert. Bei einer Auswahl steht es ihm so weit wie möglich frei, selbst zu entscheiden. Hat es aber einmal gewählt, so wachen die Helfer der Herren des Schicksals unsichtbar darüber, daß keine Tat des freien Willens die Abarbeitung des gewählten Schicksalsanteiles zunichte macht. Wenn wir irgend etwas tun, um diese Pflicht zu umgehen, so werden sie Kräfte in Bewegung setzen, die uns zur Erfüllung des Schicksals zwingen. Wir können aber nicht oft genug wiederholen, daß dies den Menschen nicht hilflos macht. Es ist nur dasselbe Gesetz gleich jenem, das wirksam wird, wenn wir eine Pistole abfeuern. Wir können diese abgefeuerte Kugel nicht aufhalten oder sie auch nur auf irgend eine Weise von ihrer Bahn ablenken. Ihre Richtung wurde von der Stellung des Laufes im Augenblick des Abfeuerns bestimmt. Wir hätten diese Stellung jederzeit ändern können, ehe wir den Hahn abdrückten, da wir zu diesem Zeitpunkt noch volle Gewalt über diese Handlung hatten. Dies gilt ebenso für neue Handlungen, die zukünftiges Schicksal erschaffen. Wir können bis zu einem bestimmten Punkt gewissen, schon in Bewegung gesetzten Ursachen, entgegenwirken oder sie ändern, aber wenn sie einmal in Wirksamkeit sind und ihnen keine andere Tat entgegengestellt wird, so entschwinden sie unserer Kontrolle. Man nennt dies dann "reifes" Schicksal, und diese Art des Schicksals ist gemeint wenn man sagt, die Herren des Schicksals unterdrücken jeden Versuch (des Betroffenen), sich davonzustehlen. Unserer Vergangenheit stehen wir in großem Maß hilflos gegenüber, aber zukünftige Handlungen haben wir völlig in der Gewalt, soweit wir nicht durch unsere vergangenen Handlungen gehindert werden. Doch nach und nach erfahren wir, daß wir selbst die Ursache unserer eigenen Freuden und Schmerzen sind. Diese Erfahrung erweckt uns zum Bewußtsein der Notwendigkeit, unser Leben mehr in Harmonie mit Gottes Gesetzen zu bringen und uns so über die Gesetze der physischen Welt zu erheben. Das ist der Schlüssel zur Befreiung, wie Goethe sagt:
 
-```
+<pre>
 "Von der Gewalt, die alle Wesen bindet,  
 Befreit der Mensch sich, der sich überwindet."  
-```
+</pre>
 
 Nachdem der Lebensleib durch die Herren des Schicksals gestaltet wurde, gibt er dem dichten Körper - Organ für Organ - seine Form. Dann wird die Matrize oder Gußform in den Schoß der künftigen Mutter versetzt. Das Keimatom des dichten Körpers befindet sich im dreieckigen Kopf einer der Spermatozoen im Samen des Vaters. Das allein macht die Befruchtung möglich, und hierin liegt die Erklärung für die Tatsache, daß geschlechtliche Verbindungen so oft unfruchtbar sind. Die chemischen Bestandteile der Samenflüssigkeit und des Eies sind zu allen Zeiten dieselben. Wenn dies die einzigen Faktoren beim Zustandekommen einer Befruchtung wären, könnte die Erklärung für das Problem der Unfruchtbarkeit - die meist in der materiellen, sichtbaren Welt gesucht wird - nicht gefunden werden. Es wird klar, wenn wir bedenken, daß die Wassermoleküle nur entlang der das Wasser durchdringenden Kraftlinien gefrieren und sich als Eiskristalle offenbaren, statt in eine homogene Masse zusammenzuschmelzen, wie dies geschähe, würden vor dem Gefrieren noch keine Kraftlinien vorhanden sein. Ebenso kann kein fester Körper gebaut werden, ehe ein Lebensleib vorhanden ist, in den die Bestandteile eingebaut werden können. Auch muß ein Keimatom für den festen Körper vorhanden sein, um als Maß für Qualität und Quantität der in den festen Körper einzubauenden Materie zu dienen. Obschon im gegenwärtigen Entwicklungsstadium keine volle Harmonie in den Bestandteilen des Körpers herrscht - die ja einen vollkommenen Körper bedeuten würde - darf doch der Mißklang nicht so stark sein, daß er den Organismus zerstört.
 
@@ -1246,7 +1246,7 @@ Im Buch der Offenbarungen finden wir folgende Worte: "Den, der überwindet, will
 
 Oliver Wendel Holms gibt in seinem schönen Gedicht "Die Kammern des Nautilus" der Idee eines beständigen Fortschrittes in nach und nach besser werdenden Trägern und einer endlichen Befreiung Ausdruck. Der Nautilus baut seine spiralförmige Schale in begrenzten Abteilungen und verläßt immer die kleineren, denen er entwachsen ist.
 
-```
+<pre>
 Des Tieres stilles Werk, so schimmernd klar,  
 geschah hier Jahr um Jahr.  
 Doch keine Windung faßt  
@@ -1270,7 +1270,7 @@ Laß jeden Tempel edler, größer sein,
 Durch weit're Bogen sieh des Himmels Schein,  
 Den Weg zur Freiheit geh.  
 Die enge Hülle bleibe an des Lebens wilder See.  
-```
+</pre>
 
 Die oben erwähnte Notwendigkeit, einen Organismus von besonderer Beschaffenheit zu erhalten, bringt uns eine interessante Phase der Zwillingsgesetze, den Gesetzen der Wiedergeburt und der Ursache und Wirkung, in Erinnerung. Diese Gesetze stehen mit der Bewegung der Himmelskörper, der Sonne, der Planeten und Tierkreiszeichen in Verbindung. Alle bewegen sich harmonisch nach diesen Gesetzen. Die Planeten werden auf ihren Bahnen von den innewohnenden geistigen Intelligenzen - den Planetengeistern - gelenkt.
 
@@ -1302,7 +1302,7 @@ Darum kann man die Sterne "die Uhr des Schicksals" nennen. Die zwölf Zeichen en
 
 Und doch kann nicht stark genug betont werden, daß, wenn der Mensch auch verschiedenen Dingen nicht entgehen kann, er einen gewissen Spielraum für seinen freien Willen besitzt, um bereits in Gang befindliche Ursachen abzuändern. Ein Dichter schrieb darüber folgendes:
 
-```
+<pre>
 "Ein Wind ist's, der das Schiff bewegt,  
 Ob nach Ost oder West es schwimmt,  
 Nicht der Sturm, der weht, - wie das Segel steht,  
@@ -1312,7 +1312,7 @@ Des Schicksals Gewalt gleicht dem Wind der See
 Auf des Daseins bewegter Flut,  
 Sei es laut oder still, - unseres Lebens Ziel  
 Nimmt die Seele in eigene Hut."  
-```
+</pre>
 
 Was haben ganz besonders zu erfassen, daß unser gegenwärtiges Handlungen künftige Bedingungen bestimmt.
 
@@ -1978,12 +1978,12 @@ Chaos ist kein Zustand, der in der Vergangenheit bestanden hat und jetzt völlig
 
 Es ist ein Grundsatz, daß "je öfter wir sterben, desto besser wir leben". Der Dichter-Eingeweihte Goethe sagt:
 
-```
+<pre>
 Und so lang du das nicht hast,  
 Dieses Stirb und Werde,  
 Bist du nur ein trüber Gast  
 Auf der dunklen Erde.  
-```
+</pre>
 
 Und Paulus sagt: "Ich sterbe täglich."
 
@@ -2893,7 +2893,7 @@ Der Mensch wird in Wahrheit ein Schöpfer werden. Nicht in der langsamen und mü
 
 Alles, was sich während der absteigenden Periode der Involution manifestierte, bleibt bestehen, bis der entsprechende Punkt des aufsteigenden Bogens erreicht ist. Die gegenwärtigen Zeugungsorgane werden degenerieren und absterben. Das weibliche Organ existierte zuerst als unterscheidbares Körperteil und nach dem Gesetz, daß die ersten die letzten sein werden, wird es auch zuletzt verkümmern. Das männliche Organ wurde zuletzt abgeteilt und beginnt schon jetzt, sich vom Körper zu sondern. Diagramm 13 wird das veranschaulichen.
 
-<h2 id="part-3">ABSCHNITT 3: Die zukünftige Entwicklung des Menschen und die Einweihung</h2>
+<h2 id="part-3">Abschnitt 3: Die zukünftige Entwicklung des Menschen und die Einweihung</h2>
 
 ### <h3 id="chapter-15">XV. Christus und Seine Sendung</h3>
 
@@ -3055,10 +3055,10 @@ Es liegt ebenso ein scheinbarer Widerspruch in den Worten einer Frau, die sagt: 
 
 Ebenso müssen wir bedenken, daß die Zeit seit dem Erscheinen des Christus-Jesus im Vergleich mit auch nur einem Manifestationstag nicht viel mehr als ein Augenblick ist. Wir müssen wie Whitman "die Fülle der Zeit" erkennen lernen. Wir müssen über die vergangenen und gegenwärtigen Grausamkeiten und Eifersüchteleien der streitenden Sekten auf das leuchtende Zeitalter der allgemeinen Bruderschaft hinschauen lernen. Sie ist der nächste große Schritt der Menschheit auf ihrer langen und wunderbaren Reise vom Erdklumpen zu Gott, vom Protoplasma zur bewußten Einheit mit dem Vater, diesem
 
-```
+<pre>
 ..... einen weit entfernten göttlichen Ereignis, 
 zu dem sich hinbewegt die ganze Schöpfung.
-```
+</pre>
 
 Es sei noch hinzugefügt, daß während der Zeremonie des Empfanges seiner Schüler in der Kirche der obenerwähnte Pastor sie lehrte, daß Jesus Christus ein zusammengesetztes Wesen sei, daß Jesus der sterbliche, menschliche Teil war und Christus der unsterbliche göttliche Geist. Wahrscheinlich hätte er im Fall einer Diskussion diese Behauptung nicht aufrechterhalten können, obwohl er eine okkulte Wahrheit aussprach.
 
@@ -3072,23 +3072,23 @@ Der Stern von Bethlehem soll zur Zeit der Geburt Jesu erschienen sein und die dr
 
 Über die Natur dieses Sterns ist viel spekuliert worden. Die meisten materialistischen Wissenschaftler erklären ihn für einen Mythos. Andere behaupteten wieder, wenn es kein bloßer Mythos gewesen sei, so könnte es ein "zufälliges Zusammentreffen" gewesen sein. Zwei erloschene Sonnen könnten zusammengestoßen sein und einen Riesenbrand verursacht haben. Wie dem auch sei, jeder Mystiker kennt aus seiner Erfahrung den "Stern", ja, auch das "Kreuz", nicht nur als Symbole, die mit dem Leben Jesu und des Christus-Jesus verbunden sind. Paulus sagt: "Bis Christus in euch Gestalt annimmt" und der Mystiker Angelus Silesius wiederholt:
 
-```
+<pre>
 Und wäre Christus tausend Mal in Bethlehem geboren  
 Und nicht in dir, ging deine Seele dennoch hier verloren,  
 Zum Kreuz auf Golgatha schaust du vergeblich hin,  
 Hast du es nicht errichtet in deinem eig'nen Sinn.  
-```
+</pre>
 
 Richard Wagner zeigt die intuitive Erkenntnis des Künstlers, wenn auf die Frage Parsifals "Wer ist der Gral?", Gurnemanz antwortet:
 
-```
+<pre>
 Das sagt sich nicht;  
 Doch bist du selbst zu ihm erkoren,  
 Bleibt dir die Kunde unverloren. / Und sieh! - Mich dünkt, daß ich dich recht erkannt: /
 Kein Weg führt zu ihm durch das Land,  
 Und niemand könnte ihn beschreiben,  
 Den er nicht selber möcht geleiten.  
-```
+</pre>
 
 Unter dem "Alten Glaubenssystem" war der Weg zur Einweihung nicht frei. Er war nur für einige Auserwählte gangbar. Manche suchten wohl den Pfad, aber nur, wer durch die Hierophanten zum Tempel geleitet wurde, fand Eintritt. Vor der Ankunft Christi gab es keine allumfassende Einladung "Kommt her zu mir alle .....".
 
@@ -3298,11 +3298,11 @@ Diese Namen der Perioden haben mit den physischen Planeten nichts zu tun. Sie be
 
 Die okkulte Wissenschaft lehrt, daß es 777 Inkarnationen gibt. Das bedeutet aber nicht, daß die Erde 777 Metamorphosen durchzumachen hat. Es bedeutet, daß das sich entwickelnde Leben
 
-```
+<pre>
 7 Weltkreisläufe um die
 7 Globen der
 7 Weltperioden durchschreitet. 
-```
+</pre>
 
 Diese Pilgerschaft durch Involution und Evolution wird in dem Caduceus oder "Merkurstab" verkörpert (siehe Diagramm 15), so genannt, weil dieses okkulte Sinnbild den Weg der Einweihung symbolisiert, der dem Menschen erst seit Beginn der Merkurhälfte der Erdperiode eröffnet wurde. Einige der kleineren Mysterien wurden den früheren Lemuriern und Atlantiern gegeben, nicht jedoch die vier großen Einweihungen. 
 
@@ -3739,7 +3739,7 @@ Das erste Gesetz der okkulten Wissenschaft ist: "Du sollst nicht töten", und di
 
 Ella Wheeler Wilcox setzt sich für diesen okkulten Grundsatz mit dem wahren Mitleid aller weit fortgeschrittenen Seelen mit den folgenden schönen Worten ein:
 
-```
+<pre>
 Ich bin des Stimmenlosen Stimme,  
 Die für ihn durch die Lande streift,  
 Bis der Welt taubes Ohr  
@@ -3757,7 +3757,7 @@ Seine Kämpfe fechte ich aus.
 Der Welt schrei ich's zu,  
 laß' sie nimmer zur Ruh',  
 Bis sie endet des Brudermord's Graus.  
-```
+</pre>
 
 Manchmal hört man auch den Einwand, daß Leben ebenfalls genommen werde, wenn Gemüse und Früchte verzehrt werden. Diese Feststellung beruht aber auf einem vollständigen Mißverstehen der Tatsachen. Wenn die Frucht reif ist, hat sie ihren Zweck erfüllt, dem reifenden Samen als Mutterleib zu dienen. Wird sie nicht verzehrt, so verfällt sie und geht verloren. Sie ist sogar dazu bestimmt, dem Tier und der Menschheit als Nahrung zu dienen, damit dem Samen die Möglichkeit gegeben werde, durch Verstreuung zum Wachstum in fruchtbaren Boden zu gelangen. Und ebenso wie das menschliche Ei und der menschliche Samen ohne das Keimatom des sich wiederverkörpernden Ego und die Prägeform (Matrize) des Lebensleibes wirkungslos bleiben, so ist jedes Ei oder jeder Samen aus sich heraus nicht lebensfähig. Wenn ihm aber die richtigen Bedingungen der Bebrütung oder des Bodens gegeben werden, so ergießt sich das Leben des Gruppengeistes hinein und erfaßt die Gelegenheit, die ihm geboten wird, um einen dichten Körper hervorzubringen. Wenn das Ei oder der Samen gekocht oder zerdrückt wird und so nicht die nötigen Lebensbedingungen erhält, so ist diese Gelegenheit verloren, aber das ist auch alles.
 
@@ -4422,12 +4422,12 @@ Christ came to prepare the way for the emancipation of humanity from the guidanc
 
 Let us be mindful of Max Heindel's words to us: 
 
-```
+<pre>
 There's but one thing the world has need to know,
 There's but one balm for all our human woe,
 There's but one way that leads to heaven above.
 That way is Human Sympathy and Love.
-```
+</pre>
 
 For further study:
 
