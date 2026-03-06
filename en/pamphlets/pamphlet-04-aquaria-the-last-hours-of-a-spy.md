@@ -13,9 +13,9 @@ by Max Heindel
 
 ### <h3 id="aquaria-the-last-hours-of-a-spy">Aquaria - The Last Hours of a Spy</h3>
 
-``` 
+<pre>
 “There are more things in heaven and Earth than are dreamt of in your philosophy.” 
-```
+</pre>
 
 He was sitting in the ruined garden of an ancient monastery looking at the confusion of flowers and weeds, children of care and carelessness; the latter seemed to be gaining the upper hand since war had driven the original owners away, for the soldiers who now camped there had no time for flowers.
 

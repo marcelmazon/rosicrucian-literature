@@ -39,7 +39,7 @@ By doing our part loyally and faithfully in this great work we shall not only be
 
 ### <h3 id="the-rosicrucian-fellowship-prayer">The Rosicrucian Fellowship Prayer</h3>
 
-```
+<pre>
 Not more of light we ask, O God,
 But eyes to see what is;
 Not sweeter songs, but ears to hear
@@ -64,4 +64,4 @@ To love the pure, to seek the good,
 To lift with all our might,
 All souls to dwell in harmony
 In Freedom’s perfect light.
-``` 
+</pre>

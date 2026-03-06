@@ -45,7 +45,7 @@ Although our reason may reach into the mysteries of life, there is still a highe
 
 Eye has not seen or ear heard the glories that are yet in store for us, but Oliver Wendell Holmes has expressed a little of what we may expect in the following lines:
 
-``` 
+<pre>
 Build thee more stately mansions O my soul!
 As the swift seasons roll,
 Leave thy low vaulted past,
@@ -53,6 +53,6 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast,
 Till thou at length art free,
 Leaving thine outgrown shell by life’s unresting sea.
-```
+</pre>
 
 We follow the Rosicrucian Teaching in preference to other systems, because of the logical soul-satisfying philosophy of life given by it, and invite others who wish to share the blessings thereof to investigate.

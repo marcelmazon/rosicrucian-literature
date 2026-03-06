@@ -62,7 +62,7 @@ Full details regarding healing may be secured by writing to The Rosicrucian Fell
 
 <strong><em>Answer:</em></strong> Yes, numbers are attending the churches, lectures and classes, never dropping a penny into the collection baskets, feeling this unnecessary unless they are approached and, naturally, they will take all and give nothing. But they do not reason the matter from the standpoint of God’s laws which are silently operating through the laws of Cause and Effect; sometime, somewhere, these debts will come to the Ego who thinks he is slipping through life defrauding, taking all and giving nothing.
 
-```
+<pre>
 “Be not deceived, God is not mocked,
 For whatsoever a man soweth, that shall he also reap.”
-```
+</pre>

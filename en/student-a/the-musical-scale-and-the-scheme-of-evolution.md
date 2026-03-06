@@ -57,9 +57,9 @@ Mt. Ecclesia, November 19.
 
 ### <h3 id="chapter-1">Chapter I: As It Was in the Beginning</h3>
 
-``` 
+<pre>
 The whole solar system is one vast musical instrument, spoken of in Greek Mythology a "the seven-stringed lyre of Apollo." The signs of the zodiac may be said to be the sounding board of the Cosmic harp and the seven planets are the strings; they emit different sounds as they pass through the various signs, and therefor they influence mankind in diverse manner Should the harmony fail for one single moment should there be the slightest discord in the heavenly band, the whole universe as such must crumble - Max Heindel. 
-```
+</pre>
 
 THE method used by the creative Hierarchies assisting man to develop his potential powers was planned according to the vehicles needed him to contact the various regions where the work connected with his development was to be found The vehicles needed were a physical body, a vital body, a desire body, and a mind; and the method used by the Great Ones to build these vehicles was and is correlated to the different evolutionary Period of the Earth, each of which was and is permeated by a particular keynote.
 
@@ -107,9 +107,9 @@ In the Bible we note how the seven-stringed harp of David represents astrologica
 
 ### <h3 id="chapter-3">Chapter III: The Power of Music</h3>
 
-``` 
+<pre>
 Music is thus, in her health, the teacher of perfect order, and is the voice of the obedience of angels, and the companion of the course of the spheres of heaven; and in her depravity she is also the teacher of perfect disorder and disobedience - Ruskin. 
-```
+</pre>
 
 IN music between melody and rhythm we find harmony, which may either rise and blend with the vibration of pure thought, melody, or descend it may mingle with the purely activity movement -  impulse. If the pure melodio element, which carries the will vibration of God and the Spirit in music is omitted from a composition then the guiding power is not there to control the activities of the desire and physical bodies, and then the desires which revel in excitement take charge, and being without the guiding power of reason, disaster is likely to be the result. It is the probability of harmony blending with impulse that explains the reason why it is possible for modern, so-called music which tends to bring confusion instead of unifying coherence, to come into existence.
 
@@ -479,34 +479,34 @@ The chords related to the three powers of the Spirit and man's four vehicles, al
 
 THE Harmony of the Spheres is not a monotone; it varies from day to day and from month to month as the Sun and planets pass from sign to sign. There are also yearly epochal variations due to the precession of the equinoxes. There is truly an infinite variety in the Song of the Spheres, as indeed there must be, for the constant change of spiritual vibration is the basis of all physical and spiritual evolution. In spring the tones of Aries and Mars, stirring, active -conducive to germination, newness of life and growth in all kingdoms, from man to plant inclusive, predominate. If you would catch a faint idea of what the Music of the Spheres is like at this time listen to such Easter songs as:
 
-``` 
+<pre>
 Jesus Christ is risen today, Alleluia! 
 Our triumphant holy day, Alleluia! 
 Who did once upon the Cross, Alleluia!
 Suffer to redeem our loss. Alleluia! 
-```
+</pre>
 
 Christ Jesus is the personification of spiritual love; therefore music written in the key of Libra (D major), ruled by Venus, the planet of love, is quite in harmony with His vibration, and tends to lift up and harmonize one's own vibration with that of this great Being.
 
 In midsummer the tones produced by Cancer and the Moon take the lead, abetted by those of Leo and the Sun, all of which are conducive to maturing the processes started by the energizing spring tones. Through the summer, love and life toil exceedingly with joyful hearts, for they are Masters in the struggle for existence while the Sun is exalted in the northern heavens at the maximum of his power at the time of the summer solstice. This is the time when the Christ, having reached the throne of the Father (the World of Divine Spirit) after completing His earth work for another year, is welcomed by the heavenly host, the Lords of Wisdom, who also abide there. In honor of this great One who has given His life to the point of exhaustion, it is appropriate that we join that celestial band in singing:
 
-``` 
+<pre>
 All hail the power of (Christ) Jesus name! 
 Let angels prostrate fall; 
 Bring forth the royal diadem, 
 And crown Him Lord of all. 
-```
+</pre>
 
 The keynote of Leo is A# (Bb) major. The Sun is its ruler and its key word is Life. The keynote of Cancer is G# major and its key word is fecundation.
 
 In the fall the tones of Virgo, whose keynote is C natural, and the key word of Mercury, reason, energized by the tones of Scorpio, keynote E major, and key word of Mars, dynamic energy, prepare for, and meet the power of the approaching Christ ray which is making its annual descent to the earth, and whose powerful spiritual vibrations are in the earth's atmosphere and capable of use by mankind to a much greater advantage if they know the facts and redouble their efforts to render loving, self-forgetting service to others. Here are the words and music which can be of great assistance to each one in furthering his or her evolutionary development:
 
-```
+<pre>
 O worship the King all glorious above, 
 And gratefully sing His wonderful love; 
 Our Shield and Defender, the Ancient of Days, 
 Pavilioned in splendor, and girded with praise. 
-```
+</pre>
 
 This is truly so; for all the while Christ is descending to earth a harmonious, rhythmic, vibratory song, a hosanna, is being sung by the celestial hosts, which fills the earth's atmosphere and acts upon all as an impulse to spiritual aspiration.
 
@@ -516,7 +516,7 @@ During winter the tones of the philanthropie Sagittarius, keynote F major, ruled
 
 Without this vitalizing, energizing power released by the Christ the earth would remain cold, barren, and drear; all living things would soon perish and all orderly progress would be frustrated so far as our present scheme of development is concerned. It is most fitting, therefore, that at the holy Christmas season we should pour forth our sincere appreciation and adoration by joining the heavenly hosts in songs of praise attuned to the celestial music given to us by that master musician, the great Felix Mendelssohn
 
-``` 
+<pre>
 Hark! the herald angels sing, 
 Glory to the newborn King; 
 Peace on earth and mercy mild, 
@@ -525,7 +525,7 @@ Joyful all ye nations, rise,
 Join the triumph of the skies; 
 With th'angelic hosts proclaim, 
 Christ is born in Bethlehem. 
-```
+</pre>
 
 The Hierarchical life waves and the zodiacal signs have not been the only aids that mankind has had in furthering his evolution. The Seven Spirits before the Throne, Mars, Mercury, Venus, Earth, Saturn, Jupiter, and Uranus, have rendered and are still rendering a great service to mankind and are at present in very close contact with humanity. Each of these planets has a keynote of its own and it is through the vibratory power of each of these keynotes that the planets are able to render assistance.
 
@@ -798,7 +798,7 @@ The advanced occultist likens the signs of the zodiac to the sounding board of t
 
 An astonishing fact hitherto unknown and therefore unrealized is that each individual is in himself a musical instrument, the various parts of his entire composition being correlated through vibratory tones to the Seven Spirits before the Throne and the twelve signs of the zodiac, all of which are guided and directed by the Creator of our solar system. It is for this very reason that music has such a tremendous power in the development of man's potentialities. Without it there could be no manifestation and therefore no progress. Here we find the occult reason for the admonition of the illumined Ones, "Man, know thyself;" for as soon as each individual comes into a conscious realization of his own true self, he then has in his possession the key to all future advancement.
 
-``` 
+<pre>
 When Light unveiled her radiant face, 
 And wrapped the world in her embrace, 
 When into space the planets swung- 
@@ -806,4 +806,4 @@ This song the heavenly choir sung:
 "O sacred pulse! O law divine! 
 All purpose and all power are thine, 
 For Life goes on forever." 
-```
+</pre>

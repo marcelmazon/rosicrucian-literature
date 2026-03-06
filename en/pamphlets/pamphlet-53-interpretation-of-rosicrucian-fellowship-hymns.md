@@ -11,7 +11,7 @@ original_source_file: "self"
 
 ### <h3 id="the-rosicrucian-fellowship-opening-hymn">The Rosicrucian Fellowship Opening Hymn</h3>
 
-```
+<pre>
 Words by Max Heindel
 
 (Tune: “Sweet Hour of Prayer”)
@@ -51,7 +51,7 @@ If we persist’ though oft we fail,
 In time our efforts shall prevail
 To end the discord and dispel
 All evil with harmony’s rhythmic swell.
-```
+</pre>
 
 ### <h3 id="interpretation-of-rosicrucian-fellowship-hymns-1">Interpretation of Rosicrucian Fellowship Hymns</h3>
 
@@ -117,7 +117,7 @@ Our closing hymn, <em>God Be With You Till We Meet Again</em>, is tuned to the k
 
 ### <h3 id="rosicrucian-fellowship-closing-hymn">Rosicrucian Fellowship Closing Hymn</h3>
 
-```
+<pre>
 Words by Max Heindel
 
 (Tune: “God Be With You Till We Meet Again”)
@@ -148,4 +148,4 @@ God be with you till we meet again
 At the Cross with Roses garnished;
 May our lives be pure, untarnished,
 Till the Rosy Cross we greet again.
-```
+</pre>

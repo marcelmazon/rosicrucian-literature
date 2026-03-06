@@ -65,7 +65,7 @@ We will now enter the silence together and concentrate on SERVICE for a few mome
 
 ### <h3 id="the-rosicrucian-fellowship-prayer"><em>The Rosicrucian Fellowship Prayer</em></h3>
 
-```
+<pre>
 Not more of Light we ask, O God,
 But eyes to see what is;
 Not sweeter songs, but ears to hear
@@ -95,7 +95,7 @@ To love the pure, to seek the good,
 To lift with all our might,
 All souls to dwell in harmony
 In freedom’s perfect light.
-```
+</pre>
 
 All rise and sing the Rosicrucian Fellowship Closing Hymn (see separate card).
 

@@ -29,7 +29,7 @@ First Edition
 - [Chapter X: A Crisis in Love](#chapter-10)
 - [Chapter XI: Light Again](#chapter-11)
 
-### <h3 id="chapter-1">CHAPTER I: A Visit to the Invisible Planes</h3>
+### <h3 id="chapter-1">Chapter I: A Visit to the Invisible Planes</h3>
 
 It all came about from a German high-explosive shell.
 
@@ -223,7 +223,7 @@ He reached out and took her hand.
 
 "If I am dead then you are too and so neither of us has any advantage. I'm sure you don't look dead a bit and I don't feel dead. I can't make head or tail of it."
 
-### <h3 id="chapter-2">CHAPTER II: A Sergeant's Experience</h3>
+### <h3 id="chapter-2">Chapter II: A Sergeant's Experience</h3>
 
 "O Jimmie, the Elder Brother is coming! Oh! Oh! I'm so glad for it must be that he wants to talk to you himself."
 
@@ -419,7 +419,7 @@ Merciful and devoted as the Red Cross was, there was yet no hospital he knew of,
 
 "Darn you, Jimmie. This thing hurts like the dickens. It's a wonder you wouldn't flag a stretcher bearer or an ambulance or somethin' instead of standin' there grinnin' like a darn fool. Of course they have ambulances over here. Naturally they would."
 
-### <h3 id="chapter-3">CHAPTER III: A Soul Flight</h3>
+### <h3 id="chapter-3">Chapter III: A Soul Flight</h3>
 
 "No, there are no ambulances, Sergeant, but I will take you where you can have your wound attended to."
 
@@ -595,7 +595,7 @@ His eyes had been growing heavier and heavier and an overpowering drowsiness beg
 
 Then darkness seemed to cover all the Land of the Living Dead.
 
-### <h3 id="chapter-4">CHAPTER IV: Back to Earth--A Pretty Nurse</h3>
+### <h3 id="chapter-4">Chapter IV: Back to Earth--A Pretty Nurse</h3>
 
 A sensation of falling; great swirling masses of darkness, felt, not seen; the impression of rushing through space at dizzy speed, alone, now head first, now feet foremost, utterly helpless to control the terrific plunge, yet with it all not uncomfortable nor particularly uneasy, merely curious to know the result of this unguided and precipitate excursion; dimly conscious of a lessening of the darkness and speed, a gradually increasing glow of twilight with no particular source and disclosing nothing in particular. Eons of time were passing; a final appearance of the sun seen dimly through clouds and fog, and little by little a clearing of the vision. Ages passed and the clouds became lighter and more rosy; a final slow change of the sun into the glint of daylight on a swinging incandescent globe and the rosy clouds into a white ceiling and walls. Nothing more was visible. A shadow fell upon the wall, and across the range of vision moved what appeared to be the head of a young goddess wearing the uniform cap of the Red Cross.
 
@@ -817,7 +817,7 @@ Louise and Jimmie had studied the map of Paris in the meantime and had found tha
 
 Before a certain house in the Rue de la Ex they halted. The house was there, but that proved nothing. The front door was in an arched passage way which led to an inner courtyard. They rang the bell. A rattling of the door announced that someone inside was in the act of opening it. The next few moments would decide the matter. 
 
-### <h3 id="chapter-5">CHAPTER V: The Elder Brother in the Flesh</h3>
+### <h3 id="chapter-5">Chapter V: The Elder Brother in the Flesh</h3>
 
 Jimmie and Louise awaited the opening of the door with similar forebodings. Louise did not believe a single word of the wonderful story which Jimmie had told her, though she was firmly convinced that Jimmie himself believed it. Jimmie on the other hand, with his vivid memory of the adventure was certain that it had really happened, but was distrustful of the outcome of this physical and concrete test, and was wondering what excuse he could give if, as he feared, the house should prove to be tenanted by strangers.
 
@@ -915,7 +915,7 @@ The secretary had just come over and was full of zeal to save the souls of these
 
 This interruption of a new voice with an evident note of impatience in it caught Jimmie's attention and he looked around at the speaker with interest.
 
-### <h3 id="chapter-6">CHAPTER VI: A Doughboy's Ideas on Religion</h3>
+### <h3 id="chapter-6">Chapter VI: A Doughboy's Ideas on Religion</h3>
 
 The tone of voice of the last speaker attracted the attention of our friend Jimmie and he listened with interest.
 
@@ -1073,7 +1073,7 @@ They soared away right through the fabric of the ship, hovering for a moment abo
 
 Despite the assurances Mr. Campion had given him, Jimmie was afraid. There was his body, lying down below in its bunk, safe enough perhaps, but going one way while he was going another. The weather was calm but it was not weather which caused the ship to sail at her full speed without a light. Suppose a sub--he checked himself. Often had Jimmie gone over the top and never had he done so without fear, but no one who watched him would ever have known that Lieutenant Westman was afraid. Jimmie had the true courage to do his duty whether or not he was afraid, to act just as though he did not know what fear was, and he had heard too many brave men admit constant fear to be ashamed of being afraid. But he would have been ashamed to SHOW that he was afraid and never had he done so. He resolved that this experience should never drag from him any expression of the fear he really felt, so he turned away from the ship and looked his guide full in the face with a smile of readiness for anything that might come.
 
-### <h3 id="chapter-7">CHAPTER VII: Helping a Slain Soldier to Comfort his Mother</h3>
+### <h3 id="chapter-7">Chapter VII: Helping a Slain Soldier to Comfort his Mother</h3>
 
 Mr. Campion turned to him smiling:
 
@@ -1222,7 +1222,7 @@ Unprepared for such a vision, Jimmie staggered back against the wall, and it wou
 
 Slowly the cabin grew dim and dark, the movement of the vessel became noticeable; Jimmie felt the edges of the bunk and the softness of the blankets and with his outstretched hand touched the hardness of the wall. He was awake.
 
-### <h3 id="chapter-8">CHAPTER VIII: A Study of Auras</h3>
+### <h3 id="chapter-8">Chapter VIII: A Study of Auras</h3>
 
 Jimmie slept no more that night. He lay awake, pondering over the things which had happened, and gradually there came over him the conviction that the greatest lesson of all had not been told him, but had been left for him to find out for himself.
 
@@ -1282,7 +1282,7 @@ Often on the street Jimmie would see a well dressed business man with a most kin
 
 Jimmie made a mental note that the driving home of this truth was one of those things which it was intended he should accomplish. Perhaps it was part of his answer. 
 
-### <h3 id="chapter-9">CHAPTER IX: An Experience With Nature Spirits</h3>
+### <h3 id="chapter-9">Chapter IX: An Experience With Nature Spirits</h3>
 
 In a kind of waking dream passed the next few months of Jimmie's life, a life made very busy by the demands of his work and tinctured by a curious feeling that something was soon to happen, a feeling of uneasiness, of waiting, of suspense. He wrote to Louise regularly and received answers which were apparently satisfactory, to judge by the number of times that he read and re-read each letter. In his "sleep life," which was becoming more and more distinct and real, he was developing rapidly.
 
@@ -1346,7 +1346,7 @@ This was the first time that a brownie had ever touched him, for they are a shy 
 
 They walked on for a few minutes, and since the brownie weighed nothing, being an etheric entity, Jimmie simply held him as he would have held a child and tried to soothe him gently and help him recover from his fright. Thus they were situated when a whole troop of the little people came dancing out of the denser forest and spied them.
 
-### <h3 id="chapter-10">CHAPTER X: A Crisis in Love</h3>
+### <h3 id="chapter-10">Chapter X: A Crisis in Love</h3>
 
 When the band of brownies spied the most unheard of sight which greeted them as they swept out of the cover of the woods and came face to face with Jimmie holding his little brownie friend in his arms, they showed signs of greatest excitement.
 
@@ -1438,7 +1438,7 @@ This apparently anomalous condition arose from the fact that every night she cou
 
 But Jimmie thought she was entirely too happy. He, himself, was miserable or thought he was, and he needed sympathy. Also, though he had not admitted it to himself, he hoped that Marjorie would tell him something about Louise and why she had acted so. He felt that Marjorie must know. It would not be right to ask, but perhaps she would volunteer a few words of comfort. This thought of Jimmie's did not escape Marjorie for a moment, and it was what she was laughing at. Jimmie had come to have an idea that he was of considerable importance, and there was a lesson the subject due him.
 
-### <h3 id="chapter-11">CHAPTER XI: Light Again</h3>
+### <h3 id="chapter-11">Chapter XI: Light Again</h3>
 
 Jimmie was looking for sympathy. He was really feeling that he had been rather badly used, and he had sounded a call for Marjorie with a hazy idea that perhaps she could tell him why Louise had acted in such an extraordinary manner. In the finer realms, knowledge does not always have to be acquired in the same way that we obtain it in the physical world, but the advanced soul can very often know things by merely turning his attention to them.
 

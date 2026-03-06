@@ -95,7 +95,7 @@ Therefore, as the Group Spirit of the animals sends the separate Spirits of the 
 
 Ella Wheeler Wilcox offers the rightful claim of the entire animal kingdom in the following beautiful words:
 
-```
+<pre>
 I am the voice of the voiceless; 
 Through me the dumb shall speak, 
 Till a deaf world’s ear 
@@ -110,4 +110,4 @@ And I will fight his fight,
 And speak the word 
 For beast and bird 
 Till the world shall set things right. 
-```
+</pre>

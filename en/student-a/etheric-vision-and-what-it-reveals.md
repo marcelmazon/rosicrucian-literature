@@ -54,9 +54,9 @@ Man's immediate Utopia is no mere city on earth's surface, nor any of earth's la
     - [16 - The Reflecting Ether and Archetypal Forces](#chapter-16)  
         - [A Study of Cosmo-Conception Diagram No.1, page 52](#a-study-of-diagram-1)
 
-<h2 id="part-1">Part I – The Chemical Ether</h2>
+<h2 id="part-1">Part I - The Chemical Ether</h2>
 
-### <h3 id="chapter-1">I – The Nature of Etheric Sight</h3>
+### <h3 id="chapter-1">I - The Nature of Etheric Sight</h3>
 
 In 1918 Max Heindel wrote: "The process of preparation for the Aquarian Age has already commenced; and as Aquarius is an airy, scientific, intellectual sign, it is a foregone conclusion that the new faith must be rooted in reason and able to solve the riddle of life and death in a manner that will satisfy both the mind and the religious instinct." As we have in the past evolved five senses by means of which we contact the present visible world, so shall we in the far distant future evolve another sense which will enable us to see the denizens of the Etheric Region, including those of our dear ones who have left the physical body and inhabit the ether and lower Desire World during the first stage of their career in the spiritual realms.
 
@@ -96,7 +96,7 @@ And again (LETTERS TO STUDENTS p.82): "We do not see physical objects OUTSIDE th
 
 *Recent findings seem to suggest that the function of the retina is more analytical and selective than was formerly believed, but this does not affect the correctness of the above in reference to etheric sight.
 
-### <h3 id="chapter-2">2 – The Chemical Ether in the Human Body</h3>
+### <h3 id="chapter-2">2 - The Chemical Ether in the Human Body</h3>
 
 The etheric region of the earth's planetary envelope is part and parcel of the physical Earth itself. It is no "spiritual" except in the sense that the entire living universe is the expression of God's beauty and wisdom. It is commonly called "the lowest" of the invisible "spirit" regions, and etheric sight is also called "the lowest" form of "spiritual" sight. "Lowest" it may be, but it reveals a world lying just beyond the borderline of physical sight, magical to those fortunate enough to gaze upon it.
 
@@ -126,7 +126,7 @@ Various persons have seen this ether lying like a blue glove upon the hand, as a
 
 A great many people see the "dots" in the air, which seem to be gold or silver dust (or sometimes multicolored), and which sometimes move in great cloud-like masses before the vision. Ancient seers have described these clouds, out of which "the spirits of the ancestors" would condense and materialize before the physical eyes. This is again a view of the Chemical Ether, as it appears in materialization from etheric to physical formation.
 
-### <h3 id="chapter-3">3 – Atoms and Molecules</h3>
+### <h3 id="chapter-3">3 - Atoms and Molecules</h3>
 
 Without entering upon a discussion of atomic structure, which in any case demands specialized knowledge, it is evident that a rough correlation can be worked out as between the four ethers and the various atomic forces presently known. The greatest part of the mass of the atom resides in the nucleus, which consists of a complex of forces or particles: the heaviest are first the proton, weighing 1836 times as much as the electron, and then the neutron, which as its name suggests is neither positive nor negative. Protons and neutrons alike are called nucleons because they are part of the nucleus. Still smaller particles have been discovered, some in the nucleus and some falling through space. Scientists are searching among these for the "binder" of the nucleus, which as we have seen is not wholly positive as was originally believed, since it actually consists of more than just the positively charged proton.
 
@@ -162,9 +162,9 @@ The "forces" which act through and in the Chemical Ether will be described in a 
 
 Thus Max Heindel says that this miasma, when drawn from the patient's body, is subject to gravity and can be burned in a fire or carried away by water. "To the spiritual vision it is a dark or black jelly-like fluid. It lies shimmering and shivering on the floor. If now the patient gets up relieved, and goes over the place where this magnetism has been thrown away, then the miasma will re-enter the body and he or she will be in a worse condition than before."
 
-<h2 id="part-2">Part II – The Life Ether</h2>
+<h2 id="part-2">Part II - The Life Ether</h2>
 
-### <h3 id="chapter-4">4 – The Life Ether and Genetics</h3>
+### <h3 id="chapter-4">4 - The Life Ether and Genetics</h3>
 
 The Life Ether is the avenue for the operation of forces which have as their primary object the perpetuation of the species--in terms of humankind, the building of new racial forms. The cosmic force which works in the Life Ether is the third Principle of Deity, the Creative Energy of God. The lesser forces working in this ether are, briefly, the Solar-Lunar Race God Jehovah (who works with planets having moons, though His cosmic focus is the solar orb); the Archangelic Race Spirit; the mother and father of each reincarnating Ego; the incarnating Ego itself; Nature Spirits; Angels and Archangels; and spirits belonging to the plant life wave, including the plant Group Spirits. (Minerals generally do no possess a Life Ether).
 
@@ -228,7 +228,7 @@ The etheric atom and the physical atom are as a rule tightly intertwined, but oc
 
 Everywhere in Nature one finds the Law of the Spiral; from nebulae and galaxies in the heavens to the spiraling growth of leaf and bud in plants, right down into the helix of chromosomes on which the genes are strung like beads, and down still farther to ions--and to the atomic bases of substances which live or once had life. There we discover again that the carbon atom seems to be a special agent of the spiraling habit. For although there are some non-living molecules and ions which also show the spiraling habit, this characteristic is frequently the sign of the life forces. We quote: "What started the right-handedness and left-handedness now so vital to living things? If some life process must accompany the separation of right-handed from left-handed materials, how could life begin in the first place? If everything now right-handed were suddenly made left-handed, would life proceed without interruption and without change? These are deeply studied problems. Some good guesses have been made, but they have not produced the full answer. The guesses have come--and perhaps the full answer will come--from examining the symmetries of the forces acting on matter, along with the symmetries of the matter on which they act. Crystals furnish one of the most beautiful examples of order and symmetry. Thinking further, you will find that order and symmetry have very far-reaching application in all the natural sciences. Today physicists think of the symmetries of the fundamental particles of which the universe is made, of the fields of force in which those particles find themselves, and of the mathematical equations which describe the resulting behavior of the world. Chemists think of the symmetries of the molecules, simple and complicated, made of those particles. And biologists think of those symmetries--that orderliness--in their effort to understand the origin and behavior of life itself." (CRYSTALS AND CRYSTAL GROWING, Holden and Singer, pages 274-275).
 
-### <h3 id="chapter-6">6 – Organic vs. Inorganic Magnetism</h3>
+### <h3 id="chapter-6">6 - Organic vs. Inorganic Magnetism</h3>
 
 Although we may speak of the magnetic rain as "solar ether," it is not a property of sunlight. It is seen falling through space in dense darkness as well as in the light. This is why occult science classifies it with the Life Ether is the particular avenue for its specialization. Its fluidic magnetism is the source of what is commonly known as "sex attraction," which occult science views as an activity of the positive and negative poles of the Life Ether. Polarity, as such, however, is not limited to the Life Ether or to the sexuality of organically propagating creatures; it is found on higher spiritual planes as well, where it manifests in a different way.
 
@@ -352,7 +352,7 @@ Thus to the student in the Mystery School, THE STAR AND THE SPIRAL, in addition 
 
 With the dawn, the Helper returns to his body, and as he hovers over it, feeling the magnetic pull of the vital body drawing him down into the fleshly sheath, he is aware of the rotating of many wheels of force in his aura; and while these wheels rotate, he settles gently, with no shock or discomfort, into the dense physical instrument which lies upon the bed. He there awakens, to take up anew the cross of the body in the world of time and space.
 
-<h2 id="part-3">Part III – The Light Ether</h2>
+<h2 id="part-3">Part III - The Light Ether</h2>
 
 ### <h3 id="chapter-9">9 - The Light Ether and the Sun</h3>
 
@@ -458,9 +458,9 @@ Science has gone down to the far-red limit of the spectrum, but has not yet foun
 
 Wave-lengths of color will one day be used to open up the spiritual faculties, for as we have shown, these also belong to the Light Ether forces, supersensory perception as well as common sensory perception being dependent upon this Ether, so far as consciousness in the body is concerned.
 
-<h2 id="part-4">Part IV – The Reflecting Ether</h2>
+<h2 id="part-4">Part IV - The Reflecting Ether</h2>
 
-### <h3 id="chapter-12">12 – Between Two Skies</h3>
+### <h3 id="chapter-12">12 - Between Two Skies</h3>
 
 As far back as there is any written record, we find references to "reflection" and "images" as illustrating the way in which God's creative Ideas become objectified in space and time. Now when we look into a pool of clear water--man's first mirror--we see that the sky which is farthest above us is the bottom-most part of the reflected scene in the water; while other objects, including ourselves, occupy intermediate positions BETWEEN TWO SKIES.
 

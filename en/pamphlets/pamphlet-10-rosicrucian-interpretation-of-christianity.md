@@ -43,7 +43,7 @@ Only when man has a clear intellectual conception of the scheme of human develop
 
 Eye has not seen nor ear heard the glories that are yet in store for us, but Oliver Wendell Holmes has expressed a little of what we may look forward to in the following lines:
 
-``` 
+<pre>
 Build thee more stately mansions, O my soul. 
 As the swift seasons roll! 
 Leave thy low vaulted past! 
@@ -51,4 +51,4 @@ Let each new temple, nobler than the last,
 Shut thee from Heaven with a dome more vast, 
 Till thou at length art free, 
 Leaving thine outgrown shell by life’s unresting sea! 
-```
+</pre>

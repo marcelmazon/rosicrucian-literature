@@ -17,7 +17,7 @@ Organ or Piano Voluntary.
 
 Song: Third verse of “Nearer, my God, to Thee.” NEARER, MY GOD, TO THEE
 
-```
+<pre>
 There let the way appear
 Steps unto heav’n;
 All that Thou sendest me
@@ -26,7 +26,7 @@ Angels to beckon me,
 Nearer, my God, to Thee,
 Nearer, my God, to Thee,
 Nearer to Thee!
-```
+</pre>
 
 Unveil Emblem–White Cross with white rose in center. Rosicrucian Greeting by Reader: “My dear Sisters and brothers: May the Roses bloom upon your Cross.” Response by People: “And upon yours, also.” Reader: Let us devote a moment to silent meditation upon the thought of love, peace, and tranquility.
 
@@ -56,7 +56,7 @@ It has pleased God to call our friend, _________, to a greater work, to broader 
 
 As a child goes to school day after day for the purpose of gaining knowledge, with nights of rest between the school days, meanwhile growing a body from childhood to the full stature of manhood or womanhood, so also the spirit attends the school of life during a succession of life-days, and inhabits a series of earthly forms of gradually improving texture in which to gain experience. As Oliver Wendell Holmes says:
 
-```
+<pre>
 “Build thee more stately mansions, O my soul,
 As the swift seasons roll!
 Leave thy low vaulted past!
@@ -64,7 +64,7 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast,
 Till thou at length art free,
 Leaving thine outgrown shell by life’s unresting sea!”
-```
+</pre>
 
 We know that our friend will come back sometime, somewhere, with a better and nobler body than the garment which he (or she) has discarded. We know that under the immutable law of association he (or she) must return so that by repeated lives and friendships his (or her) love nature may be widened and deepened into an ocean of LOVE.
 
@@ -74,7 +74,7 @@ The garment which this spirit inhabited we consign to the fire, that its element
 
 As the poet Arnold says:
 
-```
+<pre>
 “Never the spirit was born!
 The spirit shall cease to be never!
 Never was time it was not,
@@ -91,7 +91,7 @@ So putteth by the spirit
 Lightly its garment of flesh
 And passeth on to inherit
 A residence afresh.”
-```
+</pre>
 
 Let us send up a prayer asking the aid of God in speeding our departed brother (or sister) on his (or her) way to take up his (or her) new work on the other side.
 
@@ -99,7 +99,7 @@ Let us send up a prayer asking the aid of God in speeding our departed brother (
 
 ### <h3 id="god-be-with-you-till-we-meet-again">God Be with You till We Meet Again</h3>
 
-```
+<pre>
 God be with you till we meet again
 At the Cross with Roses garnished;
 May our lives be pure, untarnished,
@@ -111,4 +111,4 @@ Till we meet, till we meet,
 Till we meet, the Rosy Cross to greet,
 Till we meet, till we meet,
 God be with you till we meet again.
-```
+</pre>

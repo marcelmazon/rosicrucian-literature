@@ -11,9 +11,9 @@ original_source_file: "self"
 
 ### <h3 id="to-those-who-mourn">To Those Who Mourn</h3>
 
-``` 
+<pre>
 “Blessed are they that mourn, for they shall be comforted.” (Matthew 5:4) 
-```
+</pre>
 
 These words of the great comforter who visited the Earth two thousand years ago are brought to the minds of all during the Easter feast which brings joy to millions, for humanity is now awakening more and more to its true import.
 
@@ -47,12 +47,12 @@ When a man enters into a sound sleep and his physical body is inert on the bed t
 
 The Rosicrucian Fellowship student has this assurance of his nearness to those who have passed over in what is commonly termed death and does not grieve as do others who have no hope. He knows that his loved ones have not gone away, but, as John McCreery says in his poem, “There Are No Dead”–
 
-``` 
+<pre>
 They are not dead. They have but passed 
 Beyond the mists that blind us here 
 Into the new and larger life 
 Of that serener sphere. 
-```
+</pre>
 
 ### <h3 id="immortal-life">Immortal Life</h3>
 

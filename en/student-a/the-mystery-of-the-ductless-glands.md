@@ -70,11 +70,11 @@ Mt. Ecclesia, June 1940
 
 ### <h3 id="chapter-1">Chapter I: Man's Development</h3>
 
-```
+<pre>
 When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; What is man, that thou art mindful of him? and the son of man, that thou visitest him?
 
 - Psalm 8:3,5. 
-```
+</pre>
 
 Before beginning these lessons on the ductless glands it would be well for us to briefly review the origin and constitution of man.
 
@@ -158,7 +158,7 @@ With a little practice each person representing a pure type can be readily ident
 
 The distinctions are less marked among the mixed types and consequently they are more difficult to classify. In them there is a conflict as to which ductless gland shall dominate, and of course the combined action of the different glands results in a considerable modification of the primary characteristics. In some cases not only two but even three of the ductless glands strive for supremacy, and their combined action causes a modification in the primary glandular appearance. A compromise effect is then necessitated. Also it is possible for an individual to be under the domination of one gland during one period of his life, and under another at a later time. In such instances the gland ruling the early life will leave its impress on the earliest developing features while other signs will indicate the more recent influence. Such combinations are classified as the adrenal-thyroid type, the pituitary-adrenal type, et cetera.
 
-#### <h4 id="the-adrenal-type-of-personality">THE ADRENAL TYPE OF PERSONALITY</h4>
+#### <h4 id="the-adrenal-type-of-personality">The Adrenal Type of Personality</h4>
 
 The adrenal face is often dark or freckled, and tends to be broad and irregular, the head square-shaped. The low hairline makes the brow appear low, and there is considerable hair over the cheek bones. The skin is one of the chief clues to the adrenal personality; the epidermis is always more or less pigmented. Pigmentation is due to a deposit of dark-brown coloring matter of varying intensity in the skin. It is a well-known fact that skin pigment bears a direct relation to the reaction of the organism to light, especially the ultraviolet rays, to heat radiation, and therefore to the fundamental productions and consumptions of energy by the cells. The hair of the adrenal type is profuse, thick, dry, and coarse. It is most prominent over the chest, abdomen, and back, and it has a kinky tendency. It often has an unexpected color: an Italian's may be yellow or a Norwegian's jet black. Adrenal people have well-marked canine teeth. With a properly cooperating thyroid and pituitary the adrenal person is in possession of striking vigor, energy, and persistence. Such a one may easily become a progressive personality and a winning fighter who seldom loses his objective.
 
