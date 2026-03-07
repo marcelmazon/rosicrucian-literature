@@ -11,7 +11,7 @@ original_source_file: "self"
 
 Max Heindel's Letters to Students
 
-DECEMBER 1910 TO JANUARY 1919, INCLUSIVE 
+December 1910 to January 1919, Inclusive
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
@@ -19,7 +19,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [Foreword](#foreword)
 - [1. Friendship as an Ideal](#letter-1)
@@ -120,7 +120,7 @@ Oceanside, California, 92054, USA
 - [96. Increasing the Life of the Archetype](#letter-96)
 - [97. The Law of Success in Spiritual Matters](#letter-97)
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 For eight years Max Heindel, the mystic and occultist sent out to the students of The Rosicrucian Fellowship a letter each month filled with much valuable information, explaining the cause of many of the difficulties occurring in daily life, not only of individuals but of nations as well, and giving a feasible solution of them. These letters, ninety-seven in number, sent out between Christmas 1910 and January 1919, constitute the subject matter of this book. 
 
@@ -130,7 +130,7 @@ In many of these letters there is a reference to accompanying lessons. Each lett
 
 In giving these letters to the world we feel that we are making a contribution of permanent value and importance, and one from which the student of esotericism will obtain much assistance in his progress on the Path. 
 
-### <h3 id="letter-1">LETTER NO. 1 - Christmas, 1910 - FRIENDSHIP AS AN IDEAL</h3>
+### <h3 id="letter-1">Letter No. 1 - Christmas, 1910 - Friendship as an Ideal/h3>
 
 In a religious movement it is customary to address one another as "sister" and "brother," in recognition of the fact that we are all children of God, who is our common Father. Brothers and sisters are not harmonious at all times, however. Sometimes they are even misguided enough to hate one another, but between friends there can be no feeling but love. 
 
@@ -144,7 +144,7 @@ Please remember me in your devotions, and be assured that you shall have a place
 
 I enclose the first lesson in the hope that the foregoing may establish our relations upon a footing of sincere friendship. 
 
-### <h3 id="letter-2">LETTER NO. 2 - February, 1911 - SOUL GROWTH THROUGH DOING</h3>
+### <h3 id="letter-2">Letter No. 2 - February, 1911 - Soul Growth through Doing</h3>
 
 I hope that you thoroughly studied the Christmas lesson and are thoroughly familiar with the phenomenon of the spiritual ebb and flow in the universe so that you will be able to give a reason for your faith in "holy Night." In this month's lesson the idea is carried to a further conclusion, not previously taught publicly. There are other teachings in this little lesson which shed a clearer light upon the immaculate mystery-birth than has ever been given before, and I hope that you will diligently study it during the coming month so that you may realize to the full the transcendent beauty of the sublime Rosicrucian teaching on this subject. 
 
@@ -156,7 +156,7 @@ In this coming month dear friend, let us take as a spiritual exercise the follow
 
 May God abundantly bless you and strengthen you in your efforts. 
 
-### <h3 id="letter-3">LETTER NO. 3 - March, 1911 - UNSELFISH SERVICE TO OTHERS</h3>
+### <h3 id="letter-3">Letter No. 3 - March, 1911 - Unselfish Service to Others</h3>
 
 You have of course studied in some measure the various teachings of the Rosicrucian Order, and when I address myself to you, it is not as if I were speaking to a stranger who is unfamiliar with the teachings or perhaps even skeptical of the existence of such an Order. These teachings have spread like wildfire in the Western world during the past two years, and that of itself shows a power behind them which is not of the ordinary human kind. This you will probably realize better when you have read the lesson for this month, which deals with this mysterious Order and shows it relation to the Rosicrucian Fellowship. 
 
@@ -168,7 +168,7 @@ Last month we took for our motto the thought that if a certain task were to be p
 
 In this coming month I would ask you to give your thoughts and your efforts to advance the teachings of the Fellowship. Do not attempt to convince any one against his will or to proselytize, but try to find out in an unostentatious manner what bothers your neighbor in a spiritual way. Then try to help him with our teachings. But whether you say anything to him about where you received them or not must depend upon your own judgment. The main thing is to spread the teachings, not to advertise the Rosicrucian Fellowship. 
 
-### <h3 id="letter-4">LETTER NO. 4 - April, 1911 - A PLEA FOR THE CHURCH</h3>
+### <h3 id="letter-4">Letter No. 4 - April, 1911 - A Plea for the Church</h3>
 
 Last month I promised to take up further elucidation of the Rosicrucian Order and its relation to the Fellowship, but I forgot that Easter was at hand and would require attention first. I hope you will agree that it is more important to study this great cosmic event, particularly as we live in a Christian land and, I hope, are Christians at heart. In fact, dear friend, the keynote of what I would bring out this month is really a plea for the church, and it is with that end in view that I have printed the poem, "Creed or Christ?" at the end of the lesson. 
 
@@ -178,7 +178,7 @@ Of course there is no compulsion. You are not required to join or attend a churc
 
 Please think this matter over, dear friend, and let us take for our motto this month, greater usefulness, that we may grow abundantly by striving to improve our opportunities. 
 
-### <h3 id="letter-5">LETTER NO. 5 - May, 1911 - VALUE OF RIGHT FEELING</h3>
+### <h3 id="letter-5">Letter No. 5 - May, 1911 - Value of Right Feeling</h3>
 
 I hope you enjoyed last month's lesson. Perhaps you will think it strange, but I have fairly reveled in it myself, for it aroused by devotion most powerfully to think how the Divine Life pours itself out for us periodically so that we may have more abundant life. Without that annual influx of God's life, all life, or rather form, would cease to exist. It is by feeling the higher emotions that we raise ourselves the easiest. It is good to study and to develop our minds, but there is a great danger in this age of becoming ensnared in the meshes of intellect. Paul struck the nail on the head when he said: "Knowledge puffeth up, but love edifieth." We all wish to KNOW; it is natural that we should, but unless our knowledge serves to make us better men and women, better servants to our fellows, it does not make us greater in the sight of God. Therefore cultivation of right feeling is of enormous importance, and I sincerely hope that you have felt the Easter lesson for that is the only way to get full benefit from it. 
 
@@ -188,7 +188,7 @@ I hope that you will long use this lesson as material for mediation as it is dif
 
 May God abundantly bless you and open up to you the storehouse of His riches, which surpass all earthly enjoyments, and may you feel the wave of love which He pours out afresh from year to year as a reality. Then you will never be lonely if you are alone, and you will be, oh! so much richer, no matter how much you are blessed with earthly love, and so much more able to radiate that most sublime of all emotions, Spiritual Love. 
 
-### <h3 id="letter-6">LETTER NO. 6 - June, 1911 - HEALING THE SICK</h3>
+### <h3 id="letter-6">Letter No. 6 - June, 1911 - Healing the Sick</h3>
 
 Christ gave two commands to His disciples when He said: "Preach the gospel, and heal the sick." We saw in last month's lesson how closely the office of spiritual advisor is linked with healing of physical ailments, for though the immediate and apparent cause of disease may be physical, in the final analysis all ailments are due to transgression of the Laws of God, which we usually call "Laws of Nature" in our materialistic attempts to eliminate the Divine. Bacon, with rare spiritual perception, said: "God and Nature differ only as the seal and the imprint." As flexible sealing wax is molded to the rigid lines of the seal, so also nature passively conforms to the immutable laws of its Divine Creator, and thus health and a carefree condition are the rule among the lower kingdoms. But when the human stage is reached, when individuality is evolved and we begin to demand choice, prerogative, and emancipation, we are apt to transgress the laws of God, and suffering invariable follows. 
 
@@ -202,7 +202,7 @@ In the above you have the great reason why we should study astrology from the sp
 
 We have named this beauty spot of nature, "Mt. Ecclesia," and a building fund has already been started to erect suitable buildings: a School of Healing, a Sanitarium, and last but not least, a place of worship--an Ecclesia, where the Spiritual Panacea may be prepared and sent all over the world to be used by properly qualified helpers. 
 
-### <h3 id="letter-7">LETTER NO. 7 - July, 1911 - BAPTISM OF WATER AND OF SPIRIT</h3>
+### <h3 id="letter-7">Letter No. 7 - July, 1911 - Baptism of Water and of Spirit</h3>
 
 Last month we started to consider the Sacraments, and it was my intention to write upon Communion this month, but the subject has proved so vast that it takes in almost everything from Genesis to Revelation, besides a number of physiological aspects such as the chemistry of food and the blood; also the atmosphere, etc. Further, it is inseparably connected with the second coming of Christ. It will require more time than I can give to get it out early in the month, also it will cover several lessons. Therefore I thought it best not to use that subject until next month, and in the meantime I have decided to give you a lesson from the new book--The Rosicrucian Mysteries. This lesson is partly taken from the chapter entitled, "The Mystery of Light, Color, and Consciousness." You will find it most interesting and instructive. 
 
@@ -212,7 +212,7 @@ Thus He became filled with love, and therefore naturally radiated that quality, 
 
 The Baptism of Water refers to a past condition when we were irresponsible as the child we take to church today, but the Baptism of Spirit is something yet in the future for most of us, and it is this for which we are striving. Let us pay particular attention to the thirteenth chapter of 1st Corinthians during this coming month. Let us endeavor to practice in our daily lives at least one of the virtues which Paul says lead to illumination, so that we may soon fit ourselves to see face to face the beauties of the Sacraments, which perhaps are now but dimly perceived as through a darkened glass. 
 
-### <h3 id="letter-8">LETTER NO. 8 - August, 1911 - RULING OUR STARS</h3>
+### <h3 id="letter-8">Letter No. 8 - August, 1911 - Ruling our Stars</h3>
 
 I hope you enjoyed last month's lesson on "The Mystery of Light, Color and Consciousness," and that you now have a more thorough realization of what is meant by the saying, "In Him we live and move and have our being," for everywhere, throughout the whole universe, wherever light penetrates, there God also is. Even in the places which we call dark because the constitution of our eyes prevents perception of objects there, organs of vision differently constituted can function as exemplified in the instance of cats and owls. 
 
@@ -222,14 +222,14 @@ We even can, and do, change our mind; we can cultivate it in one direction or an
 
 The quality of mutability of matter and evanescence of form is the basis of all spiritual progress, however, for if matter were immutable as spirit, there would be no possibility of advancement. So long as we drift with the tide of life and do not consciously control the ebb and flow of matter to and from our being, we are the sport of circumstances. Then when a ray of Mars is projected at a certain angle to the atoms of our body, we feel all the aggressiveness which it carries. A Saturnian beam, on the other hand, brings us depression; it fills us with gloom and fearful forebodings. But as we evolve and arrive at an understanding of the mystery of light, color, and consciousness, we gradually learn to rule our stars. Then by conformity to the laws of nature we become masters of our own destiny; and it is of vital importance that no matter what the aspects which may rule at any certain time we should always assert ourselves and say: 
 
-```
+<pre>
 "It matters not how strait the gate,
 How charged with punishments the scroll,
 `I' am the master of my fate;
 `I' am the captain of my soul."
-```
+</pre>
 
-### <h3 id="letter-9">LETTER NO. 9 - September, 1911 - Invisible Guardians of Humanity</h3>
+### <h3 id="letter-9">Letter No. 9 - September, 1911 - Invisible Guardians of Humanity</h3>
 
 You saw in the lesson, on Baptism, how we went back to the earliest days of evolution upon our planet to find the significance of that sacrament. You will have noticed also in last month's lesson how the Sacrament of Communion has its root in the beginning of time. Thus it is apparent that unless we are capable of investigating the past history of the human race, we can obtain no clear conception concerning anything connected with mankind. Goethe spoke of "Das Ewig Werdende"--the ever becoming. Change is the mainspring of progression, and if we look upon man as he is now, without regard to what he has been, our deductions as to his future must necessarily be very limited. 
 
@@ -241,7 +241,7 @@ During the ages which have passed, we in the Western world have particularly fel
 
 It is a cause for considerable congratulation that a number of our Fellowship members are workers in institutions conducted along the above lines, and I sincerely hope to see the day when a large majority will be able to take up work of this nature, each in his respective environment. But begin at home, be kind to all with whom you immediately come in contact, and when you have been found faithful in a few things, the larger opportunities will not be wanting. 
 
-### <h3 id="letter-10">LETTER NO. 10 - October, 1911 - FLESH FOOD AND ALCOHOL</h3>
+### <h3 id="letter-10">Letter No. 10 - October, 1911 - Flesh Food and Alcohol</h3>
 
 It is one of the usual human characteristics to eulogize that which pleases us, and deprecate that for which we have an aversion, but I trust that you will have learned from last month's lesson the one great and glorious fact that in the Father's kingdom all things work together for good. Those among us who are content to live upon vegetables, and those among us who feel no desire for strong drink, are usually too prone to look down upon our brothers and sisters who still use flesh food and intoxicants with a feeling of, "I am so much holier that thou"; but you will doubtless have perceived from what has been said in the lesson that such a feeling is entirely gratuitous. Flesh food and alcohol have had a very material share in the world's progress, and were it not for them we should not today be enjoying many of the comforts and labor-saving devices which make life in the Western world so much easier than in primeval times. Neither is the day of their usefulness entirely past; they are necessities in the lives of many people. Besides, as the Good Book says, it is not that which goes into the mouth that defiles, but that which proceeds therefrom; and the attitude of haughty disdain for those who still use flesh foods, or are subject to alcoholism, is far more subversive of spiritual growth than the mere partaking of these foods. 
 
@@ -249,7 +249,7 @@ Let us therefore not condemn others, but let us try to see the matter from their
 
 It may be said, however, with safety that we eat too much flesh, and like all compounds of nitrogen, such as nitroglycerine, gun-cotton, and other explosives, flesh foods are extremely unstable and dangerous to the system. Therefore we will do well if we urge moderation upon all with whom we come in contact. Science is sufficiently well aware of the facts in the case to furnish ample backing for any one who undertakes this mission. We may not save the lives of as many animals by preaching moderation among our associates as we would if we could convert them to a bloodless diet, but if our motive is to avert tragedy to all possible, that will be the wisest course. Also is we can inculcate a spirit of compassion, the desire for flesh will soon vanish before the spirit of love. 
 
-### <h3 id="letter-11">LETTER NO. 11 - October, 1911 - PREPARATIONS FOR REMOVAL TO MT. ECCLESIA</h3>
+### <h3 id="letter-11">Letter No. 11 - October, 1911 - Preparations for Removal to Mt. Ecclesia</h3>
 
 Saturday, October the 28th, at 12:40 P.M. sharp, Pacific time, we are going to break ground for the first building on Mt. Ecclesia, the home-site of the Rosicrucian Fellowship. The house will be comparatively small, and we are striving to make it as inexpensive or we shall not be able to build at all. I am even doing the work of architect and contractor to save expenses. Nevertheless, we consider this first breaking of ground an epoch of greatest import in the young life of our society, for though our private quarters may be cramped we shall have a large workroom and accommodation for several assistants until funds become available for erection of the Ecclesia and other pretentious structures more worthy of our mission in the world. 
 
@@ -265,7 +265,7 @@ But you can do more; the cumulative thought of many friends directed day by day 
 
 Further, will you write me once in a while assuring me of your sympathy and cooperation? I may not be able to reply and thank you individually, but you can rest assured that I shall appreciate your expression of good will none the less. 
 
-### <h3 id="letter-12">LETTER NO. 12 - November, 1911 - GROUND-BREAKING FOR FIRST BUILDING ON MT. ECCLESIA</h3>
+### <h3 id="letter-12">Letter No. 12 - November, 1911 - Ground-Breaking for First Building on Mt. Ecclesia</h3>
 
 This month I am departing from my usual custom of devoting the student's letter entirely to a review of the previous months lesson, in order to tell you of the ceremony we had at Mt. Ecclesia on the 28th, when we broke ground for the first building on the site of our permanent Headquarters. I feel sure you were with us in spirit, that you are eager to hear about it, and I know the recital will bring us in closer touch. 
 
@@ -285,7 +285,7 @@ The day of the ceremony was an ideal California day; the sun shone is a cloudles
 
 At the appointed time I broke ground for the building. All helped to excavate for the cross, which was set by Wm. Patterson. Mrs. Heindel planted the rose, which was then watered by all present. May it grow, may it bloom, to adorn the nakedness of the cross and be an inspiration to purity of life that will cover all past sins, no matter how dark the life may have been. The address--as it should have been delivered-constitutes this month's lesson. Circumstances occasioned some modifications. 
 
-### <h3 id="letter-13">LETTER NO. 13 - December, 1911. - GENERATIVE PURITY THE IDEAL FOR THE WEST</h3>
+### <h3 id="letter-13">Letter No. 13 - December, 1911 - Generative Purity: The Ideal for the West</h3>
 
 Have you grasped the main point in our last month's lesson on the symbolism of the Rose Cross, the crux of the Western Wisdom Teaching? It is Generative Purity. 
 
@@ -301,7 +301,7 @@ Thus while the younger, weaker Eastern soul is commanded by the Compassionate Te
 
 A New Race is being born now. Pure-minded Christian men and women are awakening more and more to the claims of the unborn. Let us celebrate the anniversary of our Savior's birth by praying that pure conditions may soon become general, and that all children may be well-born. Last, but not least, let each of us teach, preach, and live this doctrine. 
 
-### <h3 id="letter-14">LETTER NO. 14 - January, 1912 - THE COMING AGE OF AIR</h3>
+### <h3 id="letter-14">Letter No. 14 - January, 1912 - The Coming Age of Air</h3>
 
 Reviewing last month's lesson, there is the startling statement that in the next epoch we shall abandon our present terra firma and live in the air clothed in a gaseous body. Another writer along these lines has provoked much amusement by a series of articles so wildly imaginary that the opinions which we have heard expressed unanimously vote him champion among story tellers. Yet he stays on earth; his temples are as solid as a rock; and I have hesitated to publish the above mentioned teaching till I decided that duty required me to speak, even if some students do class me as visionary. 
 
@@ -315,7 +315,7 @@ The majority of Christians have not this great advantage, but they live, neverth
 
 If we believe only in rebirth, we can expect nothing but a continuous return to earth to battle with the Law of Jehovah; we have no part in the Love of Christ. To be perfectly in line with the facts, to be able to live by the whole truth, we must realize that birth and death are evanescent features of this age of concrete existence, but life itself is interminable. John tells us very definitely that though it does not appear what our constitution shall be, we shall be changed to the likeness of Christ and remain deathless throughout the Age; and it behooves us to keep this great hope firmly before us and pray for the Kingdom to come, as our Lord taught. 
 
-### <h3 id="letter-15">LETTER NO. 15 - February, 1912 - THE ROLE OF STIMULANTS IN EVOLUTION</h3>
+### <h3 id="letter-15">Letter No. 15 - February, 1912 - The Role of Stimulants in Evolution</h3>
 
 Our last lesson finished the series dealing with the sacrament of Communion by description of how the spirit alcohol, which is fermented outside the system, is being superseded by sugar, which ferments within. I trust you to see the thread of the argument which has been running through these lessons: That a stimulant from the lethargy attendant upon a meat diet; that the bacchanalian orgies in ancient temples, which properly fill us with horror nowadays, were then of immense value in human development; that the first miracle of Christ and His Last Supper were devoted to a dispensation of the stimulant; that He ordained its use "till He come"; that as consumption of sugar increases, use of alcohol diminishes and, concurrently, the moral standard is gradually elevated; that people grow more altruistic and Christlike in proportion to their use of the non-inebriating stimulant, and that therefore the temperance movement is one of the most powerful factors to hasten the coming of Christ. 
 
@@ -327,7 +327,7 @@ In the meantime plant life is growing more sentient. The lateral limbs of trees 
 
 Today, we have considerable ability in working with the chemical, mineral substances; we mold them into houses, ships, and all the other things which evidence our civilization. We are master of the minerals outside our body, but powerless to assimilate and use them inside our system to build our organs until the plant life has transmuted crystals into crystalloids. Our work with the minerals in the exterior world is raising their vibration and is paving the way for direct interior use. By spiritual alchemy we shall build the temple of the spirit, conquer the dust whence we came, and qualify as true Master Masons prepared for work in higher spheres. 
 
-### <h3 id="letter-16">LETTER NO. 16 - March, 1912 - NECESSITY FOR DEVOTION</h3>
+### <h3 id="letter-16">Letter No. 16 - March, 1912 - Necessity for Devotion</h3>
 
 As the subject of marriage, with which our last month's lesson dealt, is in certain sense receiving a further treatment this month, I feel that the letter to students this month may perhaps be most profitably devoted to a point on which I have for a long time wished to speak. 
 
@@ -337,7 +337,7 @@ In another society formed along these lines, I have known groups to sit in class
 
 Let me recall to you the warning given by our Teacher in the Rosicrucian Cosmo-Conception with reference to diagrams: "They are at best only crutches to aid our limited faculties; when we make a diagram to explain spiritual mysteries, it is as if we should take the wheels out of a watch and lay them side by side to illustrate how the watch keeps time." Although charts may be a valuable help at a certain stage of our development, it behooves us always to remember their limitations and strive to attain by our intuition the true spiritual idea. I feel also that it is of the greatest importance that students should keep the true purpose of the Cosmo-Conception, its aim and its end, most clearly and accurately before them at all times. It is stated in black letters on the return postal cards, and I would advise every student to write it in large letters and past it into the Rosicrucian Cosmo-Conception where it may be seen each time the book is opened, for though we have all knowledge and can solve all mysteries, we are but as tinkling cymbals unless we have love and use it to help our fellow creatures. 
 
-### <h3 id="letter-17">LETTER NO. 17 - April, 1912 - STRAGGLERS IN EVOLUTION</h3>
+### <h3 id="letter-17">Letter No. 17 - April, 1912 - Stragglers in Evolution</h3>
 
 From the teaching contained in last month's lesson you will understand that there is absolutely not foundation for the idea, as commonly held, about lost souls. There is not a single word in the Bible which carries with it the idea that we have become accustomed to associate with the English word "forever." The Greek word is aionian and means "an indefinite period of time, an age"; and when we read in the Bible the words, "forever and ever" they should really be translated "for ages and ages." Besides, as it is a truth in nature that "in God we live and move and have our being," a soul lost would mean that a part of God would be lost, and that of course is unthinkable. 
 
@@ -347,7 +347,7 @@ Nevertheless, the Lucifer Spirits are aiding in the process of evolution. From t
 
 Thus you see how these "lost sheep" of a former age are given a chance to retrieve their estate in the present scheme of evolution. They are delayed, and, as stragglers, must always appear evil, but they are not "lost beyond redemption." They may save themselves by serving us, probably by transmuting Scorpio into Aries, generation into regeneration. 
 
-### <h3 id="letter-18">LETTER NO. 18 - May, 1912 - KEYNOTE OF THE ROSICRUCIAN TEACHINGS</h3>
+### <h3 id="letter-18">Letter No. 18 - May, 1912 - Keynote of the Rosicrucian Teachings</h3>
 
 The burden of last month's lesson was that it is our duty to pass on the fruits of our study in an endeavor to benefit the world. But mystics usually stand aloof from their fellows and the world looks askance at us and our beliefs. This ought not to be, and analysis will prove that the teachings objected to are relatively unimportant and that the most vital of the teachings will find ready acceptance and prepare the way for further instructions. 
 
@@ -371,7 +371,7 @@ It may be well to explain that by reviewing events in reverse order they are mor
 
 This is discriminative propaganda. 
 
-### <h3 id="letter-19">LETTER NO. 19 - June, 1912 - SACREDNESS OF SPIRITUAL EXPERIENCES</h3>
+### <h3 id="letter-19">Letter No. 19 - June, 1912 - Sacredness of Spiritual Experiences</h3>
 
 Many letters have been received during the past month voicing appreciation of students in respect to the last lessons, and it has been a source of gratification to note the deep-felt love for the Fellowship and the desire to know "how it all came about." Thus I feel somewhat better about introducing my personal experiences than I did in the first place. 
 
@@ -383,7 +383,7 @@ My Teacher one day set me the task of following a certain person's life through 
 
 The Teacher then told me to compare these lives to find why they died as children, and for many weeks I studied them night after night, but could find not similarity in the conditions of their first death until one Sunday morning just as I was entering my body, it flashed through my brain. I awoke with a shout--Eureka! I almost jumped into the middle of the floor in my joy at having found the key. The horrors of battle, fire, and accident, and the lamentations of relatives alike prevent deep etching of the life-panorama; and the value of a life terminated under such conditions would be lost save for the following death as a child and subsequent tuition first in the first heaven, as fully elucidated in our literature. The law, as there stated, logically explains a mystery of life independent of the accuracy of my story. As I relate it only to give point to our lesson, I feel consistent when exhorting others to silence as to their spiritual experiences. 
 
-### <h3 id="letter-20">LETTER NO. 20 - July, 1912 - INITIATIVE AND PERSONAL FREEDOM</h3>
+### <h3 id="letter-20">Letter No. 20 - July, 1912 - Initiative and Personal Freedom</h3>
 
 What do you think is the main point in last month's lesson? It is not my experiences, although students have attached a great deal of worth to them, but in reality they are insignificant save as they serve to convey teaching of benefit part from them. The greatest value of that which was recorded in last month's lesson is the reiterated and emphatic insistence on absolute personal freedom in the Rosicrucian Fellowship. 
 
@@ -395,7 +395,7 @@ The Western Teacher is more like the parent bird which pushes the young off the 
 
 It is the same with every associate of the Fellowship. We are to learn the lesson of working for a common purpose, without leadership; each prompted alike by the Spirit of Love from within to strive for the physical, moral, and spiritual uplift of all the world to the stature of Christ—the Lord and Light of the world. 
 
-### <h3 id="letter-21">LETTER NO. 21 - August, 1912 - THE CHRIST SPIRIT AND THE SPIRITUAL PANACEA</h3>
+### <h3 id="letter-21">Letter No. 21 - August, 1912 - The Christ Spirit and the Spiritual Panacea</h3>
 
 You remember reading in the Rosicrucian Cosmo-Conception about how in the ages from Noah to Christ, under the regime of Jehovah, universal selfishness was fostered in the entire human race. Man was told that "Heaven, even the heavens, are the Lord's, but the earth has He given to the children of men." Thus man was urged to seek material possessions, and had no conception of treasures in heaven, which are the fruits of self-sacrifice. As a consequence, his heaven life became more and more barren; spiritual progress waned, and unless a new impulse had been given, it must eventually have ceased. 
 
@@ -403,7 +403,7 @@ Then the Cosmic Christ Spirit, the "Redeemer," commenced His beneficent work, an
 
 In this coming of Christ to earth we have an analogy between it and the administering of the spiritual Panacea, according to the law, "As above, so below." There is in every little cell of the human body a separate cell life, but over and above that is the ego which directs and controls all cells so that they act in harmony. During certain protracted illnesses the ego becomes so intent upon the suffering that it ceases to fully vivify the cells; thus bodily ailment breeds mental inaction and it may become impossible to throw off disease without a special impulse to dispel, the mental fog and start the cell activities anew. That is what the Spiritual Panacea does. As the inrushing Christ life on Golgotha commenced to dispel the shell of fear bred by inexorable law that hung like a pall about the earth; as it started the millions of human beings upon the path of peace and good will, so also when the Panacea is applied does the concentrated Christ life therein contained rush through the patient's body and infuse each cell with a rhythm that awakens the imprisoned ego from its lethargy and gives back life and health. May God grant that we shall soon be able to bring this great boon to suffering humanity. 
 
-### <h3 id="letter-22">LETTER NO. 22 - September, 1912 - THE MYSTIC BREAD AND WINE</h3>
+### <h3 id="letter-22">Letter No. 22 - September, 1912 - The Mystic Bread and Wine</h3>
 
 If I had asked the students to write me what--in their opinion--was the most important point in last month's lesson, what do you think would have been answered in the majority of the cases? I believe many would feel that the connection between the bread, the wine, and health was the principal idea; and perhaps I may be responsible for that view because I printed those words in bold type. But while it is of signal important that we should grasp this connection between the bread, the wine, and health, and apply it in our lives to the very utmost power of our ability, if we do so for any less reason than given by our Lord, it is essentially selfish, and will not further our development nearly as much as if we do it as He requested, "in remembrance of Him." 
 
@@ -413,7 +413,7 @@ The Christ entered the earth on Golgotha. He is leavening the earth anew and mak
 
 Do you remember "Sir Launfal's Vision"? It was not the size of the gift that counted; the gold coin he flung to the beggar was materially more valuable than the crust he gave later; but the coin was given in a spirit of impatience to be rid of a loathsome presence. The crust was given in remembrance of the Christ, and for His sake, and that made all the difference. 
 
-```
+<pre>
 "And Sir Launfal said: 'I behold in thee,
 An image of Him who died on the tree;
 Thou also hast had thy crown of thorns,
@@ -423,11 +423,11 @@ And to thy life were not denied
 The wounds in the hands and feet and side;
 Mild Mary's Son, acknowledge me;
 Behold, through him I give to Thee!"
-```
+</pre>
 
 The more we cultivate the spirit of doing all things whatsoever for the sake of Christ and His Liberation, the better and the more fruitful lives we shall lead. 
 
-### <h3 id="letter-23">LETTER NO. 23 - October, 1912 - DESCENDING AND ASCENDING ARCS OF EVOLUTION</h3>
+### <h3 id="letter-23">Letter No. 23 - October, 1912 - Descending and Ascending Arcs of Evolution</h3>
 
 Looking over the last month's lesson, the most important points are the great antiquity and cosmic origin of the two great movements known now as Freemasonry and Catholicism--movements instituted respectively by the Sons of Fire and the Sons of Water. It is true, as stated in the Cosmo-Conception, that Initiation of human beings did not commence until about the middle of the Earth Period, when the fires of Lemuria were battling with the waters of Atlantis, but it is also true that the education of humanity depends upon the training their instructors have had in previous evolution. The attitude assumed by the two groups of angels has resulted in the above mentioned antagonistic movements. The fallen angels and fallen man are intimately connected with the work of the world under its temporal rulers. From Lucifer, the Spirit of Mars, comes the fiery red blood which is the vehicle of all material energy, ambition, and progress; but also, it is the vehicle of passion, which taints it and has caused it to flow until the earth is red. From Jehovah come the restraining Law and punishment for sin. 
 
@@ -441,7 +441,7 @@ When the turning point was passed in the middle of the Atlantean Epoch, woman gr
 
 As the white light changes color according to the angle of refraction, so also the viewpoint of the spirit changes with the sex of its vesture; but as the spirit alternates between male and female embodiments, we may readily balance the scales and take the path that most appeals to us, or combine the best path in both. Our later lessons will point the path, but we may say now that He who said, "I am the true Light," is at the end of the path--Lucifer and Jehovah alike are but stepping-stones on the way to Truth and Life. 
 
-### <h3 id="letter-24">LETTER NO. 24 - November, 1912 - THE ROSICRUCIAN FELLOWSHIP, AS SPIRITUAL CENTER</h3>
+### <h3 id="letter-24">Letter No. 24 - November, 1912 - The Rosicrucian Fellowship, a Spiritual Center</h3>
 
 On the 28th of last month it was a year since we broke ground for the first building on Mt Ecclesia. It was a typical California day of glorious sunshine with a cloudless sky whose deep blue vied with the azure of the Pacific Ocean visible for more than a hundred miles from where we stood on the Headquarters grounds. We were a little flock of nine, mostly visiting members. As we looked over the lovely green San Luis Rey valley towards the great snow-clad mountains in the east and behold the white walls, the red tiled roof, and the gilded dome of the San Luis Rey Catholic Mission, where the Franciscan Fathers wrought and taught for centuries among Mexicans and Indians, it seemed to us an augur. 
 
@@ -457,7 +457,7 @@ A year ago I wrote the students stating the exact moment when we would break gro
 
 The Christian Scientist "demonstrates" when he wishes to build edifices, and money pours into his coffers; the New Thoughter sends out a "demand"; and Christians of all denominations "pray" for funds. They all use one fundamental method, but employ different names. All wish magnificent piles of stone and glass, and they get them. I know that a place and building commensurate with the dignity of our work are necessary, but much as we need them, I cannot pray for sticks and stones nor can I ask you to do so; but I can, will, and do ask you to join me in the prayer that the Rosicrucian Fellowship headquarters may become a most efficient and powerful spiritual center. Pray with your whole soul that the workers at Headquarters be given grace to push the work; make them a focus for your loving thoughts so we may radiate that grace back on a world hungry for just such love. In ourselves we are frail, but through your prayers and God's grace we shall be a mighty force in the world; and if we seek first the kingdom of God, such trifles as building necessary for the work will follow as a matter of course without degrading prayer by making it a means of acquiring physical possessions. 
 
-### <h3 id="letter-25">LETTER NO. 25 - December, 1912 - THE MYSTIC MESSAGE OF CHRISTMAS</h3>
+### <h3 id="letter-25">Letter No. 25 - December, 1912 - The Mystic Message of Christmas</h3>
 
 Christmas bells! Have you ever felt their magic in childhood days before doubt crept into your heart and shattered the ideals inculcated by the church? The same bell rang for church on Sundays and for prayer meeting at mid-week, but there was a different ring at Christmas, something unusually festive, something which we now attribute to childish imagination. We miss this something, however much we may congratulate ourselves upon emancipation from what we are pleased to term "the mummeries of the church." Wordsworth, in his "Ode to Immortality," voiced the keen feeling of regret due to loss of childish ideals; nothing the world has to give can take their place, and however we may be blessed with material wealth we are truly poor when the "glamour" of youth has gone and intellectual conceptions stifle much so-called "superstitions." 
 
@@ -469,7 +469,7 @@ For demonstration, observe the nature and quality of the love life poured throug
 
 May the mystic music of the Christmas chimes awaken the tenderest chord in your heart, and may the keynote of joy be uppermost in your being during the coming year--this is the Christmas wish of the workers on Mt. Ecclesia. 
 
-### <h3 id="letter-26">LETTER NO. 26 - January, 1913 - SERVICE TO OTHERS DURING THE YEAR</h3>
+### <h3 id="letter-26">Letter No. 26 - January, 1913 - Service to Others during the Year</h3>
 
 It is cold in the Northern Hemisphere--old Boreas holds land and sea in his icy grip--but at no other time of the year are the hearts of men so warm. "A merry Christmas" and "A happy New Year" are salutations and expressions of good will which greet us everywhere. To most people they are only a breath flung to the breeze, but nevertheless they leave an atmosphere of kindness which is more important than is usually realized. The world would be richer if such cordial greetings were common all the year instead of being confined to this season. But, "if wishes were horse, beggars would ride" says the proverb; and unless our acts are directed towards the realization of our wishes, the benefit is nil. A certain sulfuric region is said to be paved with good intentions such as "well-meaning men" cherish, but the world needs works more than wishes. 
 
@@ -483,7 +483,7 @@ We shall also be pleased to furnish you slips with information about the Rosicru
 
 May spiritual prosperity and abundance of soul growth mark every day of your New Year. 
 
-### <h3 id="letter-27">LETTER NO. 27 - February, 1913 - SIEGFRIED, THE TRUTH SEEKER</h3>
+### <h3 id="letter-27">Letter No. 27 - February, 1913 - Siegfried, the Truth Seeker</h3>
 
 As we give our children picture books to convey moral lessons which they could not grasp intellectually, so the Divine Leaders of infant humanity used myths to convey great spiritual truths which have germinated for ages unconsciously to us, but have nevertheless been potent factors in shaping the line of human progress. You would scarcely think that the Faust myth embodies the great problem of Freemasonry and Catholicism, and shows its ultimate solution, but we shall see in future lessons that this is true. At the present time I take just a point from the great northern epic, The Ring Of The Niebelung, to show how the great truth that the truth seeker must "leave father and mother," as Jesus and Hiram Abiff did, was conveyed to the Children of the Mist (niebel is mist and ungen is children in German), who lived in the foggy atmosphere of Atlantis. Later I may take that legend up for consideration. 
 
@@ -499,7 +499,7 @@ Thus the ancient myth told the truth seeker what was required to find truth. We 
 
 Therefore the Rosicrucians insist that all who come to them for deeper teachings must be free from allegiance to any school, and the candidate is not bound by oaths at any stage. Whatever promises he makes are made to himself, for liberty is the most precious possession of the soul, and there is no greater crime than to fetter a fellow-being in any manner. May we all remain true to the great heritage, and valiantly resists any infringement of this sacred right. 
 
-### <h3 id="letter-28">LETTER NO. 28 - March, 1913 - THE INCORPORATION AND FUTURE PLANS OF THE FELLOWSHIP</h3>
+### <h3 id="letter-28">Letter No. 28 - March, 1913 - The Incorporation and Future Plans of the Fellowship</h3>
 
 This month I have several important announcements to make and will use the monthly letter for that purpose. You remember that last year, in the series of lessons entitled "Our Work in the World," I spoke of incorporating the Rosicrucian Fellowship and placing the direction of its affairs in charge of trustees, so that that which belongs to the work may be preserved for its altruistic purposes during the centuries to come. Such an incorporation has now been perfected under the laws of California and the Fellowship has legal standing in the world. The Headquarter's site with the buildings now upon it, and the appliances necessary to carry on the work, are now the property of the Fellowship as a whole, safe from individual greed. 
 
@@ -509,7 +509,7 @@ It is also a great pleasure to announce that whereas we were before unable to ob
 
 As you will remember, our earliest literature took notice of the fact that Science, Art, and Religion had been divorced in modern times, as separation was necessary to the thorough development of each. It was also stated that as Science, Art, and Religion were taught unitedly in the ancient Mystery Temples, so also must a union take place in the future for that is necessary to our spiritual growth. In June we shall start a School on Mt. Ecclesia to give out this composite teaching, with particular emphasis upon the art of healing. Prospectus and further particulars will be mailed to interested students upon application to Headquarters. The expenses will be met by offerings from those who attend. 
 
-### <h3 id="letter-29">LETTER NO. 29 - April, 1913 - FREE MASONRY, CO-MASONRY, AND CATHOLICISM</h3>
+### <h3 id="letter-29">Letter No. 29 - April, 1913 - Free Masonry, Co-Masonry, and Catholicism</h3>
 
 At the end of last month's lesson a few words were said about men and women practicing Mystic Masonry, and it might appear to some as if we endorse Co-Masonry, but this is emphatically not the case. While we do not upon principle seek disparagingly of any legitimate movement, we have always warned our students against the Eastern religion as dangerous to the Western world, though perfectly suited to the East. Co-Masonry is the outgrowth of a society promulgating Hinduism. In the winter of 1899-1900, the present leader of that society was in Rome, and one of her lieutenants accidentally found the Masonic rites in the Vatican library. These she copied without permission, and gave them to her superior, who took upon herself to write an extra degree. These are now the rites of Co-Masonry. 
 
@@ -525,7 +525,7 @@ The blood is the vehicle of the spirit; under the regime of Jehovah and the Luci
 
 Freemasonry teaches the candidate to work out his own salvation; Catholicism leaves him dependent on the blood of Jesus. Those who use the positive method naturally become the strongest souls; therefore Free-masonry should be fostered rather than Catholicism. 
 
-### <h3 id="letter-30">LETTER NO. 30 - May, 1913 - THE ROLE OF EVIL IN THE WORLD</h3>
+### <h3 id="letter-30">Letter No. 30 - May, 1913 - The Role of Evil in the World</h3>
 
 In last month's lesson we saw the value of discord in music; also the corresponding role of evil in the world, namely, to enhance by contrast the beauty and harmony of good. Thus it might seem at a superficial glance as if the apparent evil had been designed by God, the Author and Architect of our system--as if He were responsible for all the pain and sorrow under which the world is groaning. Such is not the case however. The Bible says truly that the Elohim, who were His agents, "saw that it was good" when their labor was done. Our Rosicrucian Cosmo-Conception and Lectures 13 and 14 explain in detail the Bible story of how the apparent evil came in through the Lucifer spirits; and that when it had entered, the forces which work for good used it to serve a beneficent purpose and to achieve a higher good than possible without this factor. 
 
@@ -539,7 +539,7 @@ To whom much is given, of him much will be required. Students of the Rosicrucian
 
 P.S. Many new students have been added to our list since we asked your daily prayers for the workers at Headquarters. We therefore feel that it will serve a good purpose to reiterate the request to please include us in your devotions and ask that the Rosicrucian Fellowship Headquarters may become a most efficient Spiritual Center. We are, as you know from the prospectus, now about to open the School of Healing, and in this important step we feel the need of the grace of God as never before. Please help us so that we may succeed. 
 
-### <h3 id="letter-31">LETTER NO. 31 - June, 1913 - CHRIST, AND HIS SECOND COMING</h3>
+### <h3 id="letter-31">Letter No. 31 - June, 1913 - Christ, and His Second Coming</h3>
 
 One of the cardinal points in this month's lesson, and one concerning which widespread misunderstanding exists, had to do with the coming of Christ, and the vehicle he will use. The Bible gives the teaching very clearly, and the Western Wisdom Teachings of the Rosicrucians is in full accord therewith; hence it differs radically from the current conception of this matter, both among the majority of Christians and those who unwittingly or otherwise put forth false Christs to deceive the unwary. It is therefore of vital importance that scholars of the Western School should understand this matter thoroughly, so we will reiterate briefly the cardinal points of the Rosicrucian teachings given in the Rosicrucian Cosmo-Conception and elsewhere. 
 
@@ -557,7 +557,7 @@ In 1st Thess. 5:23 Paul states that man's whole being consists of spirit, soul, 
 
 Thus the Western Wisdom Teaching is in perfect agreement with the Bible when it teaches most emphatically that Christ will never come again in the flesh (that would be retrogression for Him). As a larva bursts its imprisoning cocoon and is transformed into a butterfly which wings it way among the flowers, a gorgeous bit of animated beauty--so shall we some day shed this mortal coil which weights us down to earth, and cleave the sky as living souls radiant with glory, hastening to meet our Savior in the land of souls, the New Heaven and the New Earth. This is one of the main doctrinal points of the Rosicrucian School, and we trust that our students will endeavor to thoroughly master the subject so that they may be able to "give a reason" for their faith. 
 
-### <h3 id="letter-32">LETTER NO. 32 - July, 1913 - THE VITAL BODY OF JESUS</h3>
+### <h3 id="letter-32">Letter No. 32 - July, 1913 - The Vital Body of Jesus</h3>
 
 Last month's lesson brought out a number of points not heretofore taught in public. But other mysteries bearing upon the scope and limitation of spiritual powers, and on the preservation of the vital body of Jesus against attack of the black forces, are also involved in the conversation between Faust and Lucifer. When the latter begs that the five-pointed star be removed so that me may leave, Faust asks "Why through the window not withdraw?" 
 
@@ -571,7 +571,7 @@ Knowing these facts, our Elder Brothers have placed the vital body of Jesus in a
 
 Let us work, watch, and pray for the glad day of His liberation. 
 
-### <h3 id="letter-33">LETTER NO. 33 - August, 1913 - IMPROVING OUR OPPORTUNITIES</h3>
+### <h3 id="letter-33">Letter No. 33 - August, 1913 - Improving our Opportunities</h3>
 
 One of the most important points brought out last month is the fact that we have power to lengthen our life materially by earnest application to the purpose of existence--acquisition of experience. Whether we know it or not, every act of our lives hastens the end, or defers it, in a measure dependent upon whether the act is in harmony with the law or not. If we do not apply ourselves to the labor of life, or if we persistently follow a path that is subversive of soul growth, our discordant life destroys the archetype. 
 
@@ -587,7 +587,7 @@ While I am suggesting immediate steps towards attainment, it may be in season to
 
 On August 6th at 2:00 P.M., we are going to lay the foundation for the nucleus of our Sanitarium, so that we may commence forthwith to care for the sick and give our students practical experience. Please join us in prayer for the success of the work. More details will be given in the Echoes which we shall publish on the 10th of each month in the future. 
 
-### <h3 id="letter-34">LETTER NO. 34 - September, 1913 - A PLEA FOR PURITY</h3>
+### <h3 id="letter-34">Letter No. 34 - September, 1913 - A Plea for Purity</h3>
 
 The most important point in last month's lesson is the power of passion to degenerate those who indulge in it. This we illustrated in the case of apes, which have been held back and have degenerated into animal-like forms because of their action in abusing the creative force. The responsibility of the Lucifer spirits for that condition has been brought out in the Cosmo-Conception, and also the fact that the apes may overtake us if they advance sufficiently before the middle of the next revolution. 
 
@@ -597,7 +597,7 @@ Black Magic is practiced much more commonly than one would suppose, sometimes al
 
 If we are tempted at any time by unclean thoughts, let us at once turn our minds to another subject far removed from sensuality. Above all, let us respect the laws of our country which require the ceremonial of marriage prior to union; for though the words of the marriage ceremony do not mate people, it is, nevertheless, meet that we who profess high spiritual ideals should not offend the common decencies by living together without wedlock. Those above the law render perfect obedience as Christ did, for when we comply with all laws without rebellion because it is right to do so, then we have risen above the law and are no longer in bondage. 
 
-### <h3 id="letter-35">LETTER NO. 35 - October, 1913 - THE FAUST MYTH AND THE MASONIC LEGEND</h3>
+### <h3 id="letter-35">Letter No. 35 - October, 1913 - The Faust Myth and the Masonic Legend</h3>
 
 Last month's lesson finished our consideration of the Faust Myth; and, taking a review of it as a whole, we note that it brings out the same idea as the Masonic legend. On the one had we have Rosicrucian and Lucifer; on the other, Marguerite and the priests. Marguerite shows faith in the church even in the darkest hour. This faith is her comfort and stay, and eventually she attains to the goal of the spirit. She reaches her heavenly home by faith. Her sins of omission and commission are due to ignorance; but when she sees the evil power embodied in the character of Lucifer and is offered freedom from prison and death, she declines to flee in such company; thereby she has redeemed herself sufficiently to merit a place in the Kingdom. Likewise, the wards of the church, the Sons of Seth, are today depending upon the atonement rather than upon their own deeds. They are looking for salvation through faith as their power of works is but small. 
 
@@ -605,14 +605,14 @@ In Lucifer and Faust we find replicas of the Sons of Cain, who are positive, str
 
 By our own works, by putting the evil powers to good use, we shall eventually free ourselves from the limitations of both church and state which now hold us in bondage. Though the conventions of society and the laws of the land are now necessary to restrain us from infringing on the rights of others, there will come a day when the spirit will ensoul us and purify us as the love of Faust for Helen purified him and gave him the incentive to use the Lucifer forces in the manner indicated. When we have conquered the desire to work for self, when we become enamored of our work for others as Faust was when with his dying vision he gazed upon the land that was rising from the sea, then we shall never require the restraining feature of the laws and conventions for we shall have risen above them by compliance with the every requirement. Only in that manner can we become really free. It is always easy to tell others what to do or not to do but very difficult to enforce obedience on ourselves even though we may intellectually assent to the mandates of conventionality. As Goethe says: 
 
-```
+<pre>
 "From every power that holds the world in chains,
 Man frees himself when self-control he gains."
-```
+</pre>
 
 The Faust myth tells us there is such a utopian state in store for us when we have worked out our salvation by using the titanic forces within to make us really free. May we all strive by our daily actions to hasten that day. 
 
-### <h3 id="letter-36">LETTER NO. 36 - November, 1913 - EASTERN AND WESTERN METHODS OF DEVELOPMENT</h3>
+### <h3 id="letter-36">Letter No. 36 - November, 1913 - Eastern and Western Methods of Development</h3>
 
 We receive frequent requests for help from people who unfortunately have belonged to societies where they came under the domination of spirit controls who now haunt and hound them until life becomes a burden. We also receive requests for help from people who have frequented societies teaching the Hindu breathing exercises. The impatience to enter the invisible worlds prompts many such people to take up exercises, the dangerous nature of which they do not realize until it is too late and they are broken down in health and spirit. They they come to us asking for a relief which we have unfortunately been able to give to all who have so far applied, even though some were on the verge of insanity. 
 
@@ -626,7 +626,7 @@ As it may do some good it may not be amiss to mention that the writer has had pe
 
 In the parable, it is said that some were thrown out who had no wedding garment. Unless we first evolve the soul body, any attempt to enter the invisible worlds spells certain disaster; and any teacher who professes ability to railroad people into the invisible realms is not to be depended upon. There is only one way--patient persistence in well-doing. 
 
-### <h3 id="letter-37">LETTER NO. 37 - December, 1913 - THE REASON FOR THE MANY DIFFERENT CULTS</h3>
+### <h3 id="letter-37">Letter No. 37 - December, 1913 - The Reason for the Many Different Cults</h3>
 
 The central thought in last month's lesson, and one that we should ponder well is the reason why there are so many different cults, each with its own creed and with the idea that it alone has the truth. The reason for this condition, as shown in the lesson, lies in the fact that the ego has limited itself by entering into a vehicle which separates it from every one else. Because of this limitation, it is incapable of appreciating absolute and universal truth; and, consequently, religions teaching only partial truth had to be given. 
 
@@ -638,7 +638,7 @@ Discourse upon subjects related to this higher knowledge may help those who are 
 
 Therefore, though we should always be ready to answer the questions of those who wish to know, and be ready to give the reason for our faith, we should also be on our guard so that we may not force our opinion upon others; that, having escaped one fetter, we may not be bound by another, for liberty is the most precious heritage of the soul. Hence the Elder Brothers in the Western World will not accept a pupil who is not free from all other bonds, and they take care that he does not obligate himself to them or any one else. Thus alone can the ring of the Niebelung and the ring of the gods be dissolved. May we all strive to live up to this ideal of absolute liberty, at the same time, of course, taking care not to infringe upon the rights of others. 
 
-### <h3 id="letter-38">LETTER NO. 38 - January, 1914 - WHAT THE PUPIL MAY EXPECT OF THE TEACHER</h3>
+### <h3 id="letter-38">Letter No. 38 - January, 1914 - What the Pupil May Expect of the Teacher</h3>
 
 Christ said, "By their fruits ye shall know them." Suppose that weeds were endowed with speech, Would we believe their claims if they professed to be grape vines? Indeed not, we would look for the fruit. And unless they were able to produce, their protestations--no matter how vociferously made--would make no impression. We are thus sufficiently wise in material matters to guard against deception; then why not apply the same principle to other departments of life? Why not use ordinary common sense? If we did, no one could impose on us in spiritual matters, for every realm in nature is governed by natural law, and analogy is the master key to all mysteries and a protection against deception. 
 
@@ -652,7 +652,7 @@ Now, therefore, when any one professes to be a Teacher, he must be able to subst
 
 All of the Elder Brothers of the Rosicrucian Order possess this attribute; and I trust no one among our students will in the future allow himself or herself to be deceived into following exercises or going through ceremonies devised by any person who is not able to produce the fruit, and call up living pictures in the consciousness of those with whom he speaks. 
 
-### <h3 id="letter-39">LETTER NO. 39 - February, 1914 - WHERE SHALL WE SEEK TRUTH, AND HOW SHALL WE KNOW IT?</h3>
+### <h3 id="letter-39">Letter No. 39 - February, 1914 - Where Shall We Seek Truth, and How Shall We Know It?</h3>
 
 At the close of last month's lesson we saw that Siegfried, the truth seeker, had arrived at the end of his quest. He had found the truth. Meditating upon the subject it occurred to me as profitable to devote this letter to a straightforward answer to the question: "Where shall we seek truth, and how shall we know without doubt when we have found it" 
 
@@ -662,7 +662,7 @@ In regard to the first part of the question then, "Where shall we seek truth?" T
 
 The second part of the question, "How may we know the truth?" is best answered by referring the student to the evening exercise given in the Lecture No. 11, Spiritual Sight And Insight. It may be performed by any one regardless of whether he or she is a probationer of the Rosicrucian Fellowship or not. The teacher said at the time of giving it that if it were possible to prevail upon the most depraved person in the world to perform this exercise faithfully for six months, he would be permanently reformed; and those who are faithful have found that it sharpens all mental faculties, particularly the memory. Besides, by this impartial judgment of oneself night after night, one learns to discern truth from error in a degree not attainable in any other way. Not all our students may feel inclined to take up probationership, and we never urge any one to do anything in the Western Wisdom School. But if you really want to know the truth I can honestly recommend this method. It develops an inner faculty and no matter what statement is made to you, once you have developed this, you will know at once whether it rings true or the reverse. 
 
-### <h3 id="letter-40">LETTER NO. 40 - MARCH, 1914 - WHY THE TRUTH SEEKER MUST LIVE IN THE WORLD</h3>
+### <h3 id="letter-40">Letter No. 40 - March, 1914 - Why the Truth Seeker Must Live in the World</h3>
 
 After the Transfiguration scene, when the Christ and His disciples were making ready to descend from the Mount, the latter would fain have stayed and suggested making dwelling places so that they might remain. This was not permitted, however, for there was work to do in the world which would have remained undone had their plan been carried out. 
 
@@ -676,7 +676,7 @@ This is a matter we should each carefully consider: "What use am I making of the
 
 Let us remember that "Knowledge puffeth up, but love edifieth," and that service is the standard of true greatness. 
 
-### <h3 id="letter-41">LETTER NO. 41 - APRIL, 1914 - A METHOD OF DISCERNING TRUTH FROM ITS IMITATION</h3>
+### <h3 id="letter-41">Letter No. 41 - April, 1914 - A Method of Discerning Truth from Its Imitation</h3>
 
 In the February letter we discussed the question: "Where shall we find truth, and how shall we know when we have found it." But there is no use in seeking truth, or in knowing truth when we have found it, unless we put it to practical use in our life--and it does not follow that we will do that merely because we find it. There are people, comparatively many, who scour the civilized world to find rare treasure of ancient art--pictures or coins. There are many who manufacture imitations of the genuine articles, so the seeker after these things runs the risk of being duped by clever rogues unless he has means of knowing the genuine from the spurious. 
 
@@ -690,7 +690,7 @@ How can we test the worth of an axe but by using it and thus finding out whether
 
 On the same principle, what is the sense in "buying" the wares of secrecy mongers? If their wares were "true steel," there would be no need of secrecy, and unless we can use them in our daily lives, they are of no value. Neither is a good axe of value to us unless we use it; it rusts and loses its edge. So it is obligatory on every one who finds truth to use it in the world's work, both as a safeguard to himself to make sure that it will stand the grant test, and to give others a chance to share the treasure which he himself finds helpful. Therefore it is very vital that we follow the command of Christ: "Let your light shine." 
 
-### <h3 id="letter-42">LETTER NO. 42 - MAY, 1914 - OUR RESPONSIBILITY IN GIVING OUT TRUTH</h3>
+### <h3 id="letter-42">Letter No. 42 - May, 1914 - Our Responsibility in Giving Out Truth</h3>
 
 In regard to last month's letter one of the students writes: "in your letter it would seem to be implied that there is no secrecy or discretion on the part of the individual who knows occult things, to be exercised in giving them out, and no personal responsibility incurred; at least your meaning does not seem to be made plain." 
 
@@ -700,7 +700,7 @@ During the ancient Israelitic dispensation darkness reigned in the Holy of Holie
 
 It is exactly this truth of which I was speaking in last month's letter. The disciple must go through a period of training and by that training become mature and mellow to such an extent that he can live the truth within. Then when the time comes, it is very easy for the Teacher or Initiator to show him for the first time how to apply the trust which he has found, to use the power which he has stored up, and then he is initiated. But this experience cannot be told to anyone else. It is absolutely useless to try to convey it. It is not through ceremony or any other outward show that it comes to a man but as an actual result of his own past doing. Therefore he can apply its truth in his daily life, though others may be as absolutely unable to get at it as the child is incapable of appreciating what is happening when an example in square root is being done before its eyes. Thus are the real, vital truths guarded from all till the key of merit unlocks the treasure box. 
 
-### <h3 id="letter-43">LETTER NO. 43 - JUNE, 1914 - WOMAN'S SUFFRAGE AND MORAL EQUALITY</h3>
+### <h3 id="letter-43">Letter No. 43 - June, 1914 - Woman's Suffrage and Moral Equality</h3>
 
 From last month's lesson it will be evident, strange as it may seem, that the opera Tannhauser is the legendary plea for the much discussed woman's suffrage, which we hear so much of in modern times. It is evident also, as said last month, that like produces like; and a woman who is timid and afraid, who has been forced into marriage in a brutal manner, who feels herself owned, a chattel, not free to voice her ideas and ideals, cannot produce a noble, strong, and fearless offspring, one with the courage to adhere to its ideals. Therefore, so long as we hold woman in bondage, deny her rightful place in the world as the helpmate and companion of man, so long do we retard the race and our development. This is the esoteric reason why full equality must come about. 
 
@@ -714,7 +714,7 @@ What the shadow is to light, what "the devil" is to God--that is lust to love. L
 
 Let us therefore strive to love each other after the spirit rather than after the flesh. 
 
-### <h3 id="letter-44">LETTER NO. 44 - JULY, 1914 - THE VICE OF SELFISHNESS AND THE POWER OF LOVE</h3>
+### <h3 id="letter-44">Letter No. 44 - July, 1914 - The Vice of Selfishness and the Power of Love</h3>
 
 In the last lesson we saw that the Lord of Wartburg asked the minstrel to describe love. As we all aspire to evolve within ourselves that quality, it is perhaps of very great importance that we should look the matter squarely in the face and see what is our greatest hindrance, for surely there can be no question but that we are all lacking woefully in respect to love. No matter what we may seem to others, when we look into our own hearts we stand ashamed, knowing the motives which prompted acts that others consider dictated by love of our fellow men. When we analyze these motives we shall find that they are all dictated by the one trait of selfishness; moreover, this is the one fault we never confess. I have heard men and women stand up publicly or in private and confess to every sin on the calendar save this single one of selfishness. Yes, we even deceive ourselves by imagining that we ourselves are not selfish. We see this trait of character very plainly in others if we are at all observant, but fail to perceive the beam in our own eye; and so long as we do not admit this great fault to ourselves and strive seriously to overcome it, we cannot progress upon the pathway of love. 
 
@@ -722,7 +722,7 @@ Thomas a Kempis says: "I would rather feel compunction than know how to define i
 
 In the measure, therefore, that we cultivate this virtue of unselfishness, we shall attain to love, for they are synonymous, as was shown by Paul in that inimitable thirteenth chapter of 1st Corinthians. When a poor brother knocks at our door, do we give him as little as we can? If so, we are selfish. Or do we help him only because our conscience will not allow us to let him go? Then also this is selfishness, for we do not want to feel the pangs of conscience. Even though we give our lives for a cause, is there not the thought that it is our work? Often I hide my face from myself in shame at that thought in connection with the Fellowship, and yet we must go on. But let us not deceive ourselves; let us fight the demon of selfishness and be ever watchful against its subtle onslaughts. If we find it whispering that we need rest and cannot afford to give our strength for others, or if we feel that we cannot afford to give our substance, let us force the virtue of generosity. As a matter of actual fact, we only keep what we give; our bodies decay and our possessions are left behind, but our good deeds remain ours for all eternity. 
 
-### <h3 id="letter-45">LETTER NO. 45 - AUGUST, 1914 - INITIATION NOT TO BE ATTAINED THROUGH BREATHING EXERCISES</h3>
+### <h3 id="letter-45">Letter No. 45 - August, 1914 - Initiation Not to Be ATtained Through Breathing Exercises</h3>
 
 It is with considerable reluctance that I again take up the question of breathing exercises and their effects upon the body, but stern necessity compels me to sound anew the warning against the false and dangerous teachings which are promulgated by people who are either ignorant or unscrupulous in their desire for profit. Breathing exercises are absolutely contrary to the teachings of the Rosicrucian Fellowship, for under our teachings spiritual results may only be attained by spiritual methods and not by physical exercises. Unfortunately the great desire of students to attain quickly makes many an easy prey to such people. One of our very promising students is now in an insane asylum because he listened to the promises of a charlatan who offered to initiate him for the sum of twenty-five dollars. 
 
@@ -730,7 +730,7 @@ I have just learned that in one of the Fellowship centers a man who has not been
 
 Now I ask you, dear friends, will you not take this from me, one who has gone the way and knows by experience that there is no express train to the Temple of Initiation. The road is slow and steep and rugged; it must be walked step by step, though the feet bleed, and the heart also with sorrow and suffering. The soul body--the golden wedding garment--which alone is the password by which we can enter, is made by the good deeds done day by day with patient perseverance in well-doing, and by no other method. Breathing exercises cannot take the place of good deeds. Can you not understand that? I know what I am talking about, because in the very earliest stage of my endeavor in spiritual directions, I also found these Hindu breathing exercises. I tried them for two days, and my vital body was partly lifted out of the physical; it then occurred to me that I was in a dangerous condition, and I stopped. But it took me two weeks to recover, during which I felt as if I could not get my feet on the ground, as if I were walking on air; and during those two weeks I suffered greatly. Others may not have the persistence to recover that I did, and may go to the insane asylum. Therefore it is a very dangerous thing to try. There may of course be others on whom they have no effect. But it is very, very dangerous to meddle with fire, and you should not try it. On the other hand, if you will day by day try to serve in the vineyard of Christ, and endeavor to do deeds of mercy, then the golden wedding garment, the soul body, will surely be woven, which one day will admit you to the Temple. 
 
-### <h3 id="letter-46">LETTER NO. 46 - SEPTEMBER, 1914 - THE WORLD WAR AND INFANT MORTALITY</h3>
+### <h3 id="letter-46">Letter No. 46 - September, 1914 - The World War and Infant Mortality</h3>
 
 Up to the present time I have especially refrained from commenting upon current topics, but feel that the present cosmic crisis demands something from Headquarters which may guide students in their attitude towards this calamity. The effect of this unprecedented slaughter of human beings is much more far-reaching than is apparent from the physical viewpoint. 
 
@@ -742,7 +742,7 @@ Therefore in some far-off future day we shall find that an epidemic, or somethin
 
 Please be particularly earnest and concentrate every vestige of your power upon the healing work at Headquarters when we have healing meetings. We need all the help we can get. 
 
-### <h3 id="letter-47">LETTER NO. 47 - OCTOBER, 1914 - THE INVISIBLE HELPERS AND THEIR WORK ON THE BATTLE FIELD</h3>
+### <h3 id="letter-47">Letter No. 47 - October, 1914 - The Invisible Helpers and Their Work on the Battle Field</h3>
 
 Another month has gone by and still the European war is raging in all its intensity. Thousands and thousands have passed over the border into the invisible realm, and the distress there as well as here is unprecedented in the history of the world. As you have learned from our literature, the desire world is the world of illusion and delusion; and those poor people who have so suddenly been transferred to that realm with frightful wounds upon their physical bodies also imagine (as very frequently in the case with persons who have met accidents) that the lesions of the physical body are still with them, and they suffer acutely there from these fancied injuries as they would here. That is of course entirely needless. Many of them are going about there with dreadful wounds upon their bodies, particularly those who have wounds caused by bursting shells and by bayonets. It is of course an easy matter for the Invisible Helpers to show any one of these people that his or her injuries are only fancied, yet when there are so many thousands the task is gigantic, and our Invisible Helpers are having a time of unprecedented activity against overwhelming odds. 
 
@@ -752,7 +752,7 @@ President Wilson of the United States has appointed October 4th as a day of pray
 
 This war, let us fervently hope, will be the last war that will ever mar the peace of the earth; that having learned this costly lesson, mankind will once and for all destroy the implements of war, and beat their swords into plowshares. Let this idea be in the mind of every student on the 4th of October, but as this date is so near at hand that probably this letter will not reach all in time, let every one in the Rosicrucian Fellowship devote Sunday, the 18th, to a prayer for peace. By that time all our students will have received this message, and we shall again be united from morning until evening in this effort to help restore peace to the world. May the kingdom of Christ soon superseded the kingdom of men, for they have certainly shown themselves inefficient rulers. 
 
-### <h3 id="letter-48">LETTER NO. 48 - NOVEMBER, 1914 - THE WORLD WAR AND UNIVERSAL BROTHERHOOD</h3>
+### <h3 id="letter-48">Letter No. 48 - November, 1914 - The World War and Universal Brotherhood</h3>
 
 In almost every mail we receive letters commenting upon the war, but with very few exceptions there has been no expression of partisanship, showing that the writers take a loftier viewpoint than inculcated by the various Race Spirits and commonly given the name of patriotism. This attitude is the only one consistent with the principles of the Rosicrucian Fellowship. We are all joined in an international association, we are all looking for the Kingdom which is to supersede all nations, and the fact that we were born on different parts of the globe and express ourselves in different tongues does not abrogate the command of Christ: "Thou shalt love thy neighbor as thyself," nor excuse us for playing the part of the "robber" rather than that of the "Samaritan." It behooves us in the Rosicrucian Fellowship to rise above the barriers of nationality and learn to say as did that much maligned man, Thomas Paine: "The world is my country, and to do good is my religion." We must cease to be merely national and strive to become universal in our sympathies. 
 
@@ -770,12 +770,12 @@ But there is a war that is well worth fighting, a war upon which we may legitima
 
 let us all join our brother in that noble fight, remembering the words of Goethe: 
 
-```
+<pre>
 "From every power that holds the world in chains
 Man frees himself when self-control he gains."
-```
+</pre>
 
-### <h3 id="letter-49">LETTER NO. 49 - DECEMBER, 1914 - DESIRE--A TWO-EDGED SWORD</h3>
+### <h3 id="letter-49">Letter No. 49 - December, 1914 - Desire — A Two-Edged Sword</h3>
 
 This is the time when good wishes are in order. "A Merry Christmas and A Happy New Year" are greetings soon to be heard everywhere, and in conformity with this ancient usage the workers on Mt. Ecclesia also extend to members all over the world the usual seasonal greetings. 
 
@@ -787,7 +787,7 @@ And now, dear friends, the Rosicrucian Fellowship is an association composed of 
 
 May God bless the Rosicrucian Fellowship and make it a more efficient factor in His work in the world. 
 
-### <h3 id="letter-50">LETTER NO. 50 - JANUARY, 1915 - SPIRITUAL PROSPERITY FOR THE NEW YEAR</h3>
+### <h3 id="letter-50">Letter No. 50 - January, 1915 - Spiritual Prosperity for the New Year</h3>
 
 The customary greeting at this time is: "May you have a happy and a prosperous New Year." With this the writer is in hearty accord and extends it to you, but his meaning may differ somewhat from that which is ordinarily given, for usually it is material prosperity that is the main thought; whereas the writer wishes you that gold which is wrought by the alchemy of the soul, so that the base metal of the coming year's experience may thus be transformed into the Philosopher's Stone, the greatest good this world can ever give. Worldly riches are always a source of care to their possessor, but this, the jewel of jewels, brings with it the peace that passeth all understanding. 
 
@@ -797,7 +797,7 @@ How about you, dear friend? We are at the beginning of a new year, a new start. 
 
 It is the earnest, the very earnest hope of the writer that every student of the Rosicrucian Fellowship will take up his yoke with more ardor than ever before, so that both individually and collectively we may lay up treasure in heaven that is sure to be ours at the end of the year-day, when we have borne the burden and the heat. 
 
-### <h3 id="letter-51">LETTER NO. 51 - FEBRUARY, 1915 - LOVE, WISDOM, AND KNOWLEDGE</h3>
+### <h3 id="letter-51">Letter No. 51 - February, 1915 - Love, Wisdom and Knowledge</h3>
 
 This month we are starting a new series of lesson on "The Web of Destiny--How Made and Unmade," and we trust that this series will prove very profitable to you in your study and in your life. While the lesson are analytical and technical in some respects, the subject should be approached in a spirit of the deepest devotion by keeping the main purpose of life in view. 
 
@@ -805,10 +805,10 @@ As you are probably aware, the word "philosophy" is composed of two words meanin
 
 Robert Burns once said: 
 
-```
+<pre>
 "O wad some pow'r the giftie gie us
 To see ourselves as ithers see us!"
-```
+</pre>
 
 But I am afraid that power would indeed be a sad possession though it may seem upon superficial thought to be desirable. Each of us is full of shortcomings. At times we make but a sorry figure on the stage of the world. Sometimes we seem to be thrown aimlessly hither and thither by the shuttle-cock of destiny, while others who are unable to see the beam in their own eye are criticizing us and making us appear ridiculous. If we saw ourselves with their eyes, we should lose that most essential attribute--our self-respect; we should shrink from facing our fellow men. 
 
@@ -816,7 +816,7 @@ When we realize that this is so (and thought upon the matter surely can not fail
 
 I trust that you will approach the lessons in that spirit and that they may be of lasting benefit to us all. 
 
-### <h3 id="letter-52">LETTER NO. 52 - MARCH, 1915 - CONCENTRATION IN THE ROSICRUCIAN WORK</h3>
+### <h3 id="letter-52">Letter No. 52 - March, 1915 - Concentration in the Rosicrucian Work</h3>
 
 While meditating upon the good of the Rosicrucian Fellowship the question came up before the writer's mind: "What is the greatest general hindrance to our progress in the spiritual work?" And the answer was: "Lack of concentration." 
 
@@ -834,7 +834,7 @@ Trained, skilled, and devoted workers are sought in our earthly enterprises. In 
 
 Let us memorize and concentrate on the first three verses of the first Psalm, for surely we want to reap the greatest harvest that we possible can from our spiritual as well as from our material efforts. 
 
-### <h3 id="letter-53">LETTER NO. 53 - APRIL, 1915 - THE COSMIC MEANING OF EASTER</h3>
+### <h3 id="letter-53">Letter No. 53 - April, 1915 - The Cosmic Meaning of Easter</h3>
 
 As this lesson will reach you about Easter time, I thought it might be well to devote the letter to that recurring event. 
 
@@ -848,7 +848,7 @@ Now, dear friend, the point to which I would like to call your attention is that
 
 I hope that this may furnish you with a point of view for prayerful Easter meditation which will result in abundant soul growth. 
 
-### <h3 id="letter-54">LETTER NO. 54 - MAY, 1915 - WASTE THROUGH SCATTERING ONE'S FORCES</h3>
+### <h3 id="letter-54">Letter No. 54 - May, 1915 - Waste Through Scattering One's Forces</h3>
 
 In the March letter I suggested, as you will remember, the concentration of energy in one direction, advising, as I have done before, that students devote all their spare time to work in and for one religious society, rather than scattering and dissipating their energies by membership in a number of such societies, for it is an impossibility to do effective work in that manner. 
 
@@ -860,7 +860,7 @@ As we have often said, many roads lead to Rome, but you can not walk two roads a
 
 Moreover it should be understood that if at any time the policies of the Rosicrucian Fellowship do not meet with the approval of any one, he is not serving the cause by simply deserting the flag and railing against us from the outside. If he remains within we listen to him as one brother listens to another, and we see his arguments from a very different point of view than if he shows hostility, leaves, and becomes in that way an opponent. Then the same arguments would lose a good deal of their weight. We are all agreed about the great and cardinal points of our teachings. Every one of us surely appreciates the benefit that we have reaped from this philosophy which we are engaged in promulgating. Is it not meet then that we should be tolerant in matters of policy, that we may devote all our attention to the ideals? 
 
-### <h3 id="letter-55">LETTER NO. 55 - JUNE, 1915 - EPIGENESIS AND FUTURE DESTINY</h3>
+### <h3 id="letter-55">Letter No. 55 - June, 1915 - Epigenesis and Future Destiny</h3>
 
 While we are studying the "Web of Destiny--How Made and Unmade," it is expedient, in fact absolutely necessary, that we should keep before the eye of our mind the fact that life is not alone an unfoldment of causes set going in previous existences. The spirit, when it comes back to rebirth, has a varying amount of free will--according to the life previously led--to fill in details. Also, instead of only unfolding past causes into effects, there are also new causes generated at every turn by the spirit, which then act as seeds of experience in future lives. This is a very important point. It is a self-evident truth, for unless it were so, the causes that have already been set going must at some time come to an end, and that would mean cessation of existence. 
 
@@ -874,7 +874,7 @@ Nor is this condition at all peculiar to war. Very often similar means are used 
 
 Conversely, there are also occasions when a spirit, being through with an old environment, comes into a new sphere of action as a ray of sunshine and comfort to those who are fitted to receive that blessing by their previous actions. Let us, therefore, remember that no matter how degraded a being may be he has always the power to sow the seed of good, but must wait until that seed can flower in a right environment. Each of us, though bound by his yesterdays, is therefore thus far free respecting his tomorrows. 
 
-### <h3 id="letter-56">LETTER NO. 56 - JULY, 1915 - THE NEED OF SPREADING THE TEACHINGS</h3>
+### <h3 id="letter-56">Letter No. 56 - July, 1915 - The Need of Spreading the Teachings</h3>
 
 Upon re-reading the monthly lesson which accompanies this letter, embodying the result of investigations made some time ago, I was struck anew and with added force by the fact of the existence of such fearsome conditions about us. At the present time when the horrors of the great war are adding unprecedented numbers to those who pass from the present world to the invisible realms under harrowing conditions, it seems that an extra effort ought to be made to offset and to minimize the evil. The Rosicrucian Fellowship is as yet but a drop in the ocean of humanity, but if we do our share we shall earn a greater opportunity for service. 
 
@@ -892,7 +892,7 @@ Will some of the students who can write please submit short articles on "The Con
 
 I hope that this appeal will meet with a hearty response. 
 
-### <h3 id="letter-57">LETTER NO. 57 - AUGUST, 1915 - ASTROLOGY AS AN AID IN HEALING THE SICK</h3>
+### <h3 id="letter-57">Letter No. 57 - August, 1915 - Astrology as an Aid in Healing</h3>
 
 Did you ever realize the reason why Christ commanded that we should heal the sick? One of the reasons certainly was that when you have demonstrated that you can heal the body, those who have been helped will have more faith in your ability also to help the soul. When we have advanced to the high stature of Christ so that we can at once see the past and the present; when we are able thus to determine at a glance the causes, crises, and present stage of a disease, we shall need no other aid in diagnosis and advice. But until that time we must use such crutches as we have, and foremost among them is astrology. 
 
@@ -908,7 +908,7 @@ What man has done, man can do. Mrs. Heindel and myself did not get our knowledge
 
 We have started a department in the magazine where we delineate the horoscope of children to help parents to know their latent characteristics. There is also a correspondence course for beginners, besides the course in Astro-Diagnosis and Astro-Therapy for probationers, and we would advise all who have not yet started to take up the study. 
 
-### <h3 id="letter-58">LETTER NO. 58 - SEPTEMBER, 1915 - UNNATURAL MEANS OF ATTAINMENT</h3>
+### <h3 id="letter-58">Letter No. 58 - September, 1915 - Unnatural Means of Attainment</h3>
 
 When one investigates a certain subject in the invisible world, many fascinating byways open up. He is constantly lured away from the main line of research by this, that, or the other theme which attracts his attention, and there is great danger of losing sight of the goal and of wandering off in a maze of incoherency. Sometimes the temptation to follow a bypath is stronger than my power of resistance; and recently, while working on the "Web of Destiny," the figure of a hermit who had starved his body to the semblance of a skeleton--who had whipped himself till the blood flowed from sores that were never allowed to heal, and thought he was serving God by these austerities--led me to search for the origin of this hideous practice. I have written a lengthy article on the subject for our magazine; but as the matter is important, and many of the students are not subscribers to the magazine, I have deemed it best to give you the main facts. 
 
@@ -922,7 +922,7 @@ To that end they practiced all the austerities they could think of, fasting amon
 
 Let us endeavor to use moderation in all things, that we may be worthy examples to others and earn admission to the Temple by virtue of right living. 
 
-### <h3 id="letter-59">LETTER NO. 59 - OCTOBER, 1915 - THE RACE SPIRITS AND THE NEW RACE</h3>
+### <h3 id="letter-59">Letter No. 59 - October, 1915 - The Race Spirits and the New Race</h3>
 
 As there are a great number of students who have not subscribed for the magazine, and as there is a very important article running now, dealing with the occult side of the war, I feel that it may be best to devote the monthly letter to a resume of the facts, and trust that this will also benefit those who take the magazine; for as I do not intend to copy, but will take up the subject offhand, new points are sure to be brought out. 
 
@@ -934,7 +934,7 @@ America has no Race Spirit as yet. It is the melting pot wherein the various nat
 
 If you look back at the developments during the past 60 or 70 years, it must be evident that it has been an age of skepticism, doubt, and criticism of religious subjects. The churches have become increasingly empty, and people have turned to the pursuit of pleasure, from the worship of God. This tendency was on the increase in Europe until the advent of this war, and it is still a disgrace to certain cities and centers of scientific thought in America. As a result of this worldwide attitude of mind, fostered by the Brothers of the Shadow with the permission of the Race Spirits, as Job was tempted by Satan in the legend, a spiritual cataract has covered the eyes of the Western world and must be removed before evolution can proceed. How that is being done will be the subject of the next letter. 
 
-### <h3 id="letter-60">LETTER NO. 60 - NOVEMBER, 1915 - THE WAR AN OPERATION FOR SPIRITUAL CATARACT</h3>
+### <h3 id="letter-60">Letter No. 60 - November, 1915 - The War: An Operation for Spiritual Cataract</h3>
 
 You are aware from the teachings of the Cosmo that there was one race at the end of the Lemurian Epoch, there were seven in the Atlantean Epoch, seven in the Aryan, and there will be one in the coming Galilean Epoch, making in all sixteen races. You also remember that these sixteen races are called by the Elder Brothers "the sixteen paths to destruction" because enmeshed in the bodies of any race to such an extent that it will be unable to follow the others along the path of evolution. During the Periods and Epochs there is always plenty of time so that the Leaders of humanity can marshal their flocks into line. But the Jews are an example of what may happen to people who become so intensely imbued with the racial spirit that they absolutely refuse to let go. They continue as an anomaly among the rest of humanity, a people without a country, king, or any other of the factors that make for racial evolution. 
 
@@ -944,7 +944,7 @@ When we dwelt under the water in the early Atlantean Epoch, we were, as you know
 
 But this very grief is nature's remedy for the spiritual cataract. As surely as the desire for growth built the complicated alimentary canal from the simplest beginning so that the craving for growth might be satisfied; as surely as the desire for motion evolved the wonderful joints, sinews, and ligaments wherewith this is accomplished; just as surely will the intense yearning to continue the relationships severed by death build the organ for its gratification—the spirit eye. Therefore this wholesale slaughter of millions of men has helped and is helping more to bridge the gulf between the invisible and the visible world than a thousand years of preaching could do. All through the history of the world it has been recorded that warriors have seen so-called supernatural manifestations, and there is plenty of testimony that those visions have also been seen in the present war. The shock of the wound, the suffering in the hospital, and tears of the widows and orphans, all are opening the spiritual eyes of Europe, and the age of doubt and skepticism will pass away. Instead of being ashamed of having faith in God, the world will honor a man for his piety rather than for his prowess in a not very distant future. And let us all pray for that day. 
 
-### <h3 id="letter-61">LETTER NO. 61 - DECEMBER, 1915 - CYCLIC MOVEMENTS OF THE SUN</h3>
+### <h3 id="letter-61">Letter No. 61 - December, 1915 - Cyclic Movements of the Sun</h3>
 
 The news printed today in big type on the front pages of newspapers, news which seems of such vital and absorbing interest to everybody, is usually forgotten tomorrow, and the papers that contained the records are thrown into the fire. Likewise the song that is upon the lips of everybody is usually after awhile relegated to he archives of oblivion. Even the men who are launched like meteors into the limelight of publicity are usually soon forgotten, together with the deeds that caused their brief popularity—for to quote Solomon, "All is vanity." 
 
@@ -958,7 +958,7 @@ But as the spiritual activities of man are greatest while his body is asleep, so
 
 In concluding this letter I desire to thank every one of the students for their cooperation in the work during the past year. Any may we do better work together in the coming year. 
 
-### <h3 id="letter-62">LETTER NO. 62 - JANUARY, 1916 - THE TEACHER'S DEBT OF GRATITUDE</h3>
+### <h3 id="letter-62">Letter No. 62 - January, 1916 - The Teacher's Debt of Gratitude</h3>
 
 WE are now at the close of another year of our lives and at the beginning of a new, and certain thoughts have come to me in connection with these divisions of our earthly lives. 
 
@@ -970,7 +970,7 @@ We trust that we have been of some service in that respect, and ask your prayers
 
 And how about you, dear friend? During the past year you also have had opportunities to serve others in a similar manner. Have you used your talents of knowledge transmitted to you to enlighten those with whom you have come in contact? It is not necessary to stand in a pulpit, literally or metaphorically, at any time in order to speak to the heart of others. It is often most effectively accomplished in the little quiet ways, such that people do not know we are trying to show them something. We trust you have improved your opportunities to the best of your ability during the past year, and pray that you may enter the new year with a still more earnest spirit of service, and that is may prove to be much more fruitful of soul growth than the past has been. 
 
-### <h3 id="letter-63">LETTER NO. 63 - FEBRUARY, 1916 - SPIRITUAL TEACHERS--TRUE AND FALSE</h3>
+### <h3 id="letter-63">Letter No. 63 - February, 1916 - Spiritual Teachers—True and False</h3>
 
 One of the most difficult problems which confront the leader of a spiritual movement is the impatience of students who want to reap where they have not sown. They are not patient enough to wait for the harvest but want results immediately, and if they do not sprout wings within a specified time set by themselves they are ready to cry "fraud" and seek and "individual teacher," visible or invisible. So long as he will "guarantee" results, they are prepared to throw common sense to the winds and follow him blindly, though he may lead them to the insane asylum or to a consumptives's grave, or in the cases of those who get off the easiest, simply separate them from some of their cash. 
 
@@ -986,7 +986,7 @@ It may therefore be stated emphatically that the Elder Brothers do not habituall
 
 I trust that this may fix the idea more firmly in your own mind than it has been before, and give you a basis for setting others right who are in danger of being side-tracked. 
 
-### <h3 id="letter-64">LETTER NO. 64 - MARCH, 1916 - THE BATTLE THAT RAGES WITHIN</h3>
+### <h3 id="letter-64">Letter No. 64 - March, 1916 - The Battle that Rages Within</h3>
 
 From time to time we are grieved to receive letters from students in the warring countries chiding us for not taking up the cudgel in favor of their side. There has not been a day since this sad conflict began that we have not mourned the dreadful slaughter, though comforted by the knowledge that it is helping as nothing else could to break down the barrier between the living and the dead. Thus the war will go far towards abolishing the sorrow now experienced by the masses when parting from loved ones; also the present sorrow is turning the Western people from the pleasures of the world to the worship of God. There has not been a night that we have not worked diligently with the dead and wounded to allay their mental anguish or physical pain. 
 
@@ -1002,7 +1002,7 @@ Writers like Thomas a Kempis were wont to speak of themselves as "vile worms," a
 
 There is a way to be prepared, and it is sure: "Look to Christ," and keep your mind busy every waking moment when not engaged in your daily work, studying how you may serve Him. Endeavor by every available means to carry out in a practical manner the ideas thus conceived. The more closely we imitate Christ, the more loyally we follow the dictates of the Higher Self, the more certainly shall we vanquish the lower nature and win the only war worth while winning. 
 
-### <h3 id="letter-65">LETTER NO. 65 - APRIL, 1916 - EASTER, A PROMISE OF NEWNESS OF LIFE</h3>
+### <h3 id="letter-65">Letter No. 65 - April, 1916 - Easter, A Promise of Newness of Life</h3>
 
 This is the Easter lesson, though it does not say one word connected with the cosmic event of the present season. But it emphasizes anew the great vital fact that birth and death are only incidents in the life of the spirit, which is without beginning or end. 
 
@@ -1016,7 +1016,7 @@ Let us then, dear friend, approach the coming Easter in an attitude of spiritual
 
 "Take care of the pennies and the dollars will look after themselves" says a worldly wise proverb. We may paraphrase and adapt it to the spiritual life by saying, "Take heed that every day is well spent, and the years will yield much treasure." 
 
-### <h3 id="letter-66">LETTER NO. 66 - MAY, 1916 - DAILY EXERCISE IN SOUL CULTURE</h3>
+### <h3 id="letter-66">Letter No. 66 - May, 1916 - Daily Exercise in Soul Culture</h3>
 
 When Christ visited Martha and Mary the former was much more concerned with preparation for his material comfort than in attending to the spiritual matters which he taught; hence the rebuke that she was concerned with many things of lesser moment than "the one thing needful." There is no doubt that it is positively wicked to neglect fulfilling one's duties and meeting every obligation honestly incurred in our ordinary everyday life. But unfortunately most of us make the great mistake of looking upon our work and duties in the material world as paramount, thinking that the spiritual side of our development can wait until a convenient time when we have nothing else to do. An increasing number of people admit that they ought to give more attention to spiritual matters, but they always have an excuse for not attending to them just now. "My business requires my entire attention," one will say. "Times are so strenuous, and in order to keep my head above water I must work from early morning till late at night. But as soon as times are a little better I am going to look into these matters and give more time to them." Another claims that certain relatives are dependent on him and that when he has fulfilled his obligations to these dependents he will be able to devote his time to soul growth. 
 
@@ -1028,7 +1028,7 @@ The mind of most people is like a sieve. As water runs through the sieve so also
 
 Therefore I would urge you in connection with this series of lessons, The Occult Effect of the Emotions," which you are receiving that you take the above personally to heart and set aside a portion of each day for the purpose of gaining thought-control. There are a number of helpful hints given by various authors, but I will think the matter over and try to give some general hints. This is very difficult because so much depends upon the temperament of the student. The instruction should really be individual, rather than collective, to bring the best results. 
 
-### <h3 id="letter-67">LETTER NO. 67 - JUNE, 1916 - THE REAL HEROES OF THE WORLD</h3>
+### <h3 id="letter-67">Letter No. 67 - June, 1916 - The Real Heroes of the World</h3>
 
 Though my letter is dated the first of the month it was written earlier of course--in fact, the evening before "Decoration Day," the day when all patriotic Americans are supposed to honor the dead heroes who fought for the integrity of the Union. 
 
@@ -1046,7 +1046,7 @@ Nor let us wait till they have passed to the beyond, but let us honor them here 
 
 How shall we find them? they wear no uniform, neither do they wear their hearts upon their sleeves. They are everywhere, and if we seek we shall find them. The quicker we join their ranks, the sooner we shall honor ourselves by lightening their burdens as it becomes all true servants of the Master. "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me." 
 
-### <h3 id="letter-68">LETTER NO. 68 - JULY, 1916 - THE WORK OF THE RACE SPIRITS</h3>
+### <h3 id="letter-68">Letter No. 68 - July, 1916 - The Work of the Race Spirits</h3>
 
 In a few days we shall celebrate in America "The Glorious Fourth," our Independence Day, and we shall waste a lot of perfectly good and useful powder that might be put to better use, in order to show our "patriotism." A considerable number of fires and accidents will occur if we may judge from many precedents. 
 
@@ -1054,7 +1054,7 @@ To what purpose all of this we may see by the heart-rending spectacle of the war
 
 I would therefore urge that the students of the Rosicrucian Fellowship refrain from participation in any patriotic exercises of a martial nature. Practice Universal Brotherhood by never mentioning or recognizing differences of nationality, for we are all one in Christ. 
 
-### <h3 id="letter-69">LETTER NO. 69 - AUGUST, 1916 - STRUGGLES OF THE ASPIRING SOUL</h3>
+### <h3 id="letter-69">Letter No. 69 - August, 1916 - Struggles of the Aspiring Soul</h3>
 
 From time to time letters of discouragement are received at Headquarters from people who are smitten by conscience because they are unable to live up to their high ideals, and they feel that it would be more honest to abandon the faith and live as others live who make no professions. They say that while they read and study or listen in church to passages which exhort them to love their enemies, to bless them that curse them, and to pray for those who despitefully use them, they are heart and soul in accord with these sentiments and would gladly follow these precepts; but when they meet such conditions in the world, they cannot comply with the Biblical command, and therefore feel that they are hypocrites. 
 
@@ -1064,7 +1064,7 @@ In the meantime we have the condition whereof our students complain (with Paul, 
 
 Besides, what else can we do but go on? Having once awakened the higher nature, it cannot be permanently silenced, and there will be the misery of regret and remorse if we abandon effort. We have several times called attention to the way the mariner guides his vessel across the waste of waters by a star. He will never reach it, but nevertheless it brings him safely through the rock shoals to the desired haven. Similarly, if our ideals are so high that we realize we shall never reach them in this life, let us also keep in mind that we have endless time before us, and that what we cannot accomplish in this life-day will be achieved tomorrow or later. Let us follow the example of Paul and "by patient persistence in well-doing" continue to seek for spiritual glory, honor, and immortality. 
 
-### <h3 id="letter-70">LETTER NO. 70 - September, 1916 - BUILDING FOR THE FUTURE LIFE</h3>
+### <h3 id="letter-70">Letter No. 70 - September, 1916 - Building for the Future Life</h3>
 
 You know of course that the Fellowship teaches rebirth to be a fact in nature, and you believe in this doctrine because it explains so many facts in life which we are otherwise unable to account for. But I wonder how many students have really taken the practical use of this truth to heart, and are fixing their attention upon it by consciously and systematically molding themselves and thus making their environment for future lives. 
 
@@ -1080,7 +1080,7 @@ Therefore we ought systematically to set aside a certain time at intervals, as f
 
 You understand of course that the highest form of aspiration to virtue is the constant endeavor to practice it in our daily lives. But while we are endeavoring to cultivate virtues, as we should, by practice, it is scientific to plan ahead the use we shall make of the future life just as we now plan ahead the use of the day that is before us. I trust that this idea may take root among the students and be consistently carried to its legitimate consummation, for in that way it will be bound to have a wonderful effect upon the future of ourselves and the future of the world about us. 
 
-### <h3 id="letter-71">LETTER NO. 71 - October, 1916 - DESCENT OF THE CHRIST LIFE IN THE FALL</h3>
+### <h3 id="letter-71">Letter No. 71 - October, 1916 - Descent of the Christ Life in the Fall</h3>
 
 We are now at the fall equinox where the physical sun is leaving the northern hemisphere after having provided us with the necessities of life for the coming year; and the spiritual tide which carries on its crest the life which will find physical expression in the coming year is now on its way towards our earth. The half-year directly before us is the holy part of the year. From the feast of the Immaculate Conception to the Mystic Birth at Christmas (while this wave is descending into the earth) and from that time to Easter (while it is traveling outward) a harmonious, rhythmic vibratory song, not inaptly described in the legend of the Mystic Birth as a "hosanna" sung by an angel choir, fills the planetary atmosphere and acts upon all as an impulse to spiritual aspiration. Not upon all in even measure, of course, but according to their general character. 
 
@@ -1092,7 +1092,7 @@ Let us therefore each take stock of the particular sins which most easily beset 
 
 Having made up our minds as to the personal work, let us look about us to see who in our circle of acquaintances seem to be seeking for spiritual enlightenment, and who would be likely to lend an ear to our teachings. This requires discrimination, for we have no right to force our ideas upon unwilling ears any more than we would be justified in beating a drum in their rooms for an hour or two each day. If we find that they do not take kindly to what we have to say, it is better to leave them; but there are many who may be awakened in winter under the spiritual Christ vibration who could not be reached in summer. I therefore trust that we may use all the coming months in a way which shall profit us greatly from the spiritual standpoint. 
 
-### <h3 id="letter-72">LETTER NO. 72 - November, 1916 - THE REASON FOR THE TRIALS THAT BESET THE OCCULT STUDENT</h3>
+### <h3 id="letter-72">Letter No. 72 - November, 1916 - The Reason for the Trials that Beset the Occult Student</h3>
 
 From time to time we receive letters from students complaining that since they have taken up the higher teachings, and are trying to live in conformity with them, everything seems to go wrong with their affairs. Some feel a determined opposition in their homes, others suffer in business, and some are even affected in health. Some, according to temperament, are ready to give up, and others grit their teeth in persistence in determination to follow Paul's method of "patient well-doing" despite the trials. But all are unanimous in asking why this marked change in their affairs. Each receives the best help we can given to solve his individual problems, but as we feel that there are many among the students who have been similarly tried, it seems appropriate to state the reason for this condition. 
 
@@ -1100,7 +1100,7 @@ In the first place, the aspiring soul should realize that the adverse conditions
 
 In view of these facts we can understand the Christ's exhortation to rejoice when men revile us and accuse us falsely for His sake. Boys pass a barren tree with indifference, but as soon as the tree bears fruit, they are ready to throw stones and rob it. So it is with men also: while we walk with the crowd and do as they do, we are unmolested, but the moment we do what they know in their hearts to be right, we become a living reproach to them even if we never utter a word of censure, and in order to justify themselves in their own eyes they begin to find fault with us. In this respect those who are most closely associated with us in the home or in business are more prominent than strangers who have no connection with us. But whatever the form or the source of such trouble it is a cause for congratulation, for it shows that we are doing something effectively progressive; so let us keep on undismayed and with unflagging zeal. 
 
-### <h3 id="letter-73">LETTER NO. 73 - December, 1916 - SPIRITUAL STOCK-TAKING DURING THE HOLY SEASON</h3>
+### <h3 id="letter-73">Letter No. 73 - December, 1916 - Spiritual Stock-Taking During the Holy Season</h3>
 
 Christ likened the aspiring souls of His time to stewards who had received a certain number of talents from their lord and were supposed to go into trade with them that they might increase the capital entrusted to their care. We understand from this parable that all who aspire to serve Him are required likewise to use their God-given talents in such a manner that they show a gain in soul growth when in due season they are called upon to give an account of their stewardship. 
 
@@ -1118,7 +1118,7 @@ At Mt. Ecclesia and the various Study Centers a Midnight Service is held on Holy
 
 If we all put our shoulders to the wheel at this time, we may be sure of an unusually individual and collective blessing and a spiritually prosperous year. 
 
-### <h3 id="letter-74">LETTER NO. 74 - January, 1917 - ALL OCCULT DEVELOPMENT BEGINS WITH THE VITAL BODY</h3>
+### <h3 id="letter-74">Letter No. 74 - January, 1917 - All Occult Development Begins with the Vital Body</h3>
 
 Recently a friend who has been taking the correspondence course a number of months wrote to get a matter cleared up which is bothering him; and as it may be that others are feeling somewhat similar to him but have not reached the point of expression, we thought best to use this letter as an answer. It has sufficient general interest to be of value even to those who have not looked at the matter in the light seen by our friend. He does not want to complain, but he asked for the correspondence course in the hope of getting something to further occult development. Instead he receives each month a nice little sermon, which he admits is good for both beginners and advanced students, but where is the schooling? Other authors give certain exercises which help their followers; will we please give him one that will develop the faculty of writing? 
 
@@ -1132,7 +1132,7 @@ The Western Wisdom School teaches us as its fundamental maxim that "All occult d
 
 You have our sincere wishes for abundant spiritual growth during the New Year. 
 
-### <h3 id="letter-75">LETTER NO. 75 - February, 1917 - SERVING WHERE BEST FITTED TO SERVE</h3>
+### <h3 id="letter-75">Letter No. 75 - February, 1917 - Serving Where Best Fitted to Serve</h3>
 
 A question was asked recently as follows: "You speak so much about service; just what does that mean? There are in our Fellowship a number of people who say that they love to serve, but they do not do anything but what they like to do. Is that service?" 
 
@@ -1148,11 +1148,11 @@ There is no special merit in seeking out service in a capacity that is disagreea
 
 If we strive to do this, our progress and soul growth will increase correspondingly. 
 
-### <h3 id="letter-76">LETTER NO. 76 - March, 1917 - "LOST SOULS" AND STRAGGLERS</h3>
+### <h3 id="letter-76">Letter No. 76 - March, 1917 - "Lost Souls" and Stragglers</h3>
 
 We have been asked to give a lesson on "lost souls" and stragglers. Our correspondent wants to know the Rosicrucian teachings concerning them. As this very question was dealt with earlier in this book, in the letter for April, 1912 (No. 17), we cannot do better than refer our correspondent to it. We trust that it will explain the matter to him. We should be glad if other students who have questions of general interest would submit them for elucidation in these letters, for although there is a question of department in the "Rays," not all our students are subscribers. Also the problems presented can perhaps be given a little more intimate treatment here than is possible in a magazine that must go before a public which is not as well versed in the philosophy as our students. 
 
-### <h3 id="letter-77">LETTER NO. 77 - April, 1917 - THE UNNECESSARY FEAR OF DEATH</h3>
+### <h3 id="letter-77">Letter No. 77 - April, 1917 - The Unnecessary Fear of Death</h3>
 
 It is really pathetic to see the gloom of people who have been bereaved by the death of some one near and dear, and to see how in extreme cases they devote themselves for the rest of their lives to mourning for the one who has passed on. They clothe themselves in sable garments, and deem it a sacrilege to the memory of the departed one to even smile, little realizing that by such an attitude of mind they are keeping in the densest regions of the invisible world the person whom they profess to love, where all that is evil lives and moves and has its being in close contact with the base and selfish side of humanity. This is not a mere fancy but an actual fact, demonstrable to any one who has the slightest extension of the physical sight. 
 
@@ -1168,7 +1168,7 @@ I trust that you will take this to heart and devote yourself to spreading this k
 
 You can render no greater service to humanity than by teaching them these truths. 
 
-### <h3 id="letter-78">LETTER NO. 78 - May, 1917 - HEART DEVELOPMENT AND INITIATION</h3>
+### <h3 id="letter-78">Letter No. 78 - May, 1917 - Heart Development and Initiation</h3>
 
 While I was dictating this month's lesson it occurred to me to ask whether you are getting the full benefit from the lessons or not? It all depends upon the way you are studying, for you cannot get any more out of them than what you put into them yourself. Therefore I thought best to devote this letter to a little discussion of the proper method of using them with maximum benefit. 
 
@@ -1180,7 +1180,7 @@ You will remember from what it said in the Rosicrucian Cosmo-Conception concerni
 
 This practice of feeling the lesson you will find a very, very great aid to spiritual progress; and properly used, it will illuminate the lessons and give you a spiritual insight that cannot be attained in any other way. Therefore, I sincerely hope that you will take this to heart and make up your mind to practice it regularly, even with lessons which may seem to you at first glance dull and uninteresting. This process will enable you to dig out pearls hidden beneath the surface, of which you have never dreamed. 
 
-### <h3 id="letter-79">LETTER NO. 79 - June, 1917 - SACRIFICE AND SPIRITUAL PROGRESS</h3>
+### <h3 id="letter-79">Letter No. 79 - June, 1917 - Sacrifice and Spiritual Progress</h3>
 
 From time to time letters are received at Headquarters asking in various terms the question: "How can I make more spiritual progress?" I have therefore thought well to devote this letter to a consideration of this subject. 
 
@@ -1196,7 +1196,7 @@ They pass out of his thoughts and drop away. In one way or another the daughter 
 
 As the psalmist says: "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread." The law enunciated by Christ, "Seek ye first the Kingdom of God, and His righteousness, and all these things shall be added unto you," holds good in this day as well as when it was spoken. This I have found by actual experience, and every one else who lives the life and does the work will find that the same holds good in his or her case. There is growth only in service. 
 
-### <h3 id="letter-80">LETTER NO. 80 - July, 1917 - ADJUSTING THE TEACHINGS TO THE UNDERSTANDING OF OTHERS</h3>
+### <h3 id="letter-80">Letter No. 80 - July, 1917 - Adjusting the Teachings to the Understanding of Others</h3>
 
 Recently we received a letter from Seattle which gives good a suggestion that you may like to use. Our friend writes: "The other day while in Ballard I went into the library and called for the "Cosmo." When I was ready to go, I turned over to the table of food values and took the open book up to the librarian's desk. I showed her this table and said: 'This is a valuable table.' She, examining it said: 'Why, I have been asked a number of times for tables of just this kind.' Then the thought came to me that when other students go into a library and ask for the "Cosmo," they might do the same as I had done. The librarian might then catalogue the book as containing hints on health and food, and in that way it might come into the hands of some who are seeking for just the light which it contains." 
 
@@ -1206,7 +1206,7 @@ Not infrequently our students complain that they cannot make their associates or
 
 In other words, we must be adjustable, like some of those wrenches in our tool chest. When we meet an audience of strangers, we must talk right down to their level and use the simplest language possible. Then, again, when we meet older students and are in a class where they are capable of grasping the profounder problems, we may expand to the very fullest of our ability with considerable profit and benefit to ourselves and all others concerned. But above all we must learn, with Paul, to be all things to all men, or we shall defeat the object we have in view of bringing light to seeking souls. 
 
-### <h3 id="letter-81">LETTER NO. 81 - August, 1917 - THE VALUE OF REVIEWING PAST LESSONS</h3>
+### <h3 id="letter-81">Letter No. 81 - August, 1917 - The Value of Reviewing Past Lessons</h3>
 
 There is in the following letter a valuable suggestion from a student of the Rosicrucian teachings, which I feel it a duty to pass on: 
 
@@ -1218,7 +1218,7 @@ There is in the following letter a valuable suggestion from a student of the Ros
 
 If students will bear in mind that repetition is the keynote of the vital body, and that "all occult development begins with the vital body," they will realize why it is so profitable to go over the back lessons and letters frequently. 
 
-### <h3 id="letter-82">LETTER NO. 82 - September, 1917 - TAMING AN UNRULY MEMBER</h3>
+### <h3 id="letter-82">Letter No. 82 - September, 1917 - Taming an Unruly Member</h3>
 
 As you probably know, we have here on Mt. Ecclesia a short service morning and evening, which includes a reading from the Bible. Mrs. Heindel and myself are very fond of reading from time to time the third chapter of James because we find there such an important lesson. I thought it might be well to call it to your attention, particularly because of an incident which happened here a short time ago that served to drive that lesson with great force into my consciousness. I believe that we shall all be able to profit by taking that lesson to heart. Let me quote a few verses from the chapter mentioned, and then I shall tell you the incident to which I refer. 
 
@@ -1230,7 +1230,7 @@ If we died when we had stung others with sharp words, how many of us would be al
 
 I can assure you in the case of Mrs. Heindel and myself, particularly since we came to Headquarters, that this chapter has been of more spiritual benefit to us than any other. It has helped us more than all the rest put together, though of course we are far, far from perfect yet. But what we have done, and what others have done with us here, is ample warrant for recommending this chapter to your earnest attention--coupled, perhaps, with the little story of the bees--for it will do as much for you if you read it and take it to heart one or twice a week. 
 
-### <h3 id="letter-83">LETTER NO. 83 - October, 1917 - AN INNER TRIBUNAL OF TRUTH</h3>
+### <h3 id="letter-83">Letter No. 83 - October, 1917 - An Inner Tribunal of Truth</h3>
 
 Last week a visitor to Mt. Ecclesia told me that she had been studying all the different philosophies she could get hold of for about twenty years; also that she had in the past few years taken up the study of the Rosicrucian teachings, and that they appealed to her as being the absolute truth. She naturally expected me to give acquiescence to that sentiment, and was both amazed and dumbfounded when told that I did not so consider the teachings given me by the Elder Brothers and written in our various books. 
 
@@ -1242,7 +1242,7 @@ The within then is the only worthy tribunal of truth. If we consistently and per
 
 Therefore my advice to the student would be never to accept or reject or follow blindly any authority, but to strive to establish the tribunal of truth within. Refer all matters to that tribunal, proving all things, and holding fast to that which is good. 
 
-### <h3 id="letter-84">LETTER NO. 84 - November, 1917 - EPIGENESIS AND THE LAW OF CAUSATION</h3>
+### <h3 id="letter-84">Letter No. 84 - November, 1917 - Epigenesis and the Law of Causation</h3>
 
 Some errors are so frequently expressed by students that they call for correction from time to time. The most general of these is the mistaken idea that everything which happens to us is the outcome or effect of some cause or action of our own in times past, generally in a past existence. Theoretically, students know that this attitude is wrong. They are aware that besides the destiny brought over with us from previous existences for liquidation in this life, we are every day exerting a causative influence by our acts. A considerable part of the deeds done in this body will work out into effects before death terminates our stay in our present environment, while those deeds which are not thus liquidated will be held over and will form the foundation of the destiny of a future existence, where we may reap what we have sown. This destiny carried over from life to life is shown by our horoscope, and gives us certain characteristics and tendencies or lines of least resistance. It cannot be overlooked though that this destiny from the past gives us a certain bias or trend towards a particular line of action. But, nevertheless, there is comparative free will in a large percentage of our actions, leaving scope for the exercise of Epigenesis, the divine creative activity which is the basis of evolution. 
 
@@ -1252,11 +1252,11 @@ Similarly, when we constantly emphasize the Law of Causation and consistently an
 
 I hope that you will keep this thought close to you and that you may reap much benefit from a persistent practice of this principle. 
 
-### <h3 id="letter-85">LETTER NO. 85 - DECEMBER, 1917 - THE PRESENT SORROW AND THE COMING PEACE</h3>
+### <h3 id="letter-85">Letter No. 85 - December, 1917 - The Present Sorrow and the Coming Peace</h3>
 
 From the dim distant past there comes to us the voice of Isaiah in one of the grandest and most soul-inspiring of prophesies: 
 
-```
+<pre>
 "Unto us a child is born, unto us a son is
 given: and the government shall be upon
 his shoulder: and his name shall be called
@@ -1268,31 +1268,31 @@ peace there shall be no end, upon the throne
 of David, and upon his kingdom, to order it,
 and to establish it with judgment and with
 justice from henceforth, even for ever."
-```
+</pre>
 
 Nor is the song of the angel choir above the Galilean hills less potent to stir the soul with its sublime ideal: 
 
-```
+<pre>
 "On earth peace, and
 Good will toward men."
-```
+</pre>
 
 But looking facts in the face as seen in the world today, such sayings seem little short of mockery; and from the customary viewpoint of the man in the street all the platitudes offered by the religionists cannot make the situation in the so-called, "Christian world" less odious. 
 
 But when we apply the cosmic scale of perspective and measurement, it is different. Goethe says well: 
 
-```
+<pre>
 "Who never ate his bread in sorrow,
 Who never spent the midnight hours
 Weeping, waiting for the morrow,
 He knows ye not ye heavenly powers."
-```
+</pre>
 
 As with individuals, so with nations. Sorrow and suffering seem unfortunately to be the only teachers they will hear. Hence the necessity for their lessons. Viewing life as unending we are not dismayed at the so-called "loss of life" incident to the present war. Those killed will all be born again, and by their experience they will be better than they are now. Peace and good will are bound to come in time when we have learned to abhor war, hence we may well rejoice at the prospect and earnestly pray for its consummation. I would particularly urge students of the Rosicrucian Fellowship to unite in this prayer on Holy Night at midnight when the usual service is held in the Pro-Ecclesia by the workers on Mt. Ecclesia. 
 
 We enclose a little leaflet, "The Bible at a Glance," with seasonal greetings from the workers on Mt. Ecclesia, hoping that you may find the former both interesting and instructive. 
 
-### <h3 id="letter-86">LETTER NO. 86 - JANUARY, 1918 - GOD--THE SOURCE AND GOAL OF EXISTENCE</h3>
+### <h3 id="letter-86">Letter No. 86 - January, 1918 - God—The Source and Goal of Existence</h3>
 
 We are again standing upon the threshold of a New Year, a time when it is a general custom to form one's aspirations into resolutions. As the students of the Rosicrucian teachings ought to be particularly interested in the matter of spiritual growth, I have thought that the following considerations may perhaps be of benefit at this time. 
 
@@ -1304,7 +1304,7 @@ But the holy man is as the steel touched with the lodestone and deflected by for
 
 We have heard of men who studied law while riding to and from business in street cars; others have learned languages by utilizing the spare moments which most people waste in idle, aimless, wandering thoughts. Let us learn a lesson from them, and during the coming year practice the habit of turning our thoughts to God during whatever scattered spare moments we have. If we practice this faithfully, we shall find ourselves greatly advanced upon the path of soul growth. 
 
-### <h3 id="letter-87">LETTER NO. 87 - FEBRUARY, 1918 - THE NECESSITY OF PUTTING TALENTS TO USE</h3>
+### <h3 id="letter-87">Letter No. 87 - FEBRUARY, 1918 - The Necessity of Putting Talents to Use</h3>
 
 The Christ exhorted us to let our light shine, and in the parable of the talents He emphasized the points that to whom much is given, of him much will be required, and that every one, no matter how little he has received, is expected to put it out to usury, to cast his bread upon the waters, so that it may return to him after many days and yield an increase. We are now standing near the beginning of another year. We have received the priceless Rosicrucian teachings. Hence it is required of us that we put this knowledge to some use in order to help those of our fellow men who have not yet received a solution of the problem of life and are seeking for light. 
 
@@ -1318,7 +1318,7 @@ I would also suggest that classes be formed in the various study centers to stud
 
 I trust that this suggestion may prove of benefit to you during the coming year. 
 
-### <h3 id="letter-88">LETTER NO. 88  - MARCH, 1918 - THE NOBILITY OF ALL LABOR</h3>
+### <h3 id="letter-88">Letter No. 88  - March, 1918 - The Nobility of All Labor</h3>
 
 A correspondent enthusiastic over the beauty, grandeur, and soul-satisfying nature of the Rosicrucian teachings bemoans the fate which has fettered her to a cook stove, a dishpan, the care of children, and the drudgery of housework; were she only free to take this new-found gospel, she would go into the wide world with the glad tidings for which she knows untold thousands are praying and seeking. 
 
@@ -1332,7 +1332,7 @@ A great gas engine going at full speed might defy an army of strong men to stop 
 
 But what many really mean when they say "drudgery" is monotony. All work is routine more or less, and the constant performance of the same tasks often becomes monotonous. There is a very good reason why the present phase of our development includes this principle of routine. We are now getting ready for the fast approaching Aquarian Age with its great intellectual and spiritual development. This requires an awakening of the dormant vital body, whose keyword is Repetition. The routine of our daily work furnishes this. If we rebel, it breeds monotony and retards progress. But if we leaven our labor with love, we shall advance ourselves greatly in evolution and reap the reward of contentment. 
 
-### <h3 id="letter-89">LETTER NO. 89 - APRIL, 1918 - THE AQUARIAN AGE AND THE NEW COVENANT</h3>
+### <h3 id="letter-89">Letter No. 89 - April, 1918 - The Aquarian Age and the New Covenant</h3>
 
 After writing the students' lesson and thinking over the various phases of Easter and the events happening around that time according to the Bible story, it occurred to me what a sealed book the Bible is to those who have not the Western Wisdom Teaching and a knowledge of esoteric astrology. So I decided to use this letter to elucidate one of the points that presented itself before my mind. 
 
@@ -1344,7 +1344,7 @@ While these steps in evolution have taken place, the sun by precision has circle
 
 Could anything be plainer? Christ is the Sun Spirit, and when the sun passes over the equator at the vernal equinox in the sign of the Water-bearer, the Aquarian Age will be ushered in, in which the fleshless, non-alcoholic diet of the New Covenant will be in vogue and an era of altruism will dawn. We are beginning to feel this beneficent influence now, though it is still centuries away, and we are here to help prepare for that time. Therefore it behooves us to cleanse ourselves physically, morally, mentally, and spiritually that we may be a shining example to others and thereby lead them to the great Light which we have been fortunate enough to see. Let us also remember that the greater our knowledge, the greater also our responsibility for its right use, and unless we live up to these ideals, we shall merit the greater condemnation. 
 
-### <h3 id="letter-90">LETTER NO. 90 - MAY, 1918 - MEAT EATING AND FUR WEARING</h3>
+### <h3 id="letter-90">Letter No. 90 - May, 1918 - Meat Eating and Fur Wearing</h3>
 
 A student who confesses that he is still addicted to flesh eating in some degree has occasionally an urge to speak to others on the Rosicrucian teachings, but always feels as if he were a hypocrite when he advocates vegetarianism. He asks us how he may overcome this habit and whether he should give up teaching others until he has himself attained. 
 
@@ -1356,7 +1356,7 @@ At the same time it would seem that with a little will power brought to bear it 
 
 Unfortunately the complexity of our civilization forces us to use leather for many things because no other material is available on the market to take its place; for example, for shoes, straps, etc. But nevertheless we ought to do all we possibly can to avoid making use of any material which comes from the body of an animal that requires its death. One of the blessings of this present war is that man is find out that meat is not an indispensable article of diet, and that we are far better off without alcohol. Let us hope that this is but the beginning of the end, and that man will soon cease to breed or hunt animals for their flesh and fur. Meanwhile let us all set the example and apply our will power to this end. 
 
-### <h3 id="letter-91">LETTER NO. 91 - JUNE, 1918 - TOLERANCE OF OTHERS' BELIEFS</h3>
+### <h3 id="letter-91">Letter No. 91 - June, 1918 - Tolerance of Others' Beliefs</h3>
 
 We are here to live in the conditions as we find them and to learn the lesson provided by our environment. Those who are continually soaring in the clouds and seeking spiritual ideals to the neglect of their plain duties are just as mistaken in their efforts as those who wallow in the mire of material work, grubbing and grinding in their greed for the dollar. Both need help, but in opposite directions. One class needs to be pulled down till their feet are firmly planted upon earth; the other needs an uplift that they may see the light of heaven and begin to think of acquiring treasures there. 
 
@@ -1368,7 +1368,7 @@ There is not so much danger of finding the materialist in our ranks, but unfortu
 
 For this reason we should not only be tolerant of the beliefs of others and make it a rule never to belittle another faith, but we should watch ourselves to see that we LIVE the Rosicrucian teachings so as to do credit to them in our immediate environment. 
 
-### <h3 id="letter-92">LETTER NO. 92 - JULY, 1918 - THE PURPOSE OF WAR AND OUR ATTITUDE TOWARD IT</h3>
+### <h3 id="letter-92">Letter No. 92 - July, 1918 - The Purpose of War and Our Attitude Toward It</h3>
 
 From time to time students in various parts of the world have been asking what should be their attitude toward the war and what purpose it serves from the spiritual standpoint. In answer we have pointed out in various articles the Rosicrucian teaching concerning the object of the war, namely, to turn the world towards God for consolation in its sorrow, and to rend the veil which exists between the visible and invisible worlds by helping a considerable number to acquire spiritual sight and the ability to communicate with those who have passed beyond. But though the explanations given have satisfied most occult students in a measure, there were others who did not feel satisfied therewith; they wanted something more directly bearing on the conditions. To them we pointed out the teaching in Lecture No. 13--"Angels as Factors in Evolution"--showing how human affairs are guided by the angels and archangels who act as family and Race Spirits, causing the rise and fall of nations as required for the evolution of the various groups of spirits under their guardianship. 
 
@@ -1376,7 +1376,7 @@ As a final attempt to satisfy our students concerning this vital matter we send 
 
 But let us realize that there can be no peace worth having until militarism has received such a blow that it will not raise its head again for a long time. Many people hope that this will be the last war, and we ardently wish that we could believe it. People thought the same when Napoleon and his hordes overran Europe a hundred years ago, but time has proved that such hopes were vain. Peace is a matter of education, and impossible of achievement until we have learned to deal charitably, justly, and openly with one another, as nations as well as individuals. As long as we manufacture arms, peace will not become established. It should become our aim and object to do all we can toward the abolition of militarism in all countries and the establishment of the principle of arbitration of difficulties. 
 
-### <h3 id="letter-93">LETTER NO. 93 - AUGUST, 1918 - THE INNER POWER AND THE RESPONSIBILITY THAT GOES WITH IT</h3>
+### <h3 id="letter-93">Letter No. 93 - August, 1918 - The Inner Power and the Responsibility that Goes with It</h3>
 
 Many years ago I spent a few weeks on a farm in Maine at the time when they were harvesting potatoes. As the wagons passed me, I noted that the potatoes were all large and of almost uniform size. So one day I congratulated the farmer on having such a fine crop of large potatoes. He walked over to a wagon and showed me that the bottom of the wagon was full of small potatoes. He also said that they had not been sorted in the field but that the jostling of the wagon over the rough road from the field to the barn brought the big potatoes to the top while the small ones sank to the bottom. "If you put the big ones at the bottom," he said, "they will rise to the top and the small ones will sink." 
 
@@ -1388,7 +1388,7 @@ We are living in such a time, and if we aspire to rise, now is our greatest oppo
 
 I would suggest to the students that now is the time to see to it that the Cosmo and our other literature, as far as possible, is in the libraries in their own cities; also that it is in a place where it is accessible and that it is being used. If a number of people inquire about it from time to time, though the Librarian may know nothing about it and perhaps even be hostile, the constant call for a certain book will finally force him to take notice. There is no doubt that the Fellowship teachings have within them an inner power that is bound to make a place for them in the world, but we shall acquire merit in proportion to the way in which we help to bring these teachings of the Elder Brothers to the notice of humanity in general. It is now vacation time and hence an especially propitious season for the dissemination of our soul-satisfying philosophy. Let us therefore all put forth an extra effort at this time. It will benefit others and ourselves also. 
 
-### <h3 id="letter-94">LETTER NO. 94 - SEPTEMBER, 1918 - EQUIPOISE OF GREAT HELP IN TIMES OF STRESS</h3>
+### <h3 id="letter-94">Letter No. 94 - September, 1918 - Equipoise of Great Help in Times of Stress</h3>
 
 In these days when our customs, habits, and business are being so radically interfered with by the great war no matter where on earth we live; when the flower of our manhood is being mowed down in millions by cannon; when even woman must leave her accustomed vocation as home maker to take part in the titanic struggle behind the fighting lines; when the weak, those who are either very old or very young, succumb to privation; how can one help being disturbed more or less according to one's individual suffering or one's proximity to the seething sea of hate and sorrow in what was once fair France or in the other battle-scarred sections? 
 
@@ -1400,7 +1400,7 @@ If such self-control can be attained by people in the world, and if so much bene
 
 Therefore I have outlined in this month's lesson the secret causes which in the past have generated and fertilized the seeds that have now flowered into our present cataclysmic condition, and have indicated in a slight measure how we are now sowing the seeds of our future well or ill being; this in the hope that you will concentrate your thoughts constructively along the line indicated, and advocate in your sphere of life the views presented. Much sorrow may thus be averted in the future for thoughts are things, and if they are in harmony with the cosmic purpose to make all things work together for good, they will surely prosper. 
 
-### <h3 id="letter-95">LETTER NO. 95 - OCTOBER, 1918 - THE OPTIMISTIC ATTITUDE AND FAITH IN ULTIMATE GOOD</h3>
+### <h3 id="letter-95">Letter No. 95 - October, 1918 - The Optimistic Attitude and Faith in Ultimate Good</h3>
 
 Suppose someone very close to you were undergoing a surgical operation. Naturally you would feel very much concerned, and your feelings would probably swing between fear and hope. Sometimes one emotion and sometimes the other would predominate. But consider what would be the effect upon the patient if you were to voice your doubt and misgivings on every occasion. Fear always has a devitalizing and detrimental effect which makes it very difficult for the patient to recover, particularly as during the time of an illness he is less self-assertive and more negative than at times when he is in good, robust health. Thus while you were really anxious to help him and would do anything in your power to serve him, by that attitude of mind and the expression of such thoughts you would be really hindering him very much. 
 
@@ -1412,7 +1412,7 @@ We have an absolute faith in the wisdom and omnipotence of Deity. We know that i
 
 Note: The letter for Nov. 1918 was devoted to business matters connected with our publications, and therefore is not included here. 
 
-### <h3 id="letter-96">LETTER NO. 96 - DECEMBER, 1918 - INCREASING THE LIFE OF THE ARCHETYPE</h3>
+### <h3 id="letter-96">Letter No. 96 - December, 1918 - Increasing the Life of the Archetype</h3>
 
 This is the last student's letter of the present year, and the thought at the ending of each cycle naturally turns to the fleetness of time and the evanescence of existence in the phenomenal world. It also reminds us of the preciousness of time and of our responsibility to use it to the best advantage for soul growth, "for what shall it profit a man if he shall gain the whole world, and lose his own soul?" Now is the seed time, and we are told that "unto whom much is given, of him shall much be required." Therefore we are accountable for what we have done or left undone to a greater measure than others who have not had the intimate knowledge of God's purpose which has been vouchsafed us through the Elder Brothers. 
 
@@ -1422,18 +1422,18 @@ This law applies to all without exception, but it has greater significance in th
 
 Let us hope therefore that we have used to the best advantage the year which is now passing, and prepare to increase our efforts during the coming year. 
 
-### <h3 id="letter-97">LETTER NO. 97 - JANUARY, 1919 - THE LAW OF SUCCESS IN SPIRITUAL MATTERS</h3>
+### <h3 id="letter-97">Letter No. 97 - January, 1919 - The Law of Success in Spiritual Matters</h3>
 
 It seems appropriate to commence our correspondence for 1919 by wishing you a happy and successful New Year. But the proverb says: "If wishes were horses, beggars would ride." Something more is required to secure success and happiness than mere wishes, and perhaps mine may bear better fruit if I explain to you the law of success. 
 
 The students of the Rosicrucian Fellowship are conversant with the fact that there is no "luck," and are quite well agreed with Mephisto in Faust when he says: 
 
-```
+<pre>
 "How closely luck is linked to merit,
 Does never to the fool occur.
 Had he the wise man's stone, I swear it,
 The stone had no philosopher.
-```
+</pre>
 
 But here a query will at once present itself to the minds of many: "Is it possible to reduce success to a law?" 
 

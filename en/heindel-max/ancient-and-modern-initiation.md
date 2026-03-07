@@ -131,12 +131,12 @@ Similarly, when the candidate is brought to the Brazen Altar, he learns the less
 
 We are told by the apostle Paul that the Tabernacle in the Wilderness was a shadow of greater things to come. It may therefore be of interest and profit to see what is the meaning of this Brazen Altar, with its sacrifices and burning flesh, to the candidate who comes to the Temple in modern times. In order that we may understand this mystery, we must first grasp the one great and absolutely essential idea which underlies all true mysticism, viz., that these things are within and not without. Angelus Silesius says about the Cross: 
 
-```
+<pre>
 "Though Christ a thousand times in Bethlehem be born, 
 And not within thyself thy soul will be forlorn. 
 The Cross on Golgotha thou lookest to in vain, 
 Unless within thyself it be set up again." 
-```
+</pre>
 
 This idea must be applied to every symbol and phase of mystic experience. It is not the Christ without that saves, but the Christ within. The Tabernacle was built at one time; it is clearly seen in the Memory of Nature when the interior sight has been developed to a sufficient degree; but no one is ever helped by the outward symbol. We must build the Tabernacle within our own hearts and consciousness. We must live through, as an actual inner experience, the whole ritual of service there. We must become both the Altar of sacrifice and the sacrificial animal lying upon it. We must become both the priest that slays the animal and the animal that is slain. Later we must learn to identify ourselves with the mystic Laver, and we must learn to wash therein in spirit. Then we must enter behind the first veil, minister in the East Room, and so on through the whole Temple service till we become the greatest of all these ancient symbols, the Shekinah Glory, or it will avail us nothing. In short, before the symbol of the Tabernacle can really help us, we must transfer it from the wilderness of space to a home in our hearts so that when we have become everything that that symbol is, we shall also have become that which it stands for spiritually. 
 
@@ -236,7 +236,7 @@ The three sprouts planted by Seth have had important missions in the spiritual d
 
 In the beginning of concrete existence generation was carried on under the wise guidance of the angels, who saw to it that the creative act was accomplished at times when the interplanetary rays of force were propitious; and man was also forbidden to eat of the Tree of Knowledge. The nature of that tree is readily determined from such sentences as "Adam knew his wife, and she bore Cain"; "Adam knew his wife, and she bore Seth'; "how shall I bear a child seeing that I know not a man?" as said by Mary to the angel Gabriel. In the light of this interpretation the statement of the Angel (it was not a curse) when he discovered that his precepts had been disobeyed, namely, "dying thou shalt die," is also intelligible, for the bodies generated regardless of cosmic influences could not be expected to persist. Hence man was exiled from the etheric realms of spiritual force (Eden), where grows the tree of vital power; exiled to concrete existence in the dense physical bodies which he has made for himself by generation. This was surely a blessing, for who has a body sufficiently good and perfect in his own estimation that he would like to live in it forever? Death, then, is a boon to the spiritual realms for a season, and build better vehicles each time we return to earth life. As Oliver Wendell Holmes says: 
 
-```
+<pre>
 "Build thee more stately mansions, O my soul! 
 As the swift seasons roll. 
 Leave thy low-vaulted past, 
@@ -245,7 +245,7 @@ Shut tree from Heaven with a dome more vast,
 Till thou at length art free, 
 Leaving thine outgrown shell 
 by life's unresting sea." 
-```
+</pre>
 
 In the course of time when we learn to shun the pride of life and the lust of the flesh, generation will cease to sap our vitality. The vital energy will then be used for regeneration, and the spiritual powers, symbolized by Aaron's Rod, will be developed. 
 
@@ -385,7 +385,7 @@ By a study of the cosmology and the pictorial account of evolution given in the 
 
 The cosmogony of the Eddas is similar to that of the Bible is some respects, and in others gives points which bear out the theory of Laplace. We quote from the poetical version of 
 
-```
+<pre>
 "In the Being's earliest Dawn 
 All was one dark abyss, 
 Nor heaven nor earth was known. 
@@ -403,7 +403,7 @@ Hence pregnant drops were formed,
 Which by the parent air 
 From Muspel's region warmed, 
 Produced great Aurgelmer." 
-```
+</pre>
 
 Thus by the action of heat and cold Aurgelmer, or as he is also called, the Giant Ymer, was first formed. This was the pregnant seed ground whence came the spiritual Hierarchies, the spirits of the earth, air, and water, and finally man. At the same time the All-Father created the Cow Audumla, from whose four teats issued four streams of milk, which nourished all beings. These are the four ethers, one of which now sustains mineral, two feed the plant, three the animal, and all four the human kingdom. In the Bible they are the four rivers which went forth out of Eden. 
 

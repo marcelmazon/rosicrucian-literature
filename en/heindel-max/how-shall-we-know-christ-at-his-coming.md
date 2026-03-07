@@ -94,7 +94,7 @@ On the black path Lucifer panders to every appetite without restraint or reserva
 
 Thomas A. Kempis remarks upon the desire of the majority to live A LONG LIFE, and how few are concerned to live a good life. I might paraphrase this by exclaiming, "Oh, how many are desirous of attaining spiritual powers, but how few strive to cultivate spirituality!" The story of Faust gives us an insight into what might happen should we exclaim with all the intensity of our whole being, as did he: 
 
-```
+<pre>
 "Oh, are there spirits in the air, 
 Who float 'twixt heaven and earth, dominion wielding? 
 Stoop hither from your golden atmosphere, 
@@ -104,16 +104,16 @@ A magic mantle did I but possess,
 Abroad to waft me as on viewless wings, 
 I'd prize it more than any earthly dress, 
 Nor change it for the royal robes of kings." 
-```
+</pre>
 
 By this impatience and desire to get something for nothing, to reap where he has not sown, he attracts to himself a spirit of an undesirable nature, for the inhabitants of the invisible worlds are in nowise different from people here. A philanthropist is not found at every turn in this world, neither do we meet angels on every hand the moment we step across the border, and the only safeguard is to strive to be worthy of consciously entering those realms. When we have attained the requisite character, we shall not have to wait. 
 
 We need not here concern ourselves with what bargain was proposed to Faust by Lucifer, who had followed his prospective victim into the former's study but when he turns toward the door and is about to leave, he sees with dismay a five-pointed star with two points turned towards the door and one point facing him. This he asks Faust to remove, but upon being closely questioned and invited to leave by the window or chimney, he at last confesses: 
 
-```
+<pre>
 "For ghostly spirits 'tis a law, 
 Where they came in they must withdraw." 
-```
+</pre>
 
 This is a most important point, for as Lucifer entered the study of Faust by the door and is forced to leave by the same way, so, as Christ entered the earth by way of the vital body of Jesus, He must leave by that same way upon His return from the redeemed earth to the sun, His heavenly home; no other vehicle will do. 
 
@@ -175,29 +175,29 @@ An increasing number of people are becoming capable of functioning in this vehic
 
 We have come down into the vale of matter, and for our sake it has been necessary for the Christ to enter the earth to help us from within. For our sake He is now groaning and travailing there, waiting for the manifestation of the sons of God, and it depends upon us whether we will hasten or retard that day. Every act of ours has some effect in this respect--every single one of us has his work to do in this world, and the sooner we learn to do it, the better it is for us. We should not go abroad to seek the Christ--He is not found there. He Himself said, "Go not out in the desert." Do not seek in such places; the Christ is formed from within. That soul body which is gradually becoming capable of lifting itself above the hills is struggling for recognition within each aspirant to the higher life. As Faust says: 
 
-```
+<pre>
 "Two souls, alas! are housed within my breast; 
 And struggle, there for undivided reign. 
 One to earth, with passionate desire, 
 And closely clinging organs, still adheres; 
 Above the mists the other does aspire, 
 With sacred ardor, unto purer spheres." 
-```
+</pre>
 
 Friends, in every one of us there is that struggle going on between the higher and the lower nature. Paul fought the battle, and every seeking soul must fight it. But do not think of going into the wide-world to fight and to find. Sir Launfal went away from his home as a young man; he spent a whole life seeking Grail. When he came back to his own castle, he found the same beggar that he had scornfully left at his departure, and when he did the right thing, when the spirit of service entered him, then the Christ manifested. 
 
-```
+<pre>
 "He parted in twain his single crust. 
 He broke the ice on the streamlet's brink, 
 And gave the leper to eat and drink." 
-```
+</pre>
 
 The Savior, standing before him, said: "This is my body and this is my blood." 
 
-```
+<pre>
 "The holy supper is kept indeed 
 In whatso we share with another's need." 
-```
+</pre>
 
 It is not what we give but what we share that counts. Those who give only of abundance, of the things that they have no need of--the things that are really a burden to them, the things that they do not miss at all--do not know what giving is. "The gift without the giver is bare." That is the point: unless we give ourselves, our gifts are barren. "Greater love hath no man than this, that a man lay down his life for his friend." This is not a single act of laying down the life for a friend, but it is constant daily self-sacrifice. "I was hungry and ye gave me to eat' I was thirsty and ye gave me to drink . . . I was sick and ye visited me." That is the only requisite. May we learn it, friends. Neither need we seek far: it is right here. 
 

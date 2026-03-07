@@ -7,11 +7,11 @@ author: "Max Heindel"
 original_source_file: "self"
 ---
 
-COMPILED INFORMATION CONCERNING
+Compiled Information Concerning
 
 <h1 id="archetypes">ARCHETYPES</h1>
 
-FROM THE WRITINGS OF Max Heindel
+From the Writings of Max Heindel
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
@@ -183,7 +183,7 @@ It is stated in the Bible that Joseph was a carpenter, but the Greek word is tek
 
 Goethe, the great mystic, fittingly ends his version (of Faust) with that most mystic of all stanzas found in literature: 
 
-```
+<pre>
 All that is perishable  
 Is but a likeness.  
 The unattainable  
@@ -192,7 +192,7 @@ The indescribable--
 Here it is done:  
 The Eternal Feminine  
 Draws us on.     
-```
+</pre>
 
 The stanza puzzles all who are not able to penetrate into the realms where it is supposed to be sung, namely, heaven. 
 

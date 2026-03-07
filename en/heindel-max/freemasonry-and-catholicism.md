@@ -11,7 +11,7 @@ original_source_file: "self"
 
 by Max Heindel [1865-1919] 
 
-AN EXPOSITION OF THE COSMIC FACTS UNDERLYING THESE TWO GREAT INSTITUTIONS AS DETERMINED BY OCCULT INVESTIGATION
+An Exposition of the Cosmic Facts Underlying These Two Great Institutions as Determined by Occult Investigation
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  

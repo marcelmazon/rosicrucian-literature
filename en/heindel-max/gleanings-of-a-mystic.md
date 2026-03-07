@@ -9,7 +9,7 @@ original_source_file: "self"
 
 <h1 id="gleanings-of-a-mystic">Gleanings of a Mystic</h1>
 
-A SERIES OF ESSAYS ON PRACTICAL MYSTICISM
+A Series of Essays on Practical Mysticism
 
 By Max Heindel [1865-1919]
 
@@ -59,7 +59,7 @@ In Gleanings of a Mystic are found twenty-four lessons which were formerly sent 
 - [Chapter XXIII: Why I am a Rosicrucian](#chapter-23)
 - [Chapter XXIV: The Object of the Rosicrucian Fellowship](#chapter-24)
 
-### <h3 id="chapter-1">CHAPTER I: Initiation: What It Is and Is Not - Part I</h3>
+### <h3 id="chapter-1">Chapter I: Initiation: What It Is and Is Not - Part I</h3>
 
 It is no rare occurrence to receive questions relating to Initiation, and we are also frequently asked to state whether this order or that society is genuine, and whether the initiations they offer to all comers who have the price are bona fide. For that reason it seems necessary to write a treatise on the subject so that students of the Rosicrucian Fellowship may have an official statement for reference and guidance in the future. 
 
@@ -83,7 +83,7 @@ Do you think that any one could go to a person of depraved character and agree t
 
 So it is with Initiation; it is an inward experience, entirely separate and apart from any ceremonial whatever, and therefore it is an absolute impossibility that any one could sell it to any one else. Initiation changes a man's whole life. It gives him a confidence that he never possessed before. It clothes him with a mantle of authority that never can be taken from him. No matter what the circumstances in life, it sheds a light upon his whole being that is simply wonderful. Nor can any ceremony effect such a change. We therefore hold that anyone who offers initiation into an occult order by ceremonials to everyone who has the price, brands himself as an imposter. For the true teacher, if he were approached by an aspirant with an offer of money for spiritual attainment, would answer indignantly in the words used by Peter to Simon the sorcerer, who offered him money for spiritual powers: "Thy silver perish with thee." 
 
-### <h3 id="chapter-2">CHAPTER II: Initiation: What It Is and Is Not - Part II</h3>
+### <h3 id="chapter-2">Chapter II: Initiation: What It Is and Is Not - Part II</h3>
 
 To obtain a better understanding of what constitutes Initiation and what the prerequisites are, let the student fix firmly in his mind the fact that humanity as a whole is slowly progressing upon the path of evolution, thus very slowly, almost imperceptibly, attaining higher and higher states of consciousness. The path of evolution is a spiral when we regard it from the physical side only, but a lemniscate when viewed in both its physical and spiritual phases. (See the diagram below of chemical caduceus on the right from The Rosicrucian Cosmo-Conception.)
 
@@ -107,7 +107,7 @@ Only thus are we really living the post-mortem existence and advancing scientifi
 
 Now, if the student has pondered the preceding argument well, he has probably grasped the analogy between the long cycle of evolution and the short cycles or steps used upon the path of preparation. It should be quite clear that no one can do this post-mortem work for him and transmit to him the resulting soul growth. You think it preposterous when a priesthood offers to shorten the sojourn of a soul in purgatory. How, then, can you believe that anyone else can--no matter what the consideration--obviate the necessity of a number of purgatorial existences for your benefit and transmit to you at once the usable soul power you would have acquired had you pursued the ordinary course of life to the day you are ready for Initiation? Yet this is what the offer to initiate a person not yet upon the threshold means. You must have the soul power requisite for Initiation or no one can initiate you. If you have it, you are upon the threshold by your own efforts, beholden to no one, and may demand Initiation as a right which none would dare dispute or withhold. If you have it not and could buy it, it would be cheap at twenty-five million dollars, and the man who offers it for twenty-five dollars is as ridiculous as his dupe. Please remember that if anyone offers to initiate you into an occult order, no matter if he calls it "Rosicrucian" or by any other name, his demand of an initiation fee at once stamps him as an imposter; explanations to the effect that the fee is used to purchase regalia, etc., are only added evidence of the fraudulent nature of the order for it is said, "Initiation is most emphatically not an outward ceremony, but an inward experience." I may further add that the Elder Brothers of the Rose Cross in the Mystic Temple where I received the Light made it a condition that their sacred science must never be put in the balance against a coin. Freely had I received, and freely was I required to give. This injunction I have obeyed, both in spirit and to the letter, as all know who have had dealings with the Rosicrucian Fellowship. 
 
-### <h3 id="chapter-3">CHAPTER III: The Sacrament of Communion - Part I</h3>
+### <h3 id="chapter-3">Chapter III: The Sacrament of Communion - Part I</h3>
 
 To obtain a thorough understanding of the deep and far-reaching significance of the manner in which the Sacrament of Communion was instituted, it is necessary to consider the evolution of our planet and of composite man, also the chemistry of foods and their influence on humanity. For the sake of lucidity we will briefly recapitulate the Rosicrucian teachings on the various points involved. They have been given at length in the Rosicrucian Cosmo-Conception and our other works. 
 
@@ -149,7 +149,7 @@ The phenomenon of the rainbow requires that the sun be near the horizon, the nea
 
 Noah cultivated the vine and provided a spirit to stimulate man. Thus, equipped with a composite constitution, a composite diet appropriate thereto, and divine laws to guide them, mankind were left to their own devices in the battle of life. 
 
-### <h3 id="chapter-4">CHAPTER IV: The Sacrament of Communion - Part II</h3>
+### <h3 id="chapter-4">Chapter IV: The Sacrament of Communion - Part II</h3>
 
 "In Remembrance of Me."
 
@@ -177,7 +177,7 @@ It was the sin of our progenitors in ancient Lemuria that they scattered their s
 
 We have already lived through a mineral, plant and an animal-like existence before becoming human as we are today, and beyond us lie still further evolutions where we shall approach the Divine more and more. It will be readily conceded that it is our animal passions which restrain us upon the path of attainment; the lower nature is constantly warring against the higher self. At least in those who have experienced a spiritual awakening, a war is being fought silently within, and is all the more bitter for being suppressed. Goethe with masterly art voiced that sentiment in the words of Faust, the aspiring soul, speaking to his more materialistic friend, Wagner: 
 
-```
+<pre>
 "Thou by one sole impulse art possessed,
 Unconscious of the other still remain.
 Two souls, alas, are housed within my breast,
@@ -186,11 +186,11 @@ One, to the earth with passionate desire,
 And closely clinging organs still adheres;
 Above the mists the other doth aspire
 With sacred ardor unto purer spheres."
-```
+</pre>
 
 It was the knowledge of this absolute necessity of chastity (save when procreation is the object) upon the part of those who have had a spiritual awakening which dictated the words of Christ, and the Apostle Paul stated an esoteric truth when he said that those who partook of the Communion without living the life were in danger of sickness and death. For just as under a spiritual tutelage, purity of life may elevate the disciple wonderfully, so also unchastity has a much stronger effect upon his more sensitized bodies than upon those who are yet under the law, and have not become partakers of grace by the cup of the New Covenant. 
 
-### <h3 id="chapter-5">CHAPTER V: The Sacrament of Baptism</h3>
+### <h3 id="chapter-5">Chapter V: The Sacrament of Baptism</h3>
 
 Having studied the esoteric significance of our Christian festivals, such as Christmas and Easter, and having also studied the doctrine of the Immaculate Conception, it may be well now to devote attention to the inner meaning of the sacraments of the church which are administered to the individual in all Christian lands from the cradle to the grave, and are with him at all important points in his life journey. 
 
@@ -222,7 +222,7 @@ Therefore, when a person is admitted to the church, which is a spiritual institu
 
 Thus we see that there is a wonderfully deep, mystic significance behind the sacrament of baptism; that it is to remind us of the blessings attendant upon those who are members of a brotherhood where self-seeking is put into the background and where service to others is the keynote and mainspring of action. While we are in the world, he is the greatest who can most successfully dominate others. In the church we have Christ's definition, "He who would be the greatest among you, let him be the servant of all." 
 
-### <h3 id="chapter-6">CHAPTER VI: The Sacrament of Marriage</h3>
+### <h3 id="chapter-6">Chapter VI: The Sacrament of Marriage</h3>
 
 When stripped of nonessentials the argument of the orthodox Christian religion may be said to be as follows: 
 
@@ -262,7 +262,7 @@ In view of these facts is it to be wondered at that we find such a dread of mate
 
 But if we can love now when we see one another "through a glass darkly," through the mask of personality and the veil of misunderstanding , we may be sure that the love of soul for soul, purged of passion in the furnace of sorrow, will be our brightest gem in heaven as its shadow is on earth. 
 
-### <h3 id="chapter-7">CHAPTER VII: The Unpardonable Sin and Lost Souls</h3>
+### <h3 id="chapter-7">Chapter VII: The Unpardonable Sin and Lost Souls</h3>
 
 Some of our students have been exercised about the unpardonable sin, and as this subject has a certain connection with the subject of marriage, one being a sacrilege and the other a sacrament, it might be well to elucidate the matter from a different point of view than has been formerly taken in our literature. 
 
@@ -284,7 +284,7 @@ When we look into space, we perceive that some planets have a number of moons an
 
 Since it may puzzle the student as to what becomes of the moons upon which such beings dwell for a time, we may say that the solar system is to be regarded as the body of the Great Spirit whom we call God, and as any growth caused by an abnormal process pains us when it occurs in our body, so also such crystallizations as moons are sources of discomfort to that Great Being. Furthermore, as our own systems endeavor to eliminate such abnormalities as growths, so also the universe endeavors to expel moons which have served their purpose. While the beings who have been exiled to a moon are there, the Planetary Spirit of the primary planet by his care for these beings, hold the moon in its orbit, and we speak of his love for them as the Law of Attraction; but when they have returned to the parent planet, the Planetary Spirit has no further interest in their cinder-like habitation. Then slowly the orbit of the vacated moon widens, it commences to disintegrate, and it is finally expelled into interstellar space. The asteroids are remnants of moons which once encircled Venus and Mercury. There are also other seeming moons and lunar fragments in our solar system, but the Rosicrucian Cosmo-Conception does not concern itself with them as they are outside the pale of evolution. 
 
-### <h3 id="chapter-8">CHAPTER VIII: The Immaculate Conception</h3>
+### <h3 id="chapter-8">Chapter VIII: The Immaculate Conception</h3>
 
 The periodical ebb and flow of the material and spiritual forces which invest the earth are the invisible causes of the physical, moral, and mental activities upon our globe. 
 
@@ -330,7 +330,7 @@ Is the life of absolute purity beyond some of us yet? Be not discouraged; Rome w
 
 So may God strengthen your aspirations to purity. 
 
-### <h3 id="chapter-9">CHAPTER IX: The Coming Christ</h3>
+### <h3 id="chapter-9">Chapter IX: The Coming Christ</h3>
 
 We have previously seen how infant humanity in Atlantis lived in unity under direct guidance of divine leaders, and how they were eventually brought out of the water into a clear atmosphere where the separateness of each individual from all others became obvious at once. 
 
@@ -366,7 +366,7 @@ From this fact and from others which need not be mentioned here, it is evident t
 
 But we may be sure that though impostors deceive for a time, they are found out sooner or later, and their plans come to naught. Meanwhile, progression continues to bring us nearer the Aquarian Age, and a Teacher is coming to give the Christian Religion impetus in a new direction. 
 
-### <h3 id="chapter-10">CHAPTER X: The Coming Age</h3>
+### <h3 id="chapter-10">Chapter X: The Coming Age</h3>
 
 When we speak of the "Coming Age," of the "New Heaven and the New Earth" mentioned in the Bible, and also of the "Aquarian Age," the differences may not be quite clear in the minds of our students. Confusion of terms is one of the most fertile seed grounds of fallacy, and the Rosicrucian teachings aim to avoid it by a particularly definite nomenclature. Sometimes an extra effort seems necessary to disperse the haze engendered by current cloudy conceptions of others as sincere as the present writer, but not so fortunate in having access to the incomparable Western Wisdom Teachings. 
 
@@ -390,7 +390,7 @@ In the middle of the last century the sun came within orb of influence of the sc
 
 In the land of the setting sun we may expect to first see the ideal conditions of the Aquarian Age: A blending of religion and science, forming a religious science and a scientific religion, which will promote the health, happiness and the enjoyment of life in abundant measure. 
 
-### <h3 id="chapter-11">CHAPTER XI: Meat and Drink as Factors in Evolution</h3>
+### <h3 id="chapter-11">Chapter XI: Meat and Drink as Factors in Evolution</h3>
 
 In previous chapters we saw how infant humanity was cared for by superhuman guardians, provided with appropriate food, led out of danger's way, and sheltered in all respects until grown to human stature and fit to enter the school of experience to learn the lessons of life in the phenomenal world. We saw also how the rainbow points to natural laws peculiar to the present age, how man was given free will under these laws, and how the spirit of wine was given to cheer and to stimulate his own timid, fearful spirit, to nerve it for the war of the world. 
 
@@ -452,7 +452,7 @@ A stimulant spirit is necessary while we live on a diet of flesh or progress wou
 
 The temperance movement was begun in the land where most sugar is consumed, and has generated "the spirit of self-respect." 
 
-### <h3 id="chapter-12">CHAPTER XII: A Living Sacrifice</h3>
+### <h3 id="chapter-12">Chapter XII: A Living Sacrifice</h3>
 
 Volumes, or rather libraries, have been written to explain the nature of God, but it is probably a universal experience that the more we read of other people's explanations, the less we understand. There is one description, given by the inspired apostle John when he wrote "God is Light," which is as illuminating as the others are befogging to the mind. Anyone who takes this passage for meditation occasionally will find a rich reward waiting, for no matter how many times we take up this subject, our own development in the passing years assures us each time a fuller and better understanding. Each time we sink ourselves in these three words we lave in a spiritual fountain of inexhaustible depth, and each succeeding time we sound more thoroughly the divine depths and draw more closely to our Father in heaven. 
 
@@ -490,7 +490,7 @@ When we are content to follow "in His steps" to that point of self-sacrifice whe
 
 This is our glorious privilege, and the meditation upon the words of the apostle, "God is Light," will help us to realize this ideal provided we add to our faith, works, and say by our deeds as did the Christ of da Vinci, "This is my body and this is my blood," a living sacrifice upon the altar of humanity. 
 
-### <h3 id="chapter-13">CHAPTER XIII: Magic, White and Black</h3>
+### <h3 id="chapter-13">Chapter XIII: Magic, White and Black</h3>
 
 From time to time as occasion requires we warn students of the Rosicrucian Fellowship in our private individual letters not to attend spirit seances, hypnotic demonstrations, or places where incense is burned by dabblers in occultism. Black Magic is practiced both consciously and unconsciously to an extent that is almost unbelievable. "Malicious animal magnetism," which is only another name for the Black Force, is responsible for more failures in business, loss of health, and unhappiness in homes than most people are aware of. Even the perpetrators of such outrages are, as said, often unconscious of what harm they have done. Therefore it seems expedient to devote a chapter to an explanation of some of the laws of magic, which are the same for the white as for the black. There is only one force, but it may be used for good or evil; and according to the motive behind it and the use that is made of it, it becomes either black or white. 
 
@@ -510,7 +510,7 @@ This is where the protection we spoke about before may be used. When we live liv
 
 But alas, none of us are altogether good. We know only too well the war between the flesh and the spirit. We cannot hide from ourselves the fact that like Paul, "the good that we would do, we do not, and the evil that we would shun, that we do." Far too often our good resolutions come to naught and we do wrong because it is easier. Therefore we all have the nucleus of evil within ourselves, which affords the open sesame for the evil forces to work upon. For that reason it is best for us not unnecessarily to expose ourselves at places where seances are held with spirits invisible to us, no matter how fine their teachings may sound to the unsophisticated. Neither should we take part even as spectators at hypnotic demonstrations, for there also a negative attitude lays one liable to the danger of obsession. We should at all times follow the advice of Paul and put on the whole armor of God. We should be positive in our fight for the good against the evil and never let an occasion slip to aid the Elder Brothers by word or deed in the Great War for spiritual supremacy. 
 
-### <h3 id="chapter-14">CHAPTER XIV: Our Invisible Government</h3>
+### <h3 id="chapter-14">Chapter XIV: Our Invisible Government</h3>
 
 It is well known to students of the Rosicrucian Philosophy that each species of animals is dominated by a group spirit, which is their guardian and looks after these, its wards, with a view to bringing them along the path of evolution that is best suited to their development; it does not matter what the geographical position of these animals is; the lion in the jungles of Africa is dominated by the same group spirit as is the lion in the cage of a menagerie in our northern countries. Therefore these animals are alike in all their principal characteristics; they have the same likes and dislikes with respect to diet, and they act in an almost identical manner under similar circumstances. If one wants to study the tribe of lions or the tribe of tigers, all that is necessary is to study one individual, for it has neither choice nor prerogative, but acts entirely according to the dictates of the group spirit. The mineral cannot choose whether it will crystallize or not; the rose is bound to bloom; the lion is compelled to prey; and in each case the activity is dictated entirely by the group spirit. 
 
@@ -528,7 +528,7 @@ Christ himself when upon earth, said: "I came not to bring peace, but a sword," 
 
 There is also another object to be gained. Of all the terrors to which mankind is subjected, there is none so great as death, which separates us from those we love, because we are unable to see them after they have stepped out of their bodies. But just as surely as the day follows the night, so will every teardrop wear away some of the scale that now blinds the eyes of man to the unseen land of the living dead. We have said repeatedly and we now reaffirm that one of the greatest blessings which will come from the war will be the spiritual sight which a great number of people will evolve. The intense sorrow of millions of people, the longing to see again the dear ones who have so suddenly and ruthlessly been torn from us, are a force of incalculable strength and power. Likewise those who have been snatched by death in the prime of life and who are now in the invisible world are equally intense in their desires to reunite with those near and dear to them, so that they may speak the word of comfort and assure them of their well being. Thus it may be said that two great armies comprising millions upon millions are tunneling with frantic energy and intensity of purpose through the wall that separates the invisible from the visible. Day by day this wall or veil is growing thinner, and sooner or later the living and the living dead will meet in the middle of the tunnel. Before we realize it, communication will have been established, and we shall find it a common experience that when our loved ones step out of their worn and sick bodies, we shall feel neither sorrow nor loss because we shall be able to see them in their ethereal bodies, moving among us as they used to do. So out of the great conflict we shall come as victors over death and be able to say: "O death, where is thy sting? O grave, where is thy victory?" 
 
-### <h3 id="chapter-15">CHAPTER XV: Practical Precepts For Practical People</h3>
+### <h3 id="chapter-15">Chapter XV: Practical Precepts For Practical People</h3>
 
 "If I were to do business on the principles laid down in the Sermon on the Mount I would be down and out in less than a year," said a critic recently. "Why, the Bible is utterly impracticable under our present economic conditions; it is impossible to live according to it." 
 
@@ -550,7 +550,7 @@ There is no need for the great mental strain that so many of us are working unde
 
 It is a fact, acknowledged by all authorities who have investigated the subject, that comparatively few people die from lack of necessities of life, but a great many die because of overindulgence of the appetites. It is the practical experience of the writer and numerous others that if we do our work day by day as it appears before us, faithfully and to the best of our ability, the wherewithal for the morrow will always be provided. If we go according to the instruction of the Bible, doing all "as unto the Lord," it does not matter what line of honest work we follow; we are then at the same time seeking the Kingdom of God. But if we are only time servers, working for fear or favor, we cannot expect to succeed in the long run; health, wealth, and happiness may attend us for a little while, but outside the solid foundation of the Bible there can be no lasting joy in life and no real prosperity in business. 
 
-### <h3 id="chapter-16">CHAPTER XVI: Sound, Silence, and Soul Growth</h3>
+### <h3 id="chapter-16">Chapter XVI: Sound, Silence, and Soul Growth</h3>
 
 Sincere students of the Science of the Soul are naturally anxious to grow in grace that they may serve so much better in the Great Work of Human Upliftment. Being humble and modest they are only too painfully aware of their shortcomings, and frequently while casting about for means to facilitate progress they ask themselves, "What hinders?" Some, particularly in bygone ages when life was lived less intensely than now, realized that the everyday life among ordinary humanity had many drawbacks. To overcome these and further their soul growth they withdrew from the community to a monastery or to the mountains where they could give themselves over to the spiritual life undisturbed. 
 
@@ -578,7 +578,7 @@ We know that the vital body is ever storing up power in the physical body which 
 
 Therefore, we ought by all means to flee from noises which we are not obliged to hear, and cultivate personally the quiet yet kindly demeanor, the modulated voice, the silent walk, the unobtrusive presence, and all the other virtues which make for harmony, for then the restorative process is quickly accomplished and we are free the major part of the night to work in the invisible worlds to gain more soul growth. Let us in this attempt at improvement remember to be undaunted by occasional failures, remembering Paul's admonition to continue in well-doing with patient persistence. 
 
-### <h3 id="chapter-17">CHAPTER XVII: The "Mysterium Magnum" of the Rose Cross</h3>
+### <h3 id="chapter-17">Chapter XVII: The "Mysterium Magnum" of the Rose Cross</h3>
 
 Occasionally we get letters from students voicing their regret that they are alone in the study of the Rosicrucian Philosophy, that their husbands, wives, children or other relatives are unsympathetic or even antagonistic to the teachings, despite all efforts of the said student to interest favorably these friends and thus obtain companionship in their studies, or at least freedom to follow their bent. This friction causes them a certain amount of unhappiness according to their various temperaments, and we are asked by these students to advise them how to overcome the antagonism and convert their relatives. This we have done by personal letters and have been privileged to help conditions in not a few homes when our advice has been followed; but we know that frequently those who suffer most acutely are silent, and we have therefore decided to devote a little time to a discussion of the subject. 
 
@@ -608,7 +608,7 @@ There are many who love to discuss the harmless, peaceful life at dinner, oblivi
 
 Is it to be wondered at that she judged the religion by the man and would have none of it? Surely he was to blame, being "his brother's keeper," and though this is an extreme case, it makes the lesson more obvious. It is to the everlasting praise of Mahomet that his wife became his first disciple, and it speaks volumes for his kindness and consideration in the home. His is an example we should all do well to follow if we would win our friends to the higher life, for though all religious systems differ outwardly the kernel of all is Love. 
 
-### <h3 id="chapter-18">CHAPTER XVIII: Stumbling Blocks</h3>
+### <h3 id="chapter-18">Chapter XVIII: Stumbling Blocks</h3>
 
 Not infrequently the remark is made by people who have no sympathy with our aspirations to live the higher life, that it unfits people for the world's work. Unfortunately it cannot be denied that there is seeming justification for the assertion, though in reality the very first requisite for living the higher life involves an obligation to comport oneself irreproachably in dealing with material matters, for unless we are faithful in the little things, how can we expect to be trusted with greater responsibilities? It has therefore been deemed expedient to devote a lesson to the discussion of some of the things which act as stumbling blocks in the life of aspirants. 
 
@@ -634,7 +634,7 @@ There was one among the disciples of Christ whom He loved especially, and follow
 
 Finally then, to sum up, it does not really matter where we are placed in life, whether in a high station or a low. Present environment with its opportunities and limitations is such as suits our individual requirements as determined by our self-made destinies in previous existences. Therefore it holds for us the lesson we must learn in order to progress properly. If we have a wife, a daughter, or other family relations to hold us to that environment, they must be considered as part of what we have to reckon with, and by doing our duty to them we learn the required lesson. If they are antagonistic to our belief, if they have no sympathy with our aspirations, if we have on their account to stay in a business and do things which we are not pleased with, it is because we must learn something from these things, and the proper way for the earnest aspirant is to look conditions squarely in the face with a view to finding out just what it is that is needed. This may not be an easy matter. It may take weeks, months, or years to solve the problem, but so long as the aspirant applies himself prayerfully to the task, he may be sure that the light will shine some day, and then he will see what is required and why these conditions were imposed upon him. Then having learned the lesson or found out its purpose, he will if he has the right spirit prayerfully bear the burden, for he will know that he is upon the right road and that it is an absolute certainty that as soon as the lesson of that environment has been learned a new way will be opened up showing him the next step upon the path of progress. Thus the "stumbling blocks" will have been turned into "stepping stones," which would never have happened if he had run away from them. In this connection we would quote the beautiful poem: 
 
-```
+<pre>
 "Let us not waste our time in longing
 For bright but impossible things.
 Let us not sit supinely waiting
@@ -654,9 +654,9 @@ We may never be called on to brighten
 Those darkened regions afar,
 So let us fulfill our mission
 By shining just where we are."
-```
+</pre>
 
-### <h3 id="chapter-19">CHAPTER XIX: The Lock of Upliftment</h3>
+### <h3 id="chapter-19">Chapter XIX: The Lock of Upliftment</h3>
 
 Have you ever seen how ships going up a canal or river are lifted from one level to another? It is a very interesting and instructive process. First the ship is floated into a small enclosure where the water level is the same as that of the lower part of the river where the ship has previously been sailing. Then the gates of the enclosure are shut and the ship is cut off from the outside world by the high wall of the lock. It cannot go back to the river without; even the light is dimmed around it, but above the moving clouds or the brightest sunshine are seen beckoning. The ship cannot rise without assistance, and the law of gravity make it impossible for the water in that part of the river where the ship has been sailing to float it to a higher level, hence no help may be looked for from that source. 
 
@@ -674,7 +674,7 @@ But how can I stay in the lock of upliftment and serve my fellow man? If soul gr
 
 Now is the time of the year (Christmas) when the crest wave of spiritual power envelops the world. It culminates at the winter solstice, when the Christ is reborn into our planet, and though hampered by the present (from the limited viewpoint) deplorable war conditions, His life given for us may be most easily drawn upon by the aspirant at this season to further spiritual growth; therefore all who are desirous of attaining the higher levels would do well to put forth special efforts in that direction during the winter season. 
 
-### <h3 id="chapter-20">CHAPTER XX: The Cosmic Meaning of Easter - Part I</h3>
+### <h3 id="chapter-20">Chapter XX: The Cosmic Meaning of Easter - Part I</h3>
 
 On the morning of Good Friday, 1857, Richard Wagner, the master artist of the nineteenth century, sat on the verandah of a Swiss villa by the Zurich Sea. The landscape about him was bathed in the most glorious sunshine; peace and good will seemed to vibrate through nature. All creation was throbbing with life; the air was laden with the fragrant perfume of budding pine forests--a grateful balm to a troubled heart or a restless mind. 
 
@@ -696,7 +696,7 @@ Man is a miniature of nature. What happens on a large scale in the life of a pla
 
 From realms of celestial light where we live in freedom, untrammeled by limitations of time and space, where we vibrate in tune with infinite harmony of the spheres, we descend to birth in the physical world where our spiritual sight is obscured by the mortal coil which binds us to this limited phase of our existence. We live here awhile; we die and ascend to heaven, to be reborn and to die again. Each earth life is a chapter in a serial life story, extremely humble in its beginnings, but increasing in interest and importance as we ascend to higher and higher stations of human responsibility. No limit is conceivable, for in essence we are divine and must therefore have the infinite possibilities of God dormant within. When we have learned all that this world has to teach us, a wider orbit, a larger sphere of super-human usefulness, will give scope to our greater capabilities. 
 
-```
+<pre>
 "Build thee more stately mansions, O my soul,
 As the swift seasons roll!
 Leave thy low vaulted past!
@@ -704,7 +704,7 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast,
 Till thou at length art free,
 Leaving thine outgrown shell by life's unresting sea."
-```
+</pre>
 
 Thus says Oliver Wendell Holmes, comparing the spiral progression in the widening coil of a chambered nautilus to the expansion of consciousness which is the result of soul growth in an evolving human being. 
 
@@ -712,18 +712,18 @@ Thus says Oliver Wendell Holmes, comparing the spiral progression in the widenin
 
 Certainly we believe in the Christ; we love Him with our whole heart and soul, but we wish to emphasize the teaching that Christ is the first fruits of the race. He said that we shall do the things He did, "and greater." Thus we are Christs-in-the-making. 
 
-```
+<pre>
 "Though Christ a thousand times in Bethlehem be born,
 And not within thyself, thy soul will be forlorn.
 The cross on Golgotha thou lookest to in vain,
 Unless within thyself it be set up again."
-```
+</pre>
 
 Thus proclaims Angelus Silesius, with true mystic understanding of the essentials of attainment. 
 
 We are too much in the habit of looking to an outside Savior while harboring a devil within; but till Christ be formed in us, as Paul says, we shall seek in vain, for as it is impossible for us to perceive light and color, though they be all about us, unless our optic nerve registers their vibrations, and as we remain unconscious of sound when the tympanum of our ear is insensitive, so also must we remain blind in the presence of Christ and deaf to His voice until we arouse our dormant spiritual natures within. But once these natures have become awakened, they will reveal the Lord of Love as a prime reality; this on the principle that when a tuning fork is struck, another of identical pitch will also commence to sing, while tuning forks of different pitches will remain mute. Therefore the Christ said that His sheep knew the sound of His voice and responded, but the voice of the stranger they heard not (John 10:5). No matter what our creed, we are all brethren of Christ, so let us rejoice, the Lord has risen! Let us seek Him and forget our creeds and other lesser differences. 
 
-### <h3 id="chapter-21">CHAPTER XXI: The Cosmic Meaning of Easter - Part II</h3>
+### <h3 id="chapter-21">Chapter XXI: The Cosmic Meaning of Easter - Part II</h3>
 
 Once more we have reached the final act in the cosmic drama involving the descent of the solar Christ Ray into the matter of our earth, which is completed at the Mystic Birth celebrated at Christmas, and the Mystic Death and Liberation, which are celebrated shortly after the vernal equinox when the sun of the new year commences its ascent into the higher spheres of the northern heavens, having poured out its life to save humanity and give new life to everything upon earth. At this time of the year a new life, an augmented energy, sweeps with an irresistible force through the veins and arteries of all living beings, inspiring them, instilling new hope, new ambition, and new life, impelling them to new activities whereby they learn new lessons in the school of experience. Consciously or unconsciously to the beneficiaries, this outdwelling energy invigorates everything that has life. Even the plant responds by an increased circulation of sap, which results in additional growth of the leaves, flowers, and fruits whereby this class of life is at present expressing itself and evolving to a higher state of consciousness. 
 
@@ -757,7 +757,7 @@ With these ideals firmly fixed in our minds, Easter time becomes a season when i
 
 This is a gigantic task; the contemplation of it may well daunt the bravest heart, and were we alone it could not be accomplished; but the divine hierarchies who have guided humanity upon the path of evolution from the beginning of our career are still active and working with us from their sidereal worlds, and with their help we shall eventually be able to accomplish this elevation of humanity as a whole and attain to an individual realization of glory, honor, and immortality. Having this great hope within ourselves, this great mission in the world, let us work as never before to make ourselves better men and women, so that by our example we may waken in others a desire to lead a life that brings liberation. 
 
-### <h3 id="chapter-22">CHAPTER XXII: The Newborn Christ</h3>
+### <h3 id="chapter-22">Chapter XXII: The Newborn Christ</h3>
 
 It has often been said in our literature that the sacrifice of Christ was not an event which, taking place on Golgotha, was accomplished in a few hours once and for all time, but that the mystic births and deaths of the Redeemer are continual cosmic occurrences. We may therefore conclude that this sacrifice is necessary for our physical and spiritual evolution during the present phase of our development. As the annual birth of the Christ Child approaches, it presents a never old, ever new theme for meditation, from which we may profit by pondering it with a prayer that it may create in our hearts a new light to guide us upon the path of regeneration. 
 
@@ -785,7 +785,7 @@ Younger souls usually find it difficult to disabuse their minds of the personali
 
 At the same time we shall exalt God in our own consciousness by taking the word of the Bible that He is spirit, and that we cannot make any likenesses which will portray Him for He is like nothing in heaven or on earth. We can see the physical vehicles of Jehovah circling as satellites around the various planets; we can also see the sun, which is the visible vehicle of the Christ; but the Invisible Sun, which is the vehicle of the Father and the source of all, appears to the greatest of human seers only as a higher octave of the photosphere of the sun, a ring of violet-blue luminosity behind the sun. But we do not need to see; we can feel His love, and that feeling is never so great as at Christmas time when He is giving us the greatest of all gifts, the Christ of the new year. 
 
-### <h3 id="chapter-23">CHAPTER XXIII: Why I am a Rosicrucian</h3>
+### <h3 id="chapter-23">Chapter XXIII: Why I am a Rosicrucian</h3>
 
 Not infrequently we find that some one takes the platform to explain why he is a Baptist, Methodist, or Christian Scientist, and what his particular faith may be. We have often been asked by our students for something which would help make plain to their associates why they had embraced the teachings of the Elder Brothers given through the Rosicrucian Fellowship, in preference to the faith which they had left. We will, therefore, endeavor to give a succinct resume of reasons which appeal to us as sufficient, but students will doubtless find many other reasons equally good or better, which they may add verbally to what is here said. 
 
@@ -811,7 +811,7 @@ But although our reason may reach into the mysteries of life, there is still a h
 
 So because of the logical, soul-satisfying philosophy of life given by the Rosicrucians, we follow their teachings in preference to other systems, and invite others who wish to share the blessings thereof to investigate. 
 
-### <h3 id="chapter-24">CHAPTER XXIV: The Object of the Rosicrucian Fellowship</h3>
+### <h3 id="chapter-24">Chapter XXIV: The Object of the Rosicrucian Fellowship</h3>
 
 The object of the Rosicrucian Fellowship has been clearly stated in our literature, as have the means whereby it is hoped to attain the end in view, but in response to requests for a succinct summary we devote this chapter to that subject. 
 

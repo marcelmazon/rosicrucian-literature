@@ -26,7 +26,7 @@ Introduction by Manly Hall
 - [Chapter V](#chapter-5)
 - [Aphorisms by Max Heindel](#aphorisms-by-max-heindel)
 
-### <h3 id="introduction">INTRODUCTION</h3>
+### <h3 id="introduction">Introduction</h3>
 
 It would have been a real loss to all students of mysticism and metaphysics if this little essay on H. P. Blavatsky and The Secret Doctrine had not found its way into print.
 
@@ -117,23 +117,23 @@ The struggles of these two great messengers, Madame Blavatsky and Max Heindel, w
 
 Max Heindel was a great admirer of Madame Blavatsky, he saw in her his own future struggles, he too after he had contacted the Brothers of the Rose Cross, with spirit aflame with the desire to give to the world this greater knowledge which he had contacted, knowing that his years were numbered and that his physical body could not long stand the strain of the pioneer life. Like Madame Blavatsky he was in constant physical pain and in great need of help, both physical and financial. The struggle and hardships which both these souls suffered was greatly responsible in shortening their days in the physical body. But what a great work they have have accomplished, what a Boon to humanity they have been.
 
-``` 
+<pre>
 “Great truths are portions of the soul of man; Great souls are portions of eternity.” 
-```
+</pre>
 
 Lowell.
 
-<h2 id="blavatsky-and-the-secret-doctrine-h2">BLAVATSKY AND THE SECRET DOCTRINE</h2>
+<h2 id="blavatsky-and-the-secret-doctrine-h2">Blavatsky and the Secret Doctrine</h2>
 
-By MAX HEINDEL
+By Max Heindel
 
-### <h3 id="chapter-1">CHAPTER I</h3>
+### <h3 id="chapter-1">Chapter I</h3>
 
 HE SECRET DOCTRINE is one of the most remarkable books in the world. I realize how far beyond my feeble powers is the task of conveying an adequate idea of the teachings contained within its covers. It has a history, however, a history of peculiar interest to the student who from its rich store seeks to garner the wisdom which, as the apostle has said, is like meat fit only for the strong. How it came to be written, and under what circumstances it was written, is the topic of this book. I shall endeavor to give in as simple and comprehensive language as possible an outline of the plan upon which the work was built and the teaching it reveals. The nature of the task is such that I am forced to quote freely from Theosophical literature, especially from Colonel Olcott’s Old Diary Leaves, Countess Wachmeister’s Reminiscences, The Secret Doctrine itself, and other works.
 
 It is first necessary for us to realize that Madame Blavatsky, or as she liked to be called, H. P. B., was, as she herself often expressed it, only the compiler of the work. Behind her stood the real teachers, the guardians of the Secret Wisdom of the ages, who taught her all the occult lore which she transmitted in her writings. She had a threefold ability which eminently qualified her for the task. First, she was able to assimilate the transcendental knowledge which came to her. Second, she was a worthy messenger of the Masters. Third, she had a marvelous aptitude for rendering abstruse Eastern metaphysical thought into a form intelligible to Western minds, and for verifying and comparing Eastern Wisdom with Western Science. She also deserves great credit for her high moral courage in representing to the world thoughts and theories wholly at variance with materialistic science. Many of these teachings, however, have since been verified by science.
 
-### <h3 id="chapter-2">CHAPTER II</h3>
+### <h3 id="chapter-2">Chapter II</h3>
 
 HUMANKIND has always persecuted, tortured, and killed those who in thought have been in advance of their age. Witness Copernicus, whom only a natural death saved from a fate similar to that which half a century later overtook Bruno. Galileo was harassed all his life, and finally when old and broken in body and spirit by the abuse of the clergy, was forced to retract on his knees all of his teachings which was at variance with the commonly accepted views of the time. The same fate was shared by countless others. The seed which these men had sown, however, was not only indestructible, but grew and grew until one day the world woke up to find that what once was denounced as heresy had become the commonly expressed opinion. Then came the epilog of the drama— when a Thorwaldsen immortalised in marble the same Nikolas Copernicus who, once persecuted, was proudly claimed as her son by Russia, or when amid the cheers of his countrymen was reared the statue of Giordano Bruno on the same spot where fanatical monks had danced around his funeral pyre and burned the genius in the name of God.
 
@@ -151,7 +151,7 @@ In the fall of 1885 she went to the quaint old German town of Wurzburg. What ass
 
 Not more staunch and unflinching was he than this new reformer who with dogged persistence, despite sickness and adverse criticism, toiled at her desk from day to day when she might have had ease and comfort.
 
-### <h3 id="chapter-3">CHAPTER III</h3>
+### <h3 id="chapter-3">Chapter III</h3>
 
 SOME time after Madame Blavatsky arrived at Wurzburg she was joined by the Countess Wachmeister, who loyally and lovingly helped in the great work. The number of visitors caused H. P. B. in a letter to a friend to write that the city was becoming a philosophical Medina. Continuing, she wrote:
 
@@ -219,7 +219,7 @@ Of the further history of the writing of The Secret Doctrine there is little to 
 
 Such is the story of The Secret Doctrine—a story which, like the book itself, is derided by the majority of people, notwithstanding its authentication by many persons of sound reason and blameless life. As in the case of Copernicus and others, some day the world will wake up and find that this much abused woman was right. Will a monument be raised to her? Who knows? Whether it will be or not, the fact remains that in The Secret Doctrine itself and in the affection with which its author is regarded by every student who has been helped by her is a monument more lasting than marble or bronze. For, though the Masters were the actual authors of the work, let us not forget that it was the zeal and devotion of H. P. B. which so excellently qualified her as an instrument for their use; and but for that zeal and devotion we might not today possess the greatest of modern works on occultism — The Secret Doctrine.
 
-### <h3 id="chapter-4">CHAPTER IV</h3>
+### <h3 id="chapter-4">Chapter IV</h3>
 
 WE HAVE traced the history of The Secret Doctrine, from the time when H. P. B.’s Master gave her the plan, until it was printed and given to the " world. Now study the plan upon which it was constructed, and try to catch a glimpse of the teachings contained within its several volumes.
 
@@ -291,7 +291,7 @@ We understand also that the geological constitution of the earth cannot be accou
 
 The Secret Doctrine teaches that the fire-mist which eventually condensed into what is now our earth originally covered an area so large that it enveloped the moon. The latter was heated to such an extent that it was softened to the consistency of mud; its water and air were converted into steam, and when the fire-mist contracted, the atmosphere and water followed the new center. When the earth had cooled sufficiently, the enveloping fire-mist condensed into our present water and air, until at the time when the life-wave reached the earth from Mars in the course of the present round, the earth had cooled so much that the water had become tepid. About this time, the first of the four great continents—which existed before the earth assumed its present topography — appeared in the region now known as the Arctic.
 
-### <h3 id="chapter-5">CHAPTER V</h3>
+### <h3 id="chapter-5">Chapter V</h3>
 
 BEFORE going any farther, it is necessary to understand the central position of our earth in the whole plan of evolution. During the preceding three and one-half rounds, the monads have been veiling themselves more and more in matter. On the earth in our present round, the nadir of materiality was reached by all kingdoms in the middle of the fourth race. We, being in the fifth sub-race of the fifth root-race, are just beginning to slowly raise ourselves out of matter. We are the prodigal sons who went into a far country to gather experience, and having gone as far as we could, are now returning home to our Father—who by the pouring out of Intelligence has met us a long way off, and is now conducting us to our own spiritual home.
 
@@ -337,7 +337,7 @@ The people of this last race will dwell on a land to the south of us, there evol
 
 Such is the sublime plan to which we belong, as outlined in the first and second volumes of The Secret Doctrine. The third volume consists of a miscellaneous collection of papers published after the death of the author. As the years pass, the truth of the statements in The Secret Doctrine are being gradually vindicated. As the knowledge of students grow, their admiration and reverence for their great teacher becomes more profound. With but few and unimportant exceptions, everything which is to be found in the voluminous literature of modern occultism has been available in The Secret Doctrine ever since its publication. In the work is food for the heart and for the intellect—a system of thought and knowledge which, if we will but study it and put it into our lives, can make us wise unto salvation.
 
-### <h3 id="aphorisms-from-max-heindels-writings">APHORISMS FROM MAX HEINDEL’S WRITINGS</h3>
+### <h3 id="aphorisms-from-max-heindels-writings">Aphorisms from Max Heindel's Writings</h3>
 
 As our body is the visible garment of the invisible ego, so does the visible fire clothe the true invisible fire. Fire and the ego are both spirits and both manifest under analagous laws.
 
