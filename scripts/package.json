@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "testp": "bun src/test-p-corrsp.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "gray-matter": "^4.0.3"
+  }
+}
