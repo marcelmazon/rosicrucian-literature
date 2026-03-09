@@ -16,66 +16,72 @@ interface ChapterLinesCount {
 // console.log(chalk.red.bold.underline('This is a serious error!'));
 // console.log(chalk.bgGreen.black(' Success! '));
 
+// TODO: define chalk colors for easy read error output
+// TODO: Find better format for error output [] (maybe), or tables (maybe)
+// TODO: Before printing book, print language
+	// TODO: Print book out first before printing errors
+		// - if no errors, then print out book title in blue/green with checkmark or something
+			// TODO: Maybe use indentations or --- for the above to visually distinguish
+			// TODO: array of languages to search through
+// TODO: Add error handling, account for src_book not found
 
+
+// TODO: Convert massively to .txt and .pdf, also in rosacrux.net project, download as standalone html, 
+	//  with <style> css to minimize external folders for images if possible
 
 const log = console.log
+const book_err = chalk.bold.red
+const chap_err = chalk.red
+const chap_name = chalk.dim
+const num_color = chalk.cyan
+const orange = chalk.hex('#FFA500')
 
-function sort_alphabetically(literature: fs.Dirent<string>[]) {
-	return literature.sort((a, b) => { 
-		return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' });
-	});
+const langs = [
+	// Romance
+
+	// Germanic
+
+	// Slavic
+	'bg'
+]
+
+for (const lang of langs)
+{
+	read_lang_docs(lang)
 }
 
-const literature = fs.readdirSync('../bg', { withFileTypes: true, recursive: true })
-const sorted     = sort_alphabetically(literature)
-const md_files   = sorted.filter(file => file.name.endsWith('.md') )
-// const files      = md_files.filter(file => file.name !== "README.md")
-const files = md_files.filter(file => file.name === "космогонията-на-розенкройцерите.md")
-
-// const trans_lines_count: ChapterLinesCount[] = []
-// const src_lines_count:   ChapterLinesCount[] = []
-
-for (const file of files)
+function read_lang_docs(lang: string)
 {
-	// Translated file to be compared
-	const trans_file = fs.readFileSync(`../bg/heindel-max/${file.name}`, 'utf8')
-	// Data for getting original src file
-	const { data } = matter(trans_file)
-	const lang = data.original_language
-	const catg = file.parentPath.split('/').slice(1).at(1)
-	const srcf = data.original_source_file
-	// Original language source file path =>
-	const orip = `../${lang}/${catg}/${srcf}`
-	const src_file = fs.readFileSync(orip, 'utf8')
-	// .md Contents of translated and source files
-	const trans_file_content = matter(trans_file).content
-	const src_file_content   = matter(src_file).content
+	const literature = fs.readdirSync(`../${lang}`, { withFileTypes: true, recursive: true })
+	const sorted     = sort_alphabetically(literature)
+	const md_files   = sorted.filter(file => file.name.endsWith('.md') )  // Get all .md files
+	const files      = md_files.filter(file => file.name !== "README.md") // Get all files that aren't a README
 
-	// Split by newlines (handles both Windows \r\n and Unix \n)
-	const trans_lines = trans_file_content.split(/\r?\n/);
-	const src_lines   = src_file_content.split(/\r?\n/);
+	for (const file of files)
+	{
+		// Translated file to be compared
+		const trans_file = fs.readFileSync(`../${lang}/heindel-max/${file.name}`, 'utf8')
+		// Data for getting original src file
+		const { data } = matter(trans_file)
+		const orln = data.original_language
+		const catg = file.parentPath.split('/').slice(1).at(1)
+		const srcf = data.original_source_file
+		// Original language source file path =>
+		const orip = `../${orln}/${catg}/${srcf}`
+		const src_file = fs.readFileSync(orip, 'utf8')
+		// .md Contents of translated and source files
+		const trans_file_content = matter(trans_file).content
+		const src_file_content   = matter(src_file).content
 
-	const trans_lines_count: ChapterLinesCount[] = read_doc_line_by_line(trans_lines)
-	const src_lines_count: ChapterLinesCount[]   = read_doc_line_by_line(src_lines)
+		// Split by newlines (handles both Windows \r\n and Unix \n)
+		const trans_lines = trans_file_content.split(/\r?\n/);
+		const src_lines   = src_file_content.split(/\r?\n/);
 
-	// console.log(src_lines_count)
+		const trans_lines_count: ChapterLinesCount[] = read_doc_line_by_line(trans_lines)
+		const src_lines_count: ChapterLinesCount[]   = read_doc_line_by_line(src_lines)
 
-	src_lines_count.forEach((src_chapter, index) => {
-		if (trans_lines_count[index] !== undefined)
-		{
-			if (src_chapter.count !== trans_lines_count[index].count)
-			{
-				// Get chapter titles (easier to read than whole line)
-				const src_chapter_title = get_header_title(src_chapter.chapter_id)
-				const trans_chapter_title = get_header_title(trans_lines_count[index].chapter_id)
-				// Print error
-				log(chalk.red.bold.underline(`Error:`))
-				log(`${src_chapter_title} count (${src_chapter.count})`)
-				log(`does not correspond to`)
-				log(`${trans_chapter_title} count (${trans_lines_count[index].count})\n`)
-			}
-		}	
-	})
+		print_book_errors(src_lines_count, trans_lines_count)
+	}
 }
 
 function read_doc_line_by_line(doc: string[])
@@ -144,21 +150,12 @@ function read_doc_line_by_line(doc: string[])
 	return array2push2
 }
 
-function count_lines()
-{
-
-}
-
+// Returns true if line is a header, false otherwise
 function is_header(line: string): boolean
 {
 	if (line.startsWith("###")) return true
 	if (line.startsWith("<h1")) return true
 	if (line.startsWith("<h2")) return true
-	// ▼ These might be superfluous, but just in case
-	// if (line.includes("<h3")) return true
-	// if (line.includes("<h6")) return true
-	// if (line.includes("<h3")) return true
-	// if (line.includes("<h3")) return true
 
 	return false
 }
@@ -179,4 +176,35 @@ function get_header_title(line: string): string
 		const end = line.length - 1; 
 		return line.substring(start, end); // header_title ()
 	}
+}
+
+// Sorts fs.Dirent<string> objects alphabetically by their name
+function sort_alphabetically(literature: fs.Dirent<string>[]) {
+	return literature.sort((a, b) => { 
+		return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' });
+	});
+}
+
+/**
+ * 
+ * @param src_lines source book lines count
+ * @param trans_lines translated book lines count
+ */
+function print_book_errors(src_lines: ChapterLinesCount[], trans_lines: ChapterLinesCount[])
+{
+	src_lines.forEach((src_chapter, index) => {
+		if (trans_lines[index] === undefined) return
+
+		if (src_chapter.count !== trans_lines[index].count)
+		{
+			// Get chapter titles (easier to read than whole line)
+			const src_chapter_title = get_header_title(src_chapter.chapter_id)
+			const trans_chapter_title = get_header_title(trans_lines[index].chapter_id)
+			// Print error
+			log(book_err(`[Error]:`))
+			log(`${src_chapter_title} - ${chalk.cyan.bold(`lines (${src_chapter.count})`)}`)
+			log(`${chap_name("does not correspond to")}`)
+			log(`${trans_chapter_title} - ${chalk.cyan.bold(`lines (${trans_lines[index].count})`)}\n`)
+		}
+	})
 }
