@@ -12,38 +12,32 @@ interface ChapterLinesCount {
 	count: number;
 }
 
-// console.log(chalk.blue('Hello world!'));
-// console.log(chalk.red.bold.underline('This is a serious error!'));
-// console.log(chalk.bgGreen.black(' Success! '));
+// Formatting
+const log = console.log
+const error = chalk.bold.red
+const dim = chalk.dim
+const orange = chalk.hex('#FFA500')
 
-// TODO: define chalk colors for easy read error output
-// TODO: Find better format for error output [] (maybe), or tables (maybe)
 // TODO: Before printing book, print language
-	// TODO: Print book out first before printing errors
-		// - if no errors, then print out book title in blue/green with checkmark or something
-			// TODO: Maybe use indentations or --- for the above to visually distinguish
-			// TODO: array of languages to search through
-// TODO: Add error handling, account for src_book not found
+	// - if no errors 4 book, then print out book title in blue/green with checkmark or something, maybe --option
 
+// TODO: Add error handling, account for src_book not found
+	// - if 'en' and 'self', skip comparison...
 
 // TODO: Convert massively to .txt and .pdf, also in rosacrux.net project, download as standalone html, 
 	//  with <style> css to minimize external folders for images if possible
 
-const log = console.log
-const book_err = chalk.bold.red
-const chap_err = chalk.red
-const chap_name = chalk.dim
-const num_color = chalk.cyan
-const orange = chalk.hex('#FFA500')
 
 const langs = [
 	// Romance
 
 	// Germanic
-
+	'de',
 	// Slavic
 	'bg'
 ]
+
+log() // Start program printing newline
 
 for (const lang of langs)
 {
@@ -60,7 +54,7 @@ function read_lang_docs(lang: string)
 	for (const file of files)
 	{
 		// Translated file to be compared
-		const trans_file = fs.readFileSync(`../${lang}/heindel-max/${file.name}`, 'utf8')
+		const trans_file = fs.readFileSync(`${file.parentPath}/${file.name}`, 'utf8')
 		// Data for getting original src file
 		const { data } = matter(trans_file)
 		const orln = data.original_language
@@ -80,7 +74,7 @@ function read_lang_docs(lang: string)
 		const trans_lines_count: ChapterLinesCount[] = read_doc_line_by_line(trans_lines)
 		const src_lines_count: ChapterLinesCount[]   = read_doc_line_by_line(src_lines)
 
-		print_book_errors(src_lines_count, trans_lines_count)
+		print_errorors(src_lines_count, trans_lines_count, file.name)
 	}
 }
 
@@ -101,10 +95,8 @@ function read_doc_line_by_line(doc: string[])
 
 		if (is_header(line)) 
 		{
-			if (met_first_h1) 
-			{
-				array2push2.push 
-				({
+			if (met_first_h1) {
+				array2push2.push ({
 					chapter_id: current_head, 
 					count: current_count
 				})
@@ -115,10 +107,8 @@ function read_doc_line_by_line(doc: string[])
 			current_head  = line // new head
 		}
 
-		if (total_count === doc.length - 1)
-		{
-			array2push2.push 
-			({
+		if (total_count === doc.length - 1) {
+			array2push2.push ({
 				chapter_id: current_head, 
 				count: current_count
 			})
@@ -185,26 +175,36 @@ function sort_alphabetically(literature: fs.Dirent<string>[]) {
 	});
 }
 
+// TODO: IF FIRST ERROR OF BOOK
 /**
  * 
  * @param src_lines source book lines count
  * @param trans_lines translated book lines count
  */
-function print_book_errors(src_lines: ChapterLinesCount[], trans_lines: ChapterLinesCount[])
+function print_errorors(src_lines: ChapterLinesCount[], trans_lines: ChapterLinesCount[], title: string)
 {
+	let num_of_errs = 0
+
 	src_lines.forEach((src_chapter, index) => {
 		if (trans_lines[index] === undefined) return
 
 		if (src_chapter.count !== trans_lines[index].count)
 		{
+			num_of_errs++
+
+			if (num_of_errs === 1)
+			{
+				log(orange(title))
+				log()
+			}
 			// Get chapter titles (easier to read than whole line)
 			const src_chapter_title = get_header_title(src_chapter.chapter_id)
 			const trans_chapter_title = get_header_title(trans_lines[index].chapter_id)
 			// Print error
-			log(book_err(`[Error]:`))
-			log(`${src_chapter_title} - ${chalk.cyan.bold(`lines (${src_chapter.count})`)}`)
-			log(`${chap_name("does not correspond to")}`)
-			log(`${trans_chapter_title} - ${chalk.cyan.bold(`lines (${trans_lines[index].count})`)}\n`)
+			log(error(`[Error]:`))
+			log(`  ${src_chapter_title} - ${chalk.cyan.bold(`lines (${src_chapter.count})`)}`)
+			log(`    ${dim("does not correspond to:")}`)
+			log(`  ${trans_chapter_title} - ${chalk.cyan.bold(`lines (${trans_lines[index].count})`)}\n`)
 		}
 	})
 }

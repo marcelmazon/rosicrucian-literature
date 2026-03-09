@@ -15,3 +15,29 @@ and make easier across languages
     since portuguese has many more than in English
 
 - hyphen vs. n-dash vs. m-dash
+
+Mark,Name,Main Function,Visual Length
+-,Hyphen,Joins words,Short
+–,En Dash,Shows ranges (to/through),Medium
+—,Em Dash,Break in thought/Emphasis,Long
+
+- Maybe MIGRATE/change all "() - " to "<aside>"
+
+
+
+
+
+# PROJECTS
+
+- AstroDatabase see correlations between Horoscope and Life Events
+- AstrologyCharter + 3D + Dynamic transitions/progressions
+- AstroClock - Moon/Sun in which houses, Planetary hours, etc...
+- Russian Dvorak
+- Music Library for Healing
+
+
+
+
+▲, ▼, ◄, ►
+╭, ╮, ╯, ╰
+─, │
