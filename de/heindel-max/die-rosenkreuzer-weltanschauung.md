@@ -4,7 +4,7 @@ language: "de"
 original_title: "The Rosicrucian Cosmo-Conception"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "the-rosicrucian-cosmo-conception.md"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">Die Rosenkreuzer-Weltanschauung</h1>

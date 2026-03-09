@@ -4,7 +4,7 @@ language: "de"
 original_title: "Pamphlet №4: Aquaria - The Last Hours of a Spy"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-4-aquaria-the-last-hours-of-a-spy.md"
+original_source_file: "pamphlet-04-aquaria-the-last-hours-of-a-spy.md"
 ---
 
 <h1 id="die-letzten-stunden-eines-spions">Broschüre №4: Die Letzten Stunden eines Spions</h1>

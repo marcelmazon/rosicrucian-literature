@@ -4,7 +4,7 @@ language: "de"
 original_title: "Pamphlet №7: Children"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-7-children.md"
+original_source_file: "pamphlet-07-children.md"
 ---
 
 <h1 id="pamphlet-7-children">Broschüre №7: Kinder</h1>

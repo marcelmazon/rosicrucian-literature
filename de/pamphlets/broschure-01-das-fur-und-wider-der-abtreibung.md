@@ -4,7 +4,7 @@ language: "de"
 original_title: "Pamphlet №1: The Pros and Cons of Abortion"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-1-the-pros-and-cons-of-abortion.md"
+original_source_file: "pamphlet-01-the-pros-and-cons-of-abortion.md"
 ---
 
 <h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Broschüre №1: Das für und wider der Abtreibung</h1>

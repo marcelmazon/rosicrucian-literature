@@ -4,7 +4,7 @@ language: "de"
 original_title: "Pamphlet №9: The Brothers of the Rose Cross"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-9-the-brothers-of-the-rose-cross.md"
+original_source_file: "pamphlet-09-the-brothers-of-the-rose-cross.md"
 ---
 
 <h1 id="die-brüder-des-rosenkreuzes">Broschüre №9: Die Brüder des Rosenkreuzes</h1>

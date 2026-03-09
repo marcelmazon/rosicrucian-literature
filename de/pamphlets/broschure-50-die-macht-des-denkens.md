@@ -4,7 +4,7 @@ language: "de"
 original_title: "Pamphlet №50: The Power of Thought"
 original_language: "en"
 author: "???"
-original_source_file: "self"
+original_source_file: "pamphlet-50-the-power-of-thought.md"
 ---
 
 <h1 id="die-macht-des-denkens">Broschüre №50: Die Macht des Denkens</h1>
