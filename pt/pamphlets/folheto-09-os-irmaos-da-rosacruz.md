@@ -4,7 +4,7 @@ language: "pt"
 original_title: "Pamphlet №9: The Brothers of the Rose Cross"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-9-the-brothers-of-the-rose-cross.md"
+original_source_file: "pamphlet-09-the-brothers-of-the-rose-cross.md"
 ---
 
 <h1 id="pamphlet-9-the-brothers-of-the-rose-cross">Folheto №9: Os irmãos da rosa cruz</h1>

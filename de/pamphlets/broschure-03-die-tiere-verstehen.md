@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-03-understanding-the-animals.md"
 ---
 
-<h1 id="understanding-the-animals">Broschüre №3: Die Tiere verstehen</h1>
+<h1 id="pamphlet-3-understanding-the-animals">Broschüre №3: Die Tiere verstehen</h1>
 
 ### <h3 id="why-animals-seem-to-think">Why Animals Seem to Think</h3>
 

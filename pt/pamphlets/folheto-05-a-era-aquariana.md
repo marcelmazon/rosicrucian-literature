@@ -4,7 +4,7 @@ language: "pt"
 original_title: "Pamphlet №5: The Aquarian Age"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-5-the-aquarian-age.md"
+original_source_file: "pamphlet-05-the-aquarian-age.md"
 ---
 
 <h1 id="pamphlet-5-the-aquarian-age">Folheto №5: A era aquariana</h1>

@@ -4,7 +4,7 @@ language: "fr"
 original_title: "The Mystery of the Ductless Glands"
 original_language: "en"
 author: "A Student"
-original_source_file: "self"
+original_source_file: "the-mystery-of-the-ductless-glands.md"
 ---
 
 <h1 id="the-mystery-of-the-ductless-glands">Le mystère des glandes endocrines</h1>

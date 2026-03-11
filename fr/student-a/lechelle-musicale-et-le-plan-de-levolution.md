@@ -4,7 +4,7 @@ language: "fr"
 original_title: "The Musical Scale and the Scheme of Evolution" 
 original_language: "en"
 author: "A Student"
-original_source_file: "self"
+original_source_file: "the-musical-scale-and-the-scheme-of-evolution.md"
 ---
 
 <h1 id="the-musical-scale-and-the-scheme-of-evolution">L'Échelle Musicale et Le Plan de l'Évolution</h1>

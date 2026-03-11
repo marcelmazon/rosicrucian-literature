@@ -4,7 +4,7 @@ language: "it"
 original_title: "Freemasonry and Catholicism"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "freemasonry-and-catholicism.md"
 ---
 
 <h1 id="freemasonry-and-catholicism">La Massoneria e il Cattolicesimo</h1>

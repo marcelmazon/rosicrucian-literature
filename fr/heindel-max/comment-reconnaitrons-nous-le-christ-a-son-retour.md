@@ -4,7 +4,7 @@ language: "en"
 original_title: "How Shall We Know Christ at His Coming?"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "how-shall-we-know-christ-at-his-coming.md"
 ---
 
 <h1 id="how-shall-we-know-christ-at-his-coming">Comment Reconnaitron-Nous le Christ à son Retour?</h1>

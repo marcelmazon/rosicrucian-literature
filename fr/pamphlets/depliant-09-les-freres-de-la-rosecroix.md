@@ -4,10 +4,10 @@ language: "fr"
 original_title: "Pamphlet №9: The Brothers of the Rose Cross"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-9-the-brothers-of-the-rose-cross.md"
+original_source_file: "pamphlet-09-the-brothers-of-the-rose-cross.md"
 ---
 
-<h1 id="les-frères-de-la-rose-croix">Dépliant №9: Les Frères de la Rose-Croix</h1>
+<h1 id="pamphlet-9-les-frères-de-la-rose-croix">Dépliant №9: Les Frères de la Rose-Croix</h1>
 
 ### <h3 id="les-frères-de-la-rose-croix">Les Frères de la Rose-Croix</h3>
 

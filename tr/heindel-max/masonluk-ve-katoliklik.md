@@ -4,7 +4,7 @@ language: "tr"
 original_title: "Freemasonry and Catholicism"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "freemasonry-and-catholicism"
+original_source_file: "freemasonry-and-catholicism.md"
 translator: "Burhan Yentürk"
 ---
 

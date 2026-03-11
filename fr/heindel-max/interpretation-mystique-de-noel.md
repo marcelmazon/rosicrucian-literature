@@ -4,7 +4,7 @@ language: "fr"
 original_title: "The Mystical Interpretation of Christmas"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "the-mystical-intepretation-of-christmas.md"
+original_source_file: "the-mystical-interpretation-of-christmas.md"
 ---
 
 <h1 id="the-mystical-intepretation-of-christmas">Interprétation Mystique de Noël</h1>

@@ -4,7 +4,7 @@ language: "fr"
 original_title: "Teachings of an Initiate"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "teachings-of-an-initiane.md"
+original_source_file: "teachings-of-an-initiate.md"
 ---
 
 <h1 id="teachings-of-an-initiate">Enseignements d'un Initié</h1>

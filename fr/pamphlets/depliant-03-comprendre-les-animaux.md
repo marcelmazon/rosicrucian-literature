@@ -4,7 +4,7 @@ language: "fr"
 original_title: "Pamphlet №3: Understanding the Animals"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-3-understanding-the-animals.md"
+original_source_file: "pamphlet-03-understanding-the-animals.md"
 ---
 
 <h1 id="pamphlet-3-understanding-the-animals">Dépliant №3: Comprendre les animaux</h1>

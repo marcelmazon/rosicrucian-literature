@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-04-aquaria-the-last-hours-of-a-spy.md"
 ---
 
-<h1 id="die-letzten-stunden-eines-spions">Broschüre №4: Die Letzten Stunden eines Spions</h1>
+<h1 id="pamphlet-4-die-letzten-stunden-eines-spions">Broschüre №4: Die Letzten Stunden eines Spions</h1>
 
 von Max Heindel
 

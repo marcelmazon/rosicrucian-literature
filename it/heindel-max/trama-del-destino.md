@@ -4,7 +4,7 @@ language: "it"
 original_title: "The Web of Destiny"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "the-web-of-destiny.md"
 ---
 
 <h1 id="the-web-of-destiny">La Trama del Destino</h1>
