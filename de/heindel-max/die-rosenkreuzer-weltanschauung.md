@@ -3330,23 +3330,25 @@ In unserer gegenwärtigen Tierwelt besteht eine ähnliche Teilung, welche durch 
 
 Cuvier war der erste, der das Tierreich in vier große Hauptklassen teilte, aber seine Einteilung dieser Hauptklassen in Unterabteilungen war nicht so erfolgreich. Der Embryologe Karl Ernst von Baer, auch Professor Agassiz und andere Gelehrte teilten das Tierreich wie folgt in vier Haupt- und dreizehn Unterklassen ein:
 
+<pre>
 I RADIATES:
-  1-Polyps, Sea-anemones and Coral.
-  2-Acaleph, or Jelly-fish.
-  3-Starfish, Sea-urchins.
+	1-Polyps, Sea-anemones and Coral.
+	2-Acaleph, or Jelly-fish.
+	3-Starfish, Sea-urchins.
 II MOLLUSKS:
-  4-Acephala (oysters, etc.).
-  5-Gasteropoda (snails).
-  6-Cephalopoda.
+	4-Acephala (oysters, etc.).
+	5-Gasteropoda (snails).
+	6-Cephalopoda.
 III ARTICULATES:
-  7-Worms.
-  8-Crustacea (lobsters, etc.).
-  9-Insects.
+	7-Worms.
+	8-Crustacea (lobsters, etc.).
+	9-Insects.
 IV VERTEBRATES:
-  10-Fishes.
-  11-Reptiles.
-  12-Birds.
-  13-Mammals
+	10-Fishes.
+	11-Reptiles.
+	12-Birds.
+	13-Mammals
+</pre>
 
 Die ersten drei Abteilungen entsprechen den verbleibenden drei Kreisläufen der Merkur-Hälfte der Erdperiode, und ihre neun Stufen den neun Graden der kleineren Mysterien, die im allgemeinen durch die Menschheit erreicht sein werden, wenn sie in der Mitte des letzten Kreislaufes der Erdperiode angelangt ist.
 

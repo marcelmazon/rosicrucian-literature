@@ -41,3 +41,7 @@ Mark,Name,Main Function,Visual Length
 ▲, ▼, ◄, ►
 ╭, ╮, ╯, ╰
 ─, │
+
+
+// TODO: Convert massively to .txt and .pdf, also in rosacrux.net project, download as standalone html, 
+	//  with <style> css to minimize external folders for images if possible

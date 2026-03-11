@@ -4,7 +4,7 @@ language: "es"
 original_title: "Pamphlet №7: Los hijos"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-7-children.md"
+original_source_file: "pamphlet-07-children.md"
 ---
 
 <h1 id="pamphlet-7-children">Folleto №7: Los hijos</h1>

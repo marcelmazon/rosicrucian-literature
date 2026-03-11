@@ -4,7 +4,7 @@ language: "es"
 original_title: "The Desire Body"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "the-desire-body.md"
 ---
 
 <h1 id="the-desire-body">EL CUERPO DE DESEOS</h1>

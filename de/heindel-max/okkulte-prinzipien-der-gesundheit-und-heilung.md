@@ -23,9 +23,9 @@ Diese Zusammenstellung von Material über die Gesundheit und Heilung des menschl
 
 Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranken". Die Erhaltung der Gesundheit, wenn sie einmal erlangt oder wiedererlangt ist, erfordert die Kenntnis des "Evangeliums" oder der Gesetze Gottes, und deshalb ist dieses Buch im Lichte beider Teile des Gebots des großen Lehrers den Geplagten der Menschheit gewidmet. Möge der Inhalt dieser Seiten, die von der Liebe und dem mitfühlenden Verständnis des mystischen Herzens des Autors durchdrungen sind, zahllosen schmerzenden Herzen und leidenden Körpern neuen Trost und Erleichterung bringen und den Tag der Erzeugung vollkommenerer menschlicher Fahrzeuge beschleunigen. 
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Inhaltsverzeichnis</h3>
 
-- [Foreword](#foreword)
+- [Vorwort](#foreword)
 
 - [Teil I - Der Mensch und seine Fahrzeuge](#part-1)
   - [Kapitel I: Der dichte Körper](#chapter-1)
@@ -1295,7 +1295,7 @@ In dem Ritual, das bei den Gottesdiensten der Rosenkreuzer-Gemeinschaft verwende
 
 Um die Hilfe aller ernsthaften Studenten zu sichern und ihnen das Privileg zu geben, zu helfen, werden wir in den Echos jeden Monat das Datum veröffentlichen, an dem die Heilungsgottesdienste abgehalten werden, und wenn jeder Student sich in seinem eigenen Haus um halb acht hinsetzt und seine Gedanken auf Mt. Ecclesia, auf die kleine Pro-Ecclesia, richtet, wo das Symbol der Unsichtbaren Helfer dann enthüllt wird, wird die Liebe, das Mitgefühl und die Kraft, die diesen Arbeitern auf diese Weise gegeben wird, sie befähigen, einen viel größeren Dienst für die Menschheit zu tun; jeder von ihnen hat natürlich Anteil an diesem Werk. Das Symbol der unsichtbaren Helfer, auf das wir uns in Mt. Ecclesia konzentrieren, ist ein schneeweißes Kreuz mit den sieben roten Rosen und einer rein weißen in der Mitte; die üblichen Sterne (die Strahlen) gehen vom Kreuz aus, und der Hintergrund ist blau, das Ganze ist wunderschön beleuchtet, was es zu einem treffenden Sinnbild für den Glanz des Seelenkörpers macht, in dem diese Arbeiter reisen. Es wird nicht notwendig sein, zeitliche Korrekturen für euren Wohnort vorzunehmen, denn die Sonne wird alle Bestrebungen sammeln, während sie voranschreitet, und wenn die Strahlen im richtigen Winkel am Berg Ecclesia ankommen, wird sich der hierher gerichtete Einfluss sicherlich übertragen und sich mit unseren Bestrebungen, die zu dieser Zeit stattfinden, vereinigen und uns bei der Arbeit helfen. (ANMERKUNG: Die Zeit dieses Heilungsgottesdienstes wurde inzwischen auf halb sieben verlegt).
 
-#<h2 id="part-4">Teil 4: "Es gibt keinen Tod"
+<h2 id="part-4">Teil 4: "Es gibt keinen Tod"</h2>
 
 ### <h3 id="chapter-21">Kapitel XXI: Die wahre Natur des Todes</h3>
 

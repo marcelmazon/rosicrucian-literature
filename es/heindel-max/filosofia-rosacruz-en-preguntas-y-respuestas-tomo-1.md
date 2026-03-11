@@ -4,7 +4,7 @@ language: "es"
 original_title: "The Rosicrucian Philosophy in Questions and Answers Volume I"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "the-rosicrucian-philosophy-in-questions-and-answers-1.md"
+original_source_file: "the-rosicrucian-philosophy-in-questions-and-answers-volume-1.md"
 ---
 
 <h1 id="the-rosicrucina-philosophy-in-questions-and-answers-volume-1">Filosofía Rosacruz en Preguntas ys Respuestas - Tomo I</h1>

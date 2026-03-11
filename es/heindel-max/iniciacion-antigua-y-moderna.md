@@ -4,7 +4,7 @@ language: "es"
 original_title: "Ancient and Modern Initiation"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "ancient-and-modern-initiation.md"
 ---
 
 <h1 id="ancient-and-modern-initiation">Iniciación Antigua y Moderna</h3>

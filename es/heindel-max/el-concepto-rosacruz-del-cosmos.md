@@ -3,7 +3,7 @@ title: "El Concepto Rosacruz del Cosmos"
 language: "es"
 original_title: "The Rosicrucian Cosmo-Conception"
 original_language: "en"
-original_work_source_file: "the-rosicrucian-cosmo-conception.md"
+original_source_file: "the-rosicrucian-cosmo-conception.md"
 ---
 
 # El Concepto Rosacruz del Cosmos

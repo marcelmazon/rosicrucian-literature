@@ -4,7 +4,7 @@ language: "es"
 original_title: "Pamphlet №6: The Educational Value of Astrology"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-6-the-educational-value-of-astrology.md"
+original_source_file: "pamphlet-06-the-educational-value-of-astrology.md"
 ---
 
 <h1 id="el-valor-educativo-de-la-astrología">Folleto №6: El Valor Educativo de la Astrología</h1>

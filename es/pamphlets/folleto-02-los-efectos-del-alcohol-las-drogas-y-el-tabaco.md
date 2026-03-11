@@ -4,7 +4,7 @@ language: "es"
 original_title: "Pamphlet №2: Effects of Alcohol, Drugs, and Tobacco"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-2-effects-of-alcohol-drugs-and-tobacco.md"
+original_source_file: "pamphlet-02-effects-of-alcohol-drugs-and-tobacco.md"
 ---
 
 <h1 id="pamphlet-2-effects-of-alcohol-drugs-and-tobacco">Folleto №2: Los Efectos del Alcohol, las Drogas y el Tabaco</h1>

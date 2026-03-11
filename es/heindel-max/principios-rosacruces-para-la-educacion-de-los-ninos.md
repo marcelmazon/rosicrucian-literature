@@ -4,7 +4,7 @@ language: "es"
 original_title: "The Rosicrucian Principles Of Child Training"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "the-rosicrucian-principle-of-child-training.md"
+original_source_file: "the-rosicrucian-principles-of-child-training.md"
 ---
 
 <h1 id="the-rosicrucian-principle-of-child-training">Principios Rosacruces para la Educación de los Niños</h1>

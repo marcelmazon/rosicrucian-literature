@@ -4,7 +4,7 @@ language: "es"
 original_title: "Pamphlet №8: The Bow in the Cloud"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "pamphlet-8-the-bow-in-the-cloud.md"
+original_source_file: "pamphlet-08-the-bow-in-the-cloud.md"
 ---
 
 <h1 id="el-arco-en-las-nubes">Folleto №8: El Arco en las Nubes</h1>
