@@ -5,7 +5,7 @@
 
 import fs from "fs";
 import chalk from 'chalk';
-import matter from 'gray-matter'
+import matter, { language } from 'gray-matter'
 
 interface ChapterLinesCount {
 	chapter_id: string;
@@ -17,30 +17,51 @@ const log = console.log
 const error = chalk.bold.red
 const dim = chalk.dim
 const orange = chalk.hex('#FFA500')
-
-// TODO: Before printing book, print language
-	// - if no errors 4 book, then print out book title in blue/green with checkmark or something, maybe --option
-
-// TODO: Add error handling, account for src_book not found
-	// - if 'en' and 'self', skip comparison...
-
-// TODO: Convert massively to .txt and .pdf, also in rosacrux.net project, download as standalone html, 
-	//  with <style> css to minimize external folders for images if possible
-
+const lang_color = chalk.bold.magenta
 
 const langs = [
 	// Romance
-
+	'es', 'pt', 'fr', 'it',
 	// Germanic
-	'de',
+	'de', 'nl', 'sv',
 	// Slavic
-	'bg'
+	'ru', 'pl', 'bg',
+	// Sinitic
+	'zh',
+	// Turkic
+	'tr',
+	// Finnish and Hungarian
+	'fi',
 ]
 
-log() // Start program printing newline
+const lang_names: Record<string, string> = {
+	// Romance
+	es: 'Spanish',
+	pt: 'Portuguese',
+	fr: 'French',
+	it: 'Italian',
+	// Germanic
+	de: 'German',
+	nl: 'Dutch',
+	sv: 'Swedish',
+	// Slavic
+	ru: 'Russian',
+	// uk: 'Ukrainian',
+	pl: "Polish",
+	bg: 'Bulgarian',
+	// Sinitic
+	zh: 'Chinese',
+	// Turkic
+	tr: 'Turkish',
+	// Finnish and Hungarian
+	fi: 'Finnish'
+}
+
+log() // Start program by printing newline
 
 for (const lang of langs)
 {
+	log(`${lang_color(`${lang_names[lang]} -----------------------------------------------------`)}  \n`)
 	read_lang_docs(lang)
 }
 
@@ -50,6 +71,7 @@ function read_lang_docs(lang: string)
 	const sorted     = sort_alphabetically(literature)
 	const md_files   = sorted.filter(file => file.name.endsWith('.md') )  // Get all .md files
 	const files      = md_files.filter(file => file.name !== "README.md") // Get all files that aren't a README
+	let total_errs   = 0
 
 	for (const file of files)
 	{
@@ -74,7 +96,13 @@ function read_lang_docs(lang: string)
 		const trans_lines_count: ChapterLinesCount[] = read_doc_line_by_line(trans_lines)
 		const src_lines_count: ChapterLinesCount[]   = read_doc_line_by_line(src_lines)
 
-		print_errorors(src_lines_count, trans_lines_count, file.name)
+		total_errs += print_errors(src_lines_count, trans_lines_count, file.name)
+	}
+
+	if (total_errs === 0)
+	{
+		// log(`No errors in ${lang_names[lang]}`)
+		// log()
 	}
 }
 
@@ -175,13 +203,12 @@ function sort_alphabetically(literature: fs.Dirent<string>[]) {
 	});
 }
 
-// TODO: IF FIRST ERROR OF BOOK
 /**
  * 
  * @param src_lines source book lines count
  * @param trans_lines translated book lines count
  */
-function print_errorors(src_lines: ChapterLinesCount[], trans_lines: ChapterLinesCount[], title: string)
+function print_errors(src_lines: ChapterLinesCount[], trans_lines: ChapterLinesCount[], title: string)
 {
 	let num_of_errs = 0
 
@@ -207,4 +234,6 @@ function print_errorors(src_lines: ChapterLinesCount[], trans_lines: ChapterLine
 			log(`  ${trans_chapter_title} - ${chalk.cyan.bold(`lines (${trans_lines[index].count})`)}\n`)
 		}
 	})
+
+	return num_of_errs
 }
