@@ -4,7 +4,7 @@ language: "nl"
 original_title: "The Desire Body"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "the-rosicrucian-cosmo-conception.md"
+original_source_file: "the-desire-body.md"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">Het begeertelichaam</h1>

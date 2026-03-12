@@ -550,8 +550,7 @@ Met betrekking tot de tweede manier van zielsontplooiing, die wordt toegepast bi
 
 Een wereld, die genoeg heeft van het oorlogvoeren, die rood is van het bloed van miljoenen mensen die de hoop voor de toekomst vormden, de bloem van de jeugdige mannelijke bevolking, weeklagend van ondraaglijke pijn, hoopt op vrede, niet op een wapenstilstand om de tijdelijke vijandelijkheden te staken, maar op eeuwigdurende vrede. Zij streeft ernaar het probleem op te lossen om dit vurig gewenste doel te bereiken. Maar zij tast de gevolgen aan, onbekend met de menselijke wreedheid die nauwelijks onder een dunne laag vernis van beschaving verborgen lag, vóór zij tot uitbarsting kwam in de vulkaan van wie zijn vernielzucht wij onlangs getuigen waren en die wij nu diep betreuren. 
 
-Pas als het verband tussen het voedsel van de mens en zijn karakter begrepen wordt, en de kennis om hartstocht te beteugelen en wreedheid uit te roeien wordt toegepast, kan er blijvend vrede heersen. 
-In de vroege ochtendstond van onze beschaving, toen de mens in wording onder de directe leiding van hemelse hiërarchieën werkte, die hem op het pad van ontwikkeling opwaarts voerden, kreeg de mens voedsel zodat zijn verschillende lichamen zich op een behoorlijke en regelmatige manier konden ontwikkelen. En wel zó, dat deze van elkaar verschillende lichamen op de duur één samengesteld geheel zouden worden, dat een inwonende geest tot tempel zou kunnen dienen om door middel van een opeenvolging van wedergeboorten in aardse lichamen van steeds fijnere samenstelling, de levenslessen te leren. In dit ontwikkelingsproces van de mens worden vijf tijdvakken onderscheiden. 
+Pas als het verband tussen het voedsel van de mens en zijn karakter begrepen wordt, en de kennis om hartstocht te beteugelen en wreedheid uit te roeien wordt toegepast, kan er blijvend vrede heersen. In de vroege ochtendstond van onze beschaving, toen de mens in wording onder de directe leiding van hemelse hiërarchieën werkte, die hem op het pad van ontwikkeling opwaarts voerden, kreeg de mens voedsel zodat zijn verschillende lichamen zich op een behoorlijke en regelmatige manier konden ontwikkelen. En wel zó, dat deze van elkaar verschillende lichamen op de duur één samengesteld geheel zouden worden, dat een inwonende geest tot tempel zou kunnen dienen om door middel van een opeenvolging van wedergeboorten in aardse lichamen van steeds fijnere samenstelling, de levenslessen te leren. In dit ontwikkelingsproces van de mens worden vijf tijdvakken onderscheiden. 
 
 In het eerste of Polaire tijdvak had de tegenwoordige mens alleen maar een stoffelijk lichaam, zoals de mineralen nu hebben. In de Bijbel wordt gezegd dat Adam uit rode aarde werd gemaakt. 
 
@@ -575,7 +574,7 @@ Maar er is nog een derde soort, die beseft dat al het leven Gods leven is en als
 
 Onze eigen veiligheid, die van onze kinderen, ja van de hele mensheid, dwingt ons te luisteren naar de inspirerende woorden van de dichteres Ella Wheeler Wilcox, die het volgende ontroerende gedicht schreef voor onze stomme medeschepselen: 
 
-```
+<pre>
 Ik ben de stem van de stemlozen,   
 de stomme spreken door mij.   
 Dat voor ‘s werelds dove oren   
@@ -593,7 +592,7 @@ voor zwakken sta ik steeds op post.
 Voor dieren zal ‘k blijven strijden,   
 en aan hen mijn pleidooien wijden,   
 totdat men hen van onrecht verlost.   
-```
+</pre>
 
 ### <h3 id="chapter-12">12: Mystiek licht op de [eerste] wereldoorlog; deel 4: De boodschap van blijheid</h3>
 

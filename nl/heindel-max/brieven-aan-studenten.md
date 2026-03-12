@@ -771,9 +771,9 @@ In feite is er sinds de wereld bestaat niet zo’n groot universeel verdriet gew
 
 Daarom zullen wij in de verre toekomst ervaren dat een epidemie 17 of iets dergelijks, aan vele duizenden kinderen het leven zal kosten, terwijl wij, die nu hun tijdgenoten zijn, om hun verlies treuren. O, als die wet van kin dersterfte begrepen werd, dan zouden wij niet om vrede hoeven te bidden, zoals nu. Laat iedereen die bij de Fellowship is aangesloten ’s morgens, ’s middags en ’s avonds bidden om een zo spoedig mogelijk herstel van de vrede. Laten wij de verantwoordelijkheid van kennis beseffen, daar naar leven, en proberen die dagelijks uit te dragen. Deze kennis, die ons ge schonken werd, moet worden doorgegeven waar dat mogelijk is, zonder die aan anderen op te dringen. Als men de wet van wedergeboorte zou kennen en erin zou geloven en dus de wet van kindersterfte begreep, had zoiets als deze oorlog nooit kunnen plaatsvinden. Hoe meer wij deze leer proberen in te prenten, des te beter zullen wij vrede en rust bevorderen en in staat zijn de mensheid te kunnen helpen.  
 
-17 Geschat aantal slachtoffers: 1e wereldoorlog 1914 -1918 tussen 20 en 40 miljoen; Spaanse griep 1918-1919 tussen 20 en 100 miljoen vooral onder 14 tot 18 jarigen. 
+() - 17 Geschat aantal slachtoffers: 1e wereldoorlog 1914 -1918 tussen 20 en 40 miljoen; Spaanse griep 1918-1919 tussen 20 en 100 miljoen vooral onder 14 tot 18 jarigen. 
 
-18 Wekelijks, ’s avonds, op de dag vóórdat de maan een hoofdteken (Ram, Kreeft, Weeg schaal en Steenbok) binnentreedt. 
+() - 18 Wekelijks, ’s avonds, op de dag vóórdat de maan een hoofdteken (Ram, Kreeft, Weeg schaal en Steenbok) binnentreedt. 
 
 Wees vooral serieus en richt al uw aandacht op het genezingswerk op het hoofdkwartier als er genezings dienst wordt gehouden. 18 Alle beschikbare hulp is nodig.
 
@@ -836,14 +836,16 @@ Ik hoop van harte dat elke student van de Rosicrucian Fellowship, met meer ijver
 
 Deze maand beginnen wij met een nieuwe serie lessen over het web van het lot, hoe het wordt geweven en tenietgedaan. Ik verwacht dat deze serie voor uw studie nuttig is alsook in uw leven. Hoewel de lessen in sommi ge opzichten analytisch en technisch zijn, dient het onderwerp met grote toewijding te worden benaderd, door het belangrijkste levensdoel voor ogen te houden. 
 
-Zoals u waarschijnlijk weet, is het woord filosofie samengesteld uit twee woorden die ‘liefde voor wijsheid’ betekenen. De meeste mensen denken dat liefde voor wijsheid gelijk staat aan begeerte naar kennis. Maar zoals wij in een voorgaande les hebben gezien is er een groot verschil tussen kennis en wijsheid. Wijsheid houdt altijd liefde in, terwijl kennis voor de slechtst denkbare doeleinden kan worden gebruikt. Eigenlijk is de ware esotericus, die door vurige toewijding aan zijn studie en zijn werk in het leven bezield wordt, te bescheiden om de titel van filosoof aan te nemen. Voor hem betekent het zelfs meer, als hij het omkeert en wijsheid voor liefde noemt, in plaats van liefde voor wijsheid. Een weinig nadenken zal dit verduidelijken. Het onderwerp, dat wij voor de komende serie lessen hebben gekozen, is één van de intiemste en heiligste die behandeld kun nen worden. U zult daarom meteen beseffen dat het onderwerp in de geest van wijsheid voor liefde benaderd moet worden die belichaamd is in het volle besef van wat ware filosofie is en betekent. Robert Burns 19 zei ooit: 
+Zoals u waarschijnlijk weet, is het woord filosofie samengesteld uit twee woorden die ‘liefde voor wijsheid’ betekenen. De meeste mensen denken dat liefde voor wijsheid gelijk staat aan begeerte naar kennis. Maar zoals wij in een voorgaande les hebben gezien is er een groot verschil tussen kennis en wijsheid. Wijsheid houdt altijd liefde in, terwijl kennis voor de slechtst denkbare doeleinden kan worden gebruikt. Eigenlijk is de ware esotericus, die door vurige toewijding aan zijn studie en zijn werk in het leven bezield wordt, te bescheiden om de titel van filosoof aan te nemen. Voor hem betekent het zelfs meer, als hij het omkeert en wijsheid voor liefde noemt, in plaats van liefde voor wijsheid. Een weinig nadenken zal dit verduidelijken. Het onderwerp, dat wij voor de komende serie lessen hebben gekozen, is één van de intiemste en heiligste die behandeld kun nen worden. U zult daarom meteen beseffen dat het onderwerp in de geest van wijsheid voor liefde benaderd moet worden die belichaamd is in het volle besef van wat ware filosofie is en betekent. 
+
+Robert Burns 19 zei ooit: 
 
 () - 19 Robert Burns 1759-1796. Schots dichter. O wad some pow’r the giftie gie us, to see our sels as ithers see us 
 
-```
+<pre>
 O, kon een macht die gift ons biên,   
 onszelf ’t aanschouwen, zoals and’ren ons zien!   
-```
+</pre>
 
 Maar ik ben bang dat macht een treurig bezit is, hoewel het oppervlakkig gezien begeerlijk schijnt. Wij hebben allemaal veel tekortkomingen en slaan bij tijden een treurig figuur op het wereldtoneel. Soms lijkt het alsof wij, door de hand van het lot, doelloos heen en weer worden geslingerd, terwijl anderen, die niet in staat zijn de balk in eigen oog te zien, ons be kritiseren en belachelijk maken. Als wij onszelf door hun ogen zouden zien, zouden wij onze belangrijkste eigenschap: zelfrespect, verliezen en er voor terugdeinzen onze medemensen tegemoet te treden. 
 

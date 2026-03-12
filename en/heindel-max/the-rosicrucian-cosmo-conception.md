@@ -4049,7 +4049,7 @@ In different schools of occult science the rites of Initiation vary, also their 
 
 Diagram 18 will give an idea of the arrangement of the Earth's strata, the central core being omitted to indicate more clearly the lemniscate formation of the currents in the ninth stratum. In the diagram the strata are represented as being of equal thickness, thought in reality some are much thinner than other. Beginning at the outside, they appear in the following order: 
 
-(l) The Mineral Earth: This is the stony crust of the Earth, with which Geology deals as far as it is able to penetrate. 
+(1) The Mineral Earth: This is the stony crust of the Earth, with which Geology deals as far as it is able to penetrate. 
 
 (2) The Fluid Stratum: The matter of the stratum is more fluid than that of the outside crust, yet it is not watery, but rather more like a thick paste. It has the quality of expansion, like that of an exceedingly explosive gas, and is kept in place only by the enormous pressure of the outer crust. Were that removed, the whole of the fluid stratum would disappear in the space with a tremendous explosion. These correspond to the Chemical and Etheric Regions of the Physical World. 
 

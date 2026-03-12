@@ -571,7 +571,7 @@ But there is a third class which realizes that all life is God's life and that t
 
 Our own safety, the safety of our children, the safety of the human race even, demands that we listen to the inspired voice of the poetress, Ella Wheeler Wilcox, who wrote the following soul stirring appeal in behalf of our dumb fellow creatures: 
 
-```
+<pre>
 "I am the voice of the voiceless,
 Through me the dumb shall speak,
 Till a deaf world's ear
@@ -589,7 +589,7 @@ And I will fight his fight,
 And speak the word
 For beast and bird
 Till the world shall set things right."
-```
+</pre>
 
 ### <h3 id="chapter-12">CHAPTER XII: MYSTIC LIGHT ON THE WORLD WAR - PART IV - THE GOSPEL OF GLADNESS</h3>
 

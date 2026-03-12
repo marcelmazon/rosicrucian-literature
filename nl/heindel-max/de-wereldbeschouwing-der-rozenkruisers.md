@@ -3384,7 +3384,6 @@ De Rozenkruiser spreekt over de Aardeperiode als Mars-Mercurius. De grote schepp
 | Donderdag  | Jupiterperiode                   | Jupiter              |
 | Vrijdag    | Venusperiode                     | Venus                |
 
-
 De Vulcanusperiode is de laatste periode van ons ontwikkelingsplan. De es sentie van alle voorafgaande perioden wordt door het spiraalvormige herha lingsproces eruit getrokken. In de allerlaatste rondte op de allerlaatste bol, en dan nog pas in het zevende tijdvak, wordt er geen nieuw werk begonnen. Daarom kan men zeggen dat de Vulcanusperiode overeenkomt met de hele week die alle zeven dagen in zich sluit. 
 
 De bewering van astrologen, dat de dagen van de week beheerst worden door de specifieke planeet waarnaar zij genoemd zijn, is juist. De oude Grieken waren ook met deze occulte leer bekend, zoals uit hun mythologie blijkt, en waarin de namen van de goden met de dagen van de week verbonden zijn. Za terdag is de benaming voor de dag van Saturnus. Zondag staat in verband met de zon, en maandag met de maan. In het Latijn heet dinsdag dies Martis, dat duidelijk op een verband met Mars, de god van de oorlog, wijst. De naam dins dag is afgeleid van Tirsdag, waarin Tir of Tyr de naam van de Noorse oor logsgod besloten ligt. Woensdag was Wodansdag, van Wodan, eveneens een Noorse god. In het Latijn heet woensdag dies Mercurii, waaruit ook het ver band met Mercurius blijkt. 
@@ -4210,9 +4209,9 @@ Uit het feit dat een weerkaatsing van de verdorvenheid en de antigeestelijke nei
 
 Een lijst van deze uitbarstingen over de laatste 2000 jaar toont aan dat het aan tal uitbarstingen, met de groei van het materialisme, steeds is toegenomen. Vooral in de laatste zestig jaar - naarmate de materialistische wetenschap zich het recht aanmatigde alles wat maar op geestelijkheid leek absoluut en radicaal te ontkennen - is het aantal sterk toegenomen. Terwijl er maar zes uitbarstin gen in de eerste 1000 jaar na Christus plaatsvonden, hebben de laatste vijf uit barstingen binnen 51 jaar plaats gehad, zoals wij dadelijk zullen zien. 
 
-De eerste uitbarsting tijdens de christelijke jaartelling was die in het jaar 79, waarbij de steden Herculaneum en Pompeï verwoest werden en Plinius de Ou dere62 omkwam. De andere uitbarstingen volgden in de jaren 203, 472, 512, 652 , 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906; [1913, 1926 , 1929, 1944]. 
+De eerste uitbarsting tijdens de christelijke jaartelling was die in het jaar 79, waarbij de steden Herculaneum en Pompeï verwoest werden en Plinius de Ou dere 62 omkwam. De andere uitbarstingen volgden in de jaren 203, 472, 512, 652 , 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906; [1913, 1926 , 1929, 1944]. 
 
-62 Gaius Plinius Secundus de Oudere 24-79. Veelzijdig Romeins schrijver die in 37 banden, zijn natuurwetenschappelijk verzamelwerk vastlegde. Als officier en keizerlijk schatbe waarder maakte hij grote reizen; later werd hij vlootcommandant. 
+() - 62 Gaius Plinius Secundus de Oudere 24-79. Veelzijdig Romeins schrijver die in 37 banden, zijn natuurwetenschappelijk verzamelwerk vastlegde. Als officier en keizerlijk schatbe waarder maakte hij grote reizen; later werd hij vlootcommandant. 
 
 In de eerste duizend jaar waren er zes uitbarstingen; in de tweede duizend jaar zijn er twaalf geweest, waarvan de laatste vijf in een tijdsbestek van 51 jaar plaatsvonden, zoals wij al aangetoond hebben. 
 
@@ -4455,16 +4454,6 @@ Therefore the Rosicrucians look ardently forward to the day when the roses shall
 John speaks of his purification (1st epistle, 3:9) and says that he who is born of God cannot sin, for he keepeth his seed within him. It is an absolute necessity to progress that the aspirant should be chaste. Yet it must be borne in mind, that absolute celibacy is not required of man until he has reached a point where he is ready for the great initiations, and that is a duty we owe to the whole to perpetuate the race. If we are mentally, morally, physically and financially able, we may approach the act of generation as a holy sacrifice laid upon the altar of humanity, but not for sensual pleasure. Neither should it be performed in an austere, forbidding frame of mind, but in glad giving up of oneself for the privilege of furnishing a friend seeking rebirth with the body and environment he needs for development. Thus we shall also help him cultivate the blooming roses upon his cross. 
 
 <h2 id="">Bijlagen</h2>
-
-The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
-
-Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
-
-The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
-
-By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
-
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
 
 ### <h3 id="addendum-a">De avond- en ochtendoefening voor de aspirant-rozenkruiser</h3>
 
