@@ -888,16 +888,16 @@ When the purgatorial existence is over the purified spirit rises into the first 
 
 It should be ever borne in mind that the power of giving is not vested chiefly in the monied man. Indiscriminate giving of money may even be an evil. It is well to give money for a purpose we are convinced is good, but service is a thousandfold better. As Whitman says, 
 
-```
+<pre>
 Behold! I do not give lectures, or a little charity;
 When I give, I give myself.
-```
+</pre>
 
 A kind look, expression of confidence, a sympathetic and loving helpfulness--these can be given by all regardless of wealth. Moreover, we should particularly endeavor to help the needy one to help himself, whether physically, financially, morally, or mentally, and not cause him to become dependent upon us or others. 
 
 The ethics of giving, with the effect on the giver as a spiritual lesson, are most beautifully shown in Lowell's "The Vision of Sir Launfal." The young and ambitious knight, Sir Launfal, clad in shining armor and astride a splendid charger, is setting out from his castle to seek The Holy Grail. On his shield gleams the cross, the symbol of the benignity and tenderness of Our Savior, the meek and lowly One, but the knight's heart is filled with pride and haughty disdain for the poor and needy. He meets a leper asking alms and with a contemptuous frown throws him a coin, as one might cast a bone to a hungry cur, but 
 
-```
+<pre>
 The leper raised not the gold from the dust,  
 "Better to me the poor man's crust,  
 Better the blessing of the poor,  
@@ -913,22 +913,22 @@ The hand cannot clasp the whole of his alms,
 The heart outstretches its eager palms,  
 For a god goes with it and makes it store  
 To the soul that was starving in darkness before.  
-```
+</pre>
 
 On his return sir Launfal finds another in possession of his castle, and is driven from the gate. 
 
-```
+<pre>
 An old bent man, worn out and frail,  
 He came back from seeking the Holy Grail;  
 Little he recked of his earldom's loss,  
 No more on his surcoat was blazoned the cross,  
 But deep in his heart the sign he wore,  
 The badge of the suffering and the poor.  
-```
+</pre>
 
 Again he meets the leper, who again asks alms. This time the knight responds differently. 
 
-```
+<pre>
 And Sir Launfal said: "I behold in thee  
 An image of Him Who died on the tree;  
 Thou also hast had thy crown of thorns,  
@@ -938,20 +938,20 @@ And to thy life were not denied
 The wounds in the hands and feet and side;  
 Mild Mary's Son, acknowledge me;  
 Behold, through him I give to Thee!"  
-```
+</pre>
 
 A look in the leper's eye brings remembrance and recognition, and 
 
-```
+<pre>
 The heart within him was ashes and dust;
 He parted in twain his single crust,
 He broke the ice on the streamlet's brink,
 And gave the leper to eat and drink.
-```
+</pre>
 
 A transformation takes place: 
 
-```
+<pre>
 The leper no longer crouched by his side,
 But stood before him glorified,
 . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -970,7 +970,7 @@ Not what we give, but what we share--
 For the gift without the giver is bare;
 Who gives himself with his alms feeds three--
 Himself, his hungering neighbor, and me."
-```
+</pre>
 
 The first heaven is a place of joy without a single drop of bitterness. The spirit is beyond the influence of the material, earthly conditions, and assimilates all the good contained in the past life as it lives it over again. Here all ennobling pursuits to which the man aspired are realized in fullest measure. It is a place of rest, and the harder has been the life, the more keenly will rest be enjoyed. Sickness, sorrow, and pain are unknown quantities. This is the Summerland of the spiritualists. There the thoughts of the devout Christian have built the New Jerusalem. Beautiful houses, flowers, etc., are the portion of those who aspired to them; they build them themselves by thought from the subtle desire-stuff. Nevertheless these things are just as real and tangible to them as our material houses are to us. All gain here the satisfaction which earth life lacked for them. 
 
@@ -984,12 +984,12 @@ This heaven is also a place of progression for all who have been studious, artis
 
 He is, as it were, painting with living, glowing materials and able to execute his designs with a facility which fills his soul with delight. The musician has not yet reached the place where his art will express itself to the fullest extent. The Physical World is the world of Form. The Desire World, where we find purgatory and the first heaven, is particularly the world of Color; but the World of Thought, where the second and third heavens are located, is the sphere of Tone. Celestial music is a fact and not a mere figure of speech. Pythagoras was not romancing when spoke of the music of the spheres, for each one of the heavenly orbs has its definite tone and together they sound the celestial symphony which Goethe also mentions in the prolog to his "Faust," where the scene is laid in heaven. The Archangel Raphael says, 
 
-```
+<pre>
 The Sun intones his ancient song
 'Mid rival chant of brother spheres.
 His prescribed course he speeds along
 In thund'rous way throughout the years.
-```
+</pre>
 
 Echoes of that heavenly music reach us even here in the Physical World. They are our most precious possession, even though they are as elusive as a will-o'-the-wisp, and cannot be permanently created, as can other works of art--a statue, a painting, or a book. In the Physical World tone dies and vanishes the moment after it is born. In the first heaven these echoes are, of course, much more beautiful and have more permanency, hence there the musician hears sweeter strains than ever he did during earth life. 
 
@@ -1097,10 +1097,10 @@ It is very important to remember this fact. There is too great a tendency to thi
 
 The fate of an individual generated under the law of Consequence, is of great complexity and involves association with Egos in and out of physical existence, at all times. Even those living at one time may not be living in the same locality, so that it is impossible for one individual's destiny to be all worked out in one lifetime or in one place. The Ego is therefore brought into a certain environment and family with which it is some way related. As regards the fate to be worked out, it is sometimes immaterial into which one of several environmental the Ego is reborn, and when such is the case, it is allowed its choice as far as possible, but once an Ego is so placed the agents of the Lords of Destiny watch unseen, that no act of free will shall frustrate the working out of the portion of fate selected. If we do aught of such as to circumvent that part, they will make another move, so as to enforce fulfillment of the destiny. It cannot be too often reiterated, however, that this does not render man helpless. It is merely the same law that governs after we have fired a pistol. We are then unable to stop the bullet, or even to deflect it from its course in any way. Its direction was determined by the position in which the pistol was held when we fired. That could have been changed at any time before the trigger was pulled, as up to that time we had full control. The same is true regarding new actions which make future destiny. We may, up to a certain point, modify or even altogether counteract certain causes already set in motion, but once started, and no further action taken, they will get beyond our control. This is called "ripe" fate and it is this kind that is meant when it is said that the Lords of Destiny check every attempt to shirk it. With regard to our past we are to a great extent helpless, but in regard to future action we have full control, except insofar as we are hampered by our past actions. By and by, however, as we learn that we are the cause of our own sorrow or joy, we shall awake to the necessity of ordering our lives more in harmony with the laws of God and thus rise above these laws of the Physical World. That is the key to emancipation; as Goethe says: 
 
-```
+<pre>
 From every power that all the world enchains
 Man frees himself when self-control he gains.
-```
+</pre>
 
 The vital body, having been molded by the Lords of Destiny, will give form to the dense body, organ for organ. This matrix or mold is then placed in the womb of the future mother. The seed-atom for the dense body is in the triangular head of one of the spermatozoa in the semen of the father. This alone makes fertilization possible and here is the explanation of the fact that so many times sex-unions are unfruitful. The chemical constituents of the seminal fluid and the ova are the same at all times and were these the only requirements, the explanation of the phenomenon of infertility, if sought in the material, visible world alone, would not be found. It becomes plain, however, when we understand that as the molecules of water freeze only along the lines of force in the water and manifest as ice crystals instead of freezing into a homogeneous mass, as would be the case if there were no lines of force previous to coagulation, so there can be no dense body built until there is a vital body in which to build the material; also there must be a seed-atom for the dense body, to act as gauge of the quality and quantity of the matter which is to be built into that dense body. Although at the present stage of development there is never full harmony in the materials of the body, because that would mean a perfect body, yet the discord must not be so great as to be disruptive of the organism. 
 
@@ -1978,12 +1978,12 @@ Chaos is not a state which has existed in the past and has now entirely disappea
 
 It is axiomatic that "The oftener we die, the better we live." The Poet-Initiate, Goethe says: 
 
-```
+<pre>
 Who has not this--
 Ever dying and bringing to birth--
 Will aye remain a sorry guest
 Upon this dismal earth.
-```
+</pre>
 
 and Paul says "I die daily." 
 
