@@ -156,3 +156,17 @@ Gottes Segen an alle Leser und im Lichte des Rosenkreuzes Geeinten.
 
 ----------------------
 
+
+### I removed from English:
+
+//## Alphabetische Liste der Stichworte und Anweisung zu den im Sachregister vorkommenden Themen
+
+Das Sachregister wurde mit der besonderen Absicht zusammengestellt, das Studium bestimmter Gebiete zu erleichtern. Dazu fügen wir für alle im Sachregister vorkommenden Themen eine alphabetische Liste der entsprechenden Stichworte bei. Jedem sich in dieser Liste befindlichen Wort ist eine Seitennummer beigefügt, auf die sich dieses Wort themenmäßig bezieht.
+
+Gleichzeitig wurde es im Sachregister mit anderen, ebenfalls dieses Thema betreffenden Wörtern derart gruppiert, daß dem Studierenden durch dessen Zuhilfenahme eine schnelle Übersicht bezüglich aller gleichlautenden und in diesem Buche enthaltenen Fachgebiete ermöglicht wird.
+
+Der Leser wird besonders darauf hingewiesen, die folgerichtige Anordnung der Beziehungen im Sachregister zu beachten. So teilt z.B. unter dem Stichwort "Lebensleib" die erste Erklärung mit, wo dieser Träger in diesem Werk zum ersten Mal auftrat, die letzte weist auf eine Seite, die über seine endgültige Vergeistigung aussagt, und die sich dazwischen befindlichen Bemerkungen weisen in ordnungsgemäßer Reihenfolge auf die Stellen hin, auf denen seine allmähliche Entwicklung beschrieben wird. Diese Beziehungen in sich selbst bilden somit eine sehr gute Darstellung des Lebensleibes.
+
+Durch den fleißigen Gebrauch des Sachregisters wird man die Rosenkreuzer-Weltanschauung als eine vollständige und erschöpfende Bibliothek von Beziehungen finden, und wir empfehlen dem Schüler, das Sachregister ebenso zu studieren, wie das Buch selbst. Oftmals erklärt allein schon das Lesen der verschiedenen Beziehungen das Verständnis eines Gegenstandes und enthüllt vieles, das bei einer allgemeinen Durchsicht des Buches verborgen bleibt. (Das Stichwortverzeichnis des Sachregisters erscheint in dieser Ausgabe alphabetisch angeordnet, das Sachregister selbst in der Reihenfolge des englischen Originals, da unser lieber Freund Max Heindel den Wunsch aussprach, daß die gesamte Seitenanordnung des deutschen Textes der des englischen Originals entsprechen sollte, um in den Briefen und Erläuterungen die Bezugnahme durch Querverweise zu erleichtern, d.Ü.). 
+
+Alphabetisches Stichwortverzeichnis!!!!!!!!!!!!!!!!!!!!!!!!!!!

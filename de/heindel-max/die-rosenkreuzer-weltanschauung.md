@@ -4309,21 +4309,11 @@ Darum sehen die Rosenkreuzer voller Sehnsucht dem Tag entgegen, an dem die Rosen
 
 Johannes spricht von seiner Reinigung (1. Joh. 3,9 King James Übersetzung) wenn er sagt, daß er, der aus Gott geboren ist, nicht sündigen kann, denn er behält seinen Samen in sich. Zum Fortschritt ist es eine unbedingte Notwendigkeit, daß der Anwärter keusch sei. Es muß aber auch festgestellt werden, daß vollständige Ehelosigkeit vom Menschen erst dann verlangt wird, wenn er eine Stufe erreicht, auf welcher er reif für die großen Einweihungen ist, und daß es eine Pflicht gegenüber der Gesamtheit ist, die Rasse fortzupflanzen. Wer geistig, moralisch, physisch und finanziell dazu fähig ist, kann an den Zeugungsakt als an ein heiliges Opfer herantreten, das er auf dem Altar der Menschheit darbringt. Man darf jedoch in der Vereinigung nicht sinnliches Vergnügen suchen. Auch soll dieses Opfer nicht in einem strengen, verschlossenen Gemütszustand vollzogen werden, sondern in freudiger Aufgabe seiner selbst, für das Vorrecht, einen Freund, der Wiedergeburt sucht, mit einem Körper und einer Umgebung zu versehen, die er zur Entwicklung benötigt. So werden wir auch ihm helfen, die blühenden Rosen auf seinem Kreuz zu pflegen.
 
-## Alphabetische Liste der Stichworte und Anweisung zu den im Sachregister vorkommenden Themen
+<h2 id="addenda">Addenda</h2>
 
-Das Sachregister wurde mit der besonderen Absicht zusammengestellt, das Studium bestimmter Gebiete zu erleichtern. Dazu fügen wir für alle im Sachregister vorkommenden Themen eine alphabetische Liste der entsprechenden Stichworte bei. Jedem sich in dieser Liste befindlichen Wort ist eine Seitennummer beigefügt, auf die sich dieses Wort themenmäßig bezieht.
+### <h3 id="addendum-a">Die Morgen- und Abendübungen des Rosenkreuzerschülers</h3>
 
-Gleichzeitig wurde es im Sachregister mit anderen, ebenfalls dieses Thema betreffenden Wörtern derart gruppiert, daß dem Studierenden durch dessen Zuhilfenahme eine schnelle Übersicht bezüglich aller gleichlautenden und in diesem Buche enthaltenen Fachgebiete ermöglicht wird.
-
-Der Leser wird besonders darauf hingewiesen, die folgerichtige Anordnung der Beziehungen im Sachregister zu beachten. So teilt z.B. unter dem Stichwort "Lebensleib" die erste Erklärung mit, wo dieser Träger in diesem Werk zum ersten Mal auftrat, die letzte weist auf eine Seite, die über seine endgültige Vergeistigung aussagt, und die sich dazwischen befindlichen Bemerkungen weisen in ordnungsgemäßer Reihenfolge auf die Stellen hin, auf denen seine allmähliche Entwicklung beschrieben wird. Diese Beziehungen in sich selbst bilden somit eine sehr gute Darstellung des Lebensleibes.
-
-Durch den fleißigen Gebrauch des Sachregisters wird man die Rosenkreuzer-Weltanschauung als eine vollständige und erschöpfende Bibliothek von Beziehungen finden, und wir empfehlen dem Schüler, das Sachregister ebenso zu studieren, wie das Buch selbst. Oftmals erklärt allein schon das Lesen der verschiedenen Beziehungen das Verständnis eines Gegenstandes und enthüllt vieles, das bei einer allgemeinen Durchsicht des Buches verborgen bleibt. (Das Stichwortverzeichnis des Sachregisters erscheint in dieser Ausgabe alphabetisch angeordnet, das Sachregister selbst in der Reihenfolge des englischen Originals, da unser lieber Freund Max Heindel den Wunsch aussprach, daß die gesamte Seitenanordnung des deutschen Textes der des englischen Originals entsprechen sollte, um in den Briefen und Erläuterungen die Bezugnahme durch Querverweise zu erleichtern, d.Ü.). 
-
-Alphabetisches Stichwortverzeichnis!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-### Die Morgen- und Abendübungen des Rosenkreuzerschülers
-
-#### Die Abendübung (erwähnt auf Seite 111)
+#### <h4 id="the-evening-exercise">Die Abendübung (erwähnt auf Seite 111)</h4>
 
 Die Abendübung, der Rückblick, ist von größerem Wert als irgendeine andere Methode, um den Schüler auf dem Weg zum Ziel vorwärtszubringen. Sie hat eine so weitreichende Wirkung, daß sie jeden jetzt befähigt, nicht nur die Lektionen dieses Lebens zu lernen, sondern auch Lektionen, die gewöhnlich zukünftigen Leben vorbehalten sind.
 
@@ -4335,7 +4325,7 @@ Der Wert des Rückblicks ist von ungeheurer Wirkung und übersteigt alles Vorste
 
 Christus sagte, daß der Reine Gott schauen wird. Der Lehrer wird ohne Zögern unsere Augen öffnen, sobald wir geeignet sind, in die "Halle des Lernens", in die Empfindungswelt einzutreten, um unsere ersten Erfahrungen des bewußten Lebens ohne dichten Körper zu erwerben.
 
-#### Die Morgenübung
+#### <h4 id="the-morning-exercise">Die Morgenübung</h4>
 
 Konzentration, die zweite Übung, wird morgens, zum erstmöglichen Zeitpunkt nach dem Erwachen des Schülers ausgeführt. Er muß sich nicht erheben, um die Jalousien zu öffnen oder sonst etwas Unnötiges zu tun. Wenn sich der Körper behaglich fühlt, sollte er sich sogleich entspannen und beginnen, sich zu konzentrieren. Das ist sehr wichtig, da der Geist im Augenblick des Erwachens gerade aus der Empfindungswelt zurückgekehrt ist. Zu dieser Zeit ist es leichter möglich, erneut mit dieser Welt in eine bewußte Berührung zu kommen, als zu irgendeiner anderen Zeit des Tages.
 
@@ -4355,7 +4345,7 @@ Eine alte Legende berichtet, daß das Graben nach einem Schatz in der Stille der
 
 Schließlich hüte er sich, die Übungen als eine lästige Aufgabe anzusehen. Man schätze sie nach ihrem wahren Wert; sie sind unser höchstes Vorrecht. Nur wenn wir sie so betrachten, werden wir ihnen gerecht werden und aus ihnen den vollen Segen ernten.
 
-### Über den Ursprung der Fellowship-Lehren
+### <h3 id="concerning-the-origin-of-the-fellowship-teachings">Über den Ursprung der Fellowship-Lehren</h3>
 
 Obwohl das Wort "Rosenkreuzer" (Rosicrucian) durch viele Organisationen benützt wird, steht die "Rosicrucian Fellowship" mit keiner von diesen in irgendeiner Verbindung.
 
@@ -4365,7 +4355,7 @@ Unter der Führung der Älteren Brüder des Rosenkreuzes, den großen geistigen 
 
 Eine der Voraussetzungen, auf Grund deren die westlichen Weisheitslehren an Max Heindel gegeben wurden, war, daß deren Erhalt für jedermann unentgeltlich sein sollte, was er bis an sein Lebensende sehr treu beachtete und auch von den jeweiligen Verantwortlichen innerhalb der Rosicrucian Fellowship stets genauestens befolgt wurde. Obwohl die Bücher der Fellowship verkauft werden, sind die Korrespondenzkurse und der Service unserer Heilungsabteilung unentgeltlich und werden nur durch freigewählte Spenden getragen. Auch gibt es keine Mitgliedsbeiträge oder sonstige Gebühren - The Rosicrucian Fellowship.
 
-### Was ist Wahrheit?
+### <h3 id="what-is-truth">Was ist Wahrheit?</h3>
 
 Pilatus stellte die Frage: "Was ist Wahrheit?" - er war jedoch unfähig, sie in seinem Inneren zu finden, weswegen er auch keine Antwort darauf erhielt.
 
@@ -4389,7 +4379,7 @@ Irgendwann haben wir alle die verschiedenen Pfade des Lebens beschritten. Einmal
 
 Manche werden jedoch fragen: "Und was ist mit der Dunkelheit? Ist sie Böse?" Nein, in Gottes Universum gibt es nichts Böses. Während des Tages erkennen wir durch das Licht der Sonne die Herrlichkeiten dieser kleinen Erde, die sich im Raum bewegt. Hätten wir immer Licht, so würden wir vielleicht nichts von außerhalb unseres Planeten erfahren und darüber unwissend bleiben, daß es noch mehr als Sonne und Mond gibt. Wenn es aber Nacht wird, und die Herrlichkeiten des Tages verschwunden sind, wenn die Sonne nicht mehr länger den Himmel erhellt, dann können wir bis zu einem gewissen Grad die letztliche Unendlichkeit des Universums begreifen. Wir können dann Welten erkennen, die Millionen über Millionen von Kilometern von uns entfernt sind, wodurch der Geist zu einer ebenso wunderbaren Hingabe angespornt ist, als wenn wir bei der Wahrheit verweilen, daß GOTT ALLES IN ALLEM ist - M. Heindel.
 
-### Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?
+### <h3 id="addendum-b">Addendum B: Footnote to Chapter III – Reincarnation or Rebirth?</h3>
 
 Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
 
@@ -4404,7 +4394,7 @@ _____________________
 
 From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
 
-### Addendum C: Footnote to Chapter XIII (Regarding Race)
+### <h3 id="addendum-c">Addendum C: Footnote to Chapter XIII (Regarding Race)</h3>
 
 The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
 
@@ -4442,7 +4432,7 @@ Page 352, "Mixing Blood in Marriage"
 Page 367, "The Evolution of Religion"
 Page 383, "Not Peace But A Sword"
 
-### Addendum D: Footnote to "Our Buildings"
+### <h3 id="addendum-d">Addendum D: Footnote to "Our Buildings"</h3>
 
 The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
 
