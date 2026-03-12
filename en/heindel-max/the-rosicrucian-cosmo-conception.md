@@ -3055,10 +3055,10 @@ There is as great an apparent contradiction between a woman's words and her acti
 
 Similarly, we must bear in mind that the time which has elapsed since the coming of Christ Jesus is but little more than a moment in comparison with the duration of even one Day of Manifestation. We must learn, as did Whitman, to "know the amplitude of time," and look beyond the past and present cruelties and jealousies of the warring sects to the shining age of Universal Brotherhood, which will mark the next great step of man's progress on his long and wondrous journey from the clod to the God, from protoplasm to conscious unity with the Father, that 
 
-```
+<pre>
 . . . one far-off, divine event  
 To which the whole creation moves.  
-```
+</pre>
 
 It may be added that the above mentioned pastor, during the ceremony of receiving his pupils into the Church taught them that Jesus Christ was a composite individual; that Jesus was mortal, human part, while Christ was the divine, immortal Spirit. Presumably, if the matter had been discussed with him, he would not have supported this statement, nevertheless in making it he stated an occult fact. 
 
@@ -3072,23 +3072,23 @@ The Star of Bethlehem is said to have appeared at the time of the birth of Jesus
 
 Much speculation has been indulged in as to the nature of this Star. Most material scientists have declared it a myth, while others have said if it were anything more than a myth, it might have been a "coincidence"--two dead Suns might have collided and caused a conflagration. Every mystic, however, knows the "Star"--yea, and the "Cross" also--not only as symbols connected with the life of Jesus and Christ Jesus, but in his own personal experience. Paul says: "Until Christ be formed in you"; and the mystic, Angelus Silesius, echoes: 
 
-```
+<pre>
 Though Christ a thousand times in Bethlehem be born
 And not within thyself, thy soul will be forlorn.
 The Cross on Golgotha thou lookest to in vain
 Unless within thyself it be set up again.
-```
+</pre>
 
 Richard Wagner shows the intuitional knowledge of the artist when, to the question of Parsifal, "Who is The Grail?" Gurnemanz answers: 
 
-```
+<pre>
 That tell we not;
 But if thou hast by Him been bidden,
 From thee the truth will not stay hidden.
 . . . The land to Him no path leads through,
 And search but severs from Him wider
 When He Himself is not the Guider.
-```
+</pre>
 
 Under the "old dispensation" the path to Initiation was not open. It was for only the chosen few. Some might seek the path, but only those who were guided to the Temples by the Hierophants found entrance. Previous to the advent of Christ, there was no such sweeping invitation as "Whosoever will may come." 
 
@@ -3298,11 +3298,11 @@ These names of periods have nothing to do with the physical planets, but refer t
 
 Occult science teaches that there are 777 incarnations, but that does not mean that the Earth undergoes 777 metamorphoses. It means that evolving life makes
 
-```
+<pre>
 7 Revolutions around the
 7 Globes of the
 7 World Periods.
-```
+</pre>
 
 This pilgrimage of Involution and Evolution, including the "short cut" of Initiation, is embodied in the Caduceus, or "Staff of Mercury" (see Diagram 15 below), so called because this occult symbol indicates The Path of Initiation, which has been open to man only since the beginning of the Mercury half of the Earth Period. Some of the lesser mysteries were given to the earlier Lemurians and Atlanteans, but not the Four Great Initiations. 
 
@@ -3328,7 +3328,7 @@ There is a similar division among our present animals which can be traced throug
 
 Cuvier was the first to divide the animal kingdom into four primary classes, but was not so successful in his division of these classes into subclasses. The embryologist, Karl Ernst von Baer, also Professor Agassiz and other scientists, classify the animal kingdom into four primary and thirteen subdivisions, as follows: 
 
-```
+<pre>
 I RADIATES:
     1-Polyps, Sea-anemones and Coral.
     2-Acaleph, or Jelly-fish.
@@ -3346,7 +3346,7 @@ IV VERTEBRATES:
     11-Reptiles.
     12-Birds.
     13-Mammals
-```
+</pre>
 
 The first three divisions correspond to the remaining three Revolutions of the Mercury half of the Earth Period, and their nine steps correspond to the nine degrees of the lesser mysteries, which will have been taken by humanity in general when it has reached the middle of the last Revolutions of the Earth Period. 
 
@@ -3739,7 +3739,7 @@ The first law of occult science is "Thou shalt not kill," and that should have t
 
 Ella Wheeler Wilcox, with the true compassion of all far advanced souls, champions this occult maxim, in the following beautiful words: 
 
-```
+<pre>
 I am the voice of the voiceless;
 Through me the dumb shall speak
 Till a deaf world's ear
@@ -3757,7 +3757,7 @@ And I will fight his fight,
 And speak the word
 For beast and bird
 Till the world shall set things right.
-```
+</pre>
 
 Sometimes the objection is made that life is also taken when vegetables and fruits are eaten, but that statement is based upon a complete misunderstanding of the facts. When the fruit is ripe, it has accomplished its purpose, which is to act as a womb for the ripening of the seed. If not eaten, it decays and goes to waste. Moreover, it is designed to serve as food for the animal and human kingdoms, thus affording the seed opportunities for growth by scattering it in fertile soil. Besides, just as the ovum and the semen of human beings are ineffectual without the seed-atom of the reincarnating Ego and the matrix of its vital body, so any egg or seed, of itself, is devoid of life. If it is given the proper conditions of incubator or soil, the life of the group-spirit is then poured into it, thus grasping the opportunity so afforded of producing a dense body. If the egg or seed is cooked, crushed, or not given the conditions necessary for the life, the opportunity is lost, but that is all. 
 
@@ -4083,7 +4083,7 @@ The forces in this stratum are thus, at any time, an exact reflection of the exi
 
 (9) Material Expression of the Earth spirit: There are here lemniscate currents, which are intimately connected with the brain, heart and sex organs of the human race. It corresponds to the World of God. 
 
-(l0) Center of Being of the Earth spirit: Nothing more can be said about this at present except that it is the ultimate seed ground of all that is in and on Earth, and corresponds to the Absolute. 
+(10) Center of Being of the Earth spirit: Nothing more can be said about this at present except that it is the ultimate seed ground of all that is in and on Earth, and corresponds to the Absolute. 
 
 From the sixth or fiery stratum to the surface of the Earth are a number of shafts in different places. The outer ends of these are called "volcanic craters." When the Nature forces in the seventh stratum are unleashed so that they can express themselves through a volcanic outburst, they set the (sixth) fiery stratum in motion and the agitation spreads outward to the mouth of the crater. The bulk of the material is taken from the substance of the second stratum, for that is the denser counterpart of the sixth stratum as the vital body, the second vehicle of man, is the denser counterpart of the life Spirit, the sixth principle. This fluidic stratum, with its expansive and highly explosive quality, insures an unlimited supply of material at the point of eruption. The contact with the outer atmosphere hardens that part of it which is not blown away into space, thus forming a lava and dust, until, as the blood from a wound congeals and stanches the flow, so the lava finally seals the aperture from the inner parts of the Earth. 
 
@@ -4307,17 +4307,7 @@ Therefore the Rosicrucians look ardently forward to the day when the roses shall
 
 John speaks of his purification (1st epistle, 3:9) and says that he who is born of God cannot sin, for he keepeth his seed within him. It is an absolute necessity to progress that the aspirant should be chaste. Yet it must be borne in mind, that absolute celibacy is not required of man until he has reached a point where he is ready for the great initiations, and that is a duty we owe to the whole to perpetuate the race. If we are mentally, morally, physically and financially able, we may approach the act of generation as a holy sacrifice laid upon the altar of humanity, but not for sensual pleasure. Neither should it be performed in an austere, forbidding frame of mind, but in glad giving up of oneself for the privilege of furnishing a friend seeking rebirth with the body and environment he needs for development. Thus we shall also help him cultivate the blooming roses upon his cross. 
 
-## Topical Index: Alphabetical List of Words Indexed
-
-The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
-
-Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
-
-The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
-
-By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
-
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
+<h2 id="addenda">Addenda</h2>
 
 ### <h3 id="addendum-a">Addendum A: Morning and Evening Exercises Performed by the Rosicrucian Aspirant</h3>
 
@@ -4422,12 +4412,12 @@ Christ came to prepare the way for the emancipation of humanity from the guidanc
 
 Let us be mindful of Max Heindel's words to us: 
 
-```
+<pre>
 There's but one thing the world has need to know,
 There's but one balm for all our human woe,
 There's but one way that leads to heaven above.
 That way is Human Sympathy and Love.
-```
+</pre>
 
 For further study:
 

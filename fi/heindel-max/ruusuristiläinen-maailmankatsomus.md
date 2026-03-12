@@ -4377,17 +4377,7 @@ Ruusuristiläiset odottavat innokkaasti päivää, jolloin ruusut kuk kivat ihmi
 
 Omasta puhdistuksestaan puhuessaan Johannes sanoo (1. Joh. 3:9): ”Ei yksikään Jumalasta syntynyt tee syntiä, sillä Jumalan siemen pysyy hänessä.” Pyrkijän edistymiselle on ehdottoman välttämätöntä, että hän on puhdas. On kuitenkin pidettävä mielessä, että ihmisel tä ei vaadita ehdotonta selibaattia, ennen kuin hän on saavuttanut kehitysvaiheen, jolloin hän on valmis suuriin vihkimyksiin. Meidän velvollisuutemme ja velkamme maailmankaikkeudelle on säilyttää ihmisrotu. Jos olemme mentaalisesti, moraalisesti, fyysisesti ja ai neellisesti kykeneviä, me voimme lähestyä suvunjatkamista pyhä nä uhrina ihmiskunnan alttarille, eikä aistillisena nautintona. Sitä ei myöskään saa tehdä tylyllä, vastahakoisella mielellä, vaan tulee ilolla luovuttaa itsensä etuoikeudelle tuottaa ruumis ystävälle, joka etsii jälleensyntymistä ruumiiseen ja olosuhteisiin, joita hän tarvit see kehitykseensä. Näin autamme myös häntä viljelemään kukkivia ruusuja ristillään. 
 
-## Topical Index: Alphabetical List of Words Indexed
-
-The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
-
-Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
-
-The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
-
-By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
-
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
+<h2 id="addenda">Addenda</h2>
 
 ### <h3 id="addendum-a">Addendum A: Ruusuristiläisen kokelaan aamu- ja iltaharjoitukset</h3>
 

@@ -4349,17 +4349,7 @@ Bu yüzden Gülhaçcılar büyük bir özlemle gülün, insanlığın haçında 
 
 Yuhanna, Tanrı’dan doğmuş olan kendisinin günah işleyemeyeceğini, çünkü tohumlarını O’nun kendinde tuttuğunu söylediğinde arınmasından bahsetmişti. Tâlip kişinin ilerlemesi için iffetli olması mutlak bir zorunluluktur. Ancak şu da akıldan çıkarılmamalıdır ki, mutlak bekârlık, insan ancak büyük İnisiyasyonlara hazır olduğu bir seviyeye ulaştığında kendisinden talep edilir ve ırkın devamını sağlamak bütüne karşı bir borcumuzdur. Eğer zihinsel, ahlâken, fiziksel ve finansiyel olarak gücümüz yetiyorsa cinsel birleşmeye duyusal zevk için değil ama insanlığın sunağına konulmuş kutsal bir kurban olarak yaklaşabiliriz. Ve de cinsel birleşme, hosgörüsüz ve yasak bir düşünce yapısı içinde gerçekleştirilmemelidir, aksine yeniden doğumu arayan bir arkadaşa gelişimi için ihtiyaç duyduğu beden ve çevre sağlama ayrıcalığının mutluluğu içinde yapılmalıdır. Böylece onun da haçı üzerinde güller açmasına yardım etmiş oluruz. 
 
-## Topical Index: Alphabetical List of Words Indexed
-
-The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
-
-Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
-
-The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
-
-By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
-
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
+<h2 id="addenda">Addenda</h2>
 
 ### Addendum A: MORNING AND EVENING EXERCISES PERFORMED BY THE ROSICRUCIAN ASPIRANT
 
