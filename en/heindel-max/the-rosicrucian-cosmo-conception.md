@@ -4353,7 +4353,7 @@ Under the direction of the Brothers of the Rose Cross, spiritual giants of the h
 
 One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-### <h3 di="what-is-truth">What Is Truth?</h3>
+### <h3 id="what-is-truth">What Is Truth?</h3>
 
 Pilate asked the question "What is Truth?" and being incapable of knowing from within, he received no answer. 
 
