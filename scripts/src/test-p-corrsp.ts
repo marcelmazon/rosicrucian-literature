@@ -161,6 +161,9 @@ function read_doc_line_by_line(doc: string[])
 			in_pre = false
 		if (in_pre) continue
 		
+		// If is table
+		if (line.startsWith("|")) continue
+		
 		current_count++
 		total_count++
 	}

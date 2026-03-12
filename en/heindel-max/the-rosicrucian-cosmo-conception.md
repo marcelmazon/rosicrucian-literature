@@ -552,7 +552,7 @@ Each of the planets in our solar system has three such interpenetrating Worlds, 
 
 In a manner similar to that in which the World of Life Spirit correlates us to the other planets in our own solar system does the World Divine Spirit correlate us to the other solar systems. We may regard the solar systems as separate sponges, swimming in a World of Divine Spirit, and thus it will be apparent that in order to travel from one solar system to another it would be necessary to be able to function consciously in the highest vehicle of man, the Divine Spirit. 
  
-### <h3 id="the-four-kingdoms">Chapter II: The Four Kingdoms</h3>
+### <h3 id="chapter-2">Chapter II: The Four Kingdoms</h3>
 
 The three Worlds of our planet are at present the field of evolution for a number of different kingdoms of life, at various stages of development. Only four of these need concern us at present, viz.: the mineral, plant, animal, and human kingdoms.
 
@@ -616,7 +616,7 @@ At present the materials of both the lower and the higher Regions enter into the
 
 In the same way that the planetary vital and desire bodies interpenetrate the dense material of the Earth, as we saw in the illustration of the sponge, the sand and the water, so the vital and desire bodies interpenetrate the dense body of plant, animal, and man. But during the life of man his desire body is not shaped like his dense and vital bodies. After death it assumes that shape. During life it has the appearance of a luminous ovoid which, in waking hours, completely surrounds the dense body, as the albumen does the yolk of an egg. It extends from twelve to sixteen inches beyond the dense body. In this desire body there are a number of sense centers, but, in the great majority of people, they are latent. It is the awakening of these centers of perception that corresponds to the opening of the blind man's eyes in our former illustration. The matter in the human desire body is in incessant motion of inconceivable rapidity. There is in it no settled place for any particle, as in the dense body. The matter that is at the head one moment may be at the feet in the next and back again. There are no organs in the desire body, as in the dense and vital bodies, but there are centers of perception, which, when active, appear as vortices, always remaining in the same relative position to the dense body, most of them about the head. In the majority of people they are mere eddies and are of no use as centers of perception. They may be awakened in all, however, but different methods produce different results. 
 
-Diagrams:
+Diagrams: !!!!!!!!!!
 
 In the involuntary clairvoyant developed along improper, negative lines, these vortices turn from right to left, or in the opposite direction to the hands of a clock--counterclockwise. 
 
@@ -1246,7 +1246,7 @@ In the Book of Revelation we find these worlds: "Him that overcometh will I make
 
 Oliver Wendell Holmes, in his beautiful poem, "The Chambered Nautilus," has embodied this idea of constant progression in gradually improving vehicles, and final liberation. The nautilus builds its spiral shell in chambered sections, constantly leaving the smaller ones, which it has outgrown, for the one last built: 
 
-```
+<pre>
 Year after year beheld the silent toil
 That spread his lustrous coil;
 Still, as the spiral grew,
@@ -1270,7 +1270,7 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast,
 'Till thou at length art free,
 Leaving thine outgrown shell by life's unresting sea!
-```
+</pre>
 
 The necessity, previously referred to, of obtaining an organism of a specific nature, brings to mind an interesting phase of the twin laws of Rebirth and Consequence. These laws are connected with the motion of the Cosmic bodies, the Sun, the planets and the signs of the Zodiac. All move in harmony with these laws, guided in their orbits by their indwelling spiritual Intelligences--the Planetary Spirits. 
 
@@ -1302,7 +1302,7 @@ The stars may therefore be called the "Clock of Destiny." The twelve signs of th
 
 It cannot be sufficiently emphasized, however, that though there are some things that cannot be escaped, man has a certain scope of free will in modifying causes already set going. A poet puts it thus: 
 
-```
+<pre>
 One ship sails east and another sails west
 With the self-same winds that blow.
 'Tis the set of the sail and not the gale
@@ -1312,7 +1312,7 @@ As the winds of the sea are the ways of fate
 As we voyage along through life,
 'Tis the act of the soul that determines the goal,
 And not the calm or the strife.
-```
+</pre>
 
 The great point to grasp is that our present actions determine future conditions. 
 

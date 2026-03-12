@@ -1428,7 +1428,7 @@ Jumaluuden jakaminen ”Isään”, ”Poikaan” ja ”Pyhään Henkeen” on m
 
 Kaaviot 6 ja 11 ehkä tekevät asian selväksi. On pidettävä mieles sä, että maailmat ja kosmiset tasot eivät sijaitse toinen toisensa ylä puolella avaruudessa, vaan seitsemän kosmista tasoa läpäisevät toi nen toisensa ja kaikki seitsemän maailmaa. Ne ovat erilaisia henki aineen tiloja, jotka läpäisevät toinen toisensa, joten Jumala sekä muut edellä mainitut korkeat olennot eivät ole jossakin kaukana ava ruudessa. Ne läpäisevät oman tasonsa jokaisen osan ja kaikki niitä tiheämmät tasot. Ne ovat siis kaikki läsnä meidän maailmassamme ja ovat itse asiassa ja de facto (9) ”lähempänä kuin kädet ja jalat”. On kirjaimellisesti totta, kun sanomme ”Hänessä me elämme, olemme ja liikumme”, sillä kukaan meistä ei voi elää ulkopuolella näitä suu ria älyolentoja, jotka läpäisevät ja ylläpitävät maailmamme omalla elämällään. 
 
-9 Käytännössä, yleisesti. – Suom. huom. 
+() - 9 Käytännössä, yleisesti. – Suom. huom. 
 
 On osoitettu, että eetteritaso leviää kiinteän maapallon ilmakehän ulkopuolelle, että tunnemaailma ulottuu laajemmalle avaruuteen kuin eetteritaso ja vielä että ajatusmaailma leviää laa jemmalle planeettojen väliseen avaruuteen kuin mikään edellisistä. On luonnollista, että ohuemmasta aineesta muodostuneet maailmat vaativat laajemman tilan kuin tiheämpi maailma, joka kiteytyneenä ja tiivistyneenä tarvitsee vähemmän tilaa. 
 
@@ -3124,10 +3124,12 @@ Betlehemin tähden on sanottu ilmestyneen Jeesuksen syntymän aikaan ja johtanee
 
 On paljon esitetty arveluja tuon tähden luonteesta. Useimmat materialistiset tiedemiehet pitävät sitä myyttinä. Toiset sanovat, että jos se on jotakin muuta kuin myytti, se on saattanut olla ”sattuma” – kaksi kuollutta aurinkoa olisi voinut törmätä yhteen ja aiheuttaa valoilmiön. Jokainen mystikko kuitenkin tietää, että ”tähti” ja ”risti” eivät ole ainoastaan vertauskuvia Jeesuksen ja Kristus Jeesuksen elä mästä, vaan ovat hänen omia persoonallisia kokemuksiaan. Paavali sanoo: ”Kunnes Kristus saa muodon teissä” – ja mystikko Angelus Silesius: 
 
+<pre>
 Jos Kristus tuhat kertaa Betlehemiin sais,    
 mut ei sun sydämees, se sua ei vapahtais;    
 luot katseesi turhaan kohti Golgataa,    
 tuo risti itsessäsi ellei nousta saa. (30)    
+</pre>
 
 () - (30) Suom. Jussi Snellman. 
 
@@ -3385,23 +3387,25 @@ Nykyisessä eläinkunnassa on samankaltainen jaottelu, jota voi daan seurata muo
 
 Eläintieteilijä Georges Cuvier oli ensimmäinen, joka jakoi eläin kunnan neljään pääluokkaan, mutta ei oikein onnistunut alaluo kittelussaan. Embryologi Karl Ernst von Baer ja professori Agassis sekä eräät muut tiedemiehet jakavat eläinkunnan neljään pää- ja kolmeentoista alaluokkaan seuraavasti: 
 
+<pre>
 I Piikkinahkaiset    
-    1\. Polyypit, merivuokot ja korallit    
-    2\. Likoeläimet eli meduusat    
-    3\. Meritähdet, meripiikkiäiset    
+    1. Polyypit, merivuokot ja korallit    
+    2. Likoeläimet eli meduusat    
+    3. Meritähdet, meripiikkiäiset    
 II Nilviäiset    
-    4\. Simpukat ym.    
-    5\. Kotilot    
-    6\. Mustekalat    
+    4. Simpukat ym.    
+    5. Kotilot    
+    6. Mustekalat    
 III Niveljalkaiset    
-    7\. Madot    
-    8\. Äyriäiset ym.    
-    9\. Hyönteiset    
+    7. Madot    
+    8. Äyriäiset ym.    
+    9. Hyönteiset    
 IV Selkärankaiset    
-    10\. Kalat    
-    11\. Matelijat    
-    12\. Linnut    
-    13\. Nisäkkäät    
+    10. Kalat    
+    11. Matelijat    
+    12. Linnut    
+    13. Nisäkkäät    
+</pre>
 
 Kolme ensimmäistä luokkaa vastaavat Maakauden kolmea jäljellä olevaa Merkurius-puoliskon kierrosta ja niiden 9 askelta vastaavat pienempien mysteerien 9 astetta, jotka ihmiskunta kokonaisuu dessaan saavuttaa Maakauden tultua viimeisen kierroksensa keski vaiheille. 
 
@@ -4201,9 +4205,7 @@ Kristinusko on vähitellen raivannut tiensä kohti länttä aina Tyynenmeren ran
 
 Niin kuin päivä ja yö, kesä ja talvi, vuoksi ja luode seuraavat toi siaan katkeamattomana ketjuna kiertokulun lain mukaan, niin myös henkisen heräämisen aaltoa kussakin maailman osassa seuraa ai neellinen aikakausi, niin että kehityksemme ei tulisi yksipuoliseksi. 
 
-Kolme tärkeintä keinoa ihmiskunnan kasvattamiseksi ovat us konto, taide ja tiede. Ne muodostavat kolmiyhteyden, jota ei voida rikkoa vääristämättä käsitystämme tutkimastamme asiasta. 
-
-Todellinen uskonto sisältää sekä tieteen että taiteen, sillä se opet taa kaunista elämää sopusoinnussa luonnonlakien kanssa. 
+Kolme tärkeintä keinoa ihmiskunnan kasvattamiseksi ovat us konto, taide ja tiede. Ne muodostavat kolmiyhteyden, jota ei voida rikkoa vääristämättä käsitystämme tutkimastamme asiasta. Todellinen uskonto sisältää sekä tieteen että taiteen, sillä se opet taa kaunista elämää sopusoinnussa luonnonlakien kanssa. 
 
 Todellinen tiede on taidetta ja uskontoa niiden korkeimmassa merkityksessä, koska se opettaa meitä kunnioittamaan ja sopeutu maan lakeihin, jotka ylläpitävät hyvinvointiamme, ja selittää, kuinka uskonnollinen elämä edistää terveyttä ja kauneutta. 
 

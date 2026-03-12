@@ -1259,7 +1259,7 @@ Kutsal Kitap’taki Vahiyler Kitabı’nda, somut ( maddi) varoluştan tamamen k
 
 Oliver Wendell Holmes güzel şiiri “Denizkabuğunun Odaları”nda, dereceli olarak iyileşen araçlarda sürekli ilerleme ve sonunda özgürlüğe erişme fikri anlatılmaktadır. Denizkabuğu, spiral şeklindeki kabuğunu odacıklar halinde inşa eder ve içinde büyüdüğü ve artık kendisine küçük gelen kabuğunu her sene terk eder: 
 
-```
+<pre>
 Bak, her yıl sessiz çalışması sahiden   
 Onun parlak kabuğunu büyüten   
 Spiral biçiminde gelişirken Sessiz,   
@@ -1284,7 +1284,7 @@ Eskisinden olsun daha asil
 Düşük kubbeli geçmişini terk et ve sil !   
 Özgürlük yolunda yürü, yaşamın vahşi denizinde   
 İçinde büyüdüğün kabuğunu terk ederek, kal zinde   
-```
+</pre>
 
 Yukarıda bahsettiğimiz, özel vasıflara sahip bir organizmaya sahip olmanın gerekliliği, ikiz yasalar olan Yeniden Doğuş ile Sebep ve Sonuç yasaları hakkında bizi ilginç bir noktaya ulaştırır. Bu yasalar; yıldızların, güneşin, gezegenlerin ve on iki burcun hareketleri ile bağlantılıdırlar. Bütün bu gökcisimleri bu yasalara göre birbirleri ile uyum içerisinde yörüngelerinde hareket ederler. Gezegenlerin içlerinde bulunan ruhsal Zekâlar (spiritual Intelligences) olan Gezegensel Rûhları gezegenlere bu yörüngelerinde rehberlik ederler. 
 
@@ -1308,7 +1308,7 @@ Sebep ve Sonuç Yasası da yıldızlarla uyum içinde çalışır. Böylece bir 
 
 İnsan, kaderinden tamamen haberdar olsa da ondan kaçamaz. Buna ilişkin olarak yazar tarafından bilinen belki de en dikkat çekici örnek 1906 yılında Kaliforniya’nın Los Angeles şehrinde meydana geldi. Tanınan bir öğretmen olan Bay L.’ye, astrolojiye bakılarak belli zamanlarda dikkatli olması gerektiği söylendi. Bay L.’ye horoskopu[41] gösterildi. Çünkü bir öğrenci kendisiyle ilgili bir konuda, bir yabancıyla ilgili bir konudan daha çok ilgilenir. Onun da, kendisine verilen burç yorumlarının ne kadar kesin olduğunu kontrol etmesine izin verildi. Horoskop, birkaç kaza gösteriyordu. Bay L.’nin geçmişte başına gelmiş kazalar ve olaylarla horoskopa bakılarak söylenen tarihler de tutuyordu. Ayrıca ona, başka bir kazanın daha başına geleceği ve bu kazanın gelecek Temmuz’un 21’inde ya da 7 gün sonrasında, yâni 28’inde vuku bulacağı ve son söylenen tarihin daha tehlikeli olduğu bildirildi. Ve de Bay L., belirtilen günlerde hiçbir ulaşım aracına binmemesi, aksi takdirde göğüs, omuz, kol veya başın alt kısmındaki bölgelerden yaralanacağı konusunda uyarıldı. Bay L., bir tehlikenin sözkonusu olduğuna tamamen ikna oldu ve o iki gün evde kalmaya söz verdi. 
 
-[41] Yıldız falı. 
+() - [41] Yıldız falı. 
 
 Bu kitabın yazarı Seattle’a gitti ve kritik zamandan birkaç gün önce ona mektup yazdı ve onu tekrar uyardı. Bay L., cevabında uyarının aklında olduğunu ve bu uyarıya uyacağını belirtti. 
 
@@ -1322,7 +1322,7 @@ Yıldızlar bu yüzden “Kaderin Saati” olarak da adlandırılabilirler. Olgu
 
 Ancak ne kadar söylense azdır, kendisinden kaçamayacağı bazı şeyler olmasına karşın insanın, önceden harekete geçmiş sebepleri değiştirebilmesi için kendi hür irâdesinin belli bir kapsamı vardır. Bir şair bu konu hakkında şöyle der: 
 
-```
+<pre>
 Aynı rüzgârdır gemileri götüren   
 Onları doğuya, batıya her yöne süren   
 Yönlerini belirleyen değil rüzgâr, esen   
@@ -1332,7 +1332,7 @@ Denizin rüzgârları benzer kaderin yollarına
 Yaşam boyunca gideriz onun kollarına   
 İster sesli olsun, ister sessiz   
 Rûhun dediğidir yaşam hedefimiz   
-```
+</pre>
 
 Burada yakalanacak en büyük nokta, şimdiki eylemlerimizin gelecekteki koşulları belirlediğidir. 
 
@@ -3370,6 +3370,7 @@ Bizim şimdiki hayvan âleminde de Form aracılığıyla takip edilebilecek benz
 
 Hayvan krallığını (Hayvanlar Âlemi) dört büyük ana sınıfa ayıran ilk kişi Cuvier’di. Ancak o, bu ana sınıfların alt bölmelendirmesinde o kadar başarılı değildi. Embriyolog Karl Ernst von Baer, Profesör Agassiz ve diğer bilimadamları hayvan krallığını aşağıdaki gibi dört ana sınıfa ve onüç altsınıfa ayırmaktadır: 
 
+<pre>
 I RADIATES:
   1-Polyps, Sea-anemones and Coral.
   2-Acaleph, or Jelly-fish.
@@ -3387,6 +3388,7 @@ IV VERTEBRATES:
   11-Reptiles.
   12-Birds.
   13-Mammals
+</pre>
 
 İlk üç bölüm, Yer Evresi’nin Merkür yarısındaki kalan üç Devir’e karşılık gelir. Onun dokuz basamağı da küçük Sırların, insanlığın geneli tarafından Yer Evresi’nin son Devrine ulaşıldığında erişilecek olan dokuz derecesine karşılık gelir. 
 
