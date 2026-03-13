@@ -29,35 +29,35 @@ Al escribir los libros y lecciones mensuales de la Fraternidad, en sus lecturas 
 
 En "Recolecciones de un Místico" se encuentran veinticuatro lecciones que fueron anteriormente remitidas a los estudiantes. Es deseo de la autora de este prólogo que estas lecciones puedan llevar un mensaje de amor y afecto al lector hambriento de espiritualidad y reconfortar al desconsolado. 
 
-\- AUGUSTA FOSS DE HEINDEL. 
+\- Augusta Foss de Heindel 
 
 ### <h3 id="table-of-contents">Índice de materias</h3>
 
-- [CAPITULO I - Iniciación: Qué es y qué no es. 1ª Parte](#chapter-1)
-- [CAPITULO II - Iniciación: Qué es y qué no es. 2ª Parte](#chapter-2)
-- [CAPITULO III - El Sacramento de la Comunión. 1ª Parte](#chapter-3)
-- [CAPITULO IV - El Sacramento de la Comunión. 2ª Parte "En memoria mía"](#chapter-4)
-- [CAPITULO V - El Sacramento del Bautismo](#chapter-5)
-- [CAPITULO VI - El Sacramento del Matrimonio](#chapter-6)
-- [CAPITULO VII - El Pecado Imperdonable y las Almas Perdidas](#chapter-7)
-- [CAPITULO VIII - La Inmaculada Concepción](#chapter-8)
-- [CAPITULO IX - El Cristo Futuro](#chapter-9)
-- [CAPITULO X - La Edad Futura](#chapter-10)
-- [CAPITULO XI - La Carne y el Alcohol como factores de la Evolución](#chapter-11)
+- [Capítulo I - Iniciación: Qué es y qué no es. 1ª Parte](#chapter-1)
+- [Capítulo II - Iniciación: Qué es y qué no es. 2ª Parte](#chapter-2)
+- [Capítulo III - El Sacramento de la Comunión. 1ª Parte](#chapter-3)
+- [Capítulo IV - El Sacramento de la Comunión. 2ª Parte "En memoria mía"](#chapter-4)
+- [Capítulo V - El Sacramento del Bautismo](#chapter-5)
+- [Capítulo VI - El Sacramento del Matrimonio](#chapter-6)
+- [Capítulo VII - El Pecado Imperdonable y las Almas Perdidas](#chapter-7)
+- [Capítulo VIII - La Inmaculada Concepción](#chapter-8)
+- [Capítulo IX - El Cristo Futuro](#chapter-9)
+- [Capítulo X - La Edad Futura](#chapter-10)
+- [Capítulo XI - La Carne y el Alcohol como factores de la Evolución](#chapter-11)
     - [El azúcar por alcohol](#sugar-for-alcohol)
-- [CAPITULO XII - Un Sacrificio Viviente](#chapter-12)
-- [CAPITULO XIII - Magia: Blanca y Negra](#chapter-13)
-- [CAPITULO XIV - Nuestro Gobierno Invisible](#chapter-14)
-- [CAPITULO XV - Preceptos Prácticos para Gente Práctica](#chapter-15)
-- [CAPITULO XVI - El Sonido, el Silencio y el Desarrollo del Alma](#chapter-16)
-- [CAPITULO XVII - El Magno Misterio de la Rosacruz](#chapter-17)
-- [CAPITULO XVIII- Obstáculos en la Marcha](#chapter-18)
-- [CAPITULO XIX - La Esclusa de la Elevación](#chapter-19)
-- [CAPITULO XX - El Significado Cósmico de la Pascua 1ª Parte](#chapter-20)
-- [CAPITULO XXI - El Significado Cósmico de la Pascua 2ª Parte](#chapter-21)
-- [CAPITULO XXII - El cristo Recién Nacido](#chapter-22)
-- [CAPITULO XXIII - Porqué Soy Rosacruz](#chapter-23)
-- [CAPITULO XXIV - El Objeto de la Fraternidad Rosacruz](#chapter-24)
+- [Capítulo XII - Un Sacrificio Viviente](#chapter-12)
+- [Capítulo XIII - Magia: Blanca y Negra](#chapter-13)
+- [Capítulo XIV - Nuestro Gobierno Invisible](#chapter-14)
+- [Capítulo XV - Preceptos Prácticos para Gente Práctica](#chapter-15)
+- [Capítulo XVI - El Sonido, el Silencio y el Desarrollo del Alma](#chapter-16)
+- [Capítulo XVII - El Magno Misterio de la Rosacruz](#chapter-17)
+- [Capítulo XVIII- Obstáculos en la Marcha](#chapter-18)
+- [Capítulo XIX - La Esclusa de la Elevación](#chapter-19)
+- [Capítulo XX - El Significado Cósmico de la Pascua 1ª Parte](#chapter-20)
+- [Capítulo XXI - El Significado Cósmico de la Pascua 2ª Parte](#chapter-21)
+- [Capítulo XXII - El cristo Recién Nacido](#chapter-22)
+- [Capítulo XXIII - Porqué Soy Rosacruz](#chapter-23)
+- [Capítulo XXIV - El Objeto de la Fraternidad Rosacruz](#chapter-24)
 
 ### <h3 id="chapter-1">Capítulo I: Iniciación: Qué Es y Qué No Es - Primera Parte</h3>
 

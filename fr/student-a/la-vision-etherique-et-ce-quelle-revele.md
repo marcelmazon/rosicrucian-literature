@@ -614,7 +614,7 @@ Nous considérons comme important que les occultistes de l’Orient et les occul
 
 ### <h3 id="chapter-16">Chapitre XVI - L'éther réflecteur et les forces archétypales</h3>
 
-Etude du Diagramme N°1 de la Cosmogonie des Rose-Croix
+#### <h4 id="a-study-of-diagram-1">Etude du Diagramme N°1 de la Cosmogonie des Rose-Croix</h4>
 
 Dans ce dernier chapitre sur l’Ether réflecteur, nous nous en réfèrerons une fois de plus à la déclaration de Max Heindel selon laquelle “cet éther est le milieu grâce auquel la pensée impressionne le cerveau humain. Il est très intimement connecté à la quatrième subdivision du Monde de la Pensée. Il s’agit de la plus haute des quatre subdivisions contenues dans la Région de la Pensée Concrète qui est la patrie de l’Intellect humain. On y trouve une version beaucoup plus claire de la Mémoire de la Nature”.
 

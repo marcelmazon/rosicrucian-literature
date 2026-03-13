@@ -163,10 +163,16 @@ function read_doc_line_by_line(doc: string[])
 		
 		// If is table
 		if (line.startsWith("|")) continue
-		
+
 		current_count++
 		total_count++
 	}
+
+	// Last chapter/section
+	array2push2.push ({
+		chapter_id: current_head, 
+		count: current_count
+	})
 
 	return array2push2
 }

@@ -1,0 +1,3 @@
+# Het zilveren koord en de zaadatomen
+
+- Spanish at end, maybe something is missing from original English version, find out...

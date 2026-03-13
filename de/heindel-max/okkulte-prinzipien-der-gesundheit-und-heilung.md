@@ -1429,3 +1429,5 @@ Unsere lieben, unsterblichen Geister treten...
 Für das ganze grenzenlose Universum Gottes  
 Ist Leben - es gibt keine Toten.  
 </pre>
+
+End of Occult Principles of Health and Healing

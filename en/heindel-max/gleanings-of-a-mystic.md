@@ -785,7 +785,7 @@ Younger souls usually find it difficult to disabuse their minds of the personali
 
 At the same time we shall exalt God in our own consciousness by taking the word of the Bible that He is spirit, and that we cannot make any likenesses which will portray Him for He is like nothing in heaven or on earth. We can see the physical vehicles of Jehovah circling as satellites around the various planets; we can also see the sun, which is the visible vehicle of the Christ; but the Invisible Sun, which is the vehicle of the Father and the source of all, appears to the greatest of human seers only as a higher octave of the photosphere of the sun, a ring of violet-blue luminosity behind the sun. But we do not need to see; we can feel His love, and that feeling is never so great as at Christmas time when He is giving us the greatest of all gifts, the Christ of the new year. 
 
-### <h3 id="chapter-23">Chapter XXIII: Why I am a Rosicrucian</h3>
+### <h3 id="chapter-23">Chapter XXIII: Why I Am a Rosicrucian</h3>
 
 Not infrequently we find that some one takes the platform to explain why he is a Baptist, Methodist, or Christian Scientist, and what his particular faith may be. We have often been asked by our students for something which would help make plain to their associates why they had embraced the teachings of the Elder Brothers given through the Rosicrucian Fellowship, in preference to the faith which they had left. We will, therefore, endeavor to give a succinct resume of reasons which appeal to us as sufficient, but students will doubtless find many other reasons equally good or better, which they may add verbally to what is here said. 
 

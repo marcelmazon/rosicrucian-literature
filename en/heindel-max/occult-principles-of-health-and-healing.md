@@ -1361,7 +1361,7 @@ When the Ego has left the vital body, the latter gravitates back to the dense bo
 
 As the interest and belief in a life after death becomes more universal, the necessity for a scientific method for the care of those who are passing into the higher life will be impressed upon the people, and we shall then have nurses, doctors, and ministers who are versed in the science of death as well as in the science of birth. The Spirit will then be surrounded by love and peace at the time of passing. It will also have a deeper and clearer record with which to begin its life work in its new state. 
 
-### <h3 id="chapter-25">CHAPTER XXV: HOW TO HELP THOSE WHO HAVE PASSED ON</h3>
+### <h3 id="chapter-25">Chapter XXV: How to Help Those Who Have Passed On</h3>
 
 When the Ego comes into the Physical World, it is in one sense a cause for rejoicing, as we rejoice at the birth of a child, for this world affords us experience and material for soul growth. Looking at it from another point of view, however, when the Ego comes into this world and enters the prison house of the dense body, it is in the most limited condition imaginable, and to rejoice at the time the child is born and lament when it is liberated by death, is in reality analogous to rejoicing when a friend is put in jail and giving way to hysterical lamentation when he is liberated. 
 
@@ -1373,7 +1373,7 @@ How much better the attitude of those who have learned the Rosicrucian Teachings
 
 Thus, by the good will, intelligence, unselfishness, and love of the remaining friends the passing Spirit is enabled to enter the new conditions under much more favorable circumstances, and we cannot do better than to spread this teaching as widely as possible. It is our loss if we are blind to the superphysical realms, but to all who will take the trouble to awaken their latent faculties, the opening of the proper sense is but a matter of time. When that time comes we shall see the so-called "dead" are all about us, and that, in fact, "there is no death," as John McCreery says in the following beautiful poem: 
 
-```
+<pre>
 There is no death. The stars go down
 To rise upon another shore,
 And bright in heaven's jeweled crown
@@ -1428,6 +1428,6 @@ Yes, even near us, though unseen,
 Our dear, immortal spirits tread--
 For all God's boundless Universe
 Is Life--there are no dead.
-```
+</pre>
 
 End of Occult Principles of Health and Healing

@@ -1373,7 +1373,7 @@ Combien préférable est l'attitude de ceux qui, ayant étudié les Enseignement
 
 Ainsi, grâce à la bonne volonté, l'intelligence, l'absence d'égoïsme et l'amour des amis restés ici-bas, l'Esprit qui s'en va est capable de se faire aux conditions qui sont nouvelles pour lui, dans des circonstances très favorables; et nous ne saurions mieux faire que de diffuser cet enseignement le plus largement possible. C'est nous qui sommes perdants si nous sommes aveugles aux mondes superphysiques, mais pour tous ceux qui veulent se donner la peine d'éveiller leurs facultés latentes, l'«ouverture» du sens approprié n'est qu'une question de temps. Lorsque ce moment sera venu, nous verrons que les soi-disant «morts» vivent tout autour de nous et que, en fait, «il n'y a pas de mort», comme le dit John Mc Creery dans ce magnifique poème:
 
-```
+<pre>
 Il n'y a pas de mort. Les étoiles se couchent  
 Pour se lever sur un autre rivage.  
 Et dans la brillante couronne de joyaux du ciel  
@@ -1428,4 +1428,6 @@ Oui, toujours près de nous, bien qu'invisibles,
 Vont nos esprits chers et immortels,  
 Car tout l'Univers sans limite de Dieu  
 Est Vie - Il n'y a pas de «morts».  
-```
+</pre>
+
+Fin

@@ -614,7 +614,7 @@ Cremos importante assinalar que tanto os ocultistas medievais europeus como os o
 
 ### <h3 id="chapter-16">16 - O Éter Refletor e as Forças Arquetípicas</h3>
 
-Um Estudo do Diagrama I do Conceito Rosacruz do Cosmos
+#### <h4 id="a-study-of-diagram-1">Um Estudo do Diagrama I do Conceito Rosacruz do Cosmos</h4>
 
 Neste capítulo final sobre o Éter Refletor voltamos novamente à afirmação de Max Heindel de que "este Éter é o meio através do qual o pensamento impressiona o cérebro humano. Está intimamente ligado a quarta subdivisão do Mundo do Pensamento. Esta é a mais elevada das quatro subdivisões contidas na Região do Pensamento Concreto e é o mundo-lar da mente humana. Lá se encontra uma versão muito mais clara da Memória da Natureza".
 
