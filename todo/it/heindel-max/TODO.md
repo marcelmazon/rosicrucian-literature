@@ -90,10 +90,39 @@ Queste quantità vanno proporzionalmente diminuite o aumentate secondo le età: 
 () - (1) I dati contrassegnati con * sono desunti da: Composizione in alcuni principi nutritivi degli alimenti comunemente usati in Italia; 
 
 
+### At the end, doesn't correspond to English:
+
+### <h3 id="">La Fratellanza Rosacrociana: Il suo Messaggio e la sua Missione</h3>
+
+Un tempo le verità religiose erano intuitivamente percepite o accettate del tutto per fede come dogmi della Chiesa. Al giorno d'oggi, un numero sempre crescente di persone richiede che l'immortalità ed altre materie analoghe trovino il consenso della ragione, sia deduttivamente, sia con l'osservazione come avviene per altri fatti della vita: ad esempio per l'eredità. Costoro desiderano la religione con la stessa ansietà dei loro avi, ma richiedono che le verità tradizionali siano presentate in veste moderna, adatta alle mutate condizioni intellettuali. A questa classe di persone, l'Associazione Rosacrociana si rivolge presentando un insegnamento logico e conseguente circa l'origine, l'evoluzione ed il futuro sviluppo del mondo e dell'uomo, insegnamento che è rigorosamente scientifico ed insieme riverentemente religioso. Tale insegnamento che non afferma niente che non possa essere accettato dalla ragione e giustificato dalla logica, soddisfa l'intelletto con le sue chiare spiegazioni. Esso non dissimula né elude le domande, ma offre una soluzione razionale a tutti i misteri, così che il cuore può accordare la sua sanzione a ciò che l'intelletto ha creduto, ed il conforto della religione può apportare la pace allo Spirito turbato. 
+
+L'Associazione Rosacrociana non ha propositi aggressivi o di conquista. Presenta, non impone, i propri insegnamenti. Pratica l'amore e la tolleranza più completa, non si oppone ad alcuna delle religioni esistenti ed è estranea ad ogni e qualunque organizzazione politica. Gli insegnamenti che essa diffonde mirano ad emancipare dall'autorità altrui, ciecamente accettata o passivamente subita, indicando i metodi e la via per l'acquisto di una conoscenza diretta di se stessi e dei massimi problemi dell'esistenza. 
+
+L'opera che viene presentata in questo volume, diligentemente tradotta, è il testo fondamentale degli insegnamenti Rosacrociani. Essa ha avuto oltre cento edizioni in lingua inglese ed è largamente diffusa nella traduzione in lingua spagnola. E' tradotta anche, ed è stata più volte ristampata, nelle lingue francese e tedesca. 
+
+L'Associazione Rosacrociana (The Rosicrucian Fellowship - International Head Quarter - P.O. Box 713, Oceanside - California, U.S.A.) ha migliaia di aderenti in tutto il mondo. Ad essa può ognuno fiduciosamente rivolgersi. L'Associazione propone corsi di studio per corrispondenza, pubblica una rivista mensile: The Rays from the Rose Cross; le opere di Max Heindel ed altre opere affini al rosacrocianesimo. Non ha scopi di lucro. 
+
+In Italia si possono avere informazioni rivolgendosi a: Associazione Culturale Rosacrociana Oceanside A.C.R.O. Gruppo Formale di Studi Rosacrociani di Roma Centro ufficiale della “Rosicrucian Fellowship” d’Oceanside, California, U.S.A. Via CAPO MELE 37 – 00122 OSTIA LIDO - ROMA – telefono e fax: 06.5667682 Sito web: www.rosacroceoggi.org E-mail: info@rosacroceoggi.org
+
+
+
+
+
+
+
+
+
 
 # Cristianesimo dei Rosacroce
 
 XX lezioni di Max Heindel autore della Cosmogonia dei Rosacroce e di numerose altre opere 
+
+
+
+
+
+
+
 
 
 
@@ -111,6 +140,11 @@ The Rosicrucian Fellowship, attraverso i suoi Centri, è ora diffusa in tutto il
 Auspichiamo che la lettura sia portatrice di nuovi e più ampi orizzonti, tali da far accrescere non solo la mente, ma, come auspicava lo stesso Max Heindel, da risvegliare anche l'altro organo di conoscenza più diretta e intuitiva: il cuore. 
 
 L'equilibrio fra cuore e mente è, secondo l'Associazione Rosacrociana, la meta che il ricercatore deve mirare ad ottenere se vuole davvero avanzare nel progresso della sua natura spirituale e ottenere la vera conoscenza. 
+
+
+
+
+
 
 
 
@@ -145,6 +179,18 @@ Tutti coloro che sentono questo richiamo interiore possono richiedere informazio
 Spigolatura, in senso letterale, è la raccolta delle spighe rimaste sul campo dopo la mietitura. Spighe non vuote, ma colme di chicchi di grano maturo. Ed è proprio il lavoro fa Heindel con questo libro: la raccolta dei chicchi di sapienza da lui sparsi in tanti anni di insegnamento spirituale. I grani possono essere temi elevati come il Battesimo, l’Eucarestia, il Matrimonio, il significato cosmico del Natale e della Pasqua fino all'argomento cardine dell’Iniziazione. Ma per non contraddire l'altro significato del termine (spigolature sono anche i fatterelli, le notizie), Heindel tratta problemi spiccioli di vita quotidiana, compresi nelle lezioni ai suoi studenti. 
 
 "Spigolature di un mistico" è il libro meno libro di Heindel, nel senso che qui più che altrove il fondatore del rosacrocianesimo sottolinea la straordinaria importanza della via del cuore, per raggiungere la meta dello sviluppo spirituale. Ciò non significa che si possa fare a meno di studiare le dottrine esoteriche. Anzi, una solida base conoscitiva è necessaria nei capire meglio gli insegnamenti spirituali. Ma la conoscenza fine a se stessa non fornirà mai il grano necessario a produrre il pane di vita, quel pane che si trovava nel Luogo Santo del Tabernacolo del deserto, il cui aroma nutriva l'anima degli iniziati ai misteri atlantidei. Riprendendo le parole di S. Paolo: "Se anc he intendessi tutta la scienza e avessi tutta la lede, se non ho carità non sono nulla". O, per dirla alla maniera di Dante, è "l'amor che muove il sole e l'altre stelle", il vero motore dell'universo. In questo libro Heindel ci insegna proprio a coltivare l'amore per il bene nostro e degli altri, per trasformare la terra in un campo di grano.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

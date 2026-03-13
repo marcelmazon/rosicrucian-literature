@@ -2259,7 +2259,9 @@ Il Lemuriano non conosceva la morte perché quando nel corso di lunghi periodi i
 
 Il linguaggio era per i Lemuriani qualcosa di sacro. Non era un linguaggio morto come il nostro - un mero accomodamento ordinato di suoni. Ogni suono emesso da un Lemuriano aveva potere sui suoi consimili, sugli animali e perfino sulla natura circostante. Per cui, sotto la guida dei Signori di Venere, che erano i messaggeri di Dio - gli Agenti delle Gerarchie Creatrici - il potere della parola fu usato con grande rispetto, come qualcosa di particolarmente sacro. 
 
-L'educazione dei maschi differiva molto da quella delle femmine. I metodi educativi dei Lemuriani appaiono orribili alla nostra sensibilità più raffinata. Per non ferire i sentimenti del lettore, accenneremmo appena ai meno crudeli. Per quanto rigorosi possano apparirci, si deve tener presente che il corpo del Lemuriano non era così altamente sensibile come lo sono i corpi degli uomini di oggi, e anche che solo mediante misure severissime l'oscura coscienza poteva appena venir risvegliata. Col passar del tempo e col progressivo risveglio della coscienza, le misure estreme come quelle usate allora cessarono di essere necessarie per suscitare le forze dormienti dello Spirito ed elevarle alla percezione del mondo circostante. L'educazione dei maschi era destinata specialmente a sviluppare la Volontà. Si facevano lottare uno contro l'altro e queste lotte erano estremamente brutali. Ve nivano impalati su grossi schidioni con pieno potere di liberarsi; ma, esercitando la loro forza di volontà, dovevano rimanervi malgrado le sofferenze. Imparavano a irrigidire i muscoli e a portare immensi carichi esercitando così la volontà. 
+L'educazione dei maschi differiva molto da quella delle femmine. I metodi educativi dei Lemuriani appaiono orribili alla nostra sensibilità più raffinata. Per non ferire i sentimenti del lettore, accenneremmo appena ai meno crudeli. Per quanto rigorosi possano apparirci, si deve tener presente che il corpo del Lemuriano non era così altamente sensibile come lo sono i corpi degli uomini di oggi, e anche che solo mediante misure severissime l'oscura coscienza poteva appena venir risvegliata. Col passar del tempo e col progressivo risveglio della coscienza, le misure estreme come quelle usate allora cessarono di essere necessarie per suscitare le forze dormienti dello Spirito ed elevarle alla percezione del mondo circostante. 
+
+L'educazione dei maschi era destinata specialmente a sviluppare la Volontà. Si facevano lottare uno contro l'altro e queste lotte erano estremamente brutali. Ve nivano impalati su grossi schidioni con pieno potere di liberarsi; ma, esercitando la loro forza di volontà, dovevano rimanervi malgrado le sofferenze. Imparavano a irrigidire i muscoli e a portare immensi carichi esercitando così la volontà. 
 
 L'educazione delle femmine era intesa a promuovere lo sviluppo della facoltà dell'immaginazione. Anch'esse erano sottoposte a trattamento rude e severo. Venivano lasciate nelle grandi foreste perché il sibilare del vento fra le foglie degli alberi parlasse loro, e perché ascoltassero il rombo delle piene e delle tempeste. Esse impararono così a non aver paura di tali parossismi della natura ed a discernere solo la grandezza degli elementi infuriati. Le frequenti eruzioni vulcaniche erano molto apprezzate come mezzo di educazione, perché favorivano particolarmente il risveglio della memoria. 
 
@@ -2505,7 +2507,7 @@ Di tutti i prescelti come « seme » per la nuova Razza, solo pochi rimasero fed
 
 I ribelli che furono abbandonati sono gli Ebrei, la maggior parte dei quali è ancora diretta più dalla facoltà Atlantidea dell'Astuzia che dalla Ragione. In essi il sentimento della Razza è così forte da far loro distinguere solamente due classi di uomini: Ebrei e Gentili. Essi disprezzano le altre nazioni e sono a loro volta disprezzati da esse per la loro astuzia, il loro egoismo e la loro avarizia. Non si può negare che facciano della beneficenza, ma ciò è principalmente, se non esclusivamente, fra loro stessi; la loro carità è raramente internazionale, come fu fatto in occasione del disastroso terremoto in Italia, ove ogni barriera di fede, razza e nazionalità fu abbattuta dal sentimento umano di simpatia (1). 
 
-(1) Si riferisce al terremoto che nel 1908 distrusse Messina e Reggio Calabria. 
+() - (1) Si riferisce al terremoto che nel 1908 distrusse Messina e Reggio Calabria. 
 
 In casi come questo e come il disastro di S. Francisco, la profonda natura spirituale dell'uomo diventa evidente più che in qualunque altra circostanza, e l'osservatore acuto può allora discernere la tendenza dell'evoluzione. Si vede allora che, benché nel corso della vita ordinaria, le nostre azioni possano dimostrare il contrario, il nostro cuore tuttavia sa e riconosce la grande verità della fratellanza e le sofferenze di uno sono sentite da tutti. Tali incidenti sono indici della direzione dell'evoluzione. Il controllo dell'uomo per mezzo della Ragione, deve essere seguito da quello dell'Amore che ora agisce indipendentemente e qualche volta contrariamente ai dettami della Ragione. Quest'anomalia ha origine dal fatto che l'Amore, al giorno d'oggi, è raramente disinteressato, e la nostra Ragione non sempre è giusta. Nella « Nuova Galilea », la futura sesta Epoca, l'Amore diverrà disinteressato e la Ragione approverà i suoi dettami. La Fratellanza Universale sarà allora pienamente attuata, e ognuno lavorerà per il bene comune, perché la ricerca del proprio vantaggio sarà un ricordo del passato. 
 
@@ -2571,7 +2573,7 @@ Il Talmud fu allora preso in mano dalla Scuola Masoretica, che dal 590 fino all�
 
 Questo testo Masoretico (2) verrà usato nelle seguenti interpretazioni della Genesi e, non accontentandosi del lavoro di un solo traduttore, lo integreremo con una traduzione tedesca, lavoro di tre eminenti ebraisti - H. Arnheim, M. Sachs e Jul. Furst - i quali cooperarono con un quarto traduttore, il Dr. Zunz, che ne fu anche l'editore. 
 
-(2) Ebraico: massoràh = tradizione. 
+() - (2) Ebraico: massoràh = tradizione. 
 
 #### <h4 id="in-the-beginning">In Principio</h4>
 
@@ -3358,11 +3360,11 @@ I nomi dei Periodi non hanno nulla in comune con i pianeti fisici, ma si riferis
 
 La scienza occulta insegna che ci sono 777 incarnazioni, ma ciò non significa che la Terra compia 777 metamorfosi. Significa invece che la vita in evoluzione fa: 
 
-```
+<pre>
 7 Rivoluzioni attorno ai 
 7 Globi dei 
 7 Periodi Mondiali. 
-```
+</pre>
 
 Questo pellegrinaggio dell'Involuzione e dell'Evoluzione, inclusa la « scorciatoia » dell'Iniziazione e riassunto nel Caduceo, o « Bastone di Mercurio » (vedi la figura 18) così chiamato perché questo simbolo occulto indica il sentiero dell'Iniziazione, che è stato aperto all'uomo solamente dal principio della metà Mercuriana del Periodo della Terra. Alcuni dei Misteri Minori furono dati ai primi Lemuriani ed agli Atlantidei, ma non furono date loro le quattro Grandi Iniziazioni. 
 
@@ -3392,6 +3394,7 @@ Cuvier fu il primo a dividere il regno animale in quattro classi primarie ma non
 
 () - (2) Von Baer era un naturalista e geografo estone; fu il fondatore dell'embriologia comparata. Il prof. Louis Agassiz era uno zoologo e paleontologo svizzero sostenitore delle idee di Cuvier. Ambedue vissero ai primi dell'800. 
 
+<pre>
 I RADIATI:
     1 – Polipi, Attinie e Coralli  
     2 – Acaleffi, o Meduse  
@@ -3409,6 +3412,7 @@ IV VERTEBRATI:
     11 – Rettili  
     12 – Uccelli  
     13 – Mammiferi  
+</pre>
 
 Le prime tre divisioni corrispondono alle rimanenti tre Rivoluzioni della metà Mercuriana del Periodo della Terra, ed i loro nove gradi corrispondono ai nove gradi dei Misteri Minori, che saranno conseguiti dall'Umanità in generale quando essa avrà raggiunto la metà dell'ultima Rivoluzione del Periodo della Terra. 
 
@@ -3596,9 +3600,9 @@ Questi sono i gradi e le tappe attraverso i quali l'umanità è inconsciamente c
 
 Nelle età passate lo Spirito di Razza era l'unico che regnava. L'uomo si contentava di un governo patriarcale e paternalistico nel quale non aveva alcuna parte. Ora, in tutto il mondo, scorgiamo i segni dell'abbattimento del vecchio sistema. Il sistema delle caste che era baluardo dell'Inghilterra in India, sta stritolandosi. Invece di rimanere separati in piccoli gruppi, gli Indù hanno cercato di unirsi per chiedere che l'oppressore se ne vada e li lasci vivere in libertà sotto un governo del e per il popolo. La Russia è dilaniata dalla lotta per la libertà contro un governo dittatoriale ed autocratico (1). La Turchia si è risvegliata ed ha fatto un gran passo verso la libertà. Qui nel nostro stesso Paese (2), dove crediamo di godere effettivamente quella libertà che gli altri possono solo desiderare ardentemente, lottando per conquistarla, non siamo tuttavia ancora soddisfatti. Stiamo imparando che ci sono altre oppressioni oltre quella di una monarchia autocratica. Vediamo che dobbiamo ancora conquistare la libertà industriale; ci troviamo schiacciati dal giogo dei « trusts » e da un insensato sistema di concorrenza. Ci indirizziamo verso una cooperazione praticata in seno ai « trusts » per il loro vantaggio privato. Vorremmo una società dove « tutti gli uomini sederanno ciascuno sotto la propria vite e sotto il proprio fico; e nessuno potrà intimorirli ». 
 
-(1) La prima edizione di questo libro è del 1909. 
+() - (1) La prima edizione di questo libro è del 1909. 
 
-(2) Gli Stati Uniti. 
+() - (2) Gli Stati Uniti. 
 
 Così ovunque nel mondo i vecchi sistemi di governo stanno cambiando. Le nazioni, come tali, hanno fatto il loro tempo e lavorano inconsapevolmente per un ideale di Fratellanza Universale, in accordo col piano delle nostre Guide Invisibili che, sebbene non facciano ufficialmente parte dei Consigli delle Nazioni, influenzano tuttavia il corso degli avvenimenti. 
 
@@ -4389,23 +4393,27 @@ Perciò i Rosacroce attendono ardentemente il giorno in cui le rose fioriranno s
 
 San Giovanni parla della sua purificazione (1ª Epist., III, 9) e dice che colui che è nato da Dio non può peccare, perché serba dentro di sé il suo seme. E' assolutamente necessario per poter progredire che l'aspirante sia casto. Però si deve sempre tener presente che la castità assoluta non è richiesta all'uomo fino a che non abbia raggiunto il punto in cui sia pronto per le Grandi Iniziazioni, e che questo è un dovere che abbiamo verso l'umanità per perpetuare la razza. Se siamo mentalmente, fisicamente e finanziariamente capaci, possiamo approssimarci all'atto generativo come santo sacrificio posto sull'altare dell'umanità; ma non per godimento sessuale. E ciò non deve compiersi in uno stato d'animo sconcertante e austero; ma in gioioso dono di se stesso per il privilegio di provvedere a un amico in cerca di rinascita il corpo e l'ambiente di cui necessita per il suo sviluppo. In tal modo lo aiuteremo affinché fioriscano le rose sulla sua croce. 
 
-<h2 id="">Appendice</h2>
+<h2 id="addenda">Appendice</h2>
 
-### <h3 id="">Esercizi del Mattino e della Sera per l'Aspirante Rosacroce</h3>
+### <h3 id="addendum-a">Esercizi del Mattino e della Sera per l'Aspirante Rosacroce</h3>
 
-#### <h4 id="">L'Esercizio della Sera</h4>
+#### <h4 id="the-evening-exercise">L'Esercizio della Sera</h4>
 
 L'esercizio della sera, la Retrospezione (o esame di coscienza), ha maggiore importanza di qualunque altro metodo per l'avanzamento dell'aspirante sulla via del progresso. Esso ha una tale efficacia, che permette a chi lo pratica di trarre profitto, non solo ora, dalle lezioni di questa vita, ma anche dalle lezioni di solito riservate ad esistenze future. 
 
-La sera, dopo essersi coricati, si deve rilassare il corpo. Poi l'aspirante deve cominciare a richiamare alla mente tutti i fatti della giornata in ordine inverso, cominciando dagli eventi della sera, passando poi a quelli del pomeriggio, di prima di mezzogiorno, e del mattino. Egli cerca di rappresentarsi come in un quadro ogni scena quanto più è possibile fedelmente, cerca di riprodurre davanti all'occhio della mente, tutto ciò che fa parte della scena rappresentata allo scopo di giudicare le proprie azioni, di accertarsi se le sue parole furono adatte allo scopo che si proponevano, o se potevano essere male interpretate; se parlando ad altri ha esagerato o diminuito il valore dei fatti riferiti. Rivede il proprio atteggiamento morale in relazione ad ogni scena. Per esempio: ai pasti mangiò egli per vivere o visse per mangiare, cioè per compiacere al palato? Giudichi egli se stesso e si biasimi dove biasimo è dovuto, ma si conceda la lode dove questa è meritata. Alcuni trovano difficile rimanere desti fino al termine dell'esercizio. In simili casi è lecito sedersi sul letto per cercare di rendere possibile di seguire il metodo ordinario. 
+La sera, dopo essersi coricati, si deve rilassare il corpo. Poi l'aspirante deve cominciare a richiamare alla mente tutti i fatti della giornata in ordine inverso, cominciando dagli eventi della sera, passando poi a quelli del pomeriggio, di prima di mezzogiorno, e del mattino. Egli cerca di rappresentarsi come in un quadro ogni scena quanto più è possibile fedelmente, cerca di riprodurre davanti all'occhio della mente, tutto ciò che fa parte della scena rappresentata allo scopo di giudicare le proprie azioni, di accertarsi se le sue parole furono adatte allo scopo che si proponevano, o se potevano essere male interpretate; se parlando ad altri ha esagerato o diminuito il valore dei fatti riferiti. Rivede il proprio atteggiamento morale in relazione ad ogni scena. Per esempio: ai pasti mangiò egli per vivere o visse per mangiare, cioè per compiacere al palato? Giudichi egli se stesso e si biasimi dove biasimo è dovuto, ma si conceda la lode dove questa è meritata. 
+
+Alcuni trovano difficile rimanere desti fino al termine dell'esercizio. In simili casi è lecito sedersi sul letto per cercare di rendere possibile di seguire il metodo ordinario. 
 
 Il valore della retrospezione è grandissimo; molto superiore a quanto è possibile immaginare. In primo luogo noi compiamo l'opera di ristabilire consciamente l'armonia, ed in un tempo più breve di quello che possa fare il corpo del desiderio durante il sonno, e possiamo lasciare così una parte maggiore della notte disponibile per un eventuale lavoro esteriore. In secondo luogo viviamo così il nostro purgatorio ed il nostro primo cielo ciascuna notte e incorporiamo nello Spirito come Retto Sentimento l'essenza della vita quotidiana. In tal modo sfuggiamo al purgatorio dopo la morte e riduciamo il tempo da passare nel primo cielo. E, cosa ultima, ma non meno importante, avendo estratto giorno per giorno l'essenza delle esperienze che facciamo per lo sviluppo animico, ed avendole incorporate nello Spirito, stiamo attualmente vivendo in quell'atteggiamento mentale e progredendo lungo quelle linee che sarebbero state ordinariamente riservate a vite future. Ma col fedele adempimento, giorno dopo giorno, di questo esercizio, eliminiamo dalla nostra memoria subcosciente tutte le indesiderabili contingenze, in modo che i nostri peccati vengono così ad essere cancellati, la nostra aura comincia a risplendere di quell'oro spirituale estratto, mediante la retrospezione, dalle esperienze quotidiane, e possiamo in tal modo attrarre sopra di noi l'attenzione dell'Istruttore. 
 
 I puri vedranno Dio, disse il Cristo, e l'Istruttore aprirà rapidamente i nostri occhi, appena saremo pronti ad accedere nella « Sala dell'Insegnamento » - il Mondo del Desiderio - dove conseguiremo le prime esperienze di vita consapevole fuori del corpo fisico. 
 
-#### <h4 id="">L'Esercizio del Mattino</h4>
+#### <h4 id="the-morning-exercise">L'Esercizio del Mattino</h4>
 
-La Concentrazione, il secondo esercizio, viene eseguito al mattino, nei primi momenti successivi al risveglio. L'aspirante non si deve alzare, né deve aprire gli occhi, o compiere qualsiasi altro atto non necessario. Se il corpo si trova in posizione como da, deve subito rilassarsi e cominciare a concentrarsi. Ciò è molto importante perché al momento del risveglio lo Spirito è tornato proprio allora dal Mondo del Desiderio, ed è per lui più facile riprendere in quel momento contatto con quel Mondo, a preferenza di qualsiasi altro momento della giornata. Rammentiamo che durante il sonno le correnti del corpo del desiderio fluiscono rapidamente ed i loro vortici si muovono e ruotano con grandissima velocità. Ma appena questo corpo rientra nel corpo fisico, le sue correnti ed i suoi vortici vengono quasi del tutto arrestati dalla materia fisica e dalle correnti nervose del corpo vitale che portano messaggi al e dal cervello. Scopo di questo esercizio è quello di calmare il corpo fisico e portarlo allo stesso grado di inerzia e insensibilità che aveva nel sonno, sebbene lo Spirito interiore sia sempre perfettamente desto, vigile e conscio. In tal modo noi determiniamo una condizione nella quale i centri sensibili del corpo del desiderio possono cominciare i loro movimenti rotatori per quanto imprigionati nel corpo fisico. 
+La Concentrazione, il secondo esercizio, viene eseguito al mattino, nei primi momenti successivi al risveglio. L'aspirante non si deve alzare, né deve aprire gli occhi, o compiere qualsiasi altro atto non necessario. Se il corpo si trova in posizione como da, deve subito rilassarsi e cominciare a concentrarsi. Ciò è molto importante perché al momento del risveglio lo Spirito è tornato proprio allora dal Mondo del Desiderio, ed è per lui più facile riprendere in quel momento contatto con quel Mondo, a preferenza di qualsiasi altro momento della giornata. 
+
+Rammentiamo che durante il sonno le correnti del corpo del desiderio fluiscono rapidamente ed i loro vortici si muovono e ruotano con grandissima velocità. Ma appena questo corpo rientra nel corpo fisico, le sue correnti ed i suoi vortici vengono quasi del tutto arrestati dalla materia fisica e dalle correnti nervose del corpo vitale che portano messaggi al e dal cervello. Scopo di questo esercizio è quello di calmare il corpo fisico e portarlo allo stesso grado di inerzia e insensibilità che aveva nel sonno, sebbene lo Spirito interiore sia sempre perfettamente desto, vigile e conscio. In tal modo noi determiniamo una condizione nella quale i centri sensibili del corpo del desiderio possono cominciare i loro movimenti rotatori per quanto imprigionati nel corpo fisico. 
 
 Concentrazione è una parola imbarazzante per molti e della quale solo pochi conoscono il significato; cercheremo perciò di rendere chiaro questo significato. Il vocabolario dà parecchie definizioni tutte applicabili alla nostra idea. Una di tali definizioni dice: « Muoversi verso un centro »; un'altra presa dalla chimica: « Ridurre ad estrema purezza e forza rimuovendo i componenti senza valore ». Applicata al nostro problema, la prima delle suddette definizioni ci dice che se noi riconduciamo i nostri pensieri a un centro, a un punto, aumentiamo la loro forza per lo stesso principio che fa aumentare la potenza dei raggi solari facendoli passare al fuoco di una lente. Con l'eliminare dalla nostra mente per un certo tempo ogni altro soggetto, l'intera potenza del pensiero viene ad essere utilizzabile per raggiungere l'oggetto o risolvere il problema sul quale ci concentriamo; e possiamo essere tanto assorti nel nostro argomento che se un cannone venis se sparato sopra le nostre teste non lo udremmo. Alcuni possono immergersi così a fondo nella lettura di un libro, da dimenticare qualsiasi altra cosa. L'aspirante alla visione spirituale deve acquistare la facoltà di divenire ugualmente assorto nell'idea sulla quale si concentra, da escludere dalla sua consapevolezza tutto il mondo sensibile e rivolgere la sua totale attenzione al mondo spirituale. Se impara a fare ciò vedrà il lato spirituale di un oggetto o di un'idea illuminato di luce spirituale, e così otterrà la conoscenza della natura intima delle cose, che l'uomo mondano non si sogna neppure. 
 
@@ -4421,14 +4429,99 @@ Un'antica leggenda dice che lo scavo per la ricerca di un tesoro, deve esser fat
 
 Infine cercate di non considerare gli esercizi come un pesante fardello. Considerateti invece al loro giusto valore; essi sono il vostro più alto privilegio. Solamente riguardandoli in tal modo, potremo render loro giustizia e raccogliere da essi tutti i benefici che ne derivano. 
 
-### <h3 id="">La Fratellanza Rosacrociana: Il suo Messaggio e la sua Missione</h3>
+### <h3 id="concerning-the-origin-of-the-fellowship-teachings">Concerning the Origin of the Fellowship Teachings</h3>
 
-Un tempo le verità religiose erano intuitivamente percepite o accettate del tutto per fede come dogmi della Chiesa. Al giorno d'oggi, un numero sempre crescente di persone richiede che l'immortalità ed altre materie analoghe trovino il consenso della ragione, sia deduttivamente, sia con l'osservazione come avviene per altri fatti della vita: ad esempio per l'eredità. Costoro desiderano la religione con la stessa ansietà dei loro avi, ma richiedono che le verità tradizionali siano presentate in veste moderna, adatta alle mutate condizioni intellettuali. A questa classe di persone, l'Associazione Rosacrociana si rivolge presentando un insegnamento logico e conseguente circa l'origine, l'evoluzione ed il futuro sviluppo del mondo e dell'uomo, insegnamento che è rigorosamente scientifico ed insieme riverentemente religioso. Tale insegnamento che non afferma niente che non possa essere accettato dalla ragione e giustificato dalla logica, soddisfa l'intelletto con le sue chiare spiegazioni. Esso non dissimula né elude le domande, ma offre una soluzione razionale a tutti i misteri, così che il cuore può accordare la sua sanzione a ciò che l'intelletto ha creduto, ed il conforto della religione può apportare la pace allo Spirito turbato. 
+Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
-L'Associazione Rosacrociana non ha propositi aggressivi o di conquista. Presenta, non impone, i propri insegnamenti. Pratica l'amore e la tolleranza più completa, non si oppone ad alcuna delle religioni esistenti ed è estranea ad ogni e qualunque organizzazione politica. Gli insegnamenti che essa diffonde mirano ad emancipare dall'autorità altrui, ciecamente accettata o passivamente subita, indicando i metodi e la via per l'acquisto di una conoscenza diretta di se stessi e dei massimi problemi dell'esistenza. 
+In the years 1907-08, after being tested for sincerity of purpose and selfless desire to aid his fellowmen, Max Heindel was selected by the Brothers of the Rose Cross to give out publicly the Western Wisdom Teachings and thus help prepare humanity for the coming Age of Universal Brotherhood. By means of intense self-discipline and devotion to service he earned the status of Lay Brother (Initiate) in the exalted Rosicrucian Order. 
 
-L'opera che viene presentata in questo volume, diligentemente tradotta, è il testo fondamentale degli insegnamenti Rosacrociani. Essa ha avuto oltre cento edizioni in lingua inglese ed è largamente diffusa nella traduzione in lingua spagnola. E' tradotta anche, ed è stata più volte ristampata, nelle lingue francese e tedesca. 
+Under the direction of the Brothers of the Rose Cross, spiritual giants of the human race, Max Heindel wrote The Rosicrucian Cosmo-Conception, an epoch-making book which has now become the Western World's leading textbook on occultism. By means of his own spiritual development he was able to verify for himself much that was given in the Cosmo-Conception, as well as to gain additional knowledge that later become embodied in his numerous books. 
 
-L'Associazione Rosacrociana (The Rosicrucian Fellowship - International Head Quarter - P.O. Box 713, Oceanside - California, U.S.A.) ha migliaia di aderenti in tutto il mondo. Ad essa può ognuno fiduciosamente rivolgersi. L'Associazione propone corsi di studio per corrispondenza, pubblica una rivista mensile: The Rays from the Rose Cross; le opere di Max Heindel ed altre opere affini al rosacrocianesimo. Non ha scopi di lucro. 
+One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-In Italia si possono avere informazioni rivolgendosi a: Associazione Culturale Rosacrociana Oceanside A.C.R.O. Gruppo Formale di Studi Rosacrociani di Roma Centro ufficiale della “Rosicrucian Fellowship” d’Oceanside, California, U.S.A. Via CAPO MELE 37 – 00122 OSTIA LIDO - ROMA – telefono e fax: 06.5667682 Sito web: www.rosacroceoggi.org E-mail: info@rosacroceoggi.org
+### <h3 id="what-is-truth">What Is Truth?</h3>
+
+Pilate asked the question "What is Truth?" and being incapable of knowing from within, he received no answer. 
+
+Christ Jesus said: "The Truth shall make you free," and Plato, with mystic intuition, said "God is Truth, and Light is His shadow." John said "God is Light," and as he was closer to the Master than the other disciples, he undoubtedly received teaching higher than the others were capable of receiving. We must remember that it matters not how much truth there may be, it is not for us unless we can receive it. Everyone may see the beauty of the numerous shades of light and color all about us, except those with the affliction of blindness. He who cannot perceive the world of color around him is poor indeed. So it is with Truth. Truth is everywhere, and can always be found if we are capable of perceiving it. In the exercises of the Rosicrucian Fellowship (Retrospection and concentration), we have been given a splendid means of coming in touch with Truth. 
+
+Plato and John said, "God is Light," and if we go to one of the great observatories, and with the best telescope made, look into space, we see that there is no boundary to light. It is everywhere, and with the symbol of light there expressed there comes the idea of omnipresence and magnitude of the God we worship. John, in the first five verses of his Gospel, says: "In the beginning was the Word," and therein we have a marvelous solution of the problem, for when we go back to the beginning, we are in the realm of Truth. 
+
+At the present time we have sunk into matter, and are incapable of coming into contact with that truth directly, but when we go back in thought to the beginning of things, then we are in thought with God and more capable of recognizing the Truth. Plato spoke of a time when "there was darkness." The Old Testament tells about darkness, that state of primordial matter, or "Arche," given form by God, the Grand Architect, the primordial Builder of the universe. 
+
+When we think of the One who built things in the beginning, we come into contact with Him, with God, in that "arche" in the first sentence of the five verses we take for meditation. In the next few words we come to the second proposition: the Word. The term "Word" is mistranslated in our present Bible, for it is not only "Word," but it is also the thought, the Greek word "Logos" used in that verse meaning both the word and the logical thought back of it. Before there can be a word, there must be a logical thought back of it. Before the word could come into existence, there had to be a thinker; therefore John used the words "in arche" and "Logos." They express what we wish to understand, that in the beginning there was a homogeneous mass of matter, and in that homogeneous matter was God; and God became the "Word," the rhythmic sound that goes out in the universe, and that shapes all things. 
+
+Farther on in the five verses is the statement: "in that was life." In the first place there was darkness; no vibration had been sent out into primordial matter, and there must of necessity have been darkness. But the first thing that comes into existence, we are told, is light, and light and sound are synonymous from the higher point of view. Some people, who are sensitive, never hear a sound without seeing a flash of light, and never see a flash of light without at the same time hearing a sound. So John writes mystically when he says "in the beginning"-in the primordial matter-"was God" and "God was the Word," and in that "was life," and the life became "the light of men." 
+
+There we have the abstract truth, as near as we can get it, of the whole problem of creation. Inside the human body there is that light shining unto this day, the light that shines in darkness, the light that is hidden by the veil of Isis, and all around us are Spirits dwelling in darkness, unless through the window of the soul the glories of the universe are revealed. Then we perceive God as light, everything good as light, and the opposite as darkness. 
+
+Light is not of one color, however, for there are seven Spirits before the Throne, each one being a light-bearer for a certain ray. Each one of us comes from one of the rays of light, and each one can better respond to one of the rays. Thus we each see Truth differently, and although we are all gradually moving toward the same source, which is God, we have, nevertheless, at different times, different viewpoints. Although we seem to be at variance one with another, yet in those five verses of John's Gospel is Truth: that we are all children of the light. Each one has within the divine spirit of light; each one is gradually learning to know that light, and with the help of the exercises, to express more of that light. 
+
+The mystic, as he sees the light of the morning dawn, looks upon it as the daily coming into his soul of the primordial Creative Fiat, "Let there be Light," and as the Light of day progresses and gradually wanes in the western sky, he sees in the glorious tapestry of the sunset a something beyond description by human tongue, a something that can be felt by the soul. If we let those five verses live within us, in the way they do in the mystic, we too, shall know the light, know the truth, as we know nothing else in the world. 
+
+We have all trodden the different paths of life at some time. At one time we have walked through Life under the martial ray, and have trodden its path of activity and passion, not caring who suffered or what became of others. In another life we came under the lighter ray of the Venusian color, and trod the path along the love side of life. Later still, the path of the deep blue, or Saturn Ray, and still later the path of the lighter blue or Jupiter Ray. So we all look forward toward the higher perception which comes from the yellow Uranian Ray, though most of us are not at present capable of receiving it, but must be content with the lower deeper yellow of the Mercury Ray. We are all working gradually toward the white light that comes from the Sun, which is the union of all color. To this we must aspire, for the light from any of the other rays is but secondary. From the great central Source come all things. 
+
+"And what about the darkness," someone asks, "is that evil?" No, there is nothing evil in God's universe. During the day we perceive by the light of the Sun the glories of this little Earth that swings in space, and perhaps if there were only light, we should perceive nothing beyond this Earth and remain ignorant that there is more than the Sun and Moon. But when night comes, and the glories of the day have faded, when the Sun no longer illumines the sky, we can realize, to a certain extent at least, the immensity of space. We can see worlds millions and millions of miles away, and the Spirit is incited to wonderful devotion, as we dwell upon the Truth that GOD IS ALL IN ALL. - Max Heindel. 
+
+### <h3 id="addendum-b">Addendum B: Footnote to Chapter III – Reincarnation or Rebirth?</h3>
+
+Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
+
+Answer: A question like the above was asked Mr. Heindel at one of his recent lectures in Los Angeles and he answered about as follows: While all great religions are God-given, there is a Western religion for the Western people as well as Hinduism for the people of India and I can see no good reason why we should copy their terminology and force people here to learn Sanskrit when we have an excellent language of our own, with terms capable of explaining everything. To make the matter clear, we will take an instance which occurred a number of years ago. There was at that time a controversy in a certain society which makes the mistake of promulgating Eastern teachings and using their terms here in the West. The dispute was about the word "Avyaktam". 
+
+Not even the Hindus are certain about the meaning of their terminology. Tons of paper and barrels of ink were used to settle the controversy and the following seems to be the definition upon which they finally compromised: "Avyaktam" is Parabraham clothed in Mulaprakriti, from which its UPAHHIS are made during the Manvantara and into which they are again resolved on arrival of the Arolaya." Mr. Heindel then said that he hoped the audience understood the meaning of "Avyaktam". When the audience laughed and shook their heads, the speaker expressed himself as being sorry for their lack of understanding of such a highly learned explanation, he would try the ordinary, garden variety of English and see if that would explain. "Avyaktam is Deity clothed in Cosmic Root Substance, from which its vehicles are made during the Day of Manifestation and into which they again resolve on arrival of the Cosmic Night." 
+
+When the audience had declared they comprehended this explanation, Mr. Heindel said it is the same with the word "karma". Everybody in the U.S. and a large part of the world besides, knows what a "debt of destiny" is without explanation and there are a number of other English words which may be used with better effect than the Hindu word karma, which is meaningless to the majority of Westerners. The speaker also held that such words as "astral" and "incarnation" were out of place because they have been conceived to mean something not warranted. He was sorry that the word "incarnation" had been used in our earliest literature, notably in the Cosmo. The Elder Brothers who gave him the teaching in German always used the word "Wiedergeburt", which means rebirth, and there is a great deal of difference between the two terms which may not appear at first sight. 
+
+It is possible for a Spirit to incarnate in an adult body by ousting the owner from his vehicle, by obsessing the body, but when we say rebirth, there is, and can be, only one meaning. In view of these facts he urges upon students never to use the term "incarnation" but always the word rebirth. 
+_____________________
+
+From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
+
+### <h3 id="addendum-c">Addendum C: Footnote to Chapter XIII (Regarding Race)</h3>
+
+The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
+
+Growth never ceases. In the twenty-first century, we can look back and see the tremendous growth that has taken place in our world. These changes have taken place in accordance with spiritual principles outlined in this book. 
+
+During the Lemurian Epoch, Jehovah came with His Angels and Archangels and made the first great division into Races, giving to each group the guiding influence of a Race-spirit-an Archangel. For each virgin spirit he appointed one of the Angels to act as guardian until the individual spirit had grown strong enough to become emancipated from all outside influence. There will be a total of sixteen races. (Cosmo-Conception, page 352) 
+
+We must recognize that we are not bodies, or races, but virgin spirits striving for perfection. If, as a virgin spirit, we forget this and identify ourselves with our Race, clinging to it with fanatic patriotism, then there is a great likelihood that we will become enmeshed in and sink with it when our fellow virgin spirits have passed to greater heights on the Path of Attainment. (Cosmo-Conception, page 307) 
+
+The reader is requested to note carefully that it is the Forms which degenerate. There is a very important distinction to be kept in mind between the bodies (or forms) of a race, and the spirit which is reborn in those race-bodies. (Cosmo-Conception, page 289) 
+
+Max Heindel gives various examples of groups to whom the integrity of the race was insisted upon. He mentions the Jews, and other early nations, as well as the Scots, Vikings, and Germano-Anglo-Saxons. He points out that occult scientists refer to the Sixteen Races as "the sixteen paths to destruction"; and Max Heindel wishes that "the reader may safely pass them all, for their grip is worse than the retardation in the next revolution." (Cosmo-Conception, page 231) 
+
+History is full of examples of "man's inhumanity to man". All Races have had individuals who have forgotten their spiritual heritage and have identified themselves with their Race and or Race-religion-"clinging to it with fanatic patriotism". Max Heindel gives the example of the white races who "have been guilty of fearful oppression against those other races, having in many cases massacred multitudes of the defenseless and unsuspecting natives-as witness the conduct of the Spaniards towards the ancient Peruvians and Mexicans, to specify but one of many instances". (Cosmo-Conception, page 290) 
+
+Christ came to prepare the way for the emancipation of humanity from the guidance of the differentiating Race and Family spirits, and to unite the whole human family in One Universal Brotherhood. (Cosmo-Conception, page 352) 
+
+Let us be mindful of Max Heindel's words to us: 
+
+<pre>
+There's but one thing the world has need to know,
+There's but one balm for all our human woe,
+There's but one way that leads to heaven above.
+That way is Human Sympathy and Love.
+</pre>
+
+For further study:
+
+Page 5, "A Word to the Wise"
+Page 223, "Stragglers and Newcomers"
+Page 386, "The Lucifer Spirits"
+Page 306, "The Sixteen Paths to Destruction"
+Page 347, "Guardian Angels"
+Page 352, "Mixing Blood in Marriage"
+Page 367, "The Evolution of Religion"
+Page 383, "Not Peace But A Sword"
+
+### <h3 id="addendum-d">Addendum D: Footnote to "Our Buildings"</h3>
+
+The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
+
+The Dining Hall was built in 1914, added to in the late 30's, renovated in 1962, with a sprouting room added in 1978. Here vegetarian meals are served to the workers and general public. In the Healing Temple, or Ecclesia, a healing service has been conducted each evening since the day of its dedication on Holy Night, December 24, 1920. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from non-contagious diseases. It is now called the Guest House and is used by workers and Fellowship members as living quarters and visitor accommodations. Numerous cottages have been built and renovated over the years to provide worker residences, the most recent structure being a two-level six-plex completed in 1976. 
+
+The Healing Department Building was erected in 1938. Built in the shape of a cross, it contains offices for the secretaries, who respond to requests for spiritual healing, and a healing Chapel in which a healing service is held at 8:45 am Monday through Friday. Adjacent to the Administration Building is a one-story structure containing the Business Offices, which include the Editorial Office for the "Rays from the Rose Cross" magazine (which was published for the first time in 1911 by Mr. Heindel), the Accounting Office, and Retail and Dealer Sales. 
+
+End of "The Rosicrucian Cosmo-Conception"
