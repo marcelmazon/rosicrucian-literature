@@ -50,12 +50,12 @@ Mt. Ecclesia, June 1940
     - [La personnalité pinéale type](#pineal-type-of-personality)
 - [Chapitre VIII - Correspondances spirituelles](#chapter-8)
     - [Ductless Glands and Their Rulers](#ductless-glands-and-their-rulers)
-    - [Les surrénales - le monde physique](#adrenal-glands--physical-world--jupiter)
-    - [La rate - la région éthérique](#spleen--etheric-region--sun)
-    - [Le thymus - le monde du désir](#thymus--desire-world--venus)
-    - [La thyroïde - le monde de la pensée](#thyroid--world-of-thought--mercury)
-    - [L'hypophyse - le monde de l'esprit de vie](#pituitary--world-of-life-spirit--uranus)
-    - [La glande pinéale - le monde de l'esprit divin](#pineal--world-of-divine-spirit--neptune)
+    - [Les surrénales - le monde physique](#adrenal-glands-physical-world-jupiter)
+    - [La rate - la région éthérique](#spleen-etheric-region-sun)
+    - [Le thymus - le monde du désir](#thymus-desire-world-venus)
+    - [La thyroïde - le monde de la pensée](#thyroid-world-of-thought-mercury)
+    - [L'hypophyse - le monde de l'esprit de vie](#pituitary-world-of-life-spirit-uranus)
+    - [La glande pinéale - le monde de l'esprit divin](#pineal-world-of-divine-spirit-neptune)
 
 ### <h3 id="Illustrations">Table des illustrations</h3>
 
@@ -476,11 +476,9 @@ The Word of God sounds forth through the medium of these seven Planetary Spirits
 
 <p><cite>The Ductless Glands and Their Rulers</cite></p>
 
-Par l’intermédiaire de ces sept Esprits planétaires, le Verbe de Dieu porte loin et forme tous les types variés qui, plus tard, vont se cristalliser en ces innombrables formes que nous voyons dans le monde physique. Ainsi, nous voyons que le Verbe se manifeste en sept grands sons émis par les sept Esprits planétaires. Chaque planète a sa propre tonique et émet un son différent de chacune des autres. Tous sont des sons constructeurs. Toute la musique du monde est basée sur ces sept sons émis par les sept Esprits planétaires, et toute forme est créée par eux. Une fois la forme créée, ils aident l’Ego intérieur à développer ses potentialités latentes, lesquelles sont toutes des pouvoirs divins à l’état embryonnaire. Cette assistance est largement donnée à l’humanité par l’intermédiaire des glandes endocrines.
-
 Chaque glande endocrine a, en elle-même, sa tonique dormante qui, lorsqu’elle est éveillée, développe certaines potentialités dans l’Ego. Chacune de ces toniques est en harmonie avec celle d’un des Esprits planétaires, et l’émission de la tonique de cet Esprit particulier éveille progressivement la tonique de la glande qui lui correspond. Quand celle-ci est éveillée, elle développe dans l’Ego les énergies spécifiques que cet Esprit planétaire exprime. Ces énergies sont des forces que l’Ego doit apprendre à contrôler et à diriger, car selon l’usage qu’il en fait, elles manifestent le bien ou le mal. Souvenez-vous que le mal est du bien mal dirigé.
 
-#### <h4 id="adrenal-glands--physical-world--jupiter">Les surrénales - le monde physique</h4>
+#### <h4 id="adrenal-glands-physical-world-jupiter">Les surrénales - le monde physique</h4>
 
 Les surrénales sont régies par Jupiter. Les énergies exprimées par Jupiter se manifestent principalement en bienveillance, perspicacité, épanouissement, optimisme, sens de l’honneur, philanthropie, courtoisie, générosité, bonne humeur, aptitude à comprendre le travail de la loi cosmique, bonne idéation (pouvoir de former et de relier des idées) et compréhension religieuse.
 
@@ -496,7 +494,7 @@ La connaissance que le bien de tous est le bien de chacun s’est développée d
 
 Le travail de Jupiter avec notre humanité est à présent relié au plan physique. Par l’intermédiaire du pouvoir spirituel généré par les surrénales, il fournit à l’Ego la force nécessaire pour perfectionner son corps dense et conquérir le monde physique, ce qui complète son évolution sur cette sphère. Le centre spirituel dans les surrénales vibre dans le bleu.
 
-#### <h4 id="spleen--etheric-region--sun">La rate - la région éthérique</h4>
+#### <h4 id="spleen-etheric-region-sun">La rate - la région éthérique</h4>
 
 La rate est la porte d’entrée des forces solaires que spécialise chaque individu et qui circulent dans le corps physique en tant que fluide vital, sans lequel aucun être ne pourrait vivre. C’est pourquoi cette glande est régie par le Soleil qui est la source de toute vitalité. Les énergies de cette grande planète se manifestent principalement en volonté, vitalité, individualité, autorité, courage, générosité, dignité, loyauté, fidélité, instinct parental, aptitude à diriger et sens des responsabilités.
 
@@ -520,7 +518,7 @@ En résumé, les pouvoirs développés par l’influence du Soleil sur la rate o
 
 Quand ces pouvoirs ont été développés, l’homme peut toujours en faire un mauvais usage. Il peut être si content de lui-même qu’il en devienne arrogant, insupportable, prétentieux, orgueilleux, pompeux, dominateur, un véritable despote. Mais s’il le fait, il récoltera de nouveau une moisson de tristesse et de souffrance jusqu’à ce qu’enfin, humble et repentant, il devienne un meilleur Serviteur, prêt à utiliser avec ardeur sa connaissance à l’amélioration du monde. Le centre spirituel dans la rate vibre en jaune d’or.
 
-#### <h4 id="thymus--desire-world--venus">Le thymus - le monde du désir</h4>
+#### <h4 id="thymus-desire-world-venus">Le thymus - le monde du désir</h4>
 
 C’est Vénus qui contrôle le thymus, et son rayon d’amour génère les émotions. Le siège des émotions est le corps du désir, et le corps du désir connecte l’individu avec le Monde du Désir. Quand la tonique de Vénus met en activité la tonique du thymus, l’homme développe la forme la plus haute de l’amour, des aptitudes artistiques, la beauté, l’harmonie, la bonne humeur, le charme, l’attraction, la cohésion et l’union.
 
@@ -534,7 +532,7 @@ La tonique de Vénus, empiétant sur celle du thymus, commence à éveiller peu 
 
 Là aussi, l’homme est en contact avec la vague de vie des Archanges, dont le Christ est l’initié le plus élevé, et il voit leurs activités variées, particulièrement celles qui relèvent des Esprits de race et autres, lesquels, bien qu’invisibles ici-bas, sont néanmoins très étroitement associés aux activités des animaux et des hommes. Il observe les deux grandes forces d’attraction et de répulsion en action, et se rend compte du pouvoir stimulant de l’intérêt et de l’effet annihilant de l’indifférence. Là, il apprend cette vérité sans prix: en définitive, seul le bien subsiste. Toute l’énergie dépensée pour toute autre intention n’est pas seulement gaspillée, même s’il y a eu un résultat valable, mais elle réagit, de façon désastreuse, sur celui qui essaie de la détourner de son usage pour faire le mal. Le centre spirituel du thymus vibre en jaune.
 
-#### <h4 id="thyroid--world-of-thought--mercury">La thyroïde - le monde de la pensée</h4>
+#### <h4 id="thyroid-world-of-thought-mercury">La thyroïde - le monde de la pensée</h4>
 
 La thyroïde est régie par l’Esprit de la planète Mercure. Les pouvoirs de ce grand Etre, quand ils sont développés dans l’homme, se manifestent principalement en raison, intelligence, prudence, bonne mémoire, amour de l’étude, rapidité d’esprit, éloquence, dextérité, indépendance de la parole et des écrits, acquisition de la connaissance par la raison et la maîtrise de soi. Le mauvais usage de ces pouvoirs s’expriment principalement en suffisance, fourberie, paresse, insouciance, manque de principes, médisance, impiété, malhonnêteté, amour du jeu, indécision et nervosisme.
 
@@ -544,7 +542,7 @@ Il réalise alors pleinement que sa propre force créatrice est un pouvoir divin
 
 L’être a maintenant acquis le contrôle de son intellect et tient la balance du pouvoir entre son cerveau et ses organes génitaux. L’Esprit gouverne à présent son moi inférieur et est capable de diriger toutes ses activités vers des efforts producteurs d’une véritable croissance spirituelle. Le centre spirituel de la thyroïde vibre en violet.
 
-#### <h4 id="pituitary--world-of-life-spirit--uranus">L'hypophyse - le monde de l'esprit de vie</h4>
+#### <h4 id="pituitary-world-of-life-spirit-uranus">L'hypophyse - le monde de l'esprit de vie</h4>
 
 L’hypophyse est gouvernée par Uranus. La tonique de ce grand Esprit planétaire s’exprime sur ce plan physique en originalité, universalité, amour de la liberté pour tous, compassion, ingénuité, action soudaine, intuition, clairvoyance, mysticisme et altruisme.
 
@@ -562,7 +560,7 @@ L’hypophyse est intimement liée au sentier mystique qui aboutit à l’Initia
 
 Ainsi, on conçoit clairement que l’éveil de l’activité de l’hypophyse est l’une des plus importantes réalisations qu’on puisse atteindre dans le développement des pouvoirs féminin d’amour-sagesse de l’Esprit.
 
-#### <h4 id="pineal--world-of-divine-spirit--neptune">La glande pinéale - le monde de l'esprit divin</h4>
+#### <h4 id="pineal-world-of-divine-spirit-neptune">La glande pinéale - le monde de l'esprit divin</h4>
 
 La glande pinéale est régie par Neptune, le porte-flambeau du Soleil spirituel qui est le Père. Par nature, cette planète est occulte, prophétique et spirituelle.
 

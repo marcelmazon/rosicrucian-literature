@@ -122,19 +122,9 @@ Il est bien évident que ces miasmes noirs appartiennent à l’Ether Chimique q
 
 De nombreuses personnes ont vu cet éther, entourant la main comme un gant bleuté ou comme des flammes de gaz bleutées apparaissant le long des murs, ou comme une enveloppe bleutée dans laquelle le corps serait engoncé. De nos jours, les physiciens ont photographié des électrons libres, et ces électrons libres avaient l’apparence de flammes bleutées, peut-être pas exactement comme celles que décrivent les personnes douées de la vision éthérique, mais quelque chose de semblable - ce qui suggère que l’Ether Chimique consiste vraisemblablement en particules atomiques qui existeraient dans un état encore inconnu de la physique actuelle; pas seulement des électrons, mais un ensemble de particules. Cet Ether Chimique serait une sorte de plasma-de-vie, comme l’indique la description de Max Heindel concernant les “courants nourriciers” éthériques se déplaçant dans ou avec le sang*.
 
+*Note: Le mot “plasma” a plusieurs définitions dans la science actuelle: (a) le plasma sanguin, la partie liquide du sang qui est utilisée dans les transfusions. (b) un état fondu de la matière, à très haute température, dans lequel elle devient anormalement conductrice d’électricité. (c) un gaz fortement ionisé qui produit un éclat rosé, comme on le voit dans un accélérateur stellaire et qui permet aux ondes radio d’avoir une vitesse de phase supérieure à la vitesse de la lumière. Lorsqu’on envoie des micro-ondes à travers le plasma d’un gaz ionisé, l’accroissement de la vitesse permet de mesurer la densité des électrons libres. (d) les astronomes, comme dans la définition (c), le décrivent comme une sorte de nuage magnétique dans l’espace interplanétaire, dans lequel des particules positives et négatives sont en suspension, mais la charge du nuage, dans son ensemble, est neutre. Les définitions (c) et (d) se rapprochent de ce que les occultistes entendent par éthérique.
+
 Beaucoup de gens voient des “points” dans l’air, qui ressemblent à de la poussière dorée ou argentée ou parfois multicolore, et qui parfois se déplacent en grandes masses nuageuses devant les yeux. Des clairvoyants des temps passés ont décrit ces nuages dans lesquels les “esprits des ancêtres” se condensaient et se matérialisaient à la vue physique. C'est encore l’Ether Chimique qu’on voit lors de la matérialisation de la matière éthérique en forme physique.
-
-*Note: Le mot “plasma” a plusieurs définitions dans la science actuelle :
-
-(a) le plasma sanguin, la partie liquide du sang qui est utilisée dans les transfusions.
-
-(b) un état fondu de la matière, à très haute température, dans lequel elle devient anormalement conductrice d’électricité.
-
-(c) un gaz fortement ionisé qui produit un éclat rosé, comme on le voit dans un accélérateur stellaire et qui permet aux ondes radio d’avoir une vitesse de phase supérieure à la vitesse de la lumière. Lorsqu’on envoie des micro-ondes à travers le plasma d’un gaz ionisé, l’accroissement de la vitesse permet de mesurer la densité des électrons libres.
-
-(d) les astronomes, comme dans la définition (c), le décrivent comme une sorte de nuage magnétique dans l’espace interplanétaire, dans lequel des particules positives et négatives sont en suspension, mais la charge du nuage, dans son ensemble, est neutre.
-
-Les définitions (c) et (d) se rapprochent de ce que les occultistes entendent par éthérique.
 
 ### <h3 id="chapter-3">Chapitre III - Atomes et molécules</h3>
 

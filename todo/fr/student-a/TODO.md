@@ -198,3 +198,22 @@ Tout progrès, dans le domaine occulte et spirituel, repose sur l’effort perso
 ### This paragraph doesn't correspond to English one at all:
 
 La tonique de l’Esprit humain est Fa # majeur. Sa gamme contient 1 bémol. Toute musique, écrite dans cette tonalité aidera au développement de l’esprit humain. Ses accords sont au chapitre 6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Les Glandes Endocrines et leur Mystere
+
+### This was in h4 "The Ductless Glands and their Rulers" but not in English:
+
+Par l’intermédiaire de ces sept Esprits planétaires, le Verbe de Dieu porte loin et forme tous les types variés qui, plus tard, vont se cristalliser en ces innombrables formes que nous voyons dans le monde physique. Ainsi, nous voyons que le Verbe se manifeste en sept grands sons émis par les sept Esprits planétaires. Chaque planète a sa propre tonique et émet un son différent de chacune des autres. Tous sont des sons constructeurs. Toute la musique du monde est basée sur ces sept sons émis par les sept Esprits planétaires, et toute forme est créée par eux. Une fois la forme créée, ils aident l’Ego intérieur à développer ses potentialités latentes, lesquelles sont toutes des pouvoirs divins à l’état embryonnaire. Cette assistance est largement donnée à l’humanité par l’intermédiaire des glandes endocrines.

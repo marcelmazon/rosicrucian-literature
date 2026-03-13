@@ -3302,11 +3302,11 @@ Les noms des Périodes n'ont rien de commun avec les planètes physiques, mais s
 
 La science occulte enseigne qu'il y a 777 incarnations, mais cela ne veut pas dire que la terre passe par 777 métamorphoses. Cela signifie que la vie en évolution fait:
 
-```
+<pre>
 7 Révolutions autour des
 7 Globes des
 7 Périodes Mondiales.
-```
+</pre>
 
 Ce pèlerinage de l'Involution et de l'Evolution, y compris le "chemin raccourci" de l'Initiation, est inscrit dans le Caducée ou "Sceptre de Mercure" (voir tableau 18), qui est ainsi nommé parce que ce symbole indique le Sentier de l'Initiation qui n'a été ouvert à l'homme que depuis le début de la moitié Mercurienne de la Période de la Terre. Auparavant, les Lémuriens et les Atlantéens avaient reçu quelques-unes des initiations inférieures, mais pas les Quatre Grandes Initiations.
 
@@ -3332,23 +3332,25 @@ Il y a une division analogue chez nos animaux actuels, qui peut être retrouvée
 
 Cuvier fut le premier naturaliste qui divisa le règne animal en quatre classes principales, mais il n'eut pas autant de succès en divisant les classes en sous-classes. L'embryologiste Karl Ernst von Baer, le professeur Agassiz et d'autres savants ont classé le règne animal en quatre grandes divisions et en treize subdivisions, comme suit:
 
+<pre>
 I RADIATES:
-  1-Polyps, Sea-anemones and Coral.
-  2-Acaleph, or Jelly-fish.
-  3-Starfish, Sea-urchins.
+	1-Polyps, Sea-anemones and Coral.
+	2-Acaleph, or Jelly-fish.
+	3-Starfish, Sea-urchins.
 II MOLLUSKS:
-  4-Acephala (oysters, etc.).
-  5-Gasteropoda (snails).
-  6-Cephalopoda.
+	4-Acephala (oysters, etc.).
+	5-Gasteropoda (snails).
+	6-Cephalopoda.
 III ARTICULATES:
-  7-Worms.
-  8-Crustacea (lobsters, etc.).
-  9-Insects.
+	7-Worms.
+	8-Crustacea (lobsters, etc.).
+	9-Insects.
 IV VERTEBRATES:
-  10-Fishes.
-  11-Reptiles.
-  12-Birds.
-  13-Mammals
+	10-Fishes.
+	11-Reptiles.
+	12-Birds.
+	13-Mammals
+</pre>
 
 Les trois premières divisions correspondent aux trois Révolutions qu'il nous reste à accomplir de la moitié Mercurienne de la Période de la Terre et leurs neuf degrés correspondent aux neuf degrés des mystères mineurs qui auront été pris par l'ensemble de l'humanité quand elle aura atteint le milieu de la dernière Révolution de la Période de la Terre.
 
@@ -4309,21 +4311,11 @@ C'est pourquoi les Rosicruciens souhaitent ardemment voir paraître le jour où 
 
 Jean parle de sa purification (1 Jean 3:9) et dit que celui qui est né de Dieu ne peut pas pécher, car il garde sa semence en lui. La chasteté est absolument nécessaire au progrès de l'aspirant. Toutefois il faut tenir compte qu'on n'exige pas de l'homme un célibat absolu jusqu'à ce qu'il ait atteint le point où il est prêt pour les Grandes Initiations, et que c'est notre devoir envers l'humanité de perpétuer la race. Si notre condition mentale, morale, physique et financière le permet, nous pouvons accomplir l'acte de génération comme un saint sacrifice offert sur l'autel de l'humanité, mais non pour le plaisir des sens. L'acte ne devrait pas non plus être accompli d'une manière austère ou avec répugnance, mais dans la joie de se donner soi-même pour le privilège de fournir à un ami qui cherche à renaître le corps et le milieu nécessaires à son développement. Ainsi, nous l'aiderons aussi à faire fleurir les roses sur sa croix.
 
-## Topical Index: Alphabetical List of Words Indexed
+<h2 id="addenda">Addenda</h2>
 
-The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
+### <h3 id="addendum-a">Addendum A: Exercices du Matin et du Soir de l'Aspirant
 
-Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
-
-The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
-
-By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
-
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
-
-### Addendum A: Exercices du Matin et du Soir de l'Aspirant
-
-#### <h4 id="">L'Exercice du Soir</h4>
+#### <h4 id="the-evening-exercise">L'Exercice du Soir</h4>
 
 L'exercice du soir, la Rétrospection, a une valeur plus grande que toute autre méthode pour faire avancer l'aspirant dans le sentier du progrès. Son effet est tel qu'il permet à celui qui le pratique d'apprendre par anticipation, non seulement toutes les leçons de l'existence présente, mais encore des leçons qui sont d'ordinaire réservées à des vies futures.
 
@@ -4335,7 +4327,7 @@ La valeur de la rétrospection est immense - et dépasse tout ce que l'on peut i
 
 Ceux qui sont purs verront Dieu a dit le Christ, et l'Instructeur ouvrira rapidement nos yeux dès que nous serons prêts à entrer dans la "Nef de l'Enseignement" , c'est-à-dire dans le Monde du Désir, où nous ferons les premières expériences d'une vie consciente en dehors du corps dense.
 
-##### <h5 id="">L'Exercice du Matin</h5>
+#### <h4 id="the-morning-exercise">L'Exercice du Matin</h5>
 
 Le second exercice, la Concentration, est pratiqué le matin, le plus tôt possible après le réveil. L'aspirant ne doit pas se lever pour ouvrir les volets ou pour toute autre action non indispensable. S'il se sent à l'aise, il doit immédiatement détendre tous ses muscles et commencer à se concentrer. Ceci est très important car à l'instant du réveil l'esprit revient justement du Monde du Désir et, à ce moment précis le contact conscient avec ce monde est plus facilement rétabli qu'à n'importe quel autre moment de la journée.
 
@@ -4355,7 +4347,7 @@ Une ancienne légende dit que la recherche d'un trésor doit se faire dans le ca
 
 Enfin, évitez de regarder les exercices comme une tâche ennuyeuse. Estimez-les à leur juste valeur; ils sont nos plus grand privilèges. C'est seulement en les considérant ainsi que nous leur rendons justice et en récoltons tous les bienfaits.
 
-### CONCERNING THE ORIGIN OF THE FELLOWSHIP TEACHINGS
+### <h3 id="concerning-the-origin-of-the-fellowship-teachings">Concerning the Origin of the Fellowship Teachings</h3>
 
 Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
@@ -4365,7 +4357,7 @@ Under the direction of the Brothers of the Rose Cross, spiritual giants of the h
 
 One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-### <h3 id="">Qu'est-ce que la Vérité?</h3>
+### <h3 id="what-is-truth">Qu'est-ce que la Vérité?</h3>
 
 Pilate a posé la question "Qu'est-ce que la vérité?" mais comme il était incapable de trouver en lui-même la solution, il n'a reçu aucune réponse.
 
@@ -4389,7 +4381,7 @@ A certains moments, nous avons tous foulé des sentiers différents. Un temps, n
 
 "Et qu'en est-il des ténèbres" pourrait-on demander, "représentent-elles le mal?" Non, il n'y a aucun mal dans l'univers de Dieu. Pendant la journée, la lumière du Soleil nous permet de percevoir les splendeurs de cette petite Terre qui gravite dans l'espace, et s'il n'existait que la lumière, peut-être ne percevrions-nous rien au-delà de notre Terre et resterions ignorants du fait qu'il existe d'autres globes que le Soleil et la Lune. Mais quand vient la nuit et que les splendeurs du jour se sont évanouies, lorsque le Soleil n'illumine plus le ciel, nous devenons capables de nous rendre compte, du moins dans une certaine mesure, de l'immensité de l'espace. Nous pouvons voir des mondes éloignés de millions et de millions de kilomètres, et l'Esprit est saisi d'une merveilleuse dévotion, alors que nous pensons longuement à la Vérité selon laquelle DIEU EST TOUT EN TOUS. (I Corinthiens 15:28).
 
-### Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?
+### <h3 id="addendum-b">Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?</h3>
 
 Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
 
@@ -4404,7 +4396,7 @@ _____________________
 
 From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
 
-### Addendum C: Footnote to Chapter XIII (Regarding Race)
+### <h3 id="addendum-c">Addendum C: Footnote to Chapter XIII (Regarding Race)</h3>
 
 The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
 
@@ -4424,12 +4416,12 @@ Christ came to prepare the way for the emancipation of humanity from the guidanc
 
 Let us be mindful of Max Heindel's words to us: 
 
-```
+<pre>
 There's but one thing the world has need to know,
 There's but one balm for all our human woe,
 There's but one way that leads to heaven above.
 That way is Human Sympathy and Love.
-```
+</pre>
 
 For further study:
 
@@ -4442,7 +4434,7 @@ Page 352, "Mixing Blood in Marriage"
 Page 367, "The Evolution of Religion"
 Page 383, "Not Peace But A Sword"
 
-### Addendum D: Footnote to "Our Buildings"
+### <h3 id="addendum-d">Addendum D: Footnote to "Our Buildings"</h3>
 
 The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
 
