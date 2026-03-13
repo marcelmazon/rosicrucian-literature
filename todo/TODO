@@ -23,7 +23,7 @@ Mark,Name,Main Function,Visual Length
 
 - Maybe MIGRATE/change all "() - " to "<aside>"
  	- A Note on Accessibility: Screen readers often don't announce these tags by default. If it is vital that the user knows the text is an editorial note, it’s best practice to include "Editor's Note:" or "[Note: ...]" in the actual text or use an aria-label
-	- keep in mind whic <asides> might be multi-lined
+	- keep in mind whic <asides> might be multi-lined, for example in chapter 2 of etheric-vision-and-what-it-reveals.md
 
 
 

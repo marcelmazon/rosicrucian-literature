@@ -173,7 +173,13 @@ FORMADORES DO SANGUE: verduras, especialmente as de folhas verdes, gema de ovo, 
 
 ### <h3 id="fuels-for-heat-and-energy">Combustíveis (proporcionam calor e energia)</h3>
 
-Gorduras e Óleos: manteiga, creme de leite, azeite de oliva, óleos vegetais, nozes. Amidos: cereais, batatas, pães. Açúcares: açúcar de cana, beterraba, frutas e doces. Proteínas: leite, queijo, ovos, nozes, legumes
+Gorduras e Óleos: manteiga, creme de leite, azeite de oliva, óleos vegetais, nozes. 
+
+Amidos: cereais, batatas, pães. 
+
+Açúcares: açúcar de cana, beterraba, frutas e doces. 
+
+Proteínas: leite, queijo, ovos, nozes, legumes
 
 ### <h3 id="body-regulators">Reguladores do sistema</h3>
 

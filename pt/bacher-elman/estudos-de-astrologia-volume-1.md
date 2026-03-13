@@ -4,7 +4,7 @@ language: "pt"
 original_title: "Studies in Astrology - Volume I"
 original_language: "en"
 author: "Elman Bacher"
-original_source_file: "studies-in-astrology-volume-2.md"
+original_source_file: "studies-in-astrology-volume-1.md"
 ---
 
 <h1 id="studies-in-astrology-volume-1">Estudos de Astrologia - Volume 1</h1>

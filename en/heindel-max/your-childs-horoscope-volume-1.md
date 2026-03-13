@@ -119,13 +119,13 @@ EDITOR'S NOTE – *The above appearel in the Oct., 1915, issue of the RAYS. In 1
 
 This is a rather difficult horoscope of a strange child; you remember how Faust says:
 
-```
+<pre>
 "Two souls, alas, are housed within my breast;
 One to earth with passionate desire
 And closely clinging garments still adheres.
 Above the mist the other does aspire
 With sacred ardor unto purer spheres".
-```
+</pre>
 
 There is just such a markedly dual nature in this horoscope, almost amounting to two distinct and separate personalities. We find one shown by the planets in Pisces: Venus, Jupiter, Mars, and Mercury. This represents the lower and more pleasure loving nature. The other, higher self, is represented by the Moon sextile to Uranus and trine to the Sun, which is also sextile to Uranus. These two natures are so different from each other, so antagonistic, that there is going to be a life of struggle in which now one, now the other, will gain the ascendancy. Besides these aspects, note that the sign Capricorn is rising, with the ruler, Saturn, in the 6th house and square to Mars. This will make her discontented; she will never know which side to lean toward, and she will rebel against the restraint which is due to present social conditions of the world.
 

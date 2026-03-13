@@ -19,11 +19,11 @@ Por Max Heindel
 
 Sua Mensagem e Missão: 
 
-```
+<pre>
 Uma Mente Pura
     Um Coração Nobre
         Um Corpo São
-```
+</pre>
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
@@ -2990,7 +2990,9 @@ A obra de Jeová foi construir ossos duros e densos dentro da substância branda
 
 #### <h4 id="adams-rib">A Costela de Adão</h4>
 
-A impossível e grotesca maneira de realizar a separação dos sexos (descrita nas versões comuns da Bíblia e, quanto a esse caso particular, no texto massorético também) é outro exemplo do que se pode fazer trocando as vogais no antigo texto hebraico. Lido de uma maneira, a palavra é “costela”, mas lido de outra, que merece mais cuidadosa atenção e tem a vantagem de apresentar um sentido comum, significa “lado”. Se a interpretação significar que o ser humano era macho-fêmea e que Jeová tornou latente um lado ou sexo de cada ser, não violaremos a razão nem aceitaremos a história da costela.
+A impossível e grotesca maneira de realizar a separação dos sexos (descrita nas versões comuns da Bíblia e, quanto a esse caso particular, no texto massorético também) é outro exemplo do que se pode fazer trocando as vogais no antigo texto hebraico. 
+
+Lido de uma maneira, a palavra é “costela”, mas lido de outra, que merece mais cuidadosa atenção e tem a vantagem de apresentar um sentido comum, significa “lado”. Se a interpretação significar que o ser humano era macho-fêmea e que Jeová tornou latente um lado ou sexo de cada ser, não violaremos a razão nem aceitaremos a história da costela.
 
 Os ensinamentos ocultos se harmonizam com a Bíblia quanto a esta alteração e quanto ao tempo em que se efetuou. Ambos concordam com a doutrina da ciência moderna que diz ter sido o ser humano bissexual em outro tempo e até certo ponto do seu desenvolvimento. Depois, começou a predominar um sexo, enquanto o outro passou a subsistir em forma rudimentar. Assim, toda a Humanidade tem, em forma germinal ou embrionária, os órgãos sexuais opostos. É realmente bissexual, como era o ser humano primitivo.
 
@@ -3619,11 +3621,11 @@ Esses nomes dos Períodos nada têm a ver com os Planetas físicos. Referem-se �
 
 A Ciência Oculta diz que há 777 encarnações, o que não quer significar que a Terra sofra 777 metamorfoses. Significa que a vida que está evoluindo faz:
 
-```
+<pre>
 7 Revoluções em torno dos
 7 Globos dos
 7 Períodos Mundiais
-```
+</pre>
 
 Esta peregrinação involutiva e evolutiva e o caminho reto da Iniciação estão simbolizados no Caduceu ou “Cetro de Mercúrio” (veja o Diagrama 15). É assim chamado porque esse símbolo oculto indica o Caminho da Iniciação, aberto unicamente desde o princípio da metade mercurial do Período Terrestre. Alguns Mistérios Menores foram dados aos primitivos lemurianos e atlantes, mas não as Quatro Grandes Iniciações.
 
@@ -3655,7 +3657,7 @@ Primeiramente, Cuvier[1] dividiu o Reino Animal em quatro classes primárias, ma
 
 () - [3] N.R.: Jean Louis Rodolphe Agassiz (1807-1873) – naturalista, geologista e professor suíço
 
-```
+<pre>
 I – RADIADOS:
     1. Pólipos (Anêmonas marinhas, Corais)
     2. Acaléfios (Alforrecas[4])
@@ -3673,7 +3675,7 @@ IV – VERTEBRADOS:
     11. Répteis
     12. Aves
     13. Mamíferos
-```
+</pre>
 
 () - [4] N.R.: ou Acalefos; exe. Celenterados, Águas-vivas
 
@@ -4741,17 +4743,7 @@ Por isso os Rosacruzes[10] esperam, ardentemente, o dia em que as rosas floresç
 
 Ao falar de sua purificação, S. João (IJo 3:9) diz que aquele que nasce de Deus não pode pecar, porque guarda dentro de si a sua semente. Para progredir é absolutamente necessário que o Aspirante seja casto. Todavia, se deve ter bem presente que a castidade absoluta não é exigida enquanto o ser humano não tenha alcançado o ponto em que esteja apto para as Grandes Iniciações, e que a perpetuação da Raça é um dever que temos para com o todo. Se estivermos aptos: mental, moral, financeira e fisicamente, podemos executar o ato da geração, não para gratificar a sensualidade, mas como um santo sacrifício oferecido no altar da Humanidade. Tampouco deve ser realizado austeramente, em repulsiva disposição mental, mas sim numa feliz entrega de si mesmo, pelo privilégio de oferecer a algum amigo que esteja desejando renascer, um Corpo e ambiente apropriados ao seu desenvolvimento. Desse modo estaremos também o ajudando a cultivar o florescimento das rosas em sua cruz.
 
-## Topical Index: Alphabetical List of Words Indexed
-
-The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
-
-Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
-
-The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
-
-By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
-
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
+<h2 id="addenda">Addenda</h2>
 
 ### <h3 id="addendum-a">Addendum A: Exercícios Noturno e Matinal Efetuados pelo Aspirante Rosacruz</h3>
 

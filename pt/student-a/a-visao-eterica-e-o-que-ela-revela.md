@@ -122,19 +122,9 @@ Os venenos que se desenvolvem na corrente sanguínea são visíveis à visão et
 
 Várias pessoas têm visto este éter estendido como uma luva azul sobre a mão, como um envoltório azul no qual o corpo está encerrado, e como chamas azuladas iguais à chama baixa de gás aparecendo ao longo da superfície das paredes. Os físicos têm apresentado fotografias de elétrons livres, e estes têm a aparência de chamas azuis - talvez não exatamente como descritas pelas pessoas que têm visão etérica, mas como algo parecido sugerindo que o Éter Químico, com toda a probabilidade, consiste de partículas atômicas existentes num estado ainda não descoberto pela ciência física; não apenas elétrons, mas um amalgama de partículas. Este Éter Químico seria uma espécie de plasma vital, conforme demonstrado na descrição de Max Heindel sobre a "corrente de alimento" etérica, movendo-se no ou com o sangue*
 
-*(A palavra "plasma" tem diversas definições na ciência atual).
+*(A palavra "plasma" tem diversas definições na ciência atual). 1 - Plasma sanguíneo, a parte líquida do sangue usada para as transfusões. 2 - Condição de matéria em estado fundido à altas temperaturas, na qual se torna um condutor irregular de eletricidade, 3 - Um gás altamente ionizado, que produz um brilho rosado (como se vê num aparelho estelar), e que é um meio pelo qual as ondas de rádio podem ter uma fase de velocidade maior que a da luz. Quando as micro-ondas são enviadas através do plasma do gás ionizado, o aumento da velocidade é uma medida da densidade dos elétrons liberados. 4 - Os astrônomos igualmente chamam plasma a uma espécie de nuvem magnética no espaço interplanetário, na qual partículas positivas e negativas estão suspensas, mas a nuvem, como um todo, é neutra em carga. As definições 3 e 4 se aproximam do que o ocultista se refere como condições etéricas.
 
 Muitas pessoas vêem os "pontos" no ar, que se parecem com poeira dourada ou prateada (ou às vezes multicolorida), que se movem diante da visão em grandes massas semelhantes as nuvens. Antigos videntes descreveram estas nuvens, das quais saiam "os espíritos dos antepassados" que se condensavam e se materializavam diante dos olhos físicos. Esta é novamente uma visão do Éter Químico, conforme aparece na materialização de formas etéricas em formas físicas.
-
-1 - Plasma sanguíneo, a parte líquida do sangue usada para as transfusões.
-
-2 - Condição de matéria em estado fundido à altas temperaturas, na qual se torna um condutor irregular de eletricidade,
-
-3 - Um gás altamente ionizado, que produz um brilho rosado (como se vê num aparelho estelar), e que é um meio pelo qual as ondas de rádio podem ter uma fase de velocidade maior que a da luz. Quando as micro-ondas são enviadas através do plasma do gás ionizado, o aumento da velocidade é uma medida da densidade dos elétrons liberados.
-
-4 - Os astrônomos igualmente chamam plasma a uma espécie de nuvem magnética no espaço interplanetário, na qual partículas positivas e negativas estão suspensas, mas a nuvem, como um todo, é neutra em carga.
-
-As definições 3 e 4 se aproximam do que o ocultista se refere como condições etéricas.
 
 ### <h3 id="chapter-3">3 – Átomos e Moléculas</h3>
 

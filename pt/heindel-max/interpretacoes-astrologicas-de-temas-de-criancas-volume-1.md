@@ -117,18 +117,16 @@ Nota do Editor – O texto acima apareceu na edição de outubro de 1915 da Revi
 
 ### <h3 id="little-miss-fh">Jovem Senhorita F.H. – Nascida Dia 3 de abril de 1915</h3>
 
-Este é um horóscopo bastante difícil de uma criança um tanto estranha.
+Este é um horóscopo bastante difícil de uma criança um tanto estranha. Lembremos como Fausto diz:
 
-Lembremos como Fausto diz:
-
-```
+<pre>
 “Duas almas, oh! Moram dentro do meu peito,  
 E aí lutam por um indivisível reino;  
 Uma aspira pela terra, como vontade apaixonada  
 À íntimas entranhas ainda está ligada.  
 Acima das névoas, a outra aspira, de certeza,  
 Com ardor sagrado por esferas onde reine a pureza”.  
-```
+</pre>
 
 Há clara e marcadamente uma natureza dual nesse horóscopo, quase correspondendo a duas personalidades distintas e separadas. Uma é demonstrada pelos Planetas em Peixes: Vênus, Júpiter, Marte e Mercúrio. Esses representam a mais baixa e prazerosa natureza amorosa. A outra, o “Eu Superior”, é representada pelo Sextil da Lua com Urano e em Trígono com o Sol, que também está Sextil com Urano. Essas duas naturezas são tão diferentes uma da outra, tão antagônicas que tenderá a dar a essa criança uma vida de lutas na qual nenhuma dessas duas naturezas ganhará ascendência. Além desses Aspectos, note que o Signo de Capricórnio está no Ascendente, com seu Regente, Saturno na Sexta Casa em Quadratura com Marte. Isso tenderá a torná-la descontente; ela nunca saberá para que lado seguir, e ela se rebelará contra a restrição imposta pelas condições sociais atuais do mundo.
 

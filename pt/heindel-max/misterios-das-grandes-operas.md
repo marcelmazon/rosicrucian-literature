@@ -250,9 +250,11 @@ Devemos lembrar que a experiência de Fausto não é um exemplo isolado do que p
 
 ### <h3 id="chapter-3">Capítulo III: As Tristezas da Alma que Procura (continuação)</h3>
 
-Em A Estrela de Belém, um Fato Místico, tentamos transmitir aos estudantes uma noção de certa fase da Iniciação. A maioria das pessoas caminha na Terra e vê apenas uma massa aparentemente morta. Mas, um dos primeiros fatos revelados em nossa consciência pela Iniciação, é a realidade viva do Espírito da Terra. Como a superfície de nosso corpo é morta comparada com os órgãos internos, assim também o invólucro externo da Terra não dá ideia da maravilhosa atividade interna. No caminho da Iniciação nove camadas diferentes são reveladas, e no centro desta esfera giratória deparamos, face a face, com o Espírito da Terra. É verdade que ele está "gemendo e sofrendo" na Terra por todos nós, trabalhando e esperando ansiosamente por nossa manifestação como Filhos de Deus para que, assim como a alma que procura e aspira a libertação é desprendida de seu corpo denso, também o Espírito da Terra possa ser libertado de seu corpo mortal no qual está agora confinado por nós. Para Fausto, as palavras do Espírito da Terra, ditas por Goethe, oferecem esplêndido material para meditação, pois representam misticamente o que o candidato sente quando percebe pela primeira vez a verdadeira realidade do Espírito da Terra como uma presença viva, trabalhando sempre ativamente para nossa elevação. 
+Em A Estrela de Belém, um Fato Místico, tentamos transmitir aos estudantes uma noção de certa fase da Iniciação. A maioria das pessoas caminha na Terra e vê apenas uma massa aparentemente morta. Mas, um dos primeiros fatos revelados em nossa consciência pela Iniciação, é a realidade viva do Espírito da Terra. Como a superfície de nosso corpo é morta comparada com os órgãos internos, assim também o invólucro externo da Terra não dá ideia da maravilhosa atividade interna. No caminho da Iniciação nove camadas diferentes são reveladas, e no centro desta esfera giratória deparamos, face a face, com o Espírito da Terra. É verdade que ele está "gemendo e sofrendo" na Terra por todos nós, trabalhando e esperando ansiosamente por nossa manifestação como Filhos de Deus para que, assim como a alma que procura e aspira a libertação é desprendida de seu corpo denso, também o Espírito da Terra possa ser libertado de seu corpo mortal no qual está agora confinado por nós. 
 
-```
+Para Fausto, as palavras do Espírito da Terra, ditas por Goethe, oferecem esplêndido material para meditação, pois representam misticamente o que o candidato sente quando percebe pela primeira vez a verdadeira realidade do Espírito da Terra como uma presença viva, trabalhando sempre ativamente para nossa elevação. 
+
+<pre>
 "Nas correntes da vida, na ação da tempestade,   
 Eu flutuo e balanço em movimento ondulado;   
 Nascimento e túmulo, um oceano ilimitado;   
@@ -260,13 +262,13 @@ Um constante tecer em oportunidade abundante,
 Uma Vida ardente, um movimento incessante,   
 Zunindo o tear do tempo, eu tenho continuamente seguido;   
 O vivo traje de Deus, é assim por mim tecido".   
-```
+</pre>
 
 Naturalmente, o Espírito da Terra não é para ser idealizado com o aspecto de um homem grande, ou como tendo uma forma física que não seja a da própria Terra. O corpo vital de Jesus, o qual o Espírito Cristo utilizou antes de seu ingresso na Terra, tem a forma humana comum; está preservado e é mostrado ao candidato num certo ponto de sua escalada. Algum dia, num futuro distante, abrigará novamente o benevolente Espírito Cristo em Seu retorno do centro da Terra. Isto acontecerá quando nós nos tivermos eterizado, e quando Ele estiver pronto para ascender à esferas mais elevadas, deixando-nos para que sejamos instruídos sobre o Pai, cuja religião será mais elevada do que a religião Cristã. 
 
 A verdade esotérica de que quando um Espírito entra por uma determinada porta, deve também retornar da mesma maneira, é ensinada por Goethe em relação à aparição inicial de Mefistófeles a Fausto. Fausto não está no caminho regular da Iniciação. Não recebeu permissão nem ajuda dos Irmãos Maiores; está batendo na porta errada devido à sua impaciência. Portanto é rejeitado pelo Espírito da Terra e, quando pensa ter conseguido entrar, é lançado dos píncaros da alegria ao abismo do desespero, onde compreende que realmente falhou. 
 
-```
+<pre>
 "Eu, a própria imagem de Deus, desta labuta de barro   
 Já liberto, eu que saudei   
 O espelho da eterna verdade e a revelei,   
@@ -282,24 +284,24 @@ Minha arte foi inútil para aqui conseguir te deter.
 Cruelmente, do reino do pensamento senti o arremessar   
 De volta ao destino incerto da humanidade!   
 Quem agora vai me ensinar? A que devo eu renunciar?"   
-```
+</pre>
 
 Ele pensa que as fontes de informação estão exauridas e que nunca poderá atingir o verdadeiro conhecimento. E, temendo a depressiva monotonia de uma existência trabalhosa e comum, agarra um frasco de veneno e está prestes a bebê-lo, quando canções do lado de fora proclamam a ascensão de Cristo, pois é manhã de Páscoa. A este pensamento, nova esperança agita sua alma. Além disso, é também perturbado em seu propósito pela chegada de Wagner, seu amigo. 
 
 Caminhando em direção a ele, Fausto emite o grito de agonia arrancado de toda alma aspirante na terrível luta entre as naturezas superior e inferior. Enquanto vivemos nossa vida mundana, sem aspirações elevadas, há paz em nosso íntimo. Mas, uma vez sentido o chamado do Espírito, nosso equilíbrio é alterado, e quanto mais ardentemente persistimos na procura do Graal, mais violenta é esta luta interna. Paulo considerava-se um homem desditoso porque os desejos inferiores da carne combatiam as suas mais elevadas aspirações espirituais. As palavras de Fausto têm um significado semelhante: 
 
-```
+<pre>
 "Duas almas, oh! moram dentro do meu peito,   
 E aí lutam por um indivisível reino;   
 Uma aspira pela terra, com vontade apaixonada   
 Às íntimas entranhas ainda está ligada.   
 Acima das névoas, a outro aspira, de certeza,   
 Com ardor sagrado por esferas onde reine a pureza".   
-```
+</pre>
 
 Mas ele não percebe que o caminho para obter a realização desejada é árduo e que cada um deve trilhá-lo sozinho para alcançar a paz. Julga que os Espíritos podem dar-lhe o poder da alma, pronto para ser usado: 
 
-```
+<pre>
 "Oh! Há Espíritos no ar,   
 Que flutuam entre o céu e a terra em domínio atuando?   
 Inclinai-vos de vossa atmosfera dourada e levai-me   
@@ -308,14 +310,14 @@ Se eu Possuísse um manto mágico, simplesmente,
 Para transportar-me como que em invisíveis asas, largamente,   
 Muito mais do que custosas vestes eu o prezaria,   
 E nem por um manto real o trocaria".   
-```
+</pre>
 
 Por esperar assim a ajuda dos outros, está condenado à desilusão. Se és Cristo, ajuda-te a ti mesmo", é a regra universal, e a autoconfiança é a virtude fundamental a qual os aspirantes são exortados a cultivar na Escola de Mistérios Ocidental. Ninguém deve apoiar-se nos Mestres ou seguir cegamente os Guias. Os Irmãos da Rosacruz procuram emancipar as almas que a eles recorrem; dispõem-se a orientá-las, fortalecê-las e torná-las co- participantes diretas nesse trabalho. Filantropos não aparecem facilmente e quem pretender do Mestre mais do que uma orientação, terá uma decepção. Não importa as pretensões que alguns mestres possam ter, não importa se eles vêm fisicamente ou como Espíritos, não importa quão espirituais pareçam, os Mestres positivamente não podem fazer por nós as boas ações necessárias para o crescimento anímico, nem dar-nos o conseqüente poder da alma pronto para ser usado, do mesmo modo que não podem conferir-nos força física ingerindo nosso alimento. Na verdade, Fausto, a alma que procura, atrai um Espírito pronto para servi-lo, mas é um Espírito de natureza indesejável: Lúcifer. Quando Fausto pergunta seu nome, ele responde: 
 
-```
+<pre>
 "O Espírito de Negação: a força que mesmo o mal planejando,   
 Para o bem está trabalhando".   
-```
+</pre>
 
 Pessoas ou Espíritos que se dispõem a satisfazer nossos desejos, geralmente têm um fim em vista. 
 
@@ -325,7 +327,7 @@ Atraído pela atitude mental de Fausto, Lúcifer segue-o em seu gabinete. No ch�
 
 O mago negro, que não tem alma nem poder de alma, também usa a força do sexo. Ele deixa e entra em seu corpo pelos pés, o cordão prateado projetando-se do órgão sexual. Portanto, o pentagrama com duas pontas para cima é o símbolo da magia negra. Lúcifer não teve dificuldade para entrar no gabinete de Fausto, mas, quando ele quer sair depois de dialogar com seu interlocutor, uma única ponta barra seu caminho. Ele pede a Fausto para remover o símbolo e este pergunta: 
 
-```
+<pre>
 Fausto: 
 
 "O Pentagrama tua Paz perturba,   
@@ -340,7 +342,7 @@ Lúcifer:
 Por onde entrarmos, por aí sair devemos.   
 Somos livres para a primeira entrada escolher,   
 Mas da segunda, escravos vamos ser".   
-```
+</pre>
 
 Até o ano 33 D.C., Jeová guiou nosso planeta em sua órbita e a humanidade no caminho da evolução, de fora. No Gólgota, Cristo entrou na Terra, que Ele agora guia de dentro, e continuará até que um número suficiente de nossa humanidade tenha desenvolvido a força de alma necessária para pairar na Terra e guiar nossos irmãos mais jovens. Isto requer habilidade para viver em corpos vitais, capazes de levitação. O corpo vital de Jesus, através do qual Cristo entrou na Terra, é Seu único meio de retornar ao Sol. Portanto, o Segundo Advento será no corpo vital de Jesus. 
 

@@ -253,7 +253,7 @@ In the Star of Bethlehem, a mystic fact, we endeavored to give students a glimps
 
 The words of the Earth Spirit to Faust, as given by Goethe, offer splendid material for meditation, for they represent mystically what the candidate feels when he first realizes the actual reality of the Earth Spirit as a living presence, ever actively laboring for our uplift. 
 
-```
+<pre>
 "In the currents of life, in the action of storm 
 I float and wave with billowy motion; 
 Birth and the grave, a limitless ocean; 
@@ -261,13 +261,13 @@ A constant weaving, with change still rife,
 A restless heaving, a glowing life, 
 Time's whizzing loom I've unceasingly trod; 
 Thus weave I the living garment of God." 
-```
+</pre>
 
 Of course, the Earth Spirit is not to be thought of as a larger man, or as having physical form other than the Earth itself. The vital body of Jesus, in which the Christ Spirit was focused prior to its actual ingress into the Earth, has the ordinary human form; it is preserved and is shown to the candidate at a certain point in his progression. Some day in the far future it will again house the benevolent Christ Spirit upon His return from the center of the Earth, when we shall have become etheric, and when He is ready to ascend to higher spheres, leaving us to be taught of the Father, whose religion will be higher than the Christian religion. 
 
 The esoteric truth that when a spirit enters by a certain door, it must also return the same way, is taught by Goethe in connection with the initial appearance of Mephistopheles to Faust. Faust is not upon the regular path of Initiation. He has not earned admission nor the help of the Elder Brothers; he is seeking at the wrong door because of his impatience. Therefore he is spurned by the Earth Spirit and when having seemingly attained, is plunged from the pinnacle of joy to the pit of despair where he realizes that he has in reality failed. 
 
-```
+<pre>
 "I, God's own image, from this toil of clay 
 Already free, who hailed 
 The mirror of eternal truth unveiled, 
@@ -283,24 +283,24 @@ My art was futile to detain thee here.
 Fiercely didst thrust me from the realm of thought, 
 Back on humanity's uncertain fate! 
 Who'll teach me now? What ought I to forego?"  
-```
+</pre>
 
 He thinks the sources of information are exhausted and that he may never attain to the real knowledge. And fearing the dull monotony of a plodding, ordinary existence, he grasps a phial of poison and is about to drink, when songs without, proclaim the risen Christ for it is Easter morning. At the thought, new hope stirs his soul. He is also further disturbed in his purpose by the knocking of Wagner, his friend. 
 
 Walking with the latter, Faust voices the cry of agony wrung from every aspiring soul in the awful struggle between the higher and lower natures. So long as we live worldly lives without higher aspirations, there is peace in our breasts. But once we have sensed the call of the Spirit, our equipoise is gone, and the more ardently we pursue the quest of the Grail, the fiercer is this inner struggle. Paul thought of himself as a wretched man because lower desires in the flesh combated the higher spiritual aspirations. Faust's words are of similar import: 
 
-```
+<pre>
 "Two souls, alas, are housed within my breast, 
 And struggle there for undivided reign; 
 one to the Earth with passionate desire 
 And closely clinging organs still adheres, 
 Above the mists the other does aspire 
 With sacred ardor unto purer spheres." 
-```
+</pre>
 
 But he does not realize that there is no royal road to attainment, that each one must walk the path to peace alone. He thinks that Spirits can give him soul power ready for use: 
 
-```
+<pre>
 "Oh, are there spirits in the air, 
 Who float 'twixt heaven and earth dominion wielding? 
 Stoop hither from your golden atmosphere; 
@@ -309,14 +309,14 @@ A magic mantle did I but possess,
 Abroad to waft me as on viewless wings. 
 I'd prize it far beyond most costly dress, 
 Nor change it for the robe of kings." 
-```
+</pre>
 
 Because of this looking to others he is doomed to disappointment. "If thou art Christ help thyself," is the universal rule, and self-reliance is the cardinal virtue which aspirants are required to cultivate in the Western Mystery School. No one is allowed to lean on masters, nor to blindly follow leaders. The Brothers of the Rose Cross aim to emancipate the soul that come to them; to educate, to strengthen, and to make them co-workers. Philanthropists do not grow on every bush, and whoever looks to a Teacher to do more than point the way, will meet disappointment. No matter what their claims, no matter whether they come in the flesh, or as Spirits, no matter how spiritual they seem, Teachers positively cannot do for us the good deeds requisite to soul growth, assimilate them, nor give us the resulting soul power ready to use, any more than they can impart to us physical strength by eating our food. True, Faust the seeking soul, attracts a Spirit ready to serve him, but it is a Spirit of an undesirable nature, Lucifer. When Faust asks his name, he replies: 
 
-```
+<pre>
 "The Spirit of Negation; the power that still 
 Works for good though scheming ill." 
-```
+</pre>
 
 People or Spirits who offer to gratify our desires usually have an end in view. 
 
@@ -326,7 +326,7 @@ Attracted by the mental attitude of Faust, Lucifer follows him into his study. O
 
 The black magician, who has neither soul nor soul power, also uses the sex force. He leaves and enters the body by way of the feet, the silver cord protruding from the sex organ. Therefore, the pentagram with two points upward is the symbol of black magic. Lucifer had no trouble in entering Faust's study, but when he wishes to leave after speaking with Faust, the single point bars his way. He requests Faust to remove the sign and the latter queries: 
 
-```
+<pre>
 Faust: 
 
 The pentagram your peace does mar, 
@@ -342,7 +342,7 @@ Where we stole in, there we must forth;
 we're free 
 The first to choose, but to the second 
 slaves are we. 
-```
+</pre>
 
 Before A.D. 33 Jehovah guided our planet in its orbit and mankind on the path of evolution from without. On Golgotha, Christ entered the Earth which He now guides from within, and will until a sufficient number of our humanity have evolved the soul power necessary to float the Earth and guide our younger brothers. This requires ability to live in vital bodies, capable of levitation. The vital body of Jesus through which Christ entered the Earth is His only avenue of return to the Sun. Hence the Second Advent will be in Jesus' vital body. 
 

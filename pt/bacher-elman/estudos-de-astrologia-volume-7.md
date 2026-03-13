@@ -7,7 +7,7 @@ author: "Elman Bacher"
 original_source_file: "studies-in-astrology-volume-7.md"
 ---
 
-Estudos de Astrologia - Volume 7</h1>
+<h1 id="studies-in-astrology-volume-7">Estudos de Astrologia - Volume 7</h1>
 
 por Elman Bacher
 
