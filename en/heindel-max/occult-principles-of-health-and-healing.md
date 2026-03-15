@@ -837,12 +837,12 @@ To them were explained the mysteries of the vital body, how it is composed of fo
 
 These facts were kept secret from the masses, as said, or rather they should have been, but some neophytes who were overzealous to attain, no matter how, forgot that it is only by service and unselfishness that the Golden Wedding Garment composed of the two higher ethers is grown. They thought that the occult maxim: 
 
-```
+<pre>
 "Gold in the crucible,
 Wrought in the fire;
 Light as the winds,
 Higher and higher"
-```
+</pre>
 
 meant only that so long as the lower nature, the dross, was expelled, it did not matter how, and if they could find an easy method, they would have left only the gold composed of the two higher ethers, the soul body, in which they could enter the invisible world without let or hindrance. They reasoned that as the chemical ether is the agent of assimilation, it could be eliminated from the vital body by starving the physical vehicle. 
 
@@ -1227,12 +1227,12 @@ As to whether or not we should interfere with destiny, let us first realize who 
 
 As Ella Wheeler Wilcox has expressed in poetic form: 
 
-```
+<pre>
 "One ship sails east and another sails west,
 With the selfsame winds that blow.
 'Tis the set of the sail, and not the gale
 Which determines the way they go."
-```
+</pre>
 
 It is of utmost importance that we set the sails of the barque of life as we want and never scruple about interfering with fate. 
 
