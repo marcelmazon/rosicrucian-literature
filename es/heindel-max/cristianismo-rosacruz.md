@@ -1874,7 +1874,7 @@ Si el interruptor fuera de madera o cristal sería inútil, o mejor dicho, serí
 
 Si nuestras oraciones son egoístas, mundanas y sin consideración para nuestro prójimo son como un interruptor de madera, no sirven para el objeto requerido, porque son contrarias al propósito de Dios. Para que tenga valor la oración debe estar en armonía con la naturaleza de Dios, que es Amor. Las siguientes líneas aparecieron en "London Light" hace algunos años. y han sido atesoradas por el autor como--
 
-```
+<pre>
 UNA ORACIÓN IDEAL
 
 No pido más luz, OH Dios,   
@@ -1901,7 +1901,7 @@ Para que ame la pureza y busque el bien,
 Para elevar con mi pleno poder   
 A todas las almas para que vivan en armonía   
 A la luz de una perfecta libertad.   
-```
+</pre>
 
 Esta clase de oración ennoblece, eleva al hombre, y cuanto más se cultiven y mantengan esas sublimes aspiraciones, tanto más se libertan los dos éteres superiores del cuerpo vital, y por eso las iglesias dicen: orad, orad. Y están en lo cierto y dentro de las enseñanzas ocultas, pues de esa manera se obra sobre el cuerpo vital mediante la repetición constante de esas altas aspiraciones; y antes de que podamos seguir el sendero oculto es necesario que haya la debida laxitud o desconexión entre los éteres superiores e inferiores, para que podamos funcionar fuera, dejando el cuerpo denso al cuidado de los dos éteres inferiores. Las perturbaciones de los médiums y de los que desarrollan ciertos aspectos de clarividencia involuntaria dimanan de los ejercicios respiratorios. Cuando esas personas salen de su cuerpo lo hacen involuntariamente, llevándose tres éteres consigo, y por lo tanto no hay algo que cuide del cuerpo en el interín. Siguiendo ese camino se declina mental y moralmente, y a veces resulta la locura. 
 
@@ -1939,7 +1939,7 @@ Nosotros que vivimos bajo condiciones tan complejas, en las que los mataderos se
 
 Dejemos de ocasionar destrucciones semejantes. Tratemos de edificar, de construir y dejemos vivir a todos los seres. Tienen tanto derecho a vivir como nosotros. Ella Wheeler Wilcox describe esa idea en las siguientes hermosas palabras: 
 
-```
+<pre>
 Yo soy la voz de los que no hablan;   
 Y por mí hablarán los que son mudos   
 Y mi voz resonará en los oídos del mundo hasta el cansancio,   
@@ -1957,7 +1957,7 @@ Y lucharé por él sus batallas,
 Y hablaré en defensa   
 Del animal y del ave   
 Hasta que el mundo haga las cosas como se debe.   
-```
+</pre>
 
 Hemos llegado, pues, a un punto tal que podemos comenzar a ver la aplicación que tienen estas cosas a lo que ya hemos visto, en Parsifal y en el Santo Grial. Vemos que la compasión comienza cuando abandonamos nuestros apetitos inferiores. Nos purificamos en pensamiento, deseo y cuerpo, y así podemos seguir ascendiendo. En ese mito, tal como lo presenta Wagner, tenemos una de las más admirables interpretaciones del hecho de que cierta clase entre nosotros puede seguir adelante y convertirse en auxiliares de la humanidad. Parsifal es el hombre que se ha purificado a sí mismo y se ha hecho inofensivo. Esto lo observó y sintió Wagner espiritualmente una mañana de un Viernes Santo en Zurich, donde vio en torno a él a las fuerzas vitales en plena operación. Innumerables simientes estaban brotando alrededor en ese maravilloso flujo de vida, y Wagner se preguntó que relación podía haber entre la muerte del Salvador sobre la cruz y ese brotar de todo en la Naturaleza. Y entonces se encontró con el corazón mismo del Misterio del Santo Grial. 
 
@@ -1979,7 +1979,7 @@ El hombre exhala el venenoso dióxido de carbono, mientras que la planta emite e
 
 Esta concepción está también encerrada en el cáliz que se usa en las iglesias, que alegoriza el ideal por el que debemos luchar, y en Alemán, el cáliz de la comunión tiene el mismo nombre que la vaina de la flor (Kelch. En otros idiomas su nombre tiene también un significado análogo.(*) 
 
-(*)En español se dice el "cáliz" de la flor, también. (N. del T.) 
+() - (*)En español se dice el "cáliz" de la flor, también. (N. del T.) 
 
 Así que el sagrado cáliz de la comunión no es una copa de vino, sino una copa que debemos considerar como receptáculo de la misma esencia de la vida en su prístina pureza; una esencia espiritual estimulante. No el paralizante espíritu que produjo Noé, no el espíritu fermentado de la putrefacción, sino el fluido vivificante que es la sangre de la planta. Ahí tenemos una descripción de uno de los emblemas que los discípulos de los Misterios tienen como ideales para realizarlos. 
 

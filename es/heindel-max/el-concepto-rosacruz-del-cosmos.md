@@ -3,10 +3,11 @@ title: "El Concepto Rosacruz del Cosmos"
 language: "es"
 original_title: "The Rosicrucian Cosmo-Conception"
 original_language: "en"
+author: "Max Heindel"
 original_source_file: "the-rosicrucian-cosmo-conception.md"
 ---
 
-# El Concepto Rosacruz del Cosmos
+<h1 id="the-rosicrucian-cosmo-conception">El Concepto Rosacruz del Cosmos</h1>
 
 o Ciencia Oculta Cristiana
 
@@ -20,25 +21,18 @@ por Max Heindel [1865-1919]
 
 Lema y misión rosacruz:
 
-```
+<pre>
 Una mente pura  
     Un corazón noble  
         Un cuerpo sano  
-```
-
-<img 
-  src="../../assets/rosicrucian-emblem.svg" 
-  alt="Emblema Rosacruz" 
-  width="300"
-/>
+</pre>
 
 THE ROSICRUCIAN FELLOWSHIP  
-P.O. Box 713  
-Oceanside, CA. 92049-0713 USA  
+International Headquarters  
+Mt. Ecclesia  
+Oceanside, California, 91054, USA  
 
-Copyright by The Rosicrucian Fellowship
-
-## Índice de Materias
+### <h3 id="list-of-contents">Índice de Materias</h3>
 
 - [Credo o Cristo](#creed-or-christ)
 - [Una palabra al sabio](#a-word-to-the-wise)
@@ -201,9 +195,9 @@ Copyright by The Rosicrucian Fellowship
 - [Ejercicios Matutinos y Vespertinos para el aspirante Rosacruz](#addendum-a)
 - [¿Que es la Verdad?]()
 
+### <h3 id="creed-or-christ">CREDO o CRISTO</h3>
 
-### CREDO o CRISTO
-
+<pre>
 Ningún hombre ama a Dios si aborrece a sus semejantes,  
 Quien pisotea el corazón o el alma de su hermano;  
 Quien busca encadenar, nublar o ensombrecer la mente  
@@ -245,6 +239,7 @@ Solo hay un camino que conduce hacia los ciclos,
 Este camino es: humana compasión y amor.  
 
 -- Max Heindel  
+</pre>
 
 ### <h3 id="a-word-to-the-wise">UNA PALABRA AL SABIO</h3>
 

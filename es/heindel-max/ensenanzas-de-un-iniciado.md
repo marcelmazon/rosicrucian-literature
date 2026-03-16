@@ -17,7 +17,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">PREFACIO</h3>
+### <h3 id="foreword">Prefacio</h3>
 
 Este volumen de los escritos por Max Heindel, el místico occidental, es el que abarca y encarna los últimos mensajes que envió en cartas mensuales a sus estudiantes. Estas lecciones, reimpresas después de que aquella gran alma fue llamada a un trabajo mayor en los mundos superiores el día 6 de enero de 1919, pueden hallarse en los libros siguientes, además del actual: "Masonería y Catolicismo," "El Velo del Destino," "La Interpretación Mística de Navidad," "Los Misterios de las Grandes Operas," "Recolecciones de un místico" y "Cartas a los Estudiantes." Estos trabajos comprenden las últimas investigaciones de este vidente iluminado. 
 
@@ -29,7 +29,7 @@ Max Heindel, que fue el mensajero elegido y autorizado de la verdadera Fraternid
 
 ### <h3 id="table-of-contents">INDICE DE MATERIAS</h3>
 
-- [PREFACIO](#foreword)  
+- [Prefacio](#foreword)  
 - [Capítulo I: Los días de Noé y de Cristo](#chapter-1)  
 - [Capítulo II: El signo del Maestro](#chapter-2)  
 - [Capítulo III: ¿Qué cosa es un trabajo espiritual?](#chapter-3)  
@@ -48,7 +48,6 @@ Max Heindel, que fue el mensajero elegido y autorizado de la verdadera Fraternid
 - [Capítulo XVI: El método científico del desarrollo espiritual - Segunda Parte: Retrospección. Un medio de evitar el Purgatorio](#chapter-16)  
 - [Capítulo XVII: Los Cielos proclaman la gloria de Dios](#chapter-17)  
 - [Capítulo XVIII: La Religión y la curación](#chapter-18)  
-    - [Los Principios de curación Rosacruces](#)  
 - [Capítulo XIX: Discurso pronunciado con ocasión de iniciar los trabajos de edificación en Mount Reclesia](#chapter-19)  
 - [Capítulo XX: Nuestro trabajo en el mundo (Primera Parte)](#chapter-20)  
 - [Capítulo XXI: Nuestro trabajo en el mundo (Segunda Parte)](#chapter-21)  
@@ -482,9 +481,7 @@ En vez de hacernos abandonar el camino del progreso, nuestros fracasos deberían
 
 Todos conocemos nuestros propios defectos, "los pecados que nos asaltan tan fácilmente," y cada uno tiene que tomar naturalmente las resoluciones propias de su caso. Pero al llevar estas resoluciones a la práctica, para que puedan producir el crecimiento del alma y ayudar a tejer el glorioso traje dorado de bodas, nos será indudablemente de inmenso provecho, el fijar nuestra mirada y pensamiento en alguien que posea la virtud que estamos tratando de cultivar. Este gran ejemplo nos brinda Cristo quien "fue tentado en todas las cosas igual que nosotros, pero sin llegar a pecar." Por esta razón deberíamos tenerla siempre muy cerca de nuestra vista mental durante el año entrante, y con ello tendremos seguramente un gran crecimiento del alma. Al mismo tiempo esta conducta será la mejor propaganda que podamos hacer de las enseñanzas Rosacruces, porque viviendo según ellas provocaremos seguramente en los demás el deseo de participar de sus beneficios. 
 
-### <h3 id="chapter-9">CAPÍTULO IX: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Primera Parte</h3>
-
-#### <h4 id="part-1">RESORTES SECRETOS</h4>
+### <h3 id="chapter-9">CAPÍTULO IX: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Primera Parte - RESORTES SECRETOS</h3>
 
 Es cosa sabida de los estudiantes de las enseñanzas Rosacruces que como espíritus somos inmortales, sin principio ni fin; que hemos ido a la gran escuela de la experiencia durante muchos días de vida en el pasado, vestidos cada vez con el cuerpo de otro niño de textura más y más fina, en el cual hemos vivido durante una temporada, algunas veces de pocas horas, y otras de una vida entera, y cuando un día de esta escuela de la vida se hubo terminado, nos desprendíamos de esta envoltura mortal ya desgastada y decrépita, para volver a nuestro celeste hogar para descansar y asimilar durante la noche de la muerte las lecciones aprendidas, para volver luego a renacer y reanudar nuestras lecciones en el punto donde las habíamos interrumpido la última vez. 
 
@@ -504,9 +501,7 @@ Pero el odio de Aníbal quedó vivo, y cuando él y sus compatriotas renacieron 
 
 Se debe hacer justicia, pero siempre templada con la misericordia, con el fin de evitar la continuación perpetua del odio y por esta razón las medidas tan duras como por ejemplo el boicot industrial, son injustas. Debería ser suficiente procurar que los imperios centrales no obtuviesen del comercio mundial más que una parte equitativa. La nación americana recién formada que no está todavía bajo la dominación de ningún espíritu de raza, ve más imparcialmente, y por ende más claramente, que ninguna otra, lo que es justo. Por esta razón es de desear que las ideas americanas de justicia prevalezcan. Debemos recordar que con una injusticia no será nunca posible corregir otra, y que debemos vivir y dejar vivir. 
 
-### <h3 id="chapter-10">CAPÍTULO X: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Segunda Parte</h3>
-
-#### <h4 id="part-2">SU PRODUCCIÓN DE VISTA ESPIRITUAL</h4>
+### <h3 id="chapter-10">CAPÍTULO X: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Segunda Parte - SU PRODUCCIÓN DE VISTA ESPIRITUAL</h3>
 
 Por extraño que parezca, es un hecho positivo que la gran mayoría de la humanidad está parcialmente dormida la mayor parte del tiempo, a pesar de que sus cuerpos físicos parezcan que están trabajando activamente. Bajo condiciones normales el cuerpo de deseos es generalmente la parte más despierta del complejo hombre que vive casi enteramente en el circulo de sus sensaciones y emociones, y no piensa nunca en el problema de la existencia casi más allá de lo que es necesario para tener el cuerpo unido al alma. La mayoría de esta clase de personas nunca, probablemente, han considerado seriamente las grandes cuestiones de la vida, a saber. ¿de dónde hemos venido?, ¿por qué estamos aquí? y ¿adónde iremos? Sus cuerpos vitales están en constante actividad para reparar los destrozos que produce el cuerpo de deseos en el vehículo físico, y para acumular la vitalidad, que después es despilfarrada por la satisfacción que damos a nuestros deseos y emociones. 
 
@@ -532,9 +527,7 @@ Respecto al segundo proceso de desarrollo del alma que se lleva a cabo entre aqu
 
 "Pero," preguntarán algunos, "¿no olvidarán todo esto cuando la tensión de la guerra haya terminado?" "¿No volverá un gran numero de estos individuos a los mismos hábitos arraigados que tenían antes?. A esto podemos contestar que estamos seguros de que esto es imposible, porque, mientras los vehículos invisibles, especialmente el cuerpo vital, están adormecidos, el hombre puede perseguir una carrera materialista; pero una vez que haya sido despertado este vehículo y haya probado el pan de la vida, está igual que el cuerpo físico sujeto al hombre "hambre del alma" y sus exigencias no podrán ser negadas si no después de una lucha excesivamente dura. En este ultimo caso, naturalmente, se podrán aplicar las palabras de San Pedro: "El ultimo estado del hombre es peor que el primero." Sin embargo, es un consuelo el sentir que de la indescriptible tristeza de la guerra se ha extraído un bien que será duradero. Debemos reunirnos todos y unir nuestras fuerzas y ayudar a extraer este bien, para que seamos ejemplos luminosos que sirvan de guías a los hombres hacia la Edad Futura. 
 
-### <h3 id="chapter-11">CAPÍTULO XI: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Tercera Parte</h3>
-
-#### <h4 id="part-3">PAZ EN LA TIERRA</h4>
+### <h3 id="chapter-11">CAPÍTULO XI: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Tercera Parte - PAZ EN LA TIERRA</h3>
 
 Un mundo cansado de guerra, rojo con la sangre de millones, la esperanza de su porvenir y la flor de sus hombres, está lanzando gemidos de agonía y rogando por la paz, no un armisticio, sino una paz eterna, y esforzándose para resolver el problema de llegar a este fin tan anhelado. Pero la gente que trata así de lograr efectos ignora por lo visto la gran causa que provoca la ferocidad de las masas, que estaba escondida apenas bajo una delgadísima capa de civilización antes de estallar en un volcán de destrucción, como lo hemos visto recientemente 
 
@@ -562,7 +555,7 @@ Pero hay una tercera clase que se da cuenta de que toda vida es la vida de Dios 
 
 Para terminar vamos a citar los inspirados versos de la poetisa Ella Wheeler Wilcox, que son una elocuente llamada a favor de nuestros compañeros mudos, los animales: 
 
-```
+<pre>
 "Yo soy la voz de los que no hablan 
 y por mi hablarán los que son mudos, 
 y mi voz resonará en los oídos del mundo 
@@ -580,11 +573,9 @@ yo lucharé por él sus batallas,
 y haré la defensa 
 del animal y del ave, 
 hasta que el mundo haga las cosas como se debe." 
-```
+</pre>
 
-### <h3 id="chapter-12">CAPÍTULO XII: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Cuarta Parte</h3>
-
-#### <h4 id="part-4">EL EVANGELIO DE LA ALEGRIA</h4>
+### <h3 id="chapter-12">CAPÍTULO XII: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Cuarta Parte - EL EVANGELIO DE LA ALEGRIA</h3>
 
 La reciente lucha titánica entre las naciones europeas ha alterado el equilibrio del mundo entero hasta tal punto que las emociones de las personas que viven en las más remotas regiones de la tierra han sido exaltadas como nunca lo habían sido antes, expresando los distintos pueblos cólera, odio, histerismo o abatimiento, según su naturaleza y temperamento. Es evidente, para todos aquellos que han estudiado los misterios más profundos de la vida y que comprenden el funcionamiento de la ley natural en los mundos espirituales, que los habitantes de las regiones invisibles han sido afectados de un modo quizá aún mayor que los que vivían en cuerpos físicos, los cuales, por su misma densidad, nos impiden el sentir toda la fuerza de las emociones. 
 
@@ -666,9 +657,7 @@ La carnicería en los campos de batalla de Europa nos ha causado espanto, y sobr
 
 Además, debemos comprender que la muerte es una necesidad cósmica en las circunstancias presentes, porque si estuviéramos encarcelados en un cuerpo tal como el nuestro actual, y colocados en unas condiciones como las de nuestra época para vivir así eternamente, las enfermedades del cuerpo y la naturaleza no satisfactoria de estas condiciones que nos rodean, nos harían sentir pronto tal cansancio de la vida que pediríamos a gritos ser libertados de ella. Semejante estado impediría toda clase de progreso y haría imposible para nosotros el evolucionar a mayores alturas, como lo podremos hacer, al contrario, por medio de la reencarnación en nuevos vehículos y colocados en nuevas condiciones de vida que nos facilitarán nuevas posibilidades de crecimiento. Así podemos dar gracias a Dios de que mientras el nacimiento en un cuerpo concreto sea necesario para nuestro futuro desarrollo, nos haya sido concebido el alivio por la muerte para liberarnos del instrumento que ya no sirve a su propósito, Y que la resurrección y un nuevo nacimiento nos faciliten otra ocasión para empezar la vida con una pizarra limpia, y para aprender las lecciones que no habíamos podido aún dominar. Por este método nos haremos algún día perfectos como Cristo resucitado. El lo señaló así, y nos ayudará para poder alcanzarlo. 
 
-### <h3 id="chapter-15">CAPÍTULO XV: EL METODO CIENTIFICO DEL DESARROLLO ESPIRITUAL - Primera Parte</h3>
-
-#### <h4 id="part-5">ANALOGIAS MATERIALES</h4>
+### <h3 id="chapter-15">CAPÍTULO XV: EL METODO CIENTIFICO DEL DESARROLLO ESPIRITUAL - Primera Parte - ANALOGIAS MATERIALES</h3>
 
 Cuando estábamos descendiendo por la involución en la existencia concreta, nuestro progreso estaba basado enteramente en el desarrollo material; pero desde que hemos doblado el nadir de la materialidad y estamos empezando a subir por encima de lo concreto, el desarrollo espiritual está haciéndose más y más importante como factor necesario en nuestro avance, aunque tengamos que aprender aún muchas y grandes lecciones de la fase material de nuestra existencia. Esto se refiere a la humanidad en general, pero particularmente, por cierto, a aquellos individuos que han empezado ya de un modo consciente a aspirar a la vida superior. Por estos motivos puede ser conveniente repasar las enseñanzas Rosacruces desde otro punto de vista, respecto al método científico para adquirir este desarrollo espiritual. 
 
@@ -692,9 +681,7 @@ Pero hay muchas personas que son deficientes en varios sentidos; hay algo, sin e
 
 En el capitulo próximo veremos como por medios científicos el crecimiento del alma puede ser llevado a cabo y un mayor poder desarrollado por un mejoramiento de este proceso. 
 
-### <h3 id="chapter-16">CAPÍTULO XVI: EL METODO CIENTIFICO DEL DESARROLLO ESPIRITUAL - Segunda Parte</h3>
-
-#### <h4 id="part-6">RETROSPECCIÓN: - UN MEDIO DE EVITAR EL PURGATORIO</h4>
+### <h3 id="chapter-16">CAPÍTULO XVI: EL METODO CIENTIFICO DEL DESARROLLO ESPIRITUAL - Segunda Parte - RETROSPECCIÓN: - UN MEDIO DE EVITAR EL PURGATORIO</h3>
 
 En el último capitulo hemos visto que un registro semejante a una película, de toda nuestra vida desde la cuna hasta la tumba, está inscrito en un pequeño átomo en el corazón por la acción del éter que inhalamos con cada respiración, y que lleva consigo una imagen del mundo exterior en el cual vivimos y nos movemos actualmente. Esto forma la base de nuestra existencia después de la muerte, y el recuerdo de las malas acciones se borran de allí en una experiencia penosa purgatorial, causada por el fuego del remordimiento, y que cauteriza al alma a medida que las imágenes de sus malas acciones pasan ante su vista, con el efecto de que esta alma estará menos dispuesta a obrar mal en las vidas futuras. La reacción de las imágenes representando acciones buenas es una alegría celestial, cuyo recuerdo subconsciente inducirá en vidas posteriores al alma a hacer más bien todavía. Pero este proceso es necesariamente lento y puede ser comparado a la manera de funcionar de la rueda del antiguo molino. Sin embargo, este es el camino designado por la naturaleza como enseñanza para la humanidad, para que aprenda a andar con cuidado y a cumplir sus leyes. Por medio de este proceso lento la mayor parte de la humanidad está evolucionando gradualmente del egoísmo al altruismo, y aunque este método sea excesivamente lento, parece ser el único a propósito para que ésta pueda aprenderlo. 
 

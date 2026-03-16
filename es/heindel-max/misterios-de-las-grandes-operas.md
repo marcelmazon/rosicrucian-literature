@@ -9,13 +9,15 @@ original_source_file: "mysteries-of-the-great-operas.md"
 
 <h1 id="mysteries-of-the-great-operas">Misterios de las Grandes Óperas</h1>
 
-Fausto, Parsifal, El Anillo de los Nibelungos, Tannhauser y Lohengrin
-
 por Max Heindel [1865-1919]
 
+Fausto, Parsifal, El Anillo de los Nibelungos, Tannhauser y Lohengrin
+
 THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
 P.O. Box 713  
-Oceanside, CA. 92049-0713 USA  
+Mt. Ecclesia  
+Oceanside, California, 92054, U.S.A. 
 
 ### <h3 id="table-of-contents">ÍNDICE DE MATERIAS</h3>
 
@@ -70,26 +72,22 @@ Siempre ha sido costumbre del autor del presente libro, atenerse lo más estrict
 
 En la primera escena, tres de los Hijos de Dios, Espíritus Planetarios, están representados inclinándose ante el Gran Arquitecto del Universo, y cantando los himnos de las esferas en adoración del Ser Inefable que es la fuente de la vida, el autor de todo lo manifestado. Goethe representa a uno de estos sublimes espíritus de las estrellas diciendo: 
 
-```
+<pre>
 "Une su antiguo ritmo a la armonía  
 de la celeste esfera el sol sereno,  
 y exacto sigue la prescrita vía  
 con los potentes ímpetus del trueno."  
-```
+</pre>
 
-Se han inventado instrumentos científicos modernos, gracias a los cuales se ha logrado transformar ondas de luz en sonido, demostrando así en el mundo físico, la máxima mística de la identidad de estas manifestaciones. Lo que antes era manifiesto solamente al místico, quien era capaz de elevar su conciencia a la Región del Pensamiento Concreto, es ahora también percibido por el hombre científico, La música de las esferas, mencionada públicamente por primera vez por Pitágoras, no se debe por consiguiente considerar como una vaguedad originada en la imaginación calenturienta de los poetas o como la alucinación de un cerebro desequilibrado. 
-
-Goethe quería decir exactamente lo que expresaban sus palabras. Las estrellas tienen cada una su nota-clave y viajan alrededor del sol a velocidades diferentes, de tal modo, que su posición actual no se reproducirá sino después de que hayan pasado veintisiete mil años. Por consiguiente, la armonía de las regiones celestes cambia a cada momento de la vida, y así como esta armonía cambia, así también el mundo modifica sus ideas e ideales. La danza que en su marcha ejecutan los astros al compás de la sinfonía celeste creada por ellos, marca el progreso del hombre en el camino que llamamos evolución. 
+Se han inventado instrumentos científicos modernos, gracias a los cuales se ha logrado transformar ondas de luz en sonido, demostrando así en el mundo físico, la máxima mística de la identidad de estas manifestaciones. Lo que antes era manifiesto solamente al místico, quien era capaz de elevar su conciencia a la Región del Pensamiento Concreto, es ahora también percibido por el hombre científico, La música de las esferas, mencionada públicamente por primera vez por Pitágoras, no se debe por consiguiente considerar como una vaguedad originada en la imaginación calenturienta de los poetas o como la alucinación de un cerebro desequilibrado. Goethe quería decir exactamente lo que expresaban sus palabras. Las estrellas tienen cada una su nota-clave y viajan alrededor del sol a velocidades diferentes, de tal modo, que su posición actual no se reproducirá sino después de que hayan pasado veintisiete mil años. Por consiguiente, la armonía de las regiones celestes cambia a cada momento de la vida, y así como esta armonía cambia, así también el mundo modifica sus ideas e ideales. La danza que en su marcha ejecutan los astros al compás de la sinfonía celeste creada por ellos, marca el progreso del hombre en el camino que llamamos evolución. 
 
 Pero es una idea equivocada el pensar que la armonía constante es agradable. La música emitida de este modo se nos antojaría monótona y nos cansaríamos de esta armonía continua. En efecto, la música perdería su encanto si no hubiese en ella disonancias producidas con frecuentes intervalos. Cuanto más, un compositor. pueda acercarse a la discordancia sin marcarla directamente en la partitura, tanto más placentera será su composición cuando sea interpretada en los instrumentos. Lo mismo pasa con la armonía de las esferas; nunca podríamos llegar a la individualidad y al ser propio, hacia lo cual se esfuerza toda la evolución, sin la discordia divina. 
 
 Por esta razón el Libro de Job designa a Satán como a uno de los Hijos de Dios. Y el mito de Fausto habla de Lucifer como también presente en la asamblea que tiene lugar en la primera parte del drama. De él sale la nota salvadora de disonancia que forma contraste con la armonía celeste; y como la luz más brillante proyecta también la sombra más oscura, la voz de Lucifer encarece la belleza del himno de los cielos. 
 
-Mientras los otros Espíritus Planetarios se inclinan en adoración al contemplar la obra del 
+Mientras los otros Espíritus Planetarios se inclinan en adoración al contemplar la obra del Maestro Arquitecto tal como la revela al Universo, Lucifer hace oír la voz de crítica, de censura, en las siguientes palabras dirigidas contra la obra maestra de Dios, el rey de las criaturas, el hombre: 
 
-Maestro Arquitecto tal como la revela al Universo, Lucifer hace oír la voz de crítica, de censura, en las siguientes palabras dirigidas contra la obra maestra de Dios, el rey de las criaturas, el hombre: 
-
-```
+<pre>
 "Nada digo del sol, astros ni satélites,  
 Yo en el orbe solo veo  
 al mortal y sus reveses.  
@@ -107,13 +105,13 @@ Razón le llama, y le sirve
 para ser el más imbécil  
 de los que orgullosos nombra  
 los irracionales seres."  
-```
+</pre>
 
 Desde el punto de vista de las generaciones pasadas puede sonar esto como un sacrilegio, pero a la luz más clara delos tiempos modernos podemos comprender que basta en un ser tan exaltado como aquel llamado Dios, debe de haber desarrollo. Nos podemos figurar el anhelo de obtener mayores habilidades; la contemplación de universos futuros ofreciendo mayores facilidades para las evoluciones de otros espíritus virginales, que son un resultado de imperfecciones apercibidas en el esquema de manifestación por su exaltado Autor. Además como "en El vivimos y nos movemos y tenemos nuestro ser así la nota discordante lanzada por los espíritus de Lucifer debería también resonar en El. No sería ningún impulso exterior que llamó Su atención hacia los errores o a impulsarle a la obra, sino Su propio divino reconocimiento de una imperfección para ser transformada en un bien mayor. 
 
 En la Biblia leemos que Job era un hombre perfecto, y en el mito de Fausto el que desempeña el papel principal es llamado servidor de Dios, porque naturalmente, el problema del desarrollo, de un mayor crecimiento, debe ser solucionado por los más adelantados. Individuos ordinarios o aquellos que están en un nivel inferior de evolución, tienen aún que pasar por aquel trozo del camino ya atravesado por hombres como Fausto y Job, que son la vanguardia de la raza y que son considerados por el resto de la humanidad del mismo modo como Lucifer les describe, es decir, como locos y extravagantes: 
 
-```
+<pre>
 "Manjares no hay en la tierra  
 que sus labios no desdeñen  
 y al espacio imaginario  
@@ -128,18 +126,18 @@ Y ni el cielo ni la tierra
 juntando todos sus bienes,  
 llenar podrán el vado  
 de su corazón estéril."  
-```
+</pre>
 
 Para tales gentes se debe abrir un camino nuevo y más elevado para ofrecerles mayores oportunidades para su desarrollo y crecimiento: por esta razón, Dios le contesta: 
 
-```
+<pre>
 "Aún hoy, perdida la ruta,  
 me sirve. A sus ojos fieles  
 brillará la luz mañana.  
 Bien el hortelano entiende  
 cuando el botón rompe el árbol,  
 qué fruto ha de prometerse."  
-```
+</pre>
 
 ### <h3 id="chapter-2">CAPÍTULO II: LOS SINSABORES DEL ALMA QUE BUSCA</h3>
 
@@ -435,12 +433,12 @@ Fausto, sin embargo, busca primero de todo la comunicación con el macrocosmos, 
 
 Como queda dicho, empero, es demasiado ignorante para poder retener el dominio con éxito, y el poder del espíritu vence pronto las dificultades dejando a Lucifer en libertad. Pero aunque sale de la habitación de Fausto, vuelve pronto, dispuesto a entrar en tratos con aquella alma anhelante. Hace pasar por delante de la vista de Fausto brillantes imágenes de como podría ser su vida y como podría satisfacer sus pasiones y deseos. Pero Fausto, sabiendo que Lucifer no es desinteresado, pregunta cuál es la compensación que éste pide. Lucifer contesta: 
 
-```
+<pre>
 "Pues bien: aquí he de servirte  
 sin pereza y sin descanso,  
 y tú harás por mí lo mismo  
 cuando estemos allá abajo."  
-```
+</pre>
 
 Fausto mismo añade una condición aparentemente extraña, respecto a la fecha en que el servicio de Lucifer ha de terminar y su propia vida en la tierra llegará a su fin. 
 
@@ -448,7 +446,7 @@ Por extraño que parezca, en la aceptación por parte de Lucifer y en la cláusu
 
 Además, somos todos "constructores del templo," trabajando bajo la dirección de Dios y Sus ministros, las divinas Jerarquías. Si queremos esquivar la tarea que se nos ha dado en la vida, nos hallaremos colocados en condiciones que nos obligarán a conocer la ley. No hay descanso ni paz en el sendero de la evolución, y si buscamos distracción y alegría con exclusión del trabajo de la vida, la muerte hará pronto su aparición. Si alguna vez llegamos a un punto en que estamos dispuestos a ver pasar los horas, punto en que estamos tan satisfechos de las condiciones del momento, que cesamos en nuestros esfuerzos en progresar, nuestra existencia se terminará muy rápidamente. Siempre se ha observado que las personas que se retiran de su negocio para vivir solamente del disfrute de lo que han acumulado, mueren pronto; mientras que el hombre que cambia su profesión por una cosa completamente distinta tiene generalmente una vida más larga. Nada es tan apto para acabar con una existencia como la inactividad. Por esta razón las leyes de la naturaleza quedan manifiestas en el pacto de Lucifer y la condición añadida por Fausto: 
 
-```
+<pre>
 "Sí en el lecho deleitoso  
 logro un punto de descanso,  
 tuyo soy. Si satisfecho  
@@ -464,7 +462,7 @@ doble a muerto la campana,
 párese el vital horario,  
 todo para mi concluya,  
 y comience tu reinado."  
-```
+</pre>
 
 Lucifer pide a Fausto que firme con una gota de sangre. Y cuando le pregunta el porqué, Mefistófeles dice astutamente: "La sangre es una esencia sumamente singular." La Biblia dice que es el asiento del alma. 
 
@@ -474,9 +472,7 @@ Cuando se extrae sangre del cuerpo humano y se coagula, cada partícula es de un
 
 En efecto, la sangre es una esencia muy singular, tan importante en la magia blanca como en la negra. Todo conocimiento, usado en cualquier sentido, tiene que tener su base forzosa-. mente en la vida física, la cual, por su lado, se deriva primordialmente de los extractos del cuerpo vital, es decir, de la fuerza sexual y de la sangre. Todo conocimiento que no está de este modo alimentado y robustecido, es letra muerta y tan impotente como la filosofía que Fausto había sacado de sus libros. No hay libro que de por sí sea suficiente. Solamente en la medida que llevamos el saber adquirido así a la práctica de la vida, alimentándolo y viviéndolo, su valor se hace real. 
 
-Pero hay esta gran diferencia: mientras el aspirante de las escuelas de la Ciencia Sagrada, alimenta su alma con su propia fuerza sexual y sus pasiones inferiores con su propia sangre, la que transforma y limpia de esta manera, los adeptos de la escuela negra viven como vampiros de la fuerza sexual de otros y de la sangre impura sacada de las venas de sus víctimas. 
-
-En el Castillo del Grial, vemos como la sangre limpia y purificante produce milagros en aquellos que eran castos y aspiraban a las grandes hazañas; pero en el Castillo de Herodes, la personificación de la voluptuosidad de Salomé, es la causa de que la sangre llena de pasión corra alborotadamente por las venas de los asistentes, y que la sangre goteando de la cabeza del Bautista martirizado, sirviese para conferirles el poder que ellos, por cobardía, no habían adquirido por el sufrimiento ni por la corrección de sus impurezas. 
+Pero hay esta gran diferencia: mientras el aspirante de las escuelas de la Ciencia Sagrada, alimenta su alma con su propia fuerza sexual y sus pasiones inferiores con su propia sangre, la que transforma y limpia de esta manera, los adeptos de la escuela negra viven como vampiros de la fuerza sexual de otros y de la sangre impura sacada de las venas de sus víctimas. En el Castillo del Grial, vemos como la sangre limpia y purificante produce milagros en aquellos que eran castos y aspiraban a las grandes hazañas; pero en el Castillo de Herodes, la personificación de la voluptuosidad de Salomé, es la causa de que la sangre llena de pasión corra alborotadamente por las venas de los asistentes, y que la sangre goteando de la cabeza del Bautista martirizado, sirviese para conferirles el poder que ellos, por cobardía, no habían adquirido por el sufrimiento ni por la corrección de sus impurezas. 
 
 Fausto trata de obtener poderes rápidamente por la ayuda de otros y de este modo llega al punto peligroso; lo mismo como hoy en día hacen todos aquellos que corren detrás de algunos que se llaman a sí mismos "adeptos" o maestros los cuales están siempre dispuestos a satisfacer los más bajos apetitos de sus crédulas víctimas, igual como Lucifer se ofrece a servir a Fausto. Pero no pueden dar poderes del alma, digan lo que digan, porque éstos vienen de adentro, por medio de continua persistencia en hacer el bien; un hecho cuya importancia no se repetirá nunca bastante. 
 
@@ -484,7 +480,7 @@ Fausto trata de obtener poderes rápidamente por la ayuda de otros y de este mod
 
 En un acceso de temeridad, Fausto contesta alegremente a la petición de Lucifer de firmar el pacto con sangre, diciendo: 
 
-```
+<pre>
 "No temas que el pacto rompa:  
 todas las faenas del ánimo  
 rindo, entrego y comprometo,  
@@ -501,17 +497,20 @@ Templen los blandos deleites
 las vivas llamas en que ardo,  
 y envueltos en gasas de oro  
 vengan, Magia, tus encantos"  
-```
+</pre>
 
 Habiendo sido desdeñado por los espíritus del bien y estando por otro lado impulsado por el deseo de obtener un conocimiento directo y un poder real, está dispuesto a ir hasta donde sea preciso. Pero en el prólogo, Goethe había puesto en boca de Dios estas palabras: 
 
-"En su más profunda aberración, el hombre bueno conoce aún el camino que conduce aun la salvación." 
+<pre>
+"En su más profunda aberración, el hombre bueno 
+conoce aún el camino que conduce aun la salvación." 
+</pre>
 
 Fausto es el alma aspirante: y el alma no puede estar permanentemente desviada del sendero de la evolución. 
 
 La indicación que Fausto hace de los propósitos que le animan, es prueba de que su ideal es elevado y aun cuando con miras reverentes, lo que anhela es experiencia. 
 
-```
+<pre>
 De felicidad no te hablo:  
 lo que yo quiero es el vértigo.  
 el goce inquieto y amargo,  
@@ -529,20 +528,18 @@ convertirlo y apropiármelo.
 la Humanidad en mí abarco,  
 y al fin y a la postre, como ella,  
 choco, reviento y estallo!"  
-```
+</pre>
 
 Antes de que alguien pueda ser verdaderamente compasivo, tiene que sentir como Fausto desea sentir, la profundidad de los pesares del alma humana, lo mismo que sus alegrías más exuberantes; porque solamente cuando conocemos estos extremos de la pasión humana podemos sentir aquella compasión que es necesaria para los que quieren cooperar a la elevación de la humanidad. Con la ayuda de Lucifer, Fausto queda capacitado para conocer a fondo la alegría y" la tristeza, y así Lucifer revela y manifiesta sus características cuando dice: 
 
-```
+<pre>
 "El poder que hace el bien  
 aun queriendo hacer el mal."  
-```
+</pre>
 
 Por la intervención de los espíritus de Lucifer en el esquema de la evolución, las pasiones de la humanidad fueron encendidas, intensificadas y conducidas por un canal que han causado todos los pesares y sufrimientos en el mundo. Sin embargo, así ha sido despertada la individualidad del hombre, libertando a éste de la tutela conductora de los ángeles. Fausto igualmente, con la ayuda de Lucifer, es guiado fuera de los caminos convencionales, y de este modo se personaliza. Cuando vemos cerrado el pacto entre Fausto y Lucifer, tenemos la réplica de los Hijos de Caín, quienes son los descendientes y pupilos de los Espíritus de Lucifer, como hemos visto en "Masonería y Catolicismo. 
 
-En la tragedia de Fausto, Margarita es la pupila de loe Hijos de Seth, la casta sacerdotal descrita en la leyenda masónica. 
-
-Ahora tienen que encontrarse las dos clases representadas por Fausto y Margarita y entre ellas será representada la tragedia de la vida, y de los pesares que cada uno ha de sufrir, el alma se forjará las alas que la elevarán otra vez a las regiones gloriosas de donde ha Venido. Entre tanto Lucifer conduce a Fausto a la cocina de las brujas donde recibirá el elixir de juventud, para que, rejuvenecido, pueda ser deseable a la vista de Margarita. 
+En la tragedia de Fausto, Margarita es la pupila de loe Hijos de Seth, la casta sacerdotal descrita en la leyenda masónica. Ahora tienen que encontrarse las dos clases representadas por Fausto y Margarita y entre ellas será representada la tragedia de la vida, y de los pesares que cada uno ha de sufrir, el alma se forjará las alas que la elevarán otra vez a las regiones gloriosas de donde ha Venido. Entre tanto Lucifer conduce a Fausto a la cocina de las brujas donde recibirá el elixir de juventud, para que, rejuvenecido, pueda ser deseable a la vista de Margarita. 
 
 Cuando la tragedia se representa en el teatro, la cocina de brujas está llena de instrumentos que se supone que son usados para las obras de magia. Un fuego del infierno arde debajo de un caldero en el cual se hacen mezclas de pociones amorosas, añadiéndose algunas otras cosas fantásticas. Pero los objetos inanimados importan poco y podemos pasar adelante aun sin nombrarlos y vamos a mirar, con más provecho, lo que puede significar la familia de monos que vemos allí, porque ellos también representan una fa. de la evolución humana. 
 
@@ -550,11 +547,14 @@ Llena de una pasión encendida por los espíritus de Lucifer, o ángeles caídos
 
 Hubo un momento en el que toda la humanidad estuvo en el punto donde los hombres de ciencia creen que existía el eslabón que falta. Los qué hoy son monos, degeneraron desde aquel estado, mientras que la familia humana evolucionó a su estado actual de desarrollo. Sabemos como la satisfacción de las pasiones embrutece a los que se entregan a ella; y fácilmente podemos imaginarnos qué en un tiempo en que el hombre estaba aún desarrollándose, no individualizado, y bajo la vigilancia directa de fuerzas cósmicas, esta gratificación hubiera carecido del freno de la consciencia de sí mismo, el que hoy nos impone cierta moderación. Pon consiguiente, los multados habrían sido entonces de mucho más alcance y más desastrosos. 
 
-Algún día, el alma aspirante tiene que entran en la cocina de la bruja como lo hizo Fausto, y afrontar la lección material de las consecuencias del mal, como nos las enseñan los monos. 
+Algún día, el alma aspirante tiene que entran en la cocina de la bruja como lo hizo Fausto, y afrontar la lección material de las consecuencias del mal, como nos las enseñan los monos. Entonces el alma se queda sola para encontrarse con Margarita en el jardín, para tentar y ser tentada, para escoger entre pureza y pasión. para caer como hizo Fausto o para hacerse campeón de la pureza como lo hizo Parsifal. Bajo la ley de la compensación, el alma recibirá entonas su recompensa pon todo lo hecho en el cuerpo físico. En efecto, la suerte es melliza del mérito, como Lucifer hace ven a Fausto: la verdadera sabiduría se adquiere solamente por una paciente persistencia en hacer el bien. 
 
-Entonces el alma se queda sola para encontrarse con Margarita en el jardín, para tentar y ser tentada, para escoger entre pureza y pasión. para caer como hizo Fausto o para hacerse campeón de la pureza como lo hizo Parsifal. Bajo la ley de la compensación, el alma recibirá entonas su recompensa pon todo lo hecho en el cuerpo físico. En efecto, la suerte es melliza del mérito, como Lucifer hace ven a Fausto: la verdadera sabiduría se adquiere solamente por una paciente persistencia en hacer el bien. 
-
-"Cuán estrechamente unida está la suerte al mérito, cosa que no concibe el ignorante. Si éste tuviera la piedra filosofal, yo lo aseguro, la piedra no tendría al filósofo" 
+<pre>
+"Cuán estrechamente unida está la suerte al mérito, 
+cosa que no concibe el ignorante. 
+Si éste tuviera la piedra filosofal, yo lo aseguro, 
+la piedra no tendría al filósofo" 
+</pre>
 
 Fiel a su propósito de estudiar la vida en vez de los libros, Fausto pide a Lucifer que procure que se le admita en casa de Margarita y trata de ganan su afecto pon un espléndido regalo de alhajas introducido clandestinamente en su gabinete pon Lucifer. El hermano de Margarita está ausente combatiendo por su patria. Su madre no es capaz de decidir lo que conviene hacer con el regalo y lo lleva a la iglesia para enseñarlo a su director espiritual. Este aprecia las piedras preciosas más que las pobres almas confiadas a su cuidado. Desatiende su deber pon un collar de perlas, más ansioso de posesionarse de las joyas para adornan un ídolo, que de preservar a una hija, de la iglesia contra los peligros morales que la rodean. Así Lucifer sale vencedor y cosecha rápidamente un premio de sangre y de almas humanas, porque, con el fin de obtener acceso al gabinete de Margarita, Fausto la induce a dar a su madre una poción para hacerla dormir, la cual provoca su muerte. Valentino, el hermano de Manganita, es matado por Fausto. Margarita misma es llevada a la cárcel y condenada a la última pena. 
 
@@ -562,12 +562,12 @@ Si recordamos que la sangre es el asiento del alma y que se adhiere a la carne d
 
 Apreciando como es debido esta circunstancia, Goethe escribía: 
 
-```
+<pre>
 "El que nunca comió su pan con sollozos,  
 el que nunca pasó las horas de la noche  
 llorando, y aguardando por el alba,  
 no os conoce, Oh potestades celestes."  
-```
+</pre>
 
 ### <h3 id="chapter-6">CAPÍTULO VI: LAS CONSECUENCIAS DEL PECADO Y LOS CAMINOS DE SALVACIÓN</h3>
 
@@ -577,13 +577,7 @@ Si el sacerdote hubiese buscado la seguridad de Margarita en vez de codiciar las
 
 Cuando estamos en e! Lodazal de la desesperación. empezamos a darnos cuenta de nuestro alto parentesco y exclamamos: Quiero levantarme y volver a mi Padre." El hecho de pertenecer a una iglesia o de estudiar el misticismo desde un punto de vista intelectual, no nos facilita la clara comprensión de "adónde," lo cual es necesario antes de que podamos seguir el sendero. Pero cuando estamos faltos de toda ayuda terrestre; cuando estamos enfermos. y encarcelados, estamos más cerca y somos queridos del Salvador que en cualquier otro momento. Por consiguiente, Margarita en la cárcel y execrada por la sociedad, está más cerca de Dios que la inocente, bella y pura Margarita, que tenía todo el mundo a ni alcance cuando se encontró con Fausto en el jardín. 
 
-Cristo no tiene nada que decir a los que están satisfechos y aman al mundo y a sus placeres. Mientras estén en esta condición de ánimo, El no les puede hablar, ni pueden ellos oír su voz. Pero hay una infinita ternura en las palabras del Salvador: 
-
-```
-"Venid hacía mi todos los que estáis tristes y apesadumbrados. Yo os quiero dar reposo." 
-```
-
-El alma pecadora. simbolizada por Margarita en la celda de su prisión, estando sola, desterrada de la sociedad como una leprosa moral y social, se siente, impelida a dirigir su mirada hacía arriba y su oración no es en vano. Pero, sin embargo, hasta el último momento las tentaciones asedian al alma que busca. EL portal del infierno y el portal del cielo están igualmente cerrados por la celda de la cárcel de Margarita. como queda lustrado por la visita de Fausto y Lucifer que tratan de sacarla de allí y de impedir su muerte inminente para llevarla a una vida de vergüenza ¡y de servidumbre. Pero ella no vacila: prefiere la cárcel y la muerte a la vida y a la libertad en compañía de Lucifer. De este modo resiste la prueba y se hace acreedora al Reino de Dios. 
+Cristo no tiene nada que decir a los que están satisfechos y aman al mundo y a sus placeres. Mientras estén en esta condición de ánimo, El no les puede hablar, ni pueden ellos oír su voz. Pero hay una infinita ternura en las palabras del Salvador: "Venid hacía mi todos los que estáis tristes y apesadumbrados. Yo os quiero dar reposo." El alma pecadora. simbolizada por Margarita en la celda de su prisión, estando sola, desterrada de la sociedad como una leprosa moral y social, se siente, impelida a dirigir su mirada hacía arriba y su oración no es en vano. Pero, sin embargo, hasta el último momento las tentaciones asedian al alma que busca. EL portal del infierno y el portal del cielo están igualmente cerrados por la celda de la cárcel de Margarita. como queda lustrado por la visita de Fausto y Lucifer que tratan de sacarla de allí y de impedir su muerte inminente para llevarla a una vida de vergüenza ¡y de servidumbre. Pero ella no vacila: prefiere la cárcel y la muerte a la vida y a la libertad en compañía de Lucifer. De este modo resiste la prueba y se hace acreedora al Reino de Dios. 
 
 Salomón era el siervo de Jehová, y como hijo de Seth estaba ligado al Dios que le creó a él y a sus antepasados. Pero en una vida posterior. como Jesús, dejó a su antiguo Señor en el momento del Bautismo y entonces recibió el Espíritu de Cristo, así. igualmente cada Hijo de Seth tiene algún día que dejar a sus guardianes y colocarse del lado de Cristo. sin considerar el sacrificio que esto signifique, aunque su precio sea la vida. 
 
@@ -593,16 +587,12 @@ En la segunda parte del drama hallamos a Fausto desesperado a causa del desastre
 
 No satisfecho, sin embargo, de servir a otro bajo las condiciones existentes, Fausto se vale de las fuerzas diabólicas que están en su mano para crear una tierra, hacerla salir del mar y hacer una Nueva Tierra. Sueña un sueño utópico, de como esta tierra libre ha de ser el hogar de un pueblo libre que habitará allí en paz y abundancia, alcanzando los más altos ideales de la vida. 
 
-Estos ideales son generados en su alma por el amor de un carácter llamado Helena, que es un amor de la naturaleza más elevada y espiritual, y enteramente separado de la idea de sexo y pasión. En el curso del tiempo él ve como el país sale del mar. pero sus ojos, poco a poco quedan ciegos, porque él está cambiando su mirada de una condición terrestre en otra celeste. Mientras está así observando a las fuerzas dirigidas por Lucifer, trabajando a su requerimiento día y noche. Fausto comprende que él ha realizado la pretensión de Lucifer, de ser: 
-
-```
-"El poder que obra el bien  
+Estos ideales son generados en su alma por el amor de un carácter llamado Helena, que es un amor de la naturaleza más elevada y espiritual, y enteramente separado de la idea de sexo y pasión. En el curso del tiempo él ve como el país sale del mar. pero sus ojos, poco a poco quedan ciegos, porque él está cambiando su mirada de una condición terrestre en otra celeste. Mientras está así observando a las fuerzas dirigidas por Lucifer, trabajando a su requerimiento día y noche. Fausto comprende que él ha realizado la pretensión de Lucifer, de ser: "El poder que obra el bien  
 aunque plantando el mal."  
-```
 
 El ve como su trabajo con las fuerzas inferiores se acerca a su acabamiento completo, pero su vista se hace cada vez más nublada, y con aquel anhelo intenso que llena el alma cuando quiere ver el fruto de sus obras, desea poder conservar La vista hasta que todo esté concluido y que su sueño utópico se haya convertido en realidad. Por esta razón, a medida que la visión delante de él — la tierra saliendo del mar y la gente dichosa que vive en ella en buena armonía y fraternidad — desaparece de sus ojos sin vista, pronuncia las palabras fatídicas que dijo al hacer el pacto con Lucifer: 
 
-```
+<pre>
 "Si algún día. embelesado,
 al momento fugitivo
 digo: "Ten el vuelo raudo,"
@@ -612,11 +602,11 @@ doble a muerto la campana,
 párese el vital horario.
 todo para mí concluya.
 y comience tu reinado"
-```
+</pre>
 
 Según las condiciones de aquel pacto, cuando Fausto ha pronunciado las palabras fatídicas. las fuerzas del infierno dejan de estarle sometidas, y él a su vez se convierte en esta presa; por lo menos así debería ser aparentemente. Pero Fausto no deseaba parar la marcha del tiempo con el fin de gozar de placeres sensuales ni de satisfacer deseos egoístas, tales como los dejaba entrever el pacto, sino que era para la realización de un ideal altruista y noble que él deseaba parar la hora del reloj. Por consiguiente, él está libre de Lucifer; y una batalla entre las fuerzas angelicales y las huestes de Lucifer tiene como resultado final el triunfo de los ángeles, que llevan al alma que busca al puerto de reposo en el reino dc Cristo, mientras cantan: 
 
-```
+<pre>
 "Salvado está del mal  
 el noble hijo del mundo espiritual.  
 "el que se esfuerza con constante afán;"  
@@ -625,13 +615,13 @@ y si el Amor de los ciclos
 también le ha asistido,  
 los ángeles van a su encuentro  
 dándole cordial bienvenida."  
-```
+</pre>
 
 Así resulta que el Fausto del mito es un carácter enteramente distinto del Fausto del teatro, y el drama que empieza en el cielo donde se le da permiso a Lucifer para tentarle, como Job fue tentado antiguamente, también termina el cielo cuando la tentación ha sido sufrida victoriosamente y el alma ha vuelto a su Padre. 
 
 Goethe, el gran místico, termina su obra muy apropiadamente con una estrofa, la más mística que hallarse pueda en cualquier literatura: 
 
-```
+<pre>
 "Todo lo perecedero  
 solo es en apariencia;  
 lo inasequible  
@@ -640,13 +630,11 @@ lo indescriptible
 aquí esta realizado  
 lo Eterno-Femenino  
 nos atrae hacia arriba,  
-```
+</pre>
 
 Esta estrofa confunde a todos los que no están capacitados para penetraren las regiones donde, según la idea del autor está cantada, es decir, en el cielo. 
 
-Habla de todo lo perecedero como siendo solamente una apariencia, esto quiere decir que las formas materiales sujetas a muerte y transformación no son más que una semejanza del arquetipo visto en el cielo: Lo inasequible aquí acontece" — lo que parecía imposible en la Tierra se realiza en cielo, Nadie sabe esto mejor que el que está capacitado para funcionar en aquella región, porque allí toda aspiración superior halla fruición. Los anhelos indescriptibles, las elevadas ideas y experiencias del alma, las que ella no puede siquiera expresar a ella misma, están claramente definidas en el cielo. Lo Eterno Femenino, la gran Fuerza Creadora en la naturaleza, el Dios Madre, que nos lleva siempre hacia arriba en el sendero de la evolución, se convierte aIlí en tina realidad. 
-
-Así es como ci mito de Fausto nos cuenta la historia del Templo del Mundo, que están construyendo las dos clases de gente y que será finalmente el Nuevo Cielo y la Nueva Tierra según la profecía del Libro de los Libros. 
+Habla de todo lo perecedero como siendo solamente una apariencia, esto quiere decir que las formas materiales sujetas a muerte y transformación no son más que una semejanza del arquetipo visto en el cielo: Lo inasequible aquí acontece" — lo que parecía imposible en la Tierra se realiza en cielo, Nadie sabe esto mejor que el que está capacitado para funcionar en aquella región, porque allí toda aspiración superior halla fruición. Los anhelos indescriptibles, las elevadas ideas y experiencias del alma, las que ella no puede siquiera expresar a ella misma, están claramente definidas en el cielo. Lo Eterno Femenino, la gran Fuerza Creadora en la naturaleza, el Dios Madre, que nos lleva siempre hacia arriba en el sendero de la evolución, se convierte aIlí en tina realidad. Así es como ci mito de Fausto nos cuenta la historia del Templo del Mundo, que están construyendo las dos clases de gente y que será finalmente el Nuevo Cielo y la Nueva Tierra según la profecía del Libro de los Libros. 
 
 <h2 id="parsifal">Parsifal</h2>
 
@@ -676,9 +664,9 @@ Lo mismo como el mundo material es la base de aprovisionamiento del cual se ha s
 
 Esta realización de la naturaleza de la música, es necesaria para la debida apreciación de una obra maestra tan grande como el Parsifal de Ricardo Wágner, donde la música y los caracteres están íntimamente ligados como en ninguna otra producción musical moderna. 
 
-El drama de Wágner está basado en la leyenda de Parsifal, que tiene su origen envuelto en el misterio, en cuya sombra se ha desenvuelto la infancia de la raza humana. 
+El drama de Wágner está basado en la leyenda de Parsifal, que tiene su origen envuelto en el misterio, en cuya sombra se ha desenvuelto la infancia de la raza humana. Es un error el pensar que un mito es una ficción de la imaginación humana, sin tener ninguna base fundamental. Al contrario un mito es un estuche que condene a veces, las más preciosas joyas de verdades espirituales perlas de una belleza tan rara y etérea que no pueden ser expuestas al intelecto material. A fin de protegerlas y permitir al mismo tiempo que ejerzan su influencia sobre la humanidad para su desarrollo espiritual, los Grandes Instructores que guían la evolución, invisibles pero poderosos, facilitan estas verdades espirituales a la humanidad naciente, encajadas en el simbolismo pintoresco de los mitos, de modo que puedan obrar sobre nuestros sentimientos hasta el momento en que nuestra inteligencia en formación esté suficientemente desenvuelta y espiritualizada, para que podamos sentir y saber sin más ayuda. 
 
-Es un error el pensar que un mito es una ficción de la imaginación humana, sin tener ninguna base fundamental. Al contrario un mito es un estuche que condene a veces, las más preciosas joyas de verdades espirituales perlas de una belleza tan rara y etérea que no pueden ser expuestas al intelecto material. A fin de protegerlas y permitir al mismo tiempo que ejerzan su influencia sobre la humanidad para su desarrollo espiritual, los Grandes Instructores que guían la evolución, invisibles pero poderosos, facilitan estas verdades espirituales a la humanidad naciente, encajadas en el simbolismo pintoresco de los mitos, de modo que puedan obrar sobre nuestros sentimientos hasta el momento en que nuestra inteligencia en formación esté suficientemente desenvuelta y espiritualizada, para que podamos sentir y saber sin más ayuda. Exactamente lo mismo como damos a nuestros hijos enseñanzas morales por media de libros ilustrados de hadas, reservando la enseñanza más directa para los años venideros. 
+Exactamente lo mismo como damos a nuestros hijos enseñanzas morales por media de libros ilustrados de hadas, reservando la enseñanza más directa para los años venideros. 
 
 Wagner hizo más que copiar tan solo la leyenda. Las leyendas. como todo lo demás, se encostran a fuerza de transmisión y pierden la belleza y esto es otra evidencia de la grandeza de Wágner, que nunca fue cohibido ni limitado en la libre expresión de su genio por la moda imperante ni por las creencias de ni su clase. El mantuvo siempre las prerrogativas del arte, empleando y sirviéndose de las alegorías de un modo libre y sin trabas. 
 
@@ -686,13 +674,18 @@ En su tratado "Religión y arte dice: Se podría decir que cuando la religión s
 
 Volviendo ahora al drama de Parsifal, vemos que la escena de entrada está localizada en las tierras del Castillo de Mont-Salvat. Es un lugar de paz donde la vida toda es sagrada: fieras y aves son dóciles y mansas, puesto que, igual que todos los hombres realmente santos, los Caballeros son inofensivos, no matando ni para comer ni por deporte. Ellos aplican el lema Vivid y dejad vivir a todas las criaturas sin excepción. 
 
-Amanece, y apercibimos a Gurnemanz, el más viejo de los Caballeros del Grial, con dos jóvenes caballeros balo un árbol. Acaban de despertar de su sueño y a lo lejos están viendo acercarse a Kundry que viene galopando sobre un corcel salvaje. 
-
-En Kundry vemos a una criatura de dos existencias. una como servidora del Grial, dispuesta y afanosa para fomentar los intereses de los Caballeros del Grial por todos los medios a su alcance; ésta parece ser su verdadera naturaleza. En la otra existencia ella es, contra su Voluntad. la esclava del mago Klingsor y es forzada por a tentar y perturbar a los Caballeros del Grial, a los cuales ella quisiera servir con verdadero afán. La transición que conduce de una existencia a la otra es "el sueño," y ella se ve forzada a servir a aquel quien la encuentre y la despierte. Cuando Gurnemanz la encuentra es la sincera servidora del Grial, pero cuando Klingsor la evoca por su magia negra, él tiene derecho a hacerse servir por ella quieras que no. 
+Amanece, y apercibimos a Gurnemanz, el más viejo de los Caballeros del Grial, con dos jóvenes caballeros balo un árbol. Acaban de despertar de su sueño y a lo lejos están viendo acercarse a Kundry que viene galopando sobre un corcel salvaje. En Kundry vemos a una criatura de dos existencias. una como servidora del Grial, dispuesta y afanosa para fomentar los intereses de los Caballeros del Grial por todos los medios a su alcance; ésta parece ser su verdadera naturaleza. En la otra existencia ella es, contra su Voluntad. la esclava del mago Klingsor y es forzada por a tentar y perturbar a los Caballeros del Grial, a los cuales ella quisiera servir con verdadero afán. La transición que conduce de una existencia a la otra es "el sueño," y ella se ve forzada a servir a aquel quien la encuentre y la despierte. Cuando Gurnemanz la encuentra es la sincera servidora del Grial, pero cuando Klingsor la evoca por su magia negra, él tiene derecho a hacerse servir por ella quieras que no. 
 
 En el primer acto, Kundry está vestida con una túnica de piel de serpiente, símbolo de la doctrina del renacimiento, porque lo mismo como la serpiente echa su piel, capa tras capa, exudándola de su cuerpo, también el ego, en su peregrinación evolucionaría, emana de si mismo un cuerpo detrás del otro, echando fuera cada vehículo como la serpiente echa su piel, cuando se ha endurecido y cristalizado hasta el punto de perder su eficacia. Esta idea corre parejas con la enseñanza de la ley de Consecuencia, la cual nos trae el fruto de todo lo que hemos sembrado lo que halla su expresión en la respuesta de Gurnemanz a la manifestación de desconfianza en Kundry por parte del joven caballero: 
 
-"Es posible, que ella este bajo el efecto de una maldición lanzada contra ella en una vida pasada y oculta a nuestra vista, y que trate de liberarse de las consecuencias del pecado por medio de buena obras. Es seguramente el bien lo que ella persigue, ayudándose así a si misma mientras nos está sirviendo" 
+<pre>
+"Es posible, que ella este bajo el efecto de una maldición lanzada contra ella 
+en una vida pasada y oculta a nuestra vista, 
+y que trate de liberarse de las consecuencias del pecado 
+por medio de buena obras. 
+Es seguramente el bien lo que ella persigue, 
+ayudándose así a si misma mientras nos está sirviendo" 
+</pre>
 
 Cuando Kundry entra en escena saca de su seno una redomita la cual, según dice, ha traído de Arabia, y cree que contiene un bálsamo para la herida de Amfortas, el Rey del Grial, herida que le hace sufrir de un modo indecible, y que no se puede curar. Después traen al rey dolorido medio acostado en un lecho. Le llevan a tomar su baño diario en un lago próximo, donde nadan dos cisnes, convirtiendo el agua en una loción curativa que alivia su horroroso sufrimiento. Amfortas da las gracias a Kundry, pero expresa la opinión de que no puede curarse hasta tanto que no venga el salvador del cual el Grial ha dicho que sera "un tonto virgen, iluminado por la piedad." Pero Amfortas cree que la muerte vendrá antes que la curación. 
 
@@ -704,39 +697,34 @@ Se llevan a Amfortas y cuatro de los jóvenes caballeros rodean a Gurnemanz y le
 
 "Entre tanto Títuriel había cedido el cargo de guardián del Grial a su hijo Amfortas y éste, viendo el mal causado por Klingsor, se decidió a ir a su encuentro para combatir con él. Y a este fin llevó consigo la lanza sagrada. 
 
-"El cauteloso Klingsor no fue personalmente al encuentro de Amfortas. sino que evocó a Kundry y la transformó de criatura repugnante que era como servidora del Grial, en una mujer de belleza trascendental. Bajo el hechizo de Klingsor ella salió al encuentro y tentó a Amfortas, el cual se rindió y cayó en sus brazos, dejando escapar de sus manos la lanza sagrada. 
-
-"Entonces apareció Klingsor, cogió la lanza, hirió con ella al indefenso Amfortas y si no huhiera sido por los heroicos esfuerzos de Gurnemanz, se hubiese llevado prisionero a Amfortas. Pero Klingsor pudo quedarse con la lanza, sin embargo y el rey está inutilizado por el sufrimiento y sin que haya esperanzas de que la herida se cure." 
+"El cauteloso Klingsor no fue personalmente al encuentro de Amfortas. sino que evocó a Kundry y la transformó de criatura repugnante que era como servidora del Grial, en una mujer de belleza trascendental. Bajo el hechizo de Klingsor ella salió al encuentro y tentó a Amfortas, el cual se rindió y cayó en sus brazos, dejando escapar de sus manos la lanza sagrada. "Entonces apareció Klingsor, cogió la lanza, hirió con ella al indefenso Amfortas y si no huhiera sido por los heroicos esfuerzos de Gurnemanz, se hubiese llevado prisionero a Amfortas. Pero Klingsor pudo quedarse con la lanza, sin embargo y el rey está inutilizado por el sufrimiento y sin que haya esperanzas de que la herida se cure." 
 
 Los jóvenes caballeros se levantan ardiendo en deseos de venganza y juran que ellos se batirán con Klingsor y le vencerán y recuperarán la lanza. Gurnemanz mueve tristemente la cabeza y dice que esa acción es superior a sus fuerzas, reiterando la profecía que dice que la redención la llevará a cabo un "tonto puro, iluminado por la piedad." 
 
 De repente se oyen gritos "¡El cisne ! ¡Oh, el cine!," y uno de los cisnes del lago cruza la escena revoloteando y viene a caer muerto a los píes de Gurnemanz y de los escuderos que le acompañan quienes al ver esto quedan presos de viva agitación. Otros caballeros entran en escena acompañado a un alto y hermoso mancebo armado de arco y flechas el cual, cuando Gurnemanz le pregunta entristecido: "¿Por qué has matado a este inocente animal?," le contesta con suma ingenuidad: "¿Esta mal hecho?" Entonces Gurnemanz le dice del sufrimiento del rey y de la parte que el cisne tomaba en la preparación del baño curativo. Al oír esto, Parsifal queda profundamente emocionado y rompe su arco. 
 
-"El espíritu al resurgir e iluminarse ha sido representado simbólicamente en todas las religiones en forma de ave. El momento del bautismo, cuando el cuerpo de Jesús estaba en el agua, el Espíritu de Cristo descendió sobre él en forma de paloma." 
+"El espíritu al resurgir e iluminarse ha sido representado simbólicamente en todas las religiones en forma de ave. El momento del bautismo, cuando el cuerpo de Jesús estaba en el agua, el Espíritu de Cristo descendió sobre él en forma de paloma." El Espíritu se mueve encima del agua," un agente fluidico, como los cisnes se mueven en el debajo del "Yggdrasil," el árbol la vida de la mitología del Norte, o en las aguas del lago en la leyenda del Grial. El ave es por consiguiente. una representación directa de la más alta influencia espiritual y por este motivo los Caballeros teñían razón de lamentarse por su pérdida. La verdad tiene muchas facetas. Hay por lo menos siete interpretaciones adecuadas de cada mito, una para rada mundo y mirando desde el punto de vista material y literal, la Compasión nacida en Parsifal y el acto dc romper su arco marcan un paso definitivo en la vida superior. Nadie puede realmente ser compasivo y un auxiliar para la evolución, mientras mate para comer, sea personalmente o por delegación en otro. La vida inofensiva es un requisito preliminar indispensable para lo vida de ayuda al prójimo. 
 
-El Espíritu se mueve encima del agua," un agente fluidico, como los cisnes se mueven en el debajo del "Yggdrasil," el árbol la vida de la mitología del Norte, o en las aguas del lago en la leyenda del Grial. El ave es por consiguiente. una representación directa de la más alta influencia espiritual y por este motivo los Caballeros teñían razón de lamentarse por su pérdida. La verdad tiene muchas facetas. Hay por lo menos siete interpretaciones adecuadas de cada mito, una para rada mundo y mirando desde el punto de vista material y literal, la Compasión nacida en Parsifal y el acto dc romper su arco marcan un paso definitivo en la vida superior. Nadie puede realmente ser compasivo y un auxiliar para la evolución, mientras mate para comer, sea personalmente o por delegación en otro. La vida inofensiva es un requisito preliminar indispensable para lo vida de ayuda al prójimo. 
-
-Ahora Gurnenanz empieza hacerle preguntas de su persona: quién es y como llegó al Mont Salvat. Parsifal demuestra la más extraña ignorancia. A todas las preguntas contesta: "Yo no sé."" Finalmente, Kundry interviene y dice: 
-
-"Yo puedo deciros quién es. Su padre era el noble Gamuret. un príncipe entre los hombres que murió combatiendo en Arabia cuando este jovenzuelo estaba aún en el vientre de su madre: la Señora Herzleide. Al exhalar su último aliento su padre le dio el nombre de Parsifal, "el tonto puro."" Temiendo que al crecer el joven aprendiese el arte de la guerra y le fuese arrancado de su lado, su madre le llevó a un bosque intrincado, haciéndole permanecer en la más completa ignorancia dcl arte de la guerra."" 
+Ahora Gurnenanz empieza hacerle preguntas de su persona: quién es y como llegó al Mont Salvat. Parsifal demuestra la más extraña ignorancia. A todas las preguntas contesta: "Yo no sé."" Finalmente, Kundry interviene y dice: "Yo puedo deciros quién es. Su padre era el noble Gamuret. un príncipe entre los hombres que murió combatiendo en Arabia cuando este jovenzuelo estaba aún en el vientre de su madre: la Señora Herzleide. Al exhalar su último aliento su padre le dio el nombre de Parsifal, "el tonto puro."" Temiendo que al crecer el joven aprendiese el arte de la guerra y le fuese arrancado de su lado, su madre le llevó a un bosque intrincado, haciéndole permanecer en la más completa ignorancia dcl arte de la guerra."" 
 
 Aquí Parsifal la interrumpió diciendo: "Sí" y un día vi algunos hombres sobre hermosos corceles, y deseé ser como ellos, y les seguí durante muchos días hasta que por fin llegué aquí, después de haber tenido que combatir con muchos monstruos semejantes a hombres."" 
 
-En esta historia tenemos una excelente imagen del alma que está escudriñando las realidades de la vida. Gamuret y Parsifal son distintas fases de la vida del alma. 
-
-Gamuret es el hombre del mundo, pero a su debido tiempo se casa con "Herzleide," aflicción del corazón, en otras palabras. Encuentra la pesadumbre en su camino y muere para el mundo, como hacemos todos los que hemos entrado en la vida superior. Cuando la nave de la vida está flotando en aguas serenas y nuestra existencia toda parece ser una suave y hermosa melodía, entonces no nos sentimos empujados hacia arriba: cada fibra de nuestro ser grita: " Esto me basta, no quiero más"; pero cuando las oleadas de la adversión nos rodean y envuelven y cada sucesiva ola trata de tragarnos, entonces nos hemos desposado con la aflicción del corazón y nos convertimos en hombres tristes, y estamos dispuestos a nacer como Parsifal, el tonto de corazón puro, o el alma que ha olvidado la sabiduría del mundo y está buscando la entrada en la vida superior. 
-
-Mientras el hombre trata de acumular dinero o de pasar bien cierto rato, no tiene más sabiduría que la de este mundo: pero cuando toma el rumbo hacía las cosas del espíritu, aparece como un tonto ante la vista de los hombres. Olvida todo lo que se refiere a su vida pasada y deja sus penas atrás, como Parsifal dejó a Herzleide y se nos dice que ella murió cuando Parsífal no volvió a su lado. Así la pena muere cuando ha dado lugar al nacimiento del alma que aspira al cielo y huye del mundo; uno puede estar en el mundo para cumplir en él con su deber, pero no es & este mundo. 
+En esta historia tenemos una excelente imagen del alma que está escudriñando las realidades de la vida. Gamuret y Parsifal son distintas fases de la vida del alma. Gamuret es el hombre del mundo, pero a su debido tiempo se casa con "Herzleide," aflicción del corazón, en otras palabras. Encuentra la pesadumbre en su camino y muere para el mundo, como hacemos todos los que hemos entrado en la vida superior. Cuando la nave de la vida está flotando en aguas serenas y nuestra existencia toda parece ser una suave y hermosa melodía, entonces no nos sentimos empujados hacia arriba: cada fibra de nuestro ser grita: " Esto me basta, no quiero más"; pero cuando las oleadas de la adversión nos rodean y envuelven y cada sucesiva ola trata de tragarnos, entonces nos hemos desposado con la aflicción del corazón y nos convertimos en hombres tristes, y estamos dispuestos a nacer como Parsifal, el tonto de corazón puro, o el alma que ha olvidado la sabiduría del mundo y está buscando la entrada en la vida superior. Mientras el hombre trata de acumular dinero o de pasar bien cierto rato, no tiene más sabiduría que la de este mundo: pero cuando toma el rumbo hacía las cosas del espíritu, aparece como un tonto ante la vista de los hombres. Olvida todo lo que se refiere a su vida pasada y deja sus penas atrás, como Parsifal dejó a Herzleide y se nos dice que ella murió cuando Parsífal no volvió a su lado. Así la pena muere cuando ha dado lugar al nacimiento del alma que aspira al cielo y huye del mundo; uno puede estar en el mundo para cumplir en él con su deber, pero no es & este mundo. 
 
 Gurmemanz se ha convencido poco a poco de que Parsifal ha de ser el salvador de Amfortas y le lleva consigo al Castillo del Grial. A la pregunta de Parsifal: "¿Quién es el Grial?, él contesta: 
 
-"No podemos decirlo: pero si tu vienes llamado por El, la verdad te será descubierta. Me parece que tu cara no me es desconocida. Para llegar al Grial no hay que buscar ningún camino terrestre: y toda tentativa de ir a su encuentro nos aleja aún más, si El mismo no es nuestro guía." 
+<pre>
+"No podemos decirlo: pero si tu vienes llamado por El, 
+la verdad te será descubierta. 
+Me parece que tu cara no me es desconocida. 
+Para llegar al Grial no hay que buscar ningún camino terrestre: 
+y toda tentativa de ir a su encuentro nos aleja aún más, 
+si El mismo no es nuestro guía." 
+</pre>
 
 Aquí Wágner nos lleva hacia atrás, a los tiempos pos pre-cristianos — pues antes del advenimiento de Cristo la Iniciación no era libremente accesible a cualquiera que quisiera buscarla de un modo apropiado, sino que se reservaba a ciertos individuos escogidos, como Brahmanes y Levitas, que recibían privilegios especiales como recompensa por haberse dedicado al servicio del templo. Pero la venida de Cristo operó ciertos cambios definidos en la constitución de la humanidad y desde entonces todos estamos capacitados para entrar en el sendero de la iniciación. Tenia que ser así, en efecto, desde el momento en que los casamientos entre miembros de distintas naciones hicieron desaparecer las castas. 
 
-En el castillo del Grial se le insta a Amfortas para que celebre el rito sagrado del servicio del Grial; a que descubra el santo cáliz para que su vista pueda renovar el ardor de los Caballeros y estimularles para que efectúen actos de servicio espiritual, pero él se resiste temiendo el sufrimiento que la vista del cáliz le hará sentir cuando la herida que tiene en el costado siempre vuelve a sangrar a la vista del Grial, como la herida del remordimiento nos hace sufrir cuando hemos cometido un pecado contra nuestro ideal. 
-
-Finalmente, cede a las súplicas combinadas de su padre y de los caballeros y celebra el rito sagrado, esta sufriendo al mismo tiempo la más la más atormentadora agonía. Parsifal, que está en un rincón, siente por simpatía el mismo sufrimiento, sin darse cuenta del porque y cuando Gurnemanz le pregunta después de la ceremonia, lo que ha visto, el se queda mudo, y entonces le echa airadamente fuera del castillo el desengañado caballero. 
+En el castillo del Grial se le insta a Amfortas para que celebre el rito sagrado del servicio del Grial; a que descubra el santo cáliz para que su vista pueda renovar el ardor de los Caballeros y estimularles para que efectúen actos de servicio espiritual, pero él se resiste temiendo el sufrimiento que la vista del cáliz le hará sentir cuando la herida que tiene en el costado siempre vuelve a sangrar a la vista del Grial, como la herida del remordimiento nos hace sufrir cuando hemos cometido un pecado contra nuestro ideal. Finalmente, cede a las súplicas combinadas de su padre y de los caballeros y celebra el rito sagrado, esta sufriendo al mismo tiempo la más la más atormentadora agonía. Parsifal, que está en un rincón, siente por simpatía el mismo sufrimiento, sin darse cuenta del porque y cuando Gurnemanz le pregunta después de la ceremonia, lo que ha visto, el se queda mudo, y entonces le echa airadamente fuera del castillo el desengañado caballero. 
 
 Los sentimientos y emociones no refrenados por el saber, son buenas fuentes de tentación. La misma inocencia y sencillez del alma, es necesario que estas tentaciones se presenten para hacernos ver nuestros puntos de flacos. Si caemos, sufrimos lo mismo que Amfortas; pero el dolor desarrolla la conciencia y nos hace aborrecer al pecado. Nos fortifica contra las tentaciones. Todos los niños son inocentes porque no han sido aún tentados; solamente cuando hemos sido tentados y hemos permanecido puros, o bien cuando hemos caído y nos hemos arrepentido y reformado somos virtuosos. Por esta razón, Parsifal debe ser tentado. 
 
@@ -752,27 +740,41 @@ Pero ya no hay vacilación: Parsifal ha despertado; ya distingue entre el bien y
 
 Cuando finalmente Kundry tiene que darse por vencida se entrega a una explosión de cólera. Llama a Klingsor para que la ayude y éste aparece con la lanza sagrada que tira contra Parsifal. Pero a éste, siendo puro e inocente, nada puede herir y la lanza revolotea alrededor de su cabeza sin tocarle. El la coge, hace la señal de la cruz y el castillo de Klingsor con su jardín mágico cae destrozado. 
 
-En el tercer acto estamos en un día de Viernes Santo, muchos años después. Un guerrero que parece venir de un largo viaje, vestido con una cota de malla negra, entra en las tierras de Mont Salvat, donde Gurnernanz vive en una cabaña. 
-
-Se quita su casco de acero, apoya su lanza contra una roca y se arrodilla para orar. Gurnemanz, entrando en escena con Kundry reconoce a Parsifal con la lanza sagrada, y con gran alegría le da la bienvenida, preguntándole de donde viene. 
+En el tercer acto estamos en un día de Viernes Santo, muchos años después. Un guerrero que parece venir de un largo viaje, vestido con una cota de malla negra, entra en las tierras de Mont Salvat, donde Gurnernanz vive en una cabaña. Se quita su casco de acero, apoya su lanza contra una roca y se arrodilla para orar. Gurnemanz, entrando en escena con Kundry reconoce a Parsifal con la lanza sagrada, y con gran alegría le da la bienvenida, preguntándole de donde viene. 
 
 La misma pregunta le había hecho con ocasión de la primera visita de Parsifal, y entonces éste le ha a contestado: "No lo sé." Pero esta vez es otra cosa, porque Parsifal contesta: Vine después de haber buscado y sufrido. Lo primero significa uno da los vislumbres que el alma percibe de las realidades de la vida superior; pero lo segundo es la llegada consciente a un nivel superior de actividad espiritual de aquellos que se han desarrollado como conciencia de sus penas y sufrimientos, Parsifal cuenta luego que muchas veces ha sufrido embestidas de enemigos y hubiera podido escapar por el empleo de la lanza, pero que se abstuvo de hacerlo porque esta es Instrumento para curar y no para herir. La lanza es el poder espiritual que se comunica al corazón puro, pero debe solo ser empleado por fines altruistas. La impureza y la pasión ocasionan su pérdida, como sucedió en el caso de Amfortas. Aunque el hombre que posee tal poder pueda ocasionalmente dar de comer a cinco mil personas hambrientas, no le está permitido convertir ni una piedra en pan con el fin de aquietar su propia hambre: y aunque pueda emplearlo para contener la sangre que corre de la Oreja cortada de un centurión, no le es licito usarlo para contener la sangre que se escapa de su propio costado. Como se ha dicho siempre de semejante ser: "Él salvé a los demás, pero a si mismo no pudo (o no quiso) salvarse." 
 
-Parsifal y Gurnemanz entran ahora en el Castillo del Grial donde e Amfortas esta solicitado a celebrar el rito sagrado, pero se niega a ello como el fin de evitar el sufrimiento que le causa la vista del Santo Grial y desnudando su pecho suplica a sus correligionarios que le maten. En este momento Parsifal se acerca a él y toca la herida con la lanza, curándola en el acto. Sin embargo, destrona a Amforta se hace cargo el mismo de la guardia del Santo Grial y de la Lanza Sagrada. 
+Parsifal y Gurnemanz entran ahora en el Castillo del Grial donde e Amfortas esta solicitado a celebrar el rito sagrado, pero se niega a ello como el fin de evitar el sufrimiento que le causa la vista del Santo Grial y desnudando su pecho suplica a sus correligionarios que le maten. En este momento Parsifal se acerca a él y toca la herida con la lanza, curándola en el acto. Sin embargo, destrona a Amforta se hace cargo el mismo de la guardia del Santo Grial y de la Lanza Sagrada. Sólo aquellos que cultivan el desinterés más absoluto y a la vez poseen el mayor discernimiento, están calificados para disfrutar el poder espiritual, simbolizado por la lanza. Amfortas la hubiera empleado para atacar y herir a un enemigo. Parsífal no quiso siquiera emplearla para su propia defensa. Por esto él puede curar, mientras que Amfortas cayó en el foso que él había cavado para Klingsor. 
 
-Sólo aquellos que cultivan el desinterés más absoluto y a la vez poseen el mayor discernimiento, están calificados para disfrutar el poder espiritual, simbolizado por la lanza. Amfortas la hubiera empleado para atacar y herir a un enemigo. Parsífal no quiso siquiera emplearla para su propia defensa. Por esto él puede curar, mientras que Amfortas cayó en el foso que él había cavado para Klingsor. 
-
-En el último acto, Kundry, que representa la naturaleza inferior, no dice más que una palabra: "Servicio" Ella ayuda a Parsifal al espíritu, a lograr el ideal por su intachable servicio. En el primer acto ella se fue a dormir cuando Parsifal visitó al Grial. 
-
-En aquel estado desarrollo el espíritu no puede remontarse al cielo sino cuando el cuerpo se ha dejado dormido o ha muerto. Pero en el último acto. Kundry, el cuerpo va también al Castillo del Grial, porque ahora está dedicado al yo superior y cuando el espíritu, lo mismo que Parsifal ha llegado la meta, entonces ha alcanzado el estado de liberación mencionado en el Apocalipsis. "Al que venga yo le convertiré, en un pilar de la casa de mi Dios y ya no saldrá más de allá." Un ser semejante trabajará por la humanidad desde los mundos superiores no necesita ya un nuevo cuerpo físico, porque está más allá de la ley del Renacimiento y por esta razón Kundry muere. 
+En el último acto, Kundry, que representa la naturaleza inferior, no dice más que una palabra: "Servicio" Ella ayuda a Parsifal al espíritu, a lograr el ideal por su intachable servicio. En el primer acto ella se fue a dormir cuando Parsifal visitó al Grial. En aquel estado desarrollo el espíritu no puede remontarse al cielo sino cuando el cuerpo se ha dejado dormido o ha muerto. Pero en el último acto. Kundry, el cuerpo va también al Castillo del Grial, porque ahora está dedicado al yo superior y cuando el espíritu, lo mismo que Parsifal ha llegado la meta, entonces ha alcanzado el estado de liberación mencionado en el Apocalipsis. "Al que venga yo le convertiré, en un pilar de la casa de mi Dios y ya no saldrá más de allá." Un ser semejante trabajará por la humanidad desde los mundos superiores no necesita ya un nuevo cuerpo físico, porque está más allá de la ley del Renacimiento y por esta razón Kundry muere. 
 
 Oliver Wendell Holmes, en su bellísimo poema, "El caracol nautilus" ha encerrado en verso esta idea de la progresión constante en vehículos gradualmente más perfectos y la liberación final el caracol construye su concha espiral en secciones abovedadas, abandonando constantemente las más pequeñas, que ya ha utilizado por la última que edifica: 
 
-"Año tras año soportando en silencio su trabajo que hace desplegar su lustrosa espiral, callado, viendo crecer sus anillos deja la mansión que tuvo esta año por a nueva, deslizándose bajo el brillante arco con suave paso y construye una puerta innecesaria y se amolda a su nuevo hogar, sin conocer más el antiguo. 
+<pre>
+"Año tras año soportando en silencio su trabajo 
+que hace desplegar su lustrosa espiral, 
+callado, viendo crecer sus anillos 
+deja la mansión que tuvo esta año por a nueva, 
+deslizándose bajo el brillante arco con suave paso 
+y construye una puerta innecesaria 
+y se amolda a su nuevo hogar, sin conocer más el antiguo. 
 
-"Gracias por el celestial mensaje que me traes, hijo del inquieto mar expulsado de tus orígenes los olvidas. 
+"Gracias por el celestial mensaje que me traes, 
+hijo del inquieto mar 
+expulsado de tus orígenes los olvidas. 
+"De tus mudos labios sale una nota más elocuente 
+que las emitidas por el cuerno enroscado de Tritón; 
+mientras suena en mis oídos 
+a través de las profundas grutas del pensamiento, oigo una voz que canta 
 
-"De tus mudos labios sale una nota más elocuente que las emitidas por el cuerno enroscado de Tritón; mientras suena en mis oídos a través de las profundas grutas del pensamiento, oigo una voz que canta "Construyo mansiones más duraderas, ¡alma mía! según las veloces estaciones ruedan. Abandona tus criptas ya surcadas. Haz que cada templo sea más noble que le pasado; abarca un espacio celeste más ancho hasta que por fin te libertes arrojando tu concha subterránea por un océano de vida inmortal." 
+"Construyo mansiones más duraderas, ¡alma mía! 
+según las veloces estaciones ruedan. 
+Abandona tus criptas ya surcadas. 
+Haz que cada templo sea más noble que le pasado; 
+abarca un espacio celeste más ancho 
+hasta que por fin te libertes 
+arrojando tu concha subterránea por un océano de vida inmortal." 
+</pre>
 
 <h2 id="ring-of-the-niebelung">El Anillo de los Nibelungos</h2>
 
@@ -792,9 +794,7 @@ El espíritu-grupo actúa sobre los animales por medio de sus cuerpos de deseos,
 
 En la actualidad, estos mitos están aún actuando para prepararnos para el futuro, pero algunas personas se rinden a su hechizo más que otras. El sendero de la civilización ha seguido la carrera del Sol de Este a Oeste, y en la etérea atmósfera de la costa del Océano Pacífico estas imágenes místicas han palidecido tanto que casi no existen, y el hombre está en contacto con las realidades espirituales de una manera más directa. Más al Este, especialmente en Europa, hallamos aún la atmósfera de misticismo meciéndose sobre la tierra. Allí la gente tiene cariño por los antiguos mitos, que le hablan de un modo incomprensible al hombre occidental. La vida del alma de los habitantes de las costas de Noruega, de las llanuras de Escocia, de los valles profundos de la Selva Negra de Alemania y de los montes altos de Suiza, es tan profunda y mística actualmente como hace mil años. Ellos están en contacto más directo con los espíritus de la naturaleza y con otras realidades fantásticas por medio de sus sensaciones intimas, que nosotros que marchamos a la cabeza en el sendero de las aspiraciones por medio del saber directo. Si hacernos volver a nosotros estas sensaciones íntimas y las combinamos con nuestro saber, obtendremos una ventaja enorme. Vamos por consiguiente a tratar de asimilarnos una de las narraciones místicas más profundas del pasado: el Anillo de los Nibelungos, el gran poema épico del norte de Europa. Es la historia del hombre desde los tiempos en que vivía en la Atlántida, hasta que este mundo termine con una gran conflagración y se establezca el Reino de los Cielos, tal como lo anuncia la Biblia. 
 
-La Biblia nos habla del Jardín del Edén donde nuestros primeros padres vivían en íntimo contacto con Dios, puros e inocentes como niños. Nos cuenta como aquel estado de vida terminó y como la tristeza, el pecado y la muerte, empezaran a dominar en el mundo. En los mitos antiguos, como el Anillo de los Nibelungos, se nos enseña también que la humanidad vivía entonces bajo condiciones semejantes de inocencia infantil. 
-
-La primera escena de este drama de Wágner nos representa la vida debajo de las aguas del Rhin, donde sus doncellas están nadando con un movimiento rítmico y con un cántico en sus labios imitando la danza armoniosa de las olas. Las aguas están iluminadas por un gran bloque de oro reluciente, y a su alrededor giran las hijas del Rhin como los planetas se mueven alrededor del Sol central, porque en esto tenemos la réplica del macrocosmos donde los cuerpos celestes se mueven alrededor del foco de Luz Central, en una danza circular majestuosa. 
+La Biblia nos habla del Jardín del Edén donde nuestros primeros padres vivían en íntimo contacto con Dios, puros e inocentes como niños. Nos cuenta como aquel estado de vida terminó y como la tristeza, el pecado y la muerte, empezaran a dominar en el mundo. En los mitos antiguos, como el Anillo de los Nibelungos, se nos enseña también que la humanidad vivía entonces bajo condiciones semejantes de inocencia infantil. La primera escena de este drama de Wágner nos representa la vida debajo de las aguas del Rhin, donde sus doncellas están nadando con un movimiento rítmico y con un cántico en sus labios imitando la danza armoniosa de las olas. Las aguas están iluminadas por un gran bloque de oro reluciente, y a su alrededor giran las hijas del Rhin como los planetas se mueven alrededor del Sol central, porque en esto tenemos la réplica del macrocosmos donde los cuerpos celestes se mueven alrededor del foco de Luz Central, en una danza circular majestuosa. 
 
 Las doncellas del Rhin representan a la humanidad primitiva durante el tiempo en que vivíamos en el fondo del Océano, en la densa y nebulosa atmósfera de los Atlantes. El oro que alumbra la escena al igual que el Sol alumbra el universo solar, es una representación del Espíritu Universal que entonces se extendía como una nube sobre la humanidad. Entonces nosotros no veíamos todas las cosas tan claras y definidas como hoy en día percibimos los objetos, pero en cambio, nuestra percepción interna de las cualidades del alma de los otros era mucho más intensa que actualmente. 
 
@@ -836,9 +836,7 @@ Así la antigua religión del Norte enseña la misma lección que San Pablo cuan
 
 De lo dicho se desprende, que las condiciones creadas por los credos de las distintas iglesias — la insistencia en el dogma y el ritual — no son males desmesurados, como muchos podrían creer, sino más bien la consecuencia necesaria de las limitaciones inherentes a la existencia material por la cual el espíritu humano está pasando actualmente y de este modo cada clase de la sociedad humana está debidamente atendida. Recibe la cantidad de verdad que puede comprender y que le conviene para su presente desarrollo. No es preciso preocuparse de nadie, porque nadie se perderá, puesto que en Dios vivimos, nos movemos y tenemos nuestro ser; y por consiguiente si alguno se perdiese una parte del Divino Autor de nuestro sistema faltaría, lo que es una suposición increíble. 
 
-Pero mientras que una gran mayoría de la humanidad está entregada al cuidado y cultivo de las religiones ortodoxas, hay siempre algunos cuantos precursores — personas cuya facultad de intuición les habla de mayores alturas todavía no escaladas, y que ven la luz solar de la verdad al otro lado de la muralla del credo religioso —. Sus almas no se satisfacen con la cáscara del dogma, y anhelan ardientemente las manzanas de juventud y amor vendidas por los dioses a los gigantes. Hasta los dioses se hacen viejos rápidamente, porque ninguna religión exenta de amor puede esperar jamás cautivar a los humanos durante un período más o menos largo. Por esta razón los dioses fueron otra vez obligados a buscar el consejo de Loge, el espíritu del engaño, esperando salir de la dificultad gracias a su astucia. 
-
-Loge les cuenta como Alberico, el Níbelungo. ha logrado acumular un tesoro inmenso, esclavizando a sus hermanos. Con el consentimiento de los dioses emplea artes engañosas para capturar a Alberico y le obliga a devolver todos sus tesóros. Después se aprovecha hábilmente de la avaricia conocida de los gigantes y logra finalmente rescatar a Freya. 
+Pero mientras que una gran mayoría de la humanidad está entregada al cuidado y cultivo de las religiones ortodoxas, hay siempre algunos cuantos precursores — personas cuya facultad de intuición les habla de mayores alturas todavía no escaladas, y que ven la luz solar de la verdad al otro lado de la muralla del credo religioso —. Sus almas no se satisfacen con la cáscara del dogma, y anhelan ardientemente las manzanas de juventud y amor vendidas por los dioses a los gigantes. Hasta los dioses se hacen viejos rápidamente, porque ninguna religión exenta de amor puede esperar jamás cautivar a los humanos durante un período más o menos largo. Por esta razón los dioses fueron otra vez obligados a buscar el consejo de Loge, el espíritu del engaño, esperando salir de la dificultad gracias a su astucia. Loge les cuenta como Alberico, el Níbelungo. ha logrado acumular un tesoro inmenso, esclavizando a sus hermanos. Con el consentimiento de los dioses emplea artes engañosas para capturar a Alberico y le obliga a devolver todos sus tesóros. Después se aprovecha hábilmente de la avaricia conocida de los gigantes y logra finalmente rescatar a Freya. 
 
 Así, pues, la maldición del Anillo (egoísmo) ha corrompido hasta a los dioses. Para obtener el Anillo (poder) Alberico el Nibelungo, fue perjuro al amor, oprimió a sus hermanos y los dominó con férrea disciplina. La religión, por su parte, fue perjura al amor vendiendo a Freya. También condescendió al engaño obligando a los amos del mundo a pagar su tributo; y cuando el anillo de los Nibelungos llegó a las manos de los gigantes. la misma suerte le acompañó, porque un hermano asesina a otro, para ser el único dueño de la riqueza del mundo. 
 
@@ -858,15 +856,11 @@ Creemos que estamos divagando cuando relatamos o apuntamos indicios que ya descu
 
 Cuando Siegmund, empujado por el irresistible deseo de encontrar la verdad, abandona Valhal. Wotan está furioso, y con ánimo de poner un freno al espíritu independiente de los Walsungs, ordena el casamiento de Sieglinda con Hunding, el espíritu del convencionalismo. Ella se deja caer desesperadamente en los brazos de Hunding porque no tiene el valor de abandonar a sus antepasados o sus tradiciones, como su hermano había hecho. Por consiguiente, es un buen símbolo de aquellos que, aunque rebeldes en su más íntima naturaleza, se casan según las reglas del mundo y temen cambiar radicalmente el código establecido por la Iglesia, por miedo de lo que la gente pudiera pensar de ellos. De este modo, aunque violentados en su más íntimos sentimientos y contrariados en sus más nobles ambiciones, siguen soportando el yugo del convencionalismo y asisten a las ceremonias acostumbradas de la Iglesia para cubrir las apariencias. 
 
-Andando el tiempo Siegmund llega un día por casualidad a la casa de Hunding, encontrando a su hermana a quien al principio no reconoce, pero cuando los dos se han reconocido mutuamente, la induce a huir con él. Los dos saben que este modo de obrar, este ultraje a la persona de Hunding, el espíritu del convencionalismo, no será condenado por los dioses y con el fin de fortificarse para la batalla que, según saben, les espera. se llevan consigo una espada mágica llamada Nothung. Noth, significa necesidad o apuro, y ung, según hemos visto ya, significa niño. La espada es el niño de la necesidad, el valor de la desesperación. Esta espada había sido enterrada hasta el puño en Yggdrasíl por nadie menos que Wotan mismo, para evitar que pudiera servir en una ocasión como la presente. 
-
-A fin de poder comprender perfectamente este hermoso símbolo y la conducta aparentemente paradójica de Wotan, será necesario aclarar la significación de Yggdrasil, el Mundo Ash, el árbol de la vida y del ser, tal como lo explica la mitología escandinava. 
+Andando el tiempo Siegmund llega un día por casualidad a la casa de Hunding, encontrando a su hermana a quien al principio no reconoce, pero cuando los dos se han reconocido mutuamente, la induce a huir con él. Los dos saben que este modo de obrar, este ultraje a la persona de Hunding, el espíritu del convencionalismo, no será condenado por los dioses y con el fin de fortificarse para la batalla que, según saben, les espera. se llevan consigo una espada mágica llamada Nothung. Noth, significa necesidad o apuro, y ung, según hemos visto ya, significa niño. La espada es el niño de la necesidad, el valor de la desesperación. Esta espada había sido enterrada hasta el puño en Yggdrasíl por nadie menos que Wotan mismo, para evitar que pudiera servir en una ocasión como la presente. A fin de poder comprender perfectamente este hermoso símbolo y la conducta aparentemente paradójica de Wotan, será necesario aclarar la significación de Yggdrasil, el Mundo Ash, el árbol de la vida y del ser, tal como lo explica la mitología escandinava. 
 
 Según el concepto escandinavo, este maravilloso árbol se elevaba desde la tierra basta el cielo. Una de sus raíces estaba en los mundos inferiores, donde "Hel," una terrible bruja, reinaba sobre aquellos que habían muerto de enfermedad, y por esta razón no estaban calificados para morar con Wotan en Valhal. Estos representan la clase de gentes que son indolentes y descuidan el batallar basta el final de la vida, Bel tiene tres hijos, que son de su misma naturaleza, que están constantemente luchando con, los dioses, los cuales cuidan amorosamente del bienestar de los hombres. Son símbolos de los elementos que forman el mundo material donde solo reina la muerte. El uno es la serpiente Midgaard, un monstruo prodigioso, que rodea al mundo en forma de circulo y se muerde su propia cola: es el océano. El otro es el lobo Fenris, que es tan sutil y sin embargo tan fuerte, que nada puede retener su ímpetu: él representa la atmósfera que rodea a la tierra y los vientos que no pueden ser amansados. Loge, que ya conocemos, es el espíritu del fuego, del engaño y de la ilusión. La otra raíz de Yggdrasil está en el caos con los Gigantea de la Escarcha de donde salió todo este universo. La tercera raíz está en la morada de los dioses. 
 
-Debajo de la raíz que está en los dominio de Hel, la Serpiente Nidhog yace corroyendo. Es el espíritu de la envidia y malicia, lo cual, subversivo del bien: Nid significa envidia y hog, derribar. En vista de que Yggadrasil, el árbol de la vida manifestada, vive por el amor, la envidia y la malicia quisieran derribarle arrastrándole a la muerte y al infierno de Hel. Pero debajo de la raíz que está en la morada de los dioses existe la fuente Urd, de donde las tres nornas o Parcas sacan el agua de la vida, el ímpetu espiritual, con el cual riegan al árbol y conservan sus hojas frescas y verde. 
-
-Los nombres de estas tres nornas son Urd, Skuld y Verdante. Urd viene del alemán Ur, lo primordial, o estado virgen en relación con el hombre y universo. Ella hija en su rueca el hilo del destino generado por nosotros en el pasado y Skuld, un nombre que significa deuda, es la segunda norna, que representa el presente. A ella, Urd le entrega el hilo del destino de vidas pasadas que tenemos que expiar en esta encarnación. Luego le pasa a Verdante, la tercera norna. Cuyo nombre deriva de Werdende, palabra alemana que significa lo que está por venir o formándose. Esta representa al porvenir y cuando el hilo del destino, simbolizando la deuda pagada en la actualidad, llega a sus manos, lo rompe en pedazos. Así este hermoso símbolo nos dice que cuando las causas generadas en vidas pasadas han llegado a producir efectos en la actual, la deuda está cancelada para siempre. 
+Debajo de la raíz que está en los dominio de Hel, la Serpiente Nidhog yace corroyendo. Es el espíritu de la envidia y malicia, lo cual, subversivo del bien: Nid significa envidia y hog, derribar. En vista de que Yggadrasil, el árbol de la vida manifestada, vive por el amor, la envidia y la malicia quisieran derribarle arrastrándole a la muerte y al infierno de Hel. Pero debajo de la raíz que está en la morada de los dioses existe la fuente Urd, de donde las tres nornas o Parcas sacan el agua de la vida, el ímpetu espiritual, con el cual riegan al árbol y conservan sus hojas frescas y verde. Los nombres de estas tres nornas son Urd, Skuld y Verdante. Urd viene del alemán Ur, lo primordial, o estado virgen en relación con el hombre y universo. Ella hija en su rueca el hilo del destino generado por nosotros en el pasado y Skuld, un nombre que significa deuda, es la segunda norna, que representa el presente. A ella, Urd le entrega el hilo del destino de vidas pasadas que tenemos que expiar en esta encarnación. Luego le pasa a Verdante, la tercera norna. Cuyo nombre deriva de Werdende, palabra alemana que significa lo que está por venir o formándose. Esta representa al porvenir y cuando el hilo del destino, simbolizando la deuda pagada en la actualidad, llega a sus manos, lo rompe en pedazos. Así este hermoso símbolo nos dice que cuando las causas generadas en vidas pasadas han llegado a producir efectos en la actual, la deuda está cancelada para siempre. 
 
 La mitología del Norte nos cuenta también, que además de estas tres nornas principales había muchas más, y que una de ellas intervenía en cada nacimiento y tomaba a su cargo el destino del niño. También se nos dice que estas nornas o Parcas, no obraban según su propia voluntad, sino que estaban sujetas a las órdenes del invisible Orlog. Este nombre es una corrupción de la palabra Ur, que significa primordial, y log, ley. Así vemos que el símbolo del Norte enseña: que las nornas no estaban sujetas a los dioses y que nuestro destino no está regido por el capricho, sino por una ley inexorable de la naturaleza: la ley de causa y efecto. 
 
@@ -878,9 +872,13 @@ Cuando Siegmund y Sieglinda, fortificados por la espada mágica — el valor de 
 
 Así la verdad resulta estar siempre al lado del que la busca ardientemente y lucha contra el convencionalismo de la Iglesia y de las costumbres sociales. Pero cuando el poder de la religión, que le da el coraje de la desesperación necesaria para la defensa de sus convicciones, está salpicado con la fuerza de un credo, simbolizado por la lanza de Wotan, muchas almas sinceras son vencidas, aunque no convencidas. Pero no importa que muera Siegmund y que Sieglinda le siga a la tumba con el corazón hecho pedazos, en vista de que antes, asistida por Brunhilde, ella ha dado la vida a Siegfried, el vencedor; porque como queda dicho, la sed de la verdad una vez sentida no puede nunca quedar apagada hasta haber sido satisfecha. 
 
-Entre tanto Wotan, sin poder abandonar Valhal, el anillo de la profesión de fe, se ve obligado a alejar a Brunhilde de su lado, es decir, al espíritu de la verdad que le ha desobedecido porque es una condición del credo religioso el ser autocrático, no queriendo aguantar ninguna contradicción. Pero como todas las religiones están inherentemente imbuidas de un espíritu de amor y de un sincero deseo de ayudar y levantar a la humanidad, Wotan siente una grandísima pena al tomar la medida que es indispensable para la continuación de la táctica adoptada por él, a la cual se adhiere a pesar de los ruegos emocionantes de Brunhilde. 
+Entre tanto Wotan, sin poder abandonar Valhal, el anillo de la profesión de fe, se ve obligado a alejar a Brunhilde de su lado, es decir, al espíritu de la verdad que le ha desobedecido porque es una condición del credo religioso el ser autocrático, no queriendo aguantar ninguna contradicción. Pero como todas las religiones están inherentemente imbuidas de un espíritu de amor y de un sincero deseo de ayudar y levantar a la humanidad, Wotan siente una grandísima pena al tomar la medida que es indispensable para la continuación de la táctica adoptada por él, a la cual se adhiere a pesar de los ruegos emocionantes de Brunhilde. Es una situación terrible el ser compañero de la verdad y los dos lo experimentan de un modo mucho más agudo que es posible expresar con palabras, cuando el pobre Wotan, que no puede separarse de la fe profesada, tiene que hacer dormir a Brunhilde a la fuerza, pronunciando esta palabras: 
 
-Es una situación terrible el ser compañero de la verdad y los dos lo experimentan de un modo mucho más agudo que es posible expresar con palabras, cuando el pobre Wotan, que no puede separarse de la fe profesada, tiene que hacer dormir a Brunhilde a la fuerza, pronunciando esta palabras: "No debes despertar hasta que venga uno que sea más libre que yo." Y al decir esto, revela el requerimiento principal para la busca de la verdad. "A menos que un hombre abandone a su padre ya su madre no puede ser mi discipulo," dijo Cristo. Todas las limitaciones deben haber sido abolidas antes de que podamos esperar el éxito en la busca de la verdad. 
+<pre>
+"No debes despertar hasta que venga uno que sea más libre que yo." 
+</pre>
+
+Y al decir esto, revela el requerimiento principal para la busca de la verdad. "A menos que un hombre abandone a su padre ya su madre no puede ser mi discipulo," dijo Cristo. Todas las limitaciones deben haber sido abolidas antes de que podamos esperar el éxito en la busca de la verdad. 
 
 ### <h3 id="chapter-11">CAPÍTULO XI: SIEGFRIED, EL BUSCADOR DE LA VERDAD</h3>
 
@@ -892,11 +890,7 @@ De este modo la segunda parte del drama místico, acaba con el desamparo de la v
 
 Pero entre tanto, el niño crece y se convierte en un joven vigoroso, desarrollando una fuerza de gigante. Hermoso como un dios, él forma un extraño contraste con Mime, el feo Nibelungo, un enano que pretende ser su padre. Esto Siegfried no puede creerlo, porque cuando mira a cualquier parte del bosque, ve que los pequeñuelos siempre se parecen a sus padres, que todos los pequeños animales tienen las mismas características que sus progenitores. Él solo es distinto de aquel que pretende ser su padre. 
 
-Cuando por su fuerza prodigiosa pudo capturar un oso y llevarlo a la cueva de Mime, éste se queda casi paralizado de miedo; emoción que Siegfried desconoce por completo. 
-
-Mime, uno de los más famosos herreros de los Nibelungos, ha forjado espada tras espada para el uso del joven gigante, pero cada una de ellas ha sido hecha pedazos por el brazo poderoso que las empuña. Después, Mime ha tratado de soldar la espada Nothung, que se rompió contra la lanza de Wotan, en la lucha fatal entre Siegfried y Hundíng. Los fragmentos de esta espada fueron llevados por Sieglinda a la cueva de Mime, pero nadie que sea un cobarde, puede ni forjar ni empuñar la espada Nothung, "el coraje de la desesperación"; por esto Mime, a pesar de su habilidad, ha fracasado en todos sus intentos. 
-
-Un día que Siegfried se burla de él a causa de su incapacidad para hacer una espada que resista, Mime saca los fragmentos de Nothung y le dice que si él puede soldarlos, la espada rehecha le servirá perfectamente. Poseyendo, como posee, la calidad esencial de todo buscador de la verdad, la falta de miedo, Siegfried, aún con mano inhábil, logra hacer lo que Mime no pudo llevar a cabo: forja otra vez la espada mágica y se prepara así para la busca de la verdad y del saber. 
+Cuando por su fuerza prodigiosa pudo capturar un oso y llevarlo a la cueva de Mime, éste se queda casi paralizado de miedo; emoción que Siegfried desconoce por completo. Mime, uno de los más famosos herreros de los Nibelungos, ha forjado espada tras espada para el uso del joven gigante, pero cada una de ellas ha sido hecha pedazos por el brazo poderoso que las empuña. Después, Mime ha tratado de soldar la espada Nothung, que se rompió contra la lanza de Wotan, en la lucha fatal entre Siegfried y Hundíng. Los fragmentos de esta espada fueron llevados por Sieglinda a la cueva de Mime, pero nadie que sea un cobarde, puede ni forjar ni empuñar la espada Nothung, "el coraje de la desesperación"; por esto Mime, a pesar de su habilidad, ha fracasado en todos sus intentos. Un día que Siegfried se burla de él a causa de su incapacidad para hacer una espada que resista, Mime saca los fragmentos de Nothung y le dice que si él puede soldarlos, la espada rehecha le servirá perfectamente. Poseyendo, como posee, la calidad esencial de todo buscador de la verdad, la falta de miedo, Siegfried, aún con mano inhábil, logra hacer lo que Mime no pudo llevar a cabo: forja otra vez la espada mágica y se prepara así para la busca de la verdad y del saber. 
 
 Aunque han transcurrido muchos siglos desde que Alberico, el Nibelungo, fue forzado a desprenderse del Anillo a titulo de rescate pagado a los dioses, ni él ni su tribu han olvidado cuál es el poder de su feliz poseedor. Todos ellos siguen anhelando recuperar el tesoro perdido, porque la humanidad, siendo inherentemente espiritual y libre, nunca se reconciliará con la idea de la pérdida de la individualidad, siempre perseguida por el régimen de la Iglesia. Aunque, igual que Mime, los hombres estén imbuidos de un miedo insuperable, aunque adulen servilmente a los poderes superiores, como Alberico se humilló ante Wotan, siempre recordarán subconscientemente o de otro modo, su herencia espiritual, y tratarán de recuperar su estado de agentes libres, no atados por ningún credo ni limitación cualquiera. 
 
@@ -912,13 +906,9 @@ Pero aunque llamemos a este uso de las fuerzas divinas cristiano, o aunque le de
 
 En el momento que entramos seriamente en el sendero, la naturaleza inferior queda sentenciada a pesar de todas sus artes de astucia que pueda poner en juego para salvarse a sí propia. Cuando Mime forma el plan de enviar a Siegfried contra el dragón, Fafner, el espíritu del deseo, ha sellado, de hecho, su propio destino, porque cuando el alma ha vencido el deseo de posesiones terrestres, hemos muerto para el mundo, aunque sigamos viviendo en él y trabajando en esta tierra. Entonces estamos en el mundo, pero no somos de él. 
 
-Guiado por Mime, Siegfried encuentra al gigante Fafner como guardián de la cueva donde tiene escondido el tesoro de los Nibelungos. La naturaleza inferior trata siempre de empujar a la superior a buscar la riqueza material del mundo, buscando por lo tanto conseguir una posición y poder social. ¡Ay! Este deseo y sed de riqueza y poder, es, desgraciadamente, demasiado común. Somos todos como Mime, dispuestos a arriesgar nuestras vidas en la busca del oro. Pero aunque Mime está temblando al solo pensamiento de estar cerca del terrible dragón, sigue conspirando, porque sabe que cuando el ego, representado por el Anillo del Nibelungo, esta tan enmarañado en el cepo de la materialidad, que el cuerpo parece dominarlo por completo, cuando todas sus energías están dirigidas por la naturaleza inferior, entonces no hay limite al poder que pueda adquirir. 
+Guiado por Mime, Siegfried encuentra al gigante Fafner como guardián de la cueva donde tiene escondido el tesoro de los Nibelungos. La naturaleza inferior trata siempre de empujar a la superior a buscar la riqueza material del mundo, buscando por lo tanto conseguir una posición y poder social. ¡Ay! Este deseo y sed de riqueza y poder, es, desgraciadamente, demasiado común. Somos todos como Mime, dispuestos a arriesgar nuestras vidas en la busca del oro. Pero aunque Mime está temblando al solo pensamiento de estar cerca del terrible dragón, sigue conspirando, porque sabe que cuando el ego, representado por el Anillo del Nibelungo, esta tan enmarañado en el cepo de la materialidad, que el cuerpo parece dominarlo por completo, cuando todas sus energías están dirigidas por la naturaleza inferior, entonces no hay limite al poder que pueda adquirir. Pero Siegfried, el intérprete buscador de la verdad, después de haber vencido al dragón que representa a la naturaleza del deseo, también mata a Mime, el emblema del cuerpo denso. 
 
-Pero Siegfried, el intérprete buscador de la verdad, después de haber vencido al dragón que representa a la naturaleza del deseo, también mata a Mime, el emblema del cuerpo denso. 
-
-Liberado de la envoltura mortal, el espíritu es capaz de comprender el lenguaje de la naturaleza. Por intuición se da cuenta dónde la verdad, representada por Brunhilde, la Valkiria, está escondida, y siguiendo esta intuición, representada en el mito por un pájaro, emprende el camino hacia la roca rodeada de fuego, para despertar y cortejar a la belleza durmiente. 
-
-Pero aunque podamos, desprendiéndonos del cuerpo físico, entrar en el recinto donde se puede hallar la verdad, el camino para llegar allí no es tan llano y fácil; porque Wotan, el guardián del credo, extiende su lanza a través del camino de Siegfried y trata hasta el último instante de desviar de su camino al independiente buscador de la verdad. Sin embargo, el poder del credo, representado por la lanza de Wotan, se había quedado debilitado cuando se concertó con los gigantes, es decir, cuando apeló al lado inferior de la naturaleza humana. Como indicio de esta debilidad se hallaban grabados caracteres mágicos en el mango de la lanza. Esta, por consiguiente, se rompió fácilmente en dos pedazos al primer golpe de Notbung, la espada del coraje de la desesperación. 
+Liberado de la envoltura mortal, el espíritu es capaz de comprender el lenguaje de la naturaleza. Por intuición se da cuenta dónde la verdad, representada por Brunhilde, la Valkiria, está escondida, y siguiendo esta intuición, representada en el mito por un pájaro, emprende el camino hacia la roca rodeada de fuego, para despertar y cortejar a la belleza durmiente. Pero aunque podamos, desprendiéndonos del cuerpo físico, entrar en el recinto donde se puede hallar la verdad, el camino para llegar allí no es tan llano y fácil; porque Wotan, el guardián del credo, extiende su lanza a través del camino de Siegfried y trata hasta el último instante de desviar de su camino al independiente buscador de la verdad. Sin embargo, el poder del credo, representado por la lanza de Wotan, se había quedado debilitado cuando se concertó con los gigantes, es decir, cuando apeló al lado inferior de la naturaleza humana. Como indicio de esta debilidad se hallaban grabados caracteres mágicos en el mango de la lanza. Esta, por consiguiente, se rompió fácilmente en dos pedazos al primer golpe de Notbung, la espada del coraje de la desesperación. 
 
 Cuando el buscador de la verdad ha llegado al punto que acabamos de describir, ya no permitirá ser contrariado en su afán, ora estos poderes sean diabólicos como Fafnar, o bien dioses como Wotan. El apartará todos los obstáculos con mano dura porque no tiene más que un solo deseo en este mundo, el ardiente e insuperable anhelo de conocer la verdad. Por esto, después de haber roto la lanza de Wotan, sigue adelante guiado por el pájaro de la intuición, basta llegar al círculo de llamas que rodea a Brunhilde, el espíritu dormido de la verdad. Tampoco no se acobarda al ver las llamas de Loge, que son ilusión y alucinación. Con paso firme las atraviesa sumergiéndose atrevidamente en ellas y por fin puede mirar lo que con tanto ardor había perseguido durante muchas vidas. Se inclina, coge a Brunbilde en sus fuertes, aunque tiernos brazos, y con un beso ferviente despierta al espíritu de la verdad de su largo sueño. 
 
@@ -926,37 +916,25 @@ Cuando el buscador de la verdad ha llegado al punto que acabamos de describir, y
 
 No existen palabras adecuadas para dar una idea de lo que el alma siente cuando se halla frente a frente con la verdad, muy por encima de este mundo (donde el velo de la carne oculta las realidades vivas bajo una máscara) aún más allá del Mundo de del Deseo y de la ilusión, donde formas fantásticas e ilusorias nos hacen creer que distinto de lo que son en realidad. Solamente la región del Pensamiento Concreto, donde los arquetipos de todas las cosas están unidos al gran coro celestial que Pitágoras llamo "armonía de las esferas," encontramos a la verdad revelada toda su belleza. 
 
-Pero el espíritu no puede estar allí por siempre. Esta verdad y realidad — tan ardientemente deseada por todos los que se han sentido impelidos en su busca por una llamada interna más fuerte que los lazos de amistad, parentesco o cualquier otra consideración — no es más que un medio para lograr una finalidad. 
-
-La verdad ha de descender a esta región de las formas físicas para que pueda ser de un valor real en la práctica de la vida. 
-
-Así resulta que Siegfried, el buscador de la verdad, tiene necesariamente que abandonar la roca de Brunhilde, pasar otra vez por el fuego de la ilusión y entrar de nuevo en el mundo material para ser tentado y puesto a prueba, para comprobar si será fiel a los votos de amor que ha hecho a la Valkiria despertada por él. 
+Pero el espíritu no puede estar allí por siempre. Esta verdad y realidad — tan ardientemente deseada por todos los que se han sentido impelidos en su busca por una llamada interna más fuerte que los lazos de amistad, parentesco o cualquier otra consideración — no es más que un medio para lograr una finalidad. La verdad ha de descender a esta región de las formas físicas para que pueda ser de un valor real en la práctica de la vida. Así resulta que Siegfried, el buscador de la verdad, tiene necesariamente que abandonar la roca de Brunhilde, pasar otra vez por el fuego de la ilusión y entrar de nuevo en el mundo material para ser tentado y puesto a prueba, para comprobar si será fiel a los votos de amor que ha hecho a la Valkiria despertada por él. 
 
 Es una batalla muy ardua la que tiene que ganar. El mundo no está preparado para la verdad, y aunque parece desear el conocerla, en realidad conspira por todos los medios a su alcance en el sentido de aniquilar a cualquiera que intente acercársela a sus puertas, pues existen muy pocas instituciones que puedan soportar el deslumbrante brillo de su luz. 
 
 Ni siquiera los dioses pueden soportarlo como Brunhilde lo sabe con gran pesar, ¿por qué no fue expulsada por Wotan de Valhal, por haberse negado a usar de su poder en favor de las convenciones? Todos los que se aferran a los convencionalismos, con ánimo de sostener la verdad en sus fueros, tendrán al mundo entero contra ellos y se quedarán solos. Wotan era su padre y la profesaba sincero cariño. Si, en efecto, el la quería a su modo, pero quería más al poder simbolizado por Valhal. El Anillo del Credo, por el cual él dominaba a la humanidad, era a sus ojos más deseable que Brunhilde, el espíritu de la verdad, y por esta razón la hizo dormir rodeada por el círculo flamígero de la ilusión. 
 
-Si de tal modo obran los dioses, ¿qué es lo que se puede esperar de los hombres que no profesan ideales tan elevados y nobles como los que se suponía que ellos, los guardianes de la religión, les inculcaban? Todo esto y más de lo que se puede expresar por palabras (pero sobre lo cual el estudiante hará bien en meditar), pasó como un relámpago por la mente de Brunhilde en el momento que ella se separá de Síegfried y con el fin de ofrecerle por lo menos alguna probabilidad de ganar la batalla de la vida, le magnetizó de cierto modo todo su cuerpo para hacerle invulnerable. De este modo todos los sitios quedaron protegidos, menos un punto en la espalda, entre los hombros. Aquí tenemos un caso análogo al de Aquiles, cuyo cuerpo había sido hecho invulnerable en todas partes menos en uno de sus talones. 
-
-Hay una profunda significación en este hecho, porque mientras el soldado de la verdad lleve su coraza, de la cual habla San Pablo, en la batalla de la vida, y desafíe valientemente a sus enemigos, es seguro que a pesar de los más duros ataques tendrá muchas probabilidades de vencer. Porque haciendo frente al mundo y exponiendo su pecho a las flechas de los antagonismos, calumnias y denigraciones, demuestra que tiene el valor de sus convicciones, y que un poder superior a él, el poder que siempre actúa para el bien, le protege, cualquiera que sea la batalla en la que tenga que combatir. Pero ¡ayl de él sí en algún momento vuelve la espalda. Entonces, cuando no vigile el menosprecio de los enemigos de la verdad, éstos encontrarán en su cuerpo el sitio vulnerable, sea en el tajón, sea entre los hombros. 
-
-Por consiguiente, nos conviene a nosotros y a todos los que aman a la verdad, aceptar esta maravillosa simbología como una lección, y darnos cuenta de nuestra responsabilidad, en el sentido de amar siempre a la verdad por encima de todas las cosas. La amistad, el parentesco y todas las demás consideraciones mundanales no deberían tener ningún peso para nosotros, comparado con este gran trabajo a favor de la verdad y para la verdad. Cristo, que era la encarnación misma de la verdad, decía a sus discípulos: "Me han odiado a mí, y odiarán a vosotros." 
+Si de tal modo obran los dioses, ¿qué es lo que se puede esperar de los hombres que no profesan ideales tan elevados y nobles como los que se suponía que ellos, los guardianes de la religión, les inculcaban? Todo esto y más de lo que se puede expresar por palabras (pero sobre lo cual el estudiante hará bien en meditar), pasó como un relámpago por la mente de Brunhilde en el momento que ella se separá de Síegfried y con el fin de ofrecerle por lo menos alguna probabilidad de ganar la batalla de la vida, le magnetizó de cierto modo todo su cuerpo para hacerle invulnerable. De este modo todos los sitios quedaron protegidos, menos un punto en la espalda, entre los hombros. Aquí tenemos un caso análogo al de Aquiles, cuyo cuerpo había sido hecho invulnerable en todas partes menos en uno de sus talones. Hay una profunda significación en este hecho, porque mientras el soldado de la verdad lleve su coraza, de la cual habla San Pablo, en la batalla de la vida, y desafíe valientemente a sus enemigos, es seguro que a pesar de los más duros ataques tendrá muchas probabilidades de vencer. Porque haciendo frente al mundo y exponiendo su pecho a las flechas de los antagonismos, calumnias y denigraciones, demuestra que tiene el valor de sus convicciones, y que un poder superior a él, el poder que siempre actúa para el bien, le protege, cualquiera que sea la batalla en la que tenga que combatir. Pero ¡ayl de él sí en algún momento vuelve la espalda. Entonces, cuando no vigile el menosprecio de los enemigos de la verdad, éstos encontrarán en su cuerpo el sitio vulnerable, sea en el tajón, sea entre los hombros. Por consiguiente, nos conviene a nosotros y a todos los que aman a la verdad, aceptar esta maravillosa simbología como una lección, y darnos cuenta de nuestra responsabilidad, en el sentido de amar siempre a la verdad por encima de todas las cosas. La amistad, el parentesco y todas las demás consideraciones mundanales no deberían tener ningún peso para nosotros, comparado con este gran trabajo a favor de la verdad y para la verdad. Cristo, que era la encarnación misma de la verdad, decía a sus discípulos: "Me han odiado a mí, y odiarán a vosotros." 
 
 Así, pues, no nos engañemos: El sendero de principios es un camino áspero y la labor de subirle es ardua. Andando por él perderemos probablemente el trato social con todos nuestros amigos y relaciones. Aunque el mundo proclame hoy en día la libertad religiosa, las persecuciones siguen en pie. Los credos y dogmas están dominando aún, siempre dispuestos a perseguir a todos los que no se adapten a las convenciones. Pero mientras los miremos de frente y sigamos nuestro camino, desdeñando la crítica, la verdad saldrá siempre triunfante de la batalla. Sólo cuando nos comportamos como cobardes, estas fuerzas enemigas nos pueden herir de muerte en nuestro punto vulnerable. 
 
 He aquí otro punto: Cuando Siegfried se marcha a la roca de la Valkiria para volver otra vez al mundo material, da a Brunhilde el Anillo del Nibelungo. Este anillo, como queda dicho, fue formado con el oro del Rhin que representa el Espíritu universal, por Alberico el Nibelungo. También recordará el lector que Alberico no pudo modelar esta pepita de oro hasta que no fue perjuro al amor; porque la amistad y el amor cesaron de existir cuando el Espíritu Universal fue rodeado por el anillo del egoísmo. Desde entonces la batalla de la vida se libra con todo su salvajismo: el hombre levanta su mano contra su hermano a impulsos del egoísmo y cada uno va detrás de lo suyo sin tener en cuenta el bienestar de los demás. 
 
-Pero cuando el espíritu ha encontrado la verdad y se ha puesto en contacto con las realidades divinas; cuando ha entrado en la Región del Pensamiento Concreto, que es el cielo y ha visto aquella gran verdad de que todas las cosas son una sola, y que, aunque aparentemente aparezcan aquí separadas, hay un hilo invisible uniéndolas todas; cuando el espíritu ha vuelto así a la universalidad y al amor, entonces ya no podrá separarse nunca más de allí. 
-
-De este modo, cuando deja el reino de la verdad, deja también detrás de sí la sensación de separatividad (simbolizada por el anillo) y de este modo se hace universal en su naturaleza. No conoce familia ni país, y piensa como el tan mal interpretado Tomás Payne, que decía: "El mundo es mi patria, y hacer el bien mi religión." Este estado mental está alegóricamente representado por Siegfried cuando entrega a Brunhilde el Anillo del Nibelungo. 
+Pero cuando el espíritu ha encontrado la verdad y se ha puesto en contacto con las realidades divinas; cuando ha entrado en la Región del Pensamiento Concreto, que es el cielo y ha visto aquella gran verdad de que todas las cosas son una sola, y que, aunque aparentemente aparezcan aquí separadas, hay un hilo invisible uniéndolas todas; cuando el espíritu ha vuelto así a la universalidad y al amor, entonces ya no podrá separarse nunca más de allí. De este modo, cuando deja el reino de la verdad, deja también detrás de sí la sensación de separatividad (simbolizada por el anillo) y de este modo se hace universal en su naturaleza. No conoce familia ni país, y piensa como el tan mal interpretado Tomás Payne, que decía: "El mundo es mi patria, y hacer el bien mi religión." Este estado mental está alegóricamente representado por Siegfried cuando entrega a Brunhilde el Anillo del Nibelungo. 
 
 Como el lector debe recordar, las Valkírias eran hijas de Wotan, el dios principal de la mitología del Norte. Ellas pasaban por el aire a caballo y a gran velocidad, para acudir a cualquier sitio donde hubiese un combate mortal, ya fuese entre dos, o entre un gran número de guerreros. En cuanto uno de los combatientes caía muerto, ellas le levantaban dulcemente basta sus cabalgaduras y le llevaban a Valhal, la morada de los dioses, donde era resucitado y vivía en la gloria por siempre jamás. También conviene recordar que la palabra Valkiria es interpretada como elegido por aclamación. Aquellos que sostenían la batalla de la vida hasta el final, eran elegidos por aclamación para ser los compañeros de los dioses. 
 
 Brunhilde era el jefe de estas hijas de Wotan y su caballo Grane era el más rápido de los corceles. Este animal que había llevado siempre tan lealmente en sus lomos al espíritu de la verdad. ella lo dio a su marido; porque la verdad puede siempre ser considerada como la novia de quien la ha encontrado. Por esta razón, el caballo es el símbolo de la rapidez y decisión, con las cuales uno que se ha casado con la verdad es capaz de escoger acertadamente y de distinguir entre la verdad y el error, pero solo en el caso de que permanezca fiel. 
 
-Así, con el amor de la verdad en su corazón y montado sobre el caballo del discernimiento Siegfríed sale para librar la batalla de la verdad y traer el mundo cautivo a los píes de Brunhilde. El cielo y la tierra están en la balanza, porque puede revolucionar el mundo sí sigue siendo fiel y valiente; pero si olvida su misión y se deja enmarañar en la esfera de la ilusión, la última esperanza de redimir al mundo habrá desaparecido. 
-
-El crepúsculo de los dioses estará muy cerca cuando desaparezca el actual orden de las cosas, cuando los cielos se fundan en ardiente calor, para que del trabajo de la naturaleza nazca un cielo nuevo y una nueva tierra, donde la equidad, cual un manto, cobijará a todos los seres. 
+Así, con el amor de la verdad en su corazón y montado sobre el caballo del discernimiento Siegfríed sale para librar la batalla de la verdad y traer el mundo cautivo a los píes de Brunhilde. El cielo y la tierra están en la balanza, porque puede revolucionar el mundo sí sigue siendo fiel y valiente; pero si olvida su misión y se deja enmarañar en la esfera de la ilusión, la última esperanza de redimir al mundo habrá desaparecido. El crepúsculo de los dioses estará muy cerca cuando desaparezca el actual orden de las cosas, cuando los cielos se fundan en ardiente calor, para que del trabajo de la naturaleza nazca un cielo nuevo y una nueva tierra, donde la equidad, cual un manto, cobijará a todos los seres. 
 
 Volvamos ahora la vista del cielo, de Siegfried y Brunhilde, a la tierra donde la humanidad, a la cual la verdad ha de liberar, está esperando al héroe anunciado. El mito del Norte nos introduce en la corte de Gunther, un rey honrado y bueno según el criterio del mundo. Gunther, su hermana, es la señora más distinguida del país y su hermano no está casado. Entre los cortesanos hay un tal Hagen, palabra que quiere decir gancho y significa egoísmo inherente. Es descendiente de los Nibelungos, emparentado con Alberico, quien modeló el anillo fatal. Siempre, desde que el anillo salió de sus manos, los Nibelungos han vigilado cuidadosamente a sus poseedores: primero Wotan, que engañó a Alberico y le roban el anillo, después Fafner y Fasolt, los gigantes que habían edificado Valhal para Wotan. y que le obligaron a darles el anillo como parte del pago para rescatar a Freya, la diosa del amor y de la juventud, a la cual Wotan había prostituido y vendido para obtener más poder: después, cuando Fafner mató a Fasolt, los Nibelungos vigilaban estrechamente la cueva donde Fafner yacía oculto, cubriendo con su cuerpo inmenso de dragón el tesoro de los Nibelungos, y Mime, padre adoptivo de Siegfried, pagó con su vida el anhelo de poseer el tesoro codiciado. Ni Síegfried tampoco estaba libre de su cuidadosa vigilancia, salvo en los momentos en que estuvo en la roca de la Valkiria, porque ningún nibelungo ni ningún hombre cobarde o vil puede jamás penetrar al otro lado de las llamas circulares de la ilusión y dentro del recinto de la verdad. Por esta razón los nibelungos, no sabían lo que había pasado con el anillo cuando Siegfried volvió nuevamente al mundo, aunque, naturalmente, ellos suponen que ha quedado con Brunhilde, y al instante empiezan a conspirar para entrar otra vez en su posesión. 
 
@@ -964,26 +942,44 @@ La corte de Gunther está en el mismo camino de Siegfried, y Alberico corre a av
 
 ### <h3 id="chapter-13">CAPÍTULO XIII: EL RENACIMIENTO Y LA BEBIDA LETAL</h3>
 
-```
+<pre>
 El nacer no a sino un sueño y un olvido  
 El alma que sale con nosotros, la estrella de nuestra vida  
 Se ha puesto en alguna otra parte  
 Y viene de muy lejos.
 
 - Wordsworth  
-```
+</pre>
 
 Cuando Siegfried abandona la roca de la Valkiria y llega a la corte mundana de Gunther, se le da una bebida calculada para hacerle olvidar todos los detalles de su vida pasada hasta aquel momento, y también a Brunhilde, el espíritu de la verdad, que él había conquistado por sus méritos.
 
 Generalmente se supone que la doctrina del renacimiento es enseñada solamente en las antiguas religiones del Oriente, pero un estudio de la mitología escandinava desvanecerá muy pronto esta suposici6n errónea. Los escandinavos creyeron, en efecto, en el renacimiento y también en la ley de causa y efecto tal como se aplica a la conducta moral, hasta que el Cristianismo veló estas doctrinas por las razones explicadas en el Concepto Rosacruz del Cosmos. Resulta curioso observar la confusión que se originó cuando la antigua religión de Wotan fue reemplazada por el Cristianismo. Los hombres entonces creían en la reencarnación en el fondo de sus corazones. pero la repudiaban exteriormente, como demostrará la siguiente historia que se cuenta del Santo Olaf, rey de Noruega, uno de los primeros y más ardientes convertidos al Cristianismo. Cuando Asta, la esposa del rey Harold, estaba de parto, pero no podía dar a luz, un hombre vino a la corte con algunas alhajas; respecto de las cuales dijo lo siguiente: el rey Olaf Peirstad que había reinado en Noruega hacía muchos años y era el antepasado directo de Harold, se le había aparecido en sueños instigándole a que abriese el gran montón de tierra donde estaba sepultado, y después de haber separado la cabeza del resto del cadáver con una espada, que cogiese ciertas joyas que estaban en el ataúd, para llevarlas a la reina, cuyos dolores de parto cesarían entonces en seguida. Las joyas fueron llevadas a la estancia de la reina, la cual dio a luz poco después a un niño, que fue llamado Olaf. Era creencia general que el espíritu de Olaf Geirstad había pasado al cuerpo del niño, que qué llamado como él. 
 
-Muchos años después, cuando Olaf era ya rey de Noruega y se había convertido al Cristianismo, pasó a caballo un día, como de costumbre, por el montón de tierra donde estaba sepultado su antecesor y un cortesano que le acompañaba le preguntó: "Es verdad, Señor, que vos estuvisteis algún tiempo sepultado en este túmulo?" "Jamás, replicó el rey, ha vivido mí espíritu en dos cuerpos." "Sin embargo, se afirma que se os ha oído decir, pasando por este túmulo: "Aquí estuve yo; aquí he vivido." "Nunca he dicho semejante cosa," replicó el rey, "y nunca la diré." El se quedó muy desconcertado, alejándose rápidamente de aquel lugar, probablemente para evitar la discusión sobre una creencia interna que todos los dogmas de la nueva fe no podían desarraigar. 
+Muchos años después, cuando Olaf era ya rey de Noruega y se había convertido al Cristianismo, pasó a caballo un día, como de costumbre, por el montón de tierra donde estaba sepultado su antecesor y un cortesano que le acompañaba le preguntó: 
 
-En efecto, todos los pueblos antiguos, tanto los del Este como los del Oeste, sabían acerca del nacimiento y de la muerte muchas cosas que se han olvidado en los tiempos modernos, porque la segunda vista prevalecía entonces más que ahora. Pero aun hoy en día muchos aldeanos de Noruega afirman que pueden ver al espíritu saliendo del cuerpo en el momento de la muerte, en forma de una nube blanca y estrecha, lo cual es, naturalmente, el cuerpo vital, y la enseñanza Rosacruz — de que los muertos revolotean alrededor de su morada terrestre durante algún tiempo después de la muerte, que están revestidos de un cuerpo luminoso y de que están profundamente afligidos por el pesar de sus familiares —era conocimiento general entre los antiguos escandinavos. 
+"Es verdad, Señor, que vos estuvisteis algún tiempo sepultado en este túmulo?" 
 
-Cuando el difunto rey Helge de Dinamarca se materializó para aliviar la pena de su viuda, y ella exclamó en su angustia: "El rocío de la muerte bañado a su cuerpo guerrero," él contestó: 
+"Jamás, replicó el rey, ha vivido mí espíritu en dos cuerpos." 
 
-Tú, Sigrona, eres la única causa por la cual Helge está bañado con rocio de pesadumbre. Tú no quieres cesar en tus lamentos ni secar tus lágrimas amargas. Cada lágrima sangrienta cae en mi pecho como un pedazo de hielo. ¡No me dejarán descansar en paz!" 
+"Sin embargo, se afirma que se os ha oído decir, pasando por este túmulo: "Aquí estuve yo; aquí he vivido." 
+
+"Nunca he dicho semejante cosa," replicó el rey, "y nunca la diré." 
+
+El se quedó muy desconcertado, alejándose rápidamente de aquel lugar, probablemente para evitar la discusión sobre una creencia interna que todos los dogmas de la nueva fe no podían desarraigar. 
+
+En efecto, todos los pueblos antiguos, tanto los del Este como los del Oeste, sabían acerca del nacimiento y de la muerte muchas cosas que se han olvidado en los tiempos modernos, porque la segunda vista prevalecía entonces más que ahora. Pero aun hoy en día muchos aldeanos de Noruega afirman que pueden ver al espíritu saliendo del cuerpo en el momento de la muerte, en forma de una nube blanca y estrecha, lo cual es, naturalmente, el cuerpo vital, y la enseñanza Rosacruz — de que los muertos revolotean alrededor de su morada terrestre durante algún tiempo después de la muerte, que están revestidos de un cuerpo luminoso y de que están profundamente afligidos por el pesar de sus familiares —era conocimiento general entre los antiguos escandinavos. Cuando el difunto rey Helge de Dinamarca se materializó para aliviar la pena de su viuda, y ella exclamó en su angustia: "El rocío de la muerte bañado a su cuerpo guerrero," él contestó: 
+
+<pre>
+Tú, Sigrona, 
+eres la única causa 
+por la cual Helge está bañado 
+con rocio de pesadumbre. 
+Tú no quieres cesar en tus lamentos 
+ni secar tus lágrimas amargas. 
+Cada lágrima sangrienta 
+cae en mi pecho 
+como un pedazo de hielo. ¡No me dejarán descansar en paz!" 
+</pre>
 
 Cuando los estudiantes se dan cuenta del hecho de la reencarnación, generalmente se extrañan de que se les haya borrado la memoria de sus vidas pasadas y muchos están poseídos de un deseo abrumador de conocer el pasado. No pueden comprender la ventaja derivada de la bebida letal del olvido y miran con envidia a las personas que afirman que conocen sus pasadas vidas, cuando aseguran que han sido reyes, reinas, filósofos, sacerdotes, etcétera. Hay, sin embargo, una intención muy benévola en este olvido, porque ninguna experiencia tiene valor en la vida si no es por la impresión que deja por medio de la experiencia "post-mortem" en el purgatorio o en el cielo. Esta impresión actúa entonces de tal modo que al mismo tiempo dirige, evita o provoca cierta línea de acción, y esta provocación o impulsión, aunque disociada de la experiencia, o mas bien por estar disociada de la experiencia de la cual fue extractada, actúa con una rapidez mayor que la del pensamiento. 
 
@@ -1019,9 +1015,7 @@ Ahora estamos en la última parte de la época aria. Los buscadores de la verdad
 
 El cielo y la tierra han quedado ultrajados por este horrendo abuso de la verdad. El gran Mundo Ash, el árbol del ser y de la vida, tiembla en sus raíces, donde Urd, Skuld y Verdande, el pasado, el presente y el futuro mueven los hilos del destino. Se aumenta la oscuridad de la tierra; la lanza de Hagen encuentra el único punto vulnerable en el cuerpo de Siegfried — su vida es el castigo que se le impone — y como el ideal más elevado de la época ha fracasado, no vale la pena perpetuar el orden de cosas existentes. Por esta razón Heimdal, el guardián celeste, toca la trompeta y los dioses cabalgan en solemne procesión por el puente del arco iris por última vez, para enfrentarse con los gigantes en la batalla final provocando así la destrucción del cielo y de la tierra. 
 
-Este es un punto muy significativo. Al principio del drama hallamos a los nibelungos "en el fondo del río." Alberico, más tarde, forja "el anillo" en el fuego, que puede solo arder en la clara atmósfera de la edad aria. Durante aquella época los dioses celebraban también sus sagrados concilios en el puente del arco iris, que es el reflejo del fuego del cielo. Cuando Noé había llevado a los semitas primitivos a través del "diluvio," encendió el primer fuego. "El arco" fue colocado entonces en las nubes para permanecer allí durante toda esta edad y se tomó el acuerdo de que en todo este tiempo no cesarían los ciclos alternos, verano e invierno, día y noche, etcétera. 
-
-En el Apocalipsis (IV, 3) a San Juan se le ofrece la instrucción respecto de "cosas que han de suceder después," por "uno que está rodeado de un arco iris"; y más lejos (X, 1-6) un ángel poderoso con un arco iris en la cabeza proclama solemnemente el fin de los tiempos. Así el mito del Norte y la enseñanza cristiana demuestran claramente que la época comenzó cuando el arco fue colocado en las nubes y cuando sea quitado de allí la época terminará y un nuevo estado de cosas, tanto físicas como espirituales, empezará a manifestarse. 
+Este es un punto muy significativo. Al principio del drama hallamos a los nibelungos "en el fondo del río." Alberico, más tarde, forja "el anillo" en el fuego, que puede solo arder en la clara atmósfera de la edad aria. Durante aquella época los dioses celebraban también sus sagrados concilios en el puente del arco iris, que es el reflejo del fuego del cielo. Cuando Noé había llevado a los semitas primitivos a través del "diluvio," encendió el primer fuego. "El arco" fue colocado entonces en las nubes para permanecer allí durante toda esta edad y se tomó el acuerdo de que en todo este tiempo no cesarían los ciclos alternos, verano e invierno, día y noche, etcétera. En el Apocalipsis (IV, 3) a San Juan se le ofrece la instrucción respecto de "cosas que han de suceder después," por "uno que está rodeado de un arco iris"; y más lejos (X, 1-6) un ángel poderoso con un arco iris en la cabeza proclama solemnemente el fin de los tiempos. Así el mito del Norte y la enseñanza cristiana demuestran claramente que la época comenzó cuando el arco fue colocado en las nubes y cuando sea quitado de allí la época terminará y un nuevo estado de cosas, tanto físicas como espirituales, empezará a manifestarse. 
 
 El otro fenómeno de estos tiempos de turbación es mencionado en el antiguo mito. Loge, el espíritu de la ilusión, tiene tres hijos: la Serpiente Midgaard que rodea al mundo en forma de círculo, mordiéndose su propia cola, es el océano que refracta y tuerce todos los objetos sumergidos en él. Los hombres temen a este elemento traidor y siempre han palidecido pensando lo que sucedería si su furia se desencadenase. El lobo Fenrís, la atmósfera, es también un hijo de la ilusión (óptica), y el rugido horroroso de la tempestad puede hacer temblar al corazón más valiente. Hel, la muerte, es el tercero de los hijos de Loge, y la "reina del terror." Antes de que el hombre entrara en la existencia concreta, como fue descripto al principio del gran mito y en el Génesis, su conciencia estaba concentrada en los mundos espirituales donde los elementos de ilusión, Loge (fuego), Fenris (aire) y la Serpiente (agua) no existen; por siguiente la muerte era también una manifestación desconocida. Pero durante la época presente en la cual la constitución del cuerpo humano está sujeta a la acción de los elementos, la muerte también impera. 
 

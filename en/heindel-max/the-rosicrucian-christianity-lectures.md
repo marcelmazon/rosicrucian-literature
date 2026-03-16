@@ -1866,7 +1866,7 @@ If the switch were made of wood or glass it would be of no use; in fact, it woul
 
 If our prayers are selfish, worldly, and inconsiderate of our neighbor, they are like the wooden switch, they defeat the very purpose they were intended to serve, because contrary to God's purpose. To be of avail prayer must be in harmony with the nature of God, which is Love. The following lines appeared in London Light a number of years ago and have been treasured by the writer as-- 
 
-```
+<pre>
 AN IDEAL PRAYER 
 
 Not more of light I ask, O God,
@@ -1893,7 +1893,7 @@ To love the pure, to seek the good,
 To lift with all my might
 All souls to dwell in harmony,
 In freedom's perfect light.
-```
+</pre>
 
 That is the kind of a prayer that lifts, that ennobles a man, and the more a man or woman cultivates that attitude of mind, and entertains those lofty aspirations the more he is lifting the two higher ethers out of the vital body, and so the churches say, Pray, pray, pray; and they are well within the occult teaching, for in that way the vital body is being worked upon by the constant repetition of lofty aspirations. Before we can proceed along the occult path we must of necessity have laxity between the upper and the lower ethers so that we can function outside, leaving the dense body to be taken care of by the two lower ethers, and herein lies the trouble with the medium, and others who develop a certain phase of involuntary clairvoyance by breathing exercises. When such a person goes out of the body he does it involuntarily; he takes three ethers along with him, and the body therefore is not taken care of. On this road lie mental and moral decline, and ofttimes insanity. 
 
@@ -1931,7 +1931,7 @@ You and I who live under such complex conditions where killing is concentrated i
 
 Friends! let us cease to be destructive. Let us aim to be constructive, and let all creatures live. They have as much right to life as we have. Ella Wheeler Wilcox prefers their claim in the following beautiful words: 
 
-```
+<pre>
 I am the voice of the voiceless;
 Through me the dumb shall speak
 Till a deaf world's ear
@@ -1949,7 +1949,7 @@ And I will fight his fight,
 And speak the word
 For beast and bird
 Till the world shall set things right.
-```
+</pre>
 
 Now we have come so far that we begin to see the application of these things more and more that we have seen in Parsifal and the Holy Grail. We see it is the beginning of compassion when we leave off our lower appetites. We become pure in thought, desire, and body, and so we are going onwards. Here we have in this myth as presented by Wagner one of the most wonderful interpretations of the fact that a certain class of us may go forward and become helpers of humanity. Parsifal is the man who has purified himself and has become harmless. That was seen and felt spiritually by Wagner on yon Good Friday morning when he sat by the Zurich Sea and saw all around him life forces operating. Innumerable seeds were sprouting, all around this wonderful flow of life, and Wagner asked himself what connection could there be between the Savior's death upon the cross and this sprouting forth of everything in nature? And there he struck upon the very heart of the Mystery of the Holy Grail. 
 

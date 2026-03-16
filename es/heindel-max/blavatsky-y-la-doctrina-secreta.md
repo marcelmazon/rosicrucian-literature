@@ -15,9 +15,8 @@ Con una Pequeña Biografía de Max Heindel
 
 Introducción por Manly P. Hall
 
-<h3 id="table-of-contents">Índice</h3>
+### <h3 id="table-of-contents">Índice</h3>
 
-- [Frontispiece](#frontispiece)
 - [Introducción por Manly P. Hall](#introduction)
 - [Pequeña Biografía de Max Heindel](#biography-of-max-heindel)
 - [Capítulo 1](#chapter-1)
@@ -118,9 +117,9 @@ El esfuerzo de estos dos grandes mensajeros Madame Blavatsky y Max Heindel, fuer
 
 Max Heindel fue un gran admirador de Madame Blavatsky, él vio en ella sus propias luchas futuras, él después de haber sido contactado por los Hermanos de la Rosa Cruz, con el espíritu en llamas con el deseo de dar al mundo el gran conocimiento que le había sido revelado, sabiendo que sus años estaban contados y que su cuerpo físico no podría soportar el esfuerzo de la vida del pionero. Como Madame Blavatsky, el tenía constante dolor y tenía necesidad de grande ayuda, tanto física como financiera. El esfuerzo y el infortunio que estas dos almas sufrieron eran responsables en gran manera de acortar sus días en el cuerpo físico. Pero el gran trabajo que ellos habían realizado, fue una bendición para la humanidad.
  
- ```
+<pre>
 “Grandes verdades son porciones del alma del hombre; Grandes almas son porciones de la eternidad”.  
-```
+</pre>
 
 Lowell  
 

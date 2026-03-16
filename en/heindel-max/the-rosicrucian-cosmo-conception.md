@@ -19,11 +19,11 @@ By Max Heindel [1865-1919]
 
 Its Message and Mission: 
 
-```
+<pre>
 A Sane Mind
     A Soft Heart
         A Sound Body
-```
+</pre>
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
@@ -192,7 +192,7 @@ Oceanside, California, 91054, USA
 
 ### <h3 id="creed-or-christ">Creed or Christ</h3>
 
-```
+<pre>
 No man loves God who hates his kind,  
 Who tramples on his brother's heart and soul;  
 Who seeks to shackle, cloud, or fog the mind  
@@ -234,7 +234,7 @@ There's but one way that leads to heaven above -
 That way is human sympathy and love.  
 
 -- Max Heindel.
-```
+</pre>
 
 ### <h3 id="a-word-to-the-wise">A Word to the Wise</h3>
 

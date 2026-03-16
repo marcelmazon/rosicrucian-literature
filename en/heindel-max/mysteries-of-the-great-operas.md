@@ -72,12 +72,12 @@ It has always been the custom of the writer to stick as closely to his subject a
 
 In the opening scene, three of the Sons of God, Planetary Spirits, are represented as bowing before the Grand Architect of the Universe, singing songs of the spheres in their adoration of the Ineffable Being who is the source of life, the author of all manifestation. Goethe represents one of these supernal Spirits of the stars as saying: 
 
-```
+<pre>
 "The sun intones its ancient song, 
 'Mid rival chant of brother spheres, 
 Its predestined course it speeds along, 
 In thund'rous march throughout the years." 
-```
+</pre>
 
 Modern scientific instruments have been invented, whereby in laboratory tests light waves are transmuted to sound, thus demonstrating in the Physical World the mystic maxim of the identity of these manifestations. That which was patent formerly only to the mystic who was able to raise his consciousness to the Region of Concrete Thought, is now also sensed by the scientist. The song of the spheres, first publicly mentioned by Pythagoras, is not therefore, to be regarded as an empty idea originated in the too vivid imagination of poetical minds nor as the hallucination of a Goethe meant every word he said. The stars have each their own keynote, and they travel about the Sun at such varying rates of speed, that their position now cannot be duplicated until twenty-seven thousand years have passed. Thus the harmony of the heavens changes at every moment of life, and as it changes, so does the world alter its ideas and ideals. The circle dance of the marching orbs to the tune of the celestial symphony created by them marks man's progress along the path we call evolution. 
 
@@ -87,7 +87,7 @@ Therefore, the Book of Job designates Satan as being one of the Sons of God. And
 
 While the other Planetary Spirits bow down in adoration when they contemplate the works of the Master Architect as revealed in the universe, Lucifer sounds the note of criticism, of blame, in the following words directed against the masterpiece of God, the king of creatures, man: 
 
-```
+<pre>
 "Of suns and worlds I nothing have to say, 
 I see alone man's self-inflicted pains; 
 That little world god still his stamp retains, 
@@ -96,13 +96,13 @@ Better he might have fared, poor wight,
 Had You withheld the heavenly light; 
 Reason he names it, but doth use it so, 
 That he more brutish than brutes doth grow." 
-```
+</pre>
 
 This from the viewpoint of former generations may sound sacrilegious, but in the greater light of modern times we can understand that even in so exalted a being as that designated by the name of God, there must be growth. We can sense the striving after still greater abilities, the contemplation of future universes offering improved facilities for those evolutions of other Virgin Spirits, which are a result of the imperfections noted in the scheme of manifestation by its exalted Author. Furthermore, as "in Him we live and move and have our begin," so the discordant note sounded by the Lucifer Spirits would also rise within Him. It would not be an outside agency which called attention to mistakes or took Him to task, but His own divine recognition of an imperfection to be transmuted into greater good. 
 
 In the Bible we read that Job was a perfect man, and in the Faust myth the bearer of the title role is designated a servant of God, for naturally the problem of unfoldment, of greater growth, must be solved by the most highly advanced. Ordinary individuals, or those who are lower in the scale of evolution, have still that part of the road to travel which has already been covered by such as Faust and Job, who are the vanguard of the race, and who are looked upon by ordinary humanity in the same way that Lucifer describes them, namely as fools and freaks: 
 
-```
+<pre>
 "Poor fool, his food and drink are not of earth, 
 An inward impulse hurries him afar; 
 himself, half conscious of his frenzied mood; 
@@ -110,16 +110,16 @@ From heaven claimeth he the fairest star,
 And from the earth he craves the highest, best; 
 And all that's near and all that's far, 
 Can never still the cravings of his breast." 
-```
+</pre>
 
 For such people a new and higher path must be opened to give them greater opportunities for growth; hence the answer of God: 
 
-```
+<pre>
 "Though in perplexity he serves me now, 
 I soon will lead him where the light appears; 
 When buds the sapling doth the gardener know, 
 That flow'r and fruit shall grace its coming years." 
-```
+</pre>
 
 ### <h3 id="chapter-2">Chapter II: The Sorrows of the Seeking Soul</h3>
 
@@ -362,12 +362,12 @@ Faust, however, first seeks communication with the macrocosm, who is the Father.
 
 As said before, however, he is too ignorant to successfully retain the mastery, and spirit power quickly clears away the obstructions and leaves Lucifer free. But though he departs from the chamber of Faust, he soon returns ready to barter for the seeking soul. He paints before Faust's eyes glowing pictures of how he may live his life over, how he may gratify his passions and desires. Faust, knowing that Lucifer is not disinterested, inquires what compensation he requires. To this, Lucifer answers: 
 
-```
+<pre>
 "I pledge myself to be thy servant here, 
 At every beck and call alert to be; 
 But when we meet in yonder sphere, 
 Then shalt thou do the same for me." 
-```
+</pre>
 
 Faust himself, adds a seemingly singular condition, regarding the time when the service of Lucifer shall terminate and his own earth life come to an end. 
 
@@ -375,7 +375,7 @@ Strange as it seems, we have in the agreement of Lucifer and the clause proposed
 
 Furthermore, we are all "temple builders" working under the direction of God and His ministers, the divine Hierarchies. If we shirk the task set us in life, we are placed under conditions which will force us to learn. There is no rest nor peach upon the path of evolution and if we seek pleasure and joy to the exclusion of the work of life, the death knell soon comes. If ever we come to a point where we are ready to bid the passing hour stay, where we are so contended with conditions that we cease our efforts to progress, our existence is quickly terminated. It is a matter of observation, that people who retire from business to live only for the enjoyment of that which they have accumulated, soon pass out; while the man who changes his vocation for an avocation generally lives longer. Nothing is so apt to end an existence as inactivity. Therefore, as has been said, the laws of Nature are enunciated in the bargain of Lucifer and the condition added by Faust: 
 
-```
+<pre>
 "If e'er I be content in sloth or leisure, 
 Then be that hour the last I see. 
 When thou with flattery canst cajole me 
@@ -390,7 +390,7 @@ Then let my knell no longer linger,
 Then from my service thou art free; 
 Fall from the clock the index finger, 
 Be time all over then for me." 
-```
+</pre>
 
 Lucifer requests Faust to sign with a drop of blood. And when asked the reason, he says cunningly, "Blood is a most peculiar essence." The Bible says it is the seat of the soul. 
 
@@ -408,7 +408,7 @@ Faust aims to acquire power quickly by the aid of others, hence he contacts the 
 
 Being in a reckless mood, Faust answers contemptuously the demand of Lucifer for his signature in blood to the pact between them, with the following words: 
 
-```
+<pre>
 "Be not afraid that I shall break my word. 
 The scope of all my energy 
 Is with my vow in full accord. 
@@ -422,20 +422,20 @@ In depths of sensual pleasure drowned
 Let us our fiery passions still; 
 Enwrapped in magic's veil profound 
 Let wondrous charm our senses thrill. 
-```
+</pre>
 
 Having been scorned by the powers which make for good and being thoroughly inflamed with a desire for first-hand knowledge, for real power, he is ready to go to any length. But God is represented as saying in the prologue: 
 
-```
+<pre>
 "A good man in his darkest aberration, 
 Still knoweth the way that leadeth to salvation." 
-```
+</pre>
 
 Faust is the aspiring soul, and the soul cannot be permanently diverted from the path of evolution. 
 
 The statement by Faust of his purpose bears out the assertion that he has a high ideal, even when wallowing in mire--he wants experience: 
 
-```
+<pre>
 "The end I aim at is not joy. 
 I crave excitement, agonizing bliss, 
 Enamored hatred, quickening vexation. 
@@ -445,14 +445,14 @@ To bare my breast to every pang, to know
 In my heart's core all human weal and woe, 
 To grasp in thought the lofty and the deep; 
 Man's various fortunes on my breast to heap." 
-```
+</pre>
 
 Before anyone can be truly compassionate, he must feel, as Faust desires to feel, the depth of the sorrows of the human soul as well as its most ecstatic joys; for only when we know these extremes of the human passion can we feel the compassion necessary for those who would aid in the uplift of humanity. By the help of Lucifer, Faust is able to learn both joy and sorrow, and thus Lucifer is indeed, as he says, 
 
-```
+<pre>
 ". . .The pow'r that still 
 Works for good, though scheming ill." 
-```
+</pre>
 
 By the interference of the Lucifer Spirits in the scheme of evolution, the passions of mankind were aroused, intensified and led into a channel which has caused all the sorrow and sickness in the world. Nevertheless, it has awakened the individuality of man and freed him from the leading strings of the Angels. Faust, also, by the help of Lucifer, is led out of the conventional paths and becomes thereby individualized. When the bargain has been concluded between Faust and Lucifer we have the replica of the Sons of Cain, who are the progeny and charges of the Lucifer Spirits as we have seen in "Freemasonry and Catholicism." 
 
@@ -466,12 +466,12 @@ Once, all mankind stood at the point where the scientist believes the missing li
 
 Some time the aspiring soul must enter the witches' kitchen as Faust did, and face the object lesson of the consequence of evil as represented by the apes. The soul is then left to meet Marguerite in the garden, to tempt and be tempted, to choose between purity or passion, to fall as Faust did, or to stand staunchly for purity, as did Parsifal. Under the Law of Compensation it will then receive its reward for the deeds done in the body. Indeed, luck is twin to merit, as Lucifer points out to Faust, and true wisdom is only acquired by patient persistence in well-doing. 
 
-```
+<pre>
 "How closely luck is linked to merit 
 Does never to the fool occur. 
 Had he the wise man's stone, I swear it, 
 The stone had no philosopher." 
-```
+</pre>
 
 True to his purpose to study life instead of books, Faust demands that Lucifer procure for him admittance to the home of Marguerite, and proceeds to win her affections by a princely gift of jewels smuggled into her closet by Lucifer. The brother of Marguerite is away fighting for his country. Her mother is unable to decide what is best to do with the gift and takes it to the spiritual adviser in the church. The latter loves the shining stones more than the precious souls entrusted to his care. He neglects his duty for a necklace of pearls, more eager to secure the gems for the adornment of an idol, than to guard the child of the church against moral dangers lurking around her. Thus Lucifer gains his point and quickly reaps a reward of blood and human souls, for in order to gain access to Marguerite's chamber, Faust induces her to give her mother a sleeping potion which results in the death of the parent. Valentine, the brother of Marguerite, is killed by Faust. Marguerite is cast into prison and sentenced to suffer capital punishment. 
 
@@ -479,12 +479,12 @@ When we remember that the blood is the seat of the soul, and that it clings to t
 
 It was with true appreciation of this fact that Goethe wrote: 
 
-```
+<pre>
 "Who never ate his bread in sorrow, 
 Who never spent the midnight hours, 
 Weeping, waiting for the morrow, 
 He knows ye not, ye heavenly powers." 
-``` 
+</pre>
 
 ### <h3 id="chapter-6">Chapter VI: The Wages of Sin and the Ways of Salvation</h3>
 
@@ -508,7 +508,7 @@ These ideals are generated in his soul by the love of a character called Helen, 
 
 He sees his work with the lower forces nearing completion, but his sight grows dimmer, and with that intense longing which comes to the soul to see the fruitage of its works, he desires to retain his sight until all shall have been accomplished and his Utopian dream shall have become a reality. Therefore, as the vision before him--the land rising from the sea and the happy people who live upon it in good fellowship--fades from his sightless eyes, he utters the fateful words named by him in his bargain with Lucifer; 
 
-```
+<pre>
 "Whenever to the passing hour 
 I say, 'Oh stay! thou art so fair, 
 Then unto thee I give the power 
@@ -517,11 +517,11 @@ Then let me knell no longer linger,
 Then from my service thou art free; 
 Fall from the clock the index finger, 
 Be time all over then for me." 
-```
+</pre>
 
 By terms of that bargain, when Faust has uttered the fateful words the forces of hell are loosed from bondage to him, and he in turn becomes their prey: at least so it would seem. But Faust did not desire to stay the march of time for the purpose of enjoying sensual pleasures nor of gratifying selfish desires, as contemplated by the bargain. It was for the realization of an altruistic and a noble ideal that he wished to stay the passing hour. Therefore, he is really free from Lucifer, and a battle between the angelic forces and the hosts of Lucifer finally results in the triumph of the former, who carry the seeking soul to the haven of rest in the kingdom of the Christ, while they utter the following words: 
 
-```
+<pre>
 "Saved is the noble soul from ill, 
 Our spirit peer. Whoever 
 Strives forward with unswerving will 
@@ -530,13 +530,13 @@ And if with him celestial love
 Hath taken part, to meet him 
 Come down the angels from above; 
 With cordial hail they greet him." 
-```
+</pre>
 
 Thus the Faust of the myth is an entirely different character from the Faust of the stage; and the drama which begins in heaven where permission was given Lucifer to tempt him, as Job was tempted in ancient times, also ends in heaven when the temptation has been overcome and the soul has returned to its Father. 
 
 Goethe, the great mystic, fittingly ends his version with that most mystic of all stanzas found in any literature: 
 
-```
+<pre~>
 "All that is perishable, 
 Is but a likeness. 
 The unattainable 
@@ -545,7 +545,7 @@ The indescribable,
 Here it is done. 
 The Eternal Feminine 
 Draws us on." 
-``` 
+</pre~>
 
 This stanza puzzles all who are not able to penetrate into the realms where it is supposed to be sung, namely heaven. 
 
@@ -593,14 +593,14 @@ It is dawn and we see Gurnemanz, the oldest of the Grail Knights, with two young
 
 In the first act she is clothed in a robe of snake skins, symbolical of the doctrine of rebirth, for as the snake sheds its skin, coat after coat, which it exudes from itself, so the Ego in its evolutionary pilgrimage emanates from itself one body after another, shedding each vehicles as the snake sheds its skin, when it has become hard, set and crystallized so that it has lost its efficiency. This idea is also coupled with the teachings of the Law of Consequence, which brings to us as reapings whatever we sow, in Gurnemanz's answer to the young squire's avowal of the distrust in Kundry: 
 
-```
+<pre>
 Under a curse she well may be 
 From some past life we do not see, 
 Seeking from sin to loose the fetter, 
 By deeds for which we fare the better. 
 Surely 'tis good she follows thus, 
 Helping herself while serving us. 
-```
+</pre>
 
 When Kundry comes on the scene she pulls from her bosom a phial which she says she has brought from Araby and which she hopes will be a balm for the wound in the side of Amfortas, the King of the Grail, which causes him unspeakable suffering and which cannot heal. The suffering king is then carried on stage, reclining on the couch. He is on his way to his daily bath in the near-by lake, where two swans swim and make the waters into a healing lotion which assuages his dreadful sufferings. Amfortas thanks Kundry, but expresses the opinion that there is no relief for him till the deliverer has come, of whom the Grail has prophesied, "a virgin fool, by pity enlightened." But Amfortas thinks death will come before deliverance. 
 
@@ -628,14 +628,14 @@ In this story we have an excellent picture of the soul's search for the realitie
 
 Gurnemanz has now become imbued with the idea that Parsifal is to be the deliverer of Amfortas and takes him along to the Grail Castle. And to Parsifal's question, "Who is the Grail?" he answers: 
 
-```
+<pre>
 That tell we not; but if thou has of Him been bidden, 
 From thee the truth will not stay hidden 
 Methinks thy face I rightly knew. 
 The land to Him no path leads through, 
 And search but severs from Him wider, 
 When He Himself is not its guider. 
-```
+</pre>
 
 Here we find Wagner bringing us back into pre-Christian times, for before the advent of Christ, Initiation was not free to "whosoever will" seek in the proper manner, but was reserved for certain chosen ones such as the Brahmins and the Levites, who were given special privileges in return for being dedicated to the temple service. The coming of Christ, however, wrought certain definite changes in the constitution of mankind, so now all are capable of entering the pathway of Initiation. Indeed, it had to be so when international marriages took away caste. 
 
@@ -665,7 +665,7 @@ In the last act Kundry, who represents who lower nature, says but one word: Serv
 
 Oliver Wendell Holmes, in his beautiful poem, "The Chambered Nautilus," has embodied in verse this idea of constant progression in gradually improving vehicles, and final liberation. The nautilus builds its spiral shell in chambered section, constantly leaving the smaller ones, which it has outgrown, for the last built. 
 
-```
+<pre>
 Year after year beheld the silent toil 
 That spread his lustrous coil; 
 Still, as the spiral grew, 
@@ -689,7 +689,7 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast, 
 Till thou at length art free, 
 Leaving thine outgrown shell by life's unresting sea! 
-```
+</pre>
 
 <h2 id="the-ring-of-the-niebelung">The Ring of the Nibelung</h2>
 
@@ -789,9 +789,9 @@ Thus truth is ever upon the side of the truth seeker in his battle against the c
 
 In the meantime, Wotan powerless to abandon Valhal, the Ring of Creed, is forced to put away from himself Brunhilde, the spirit of truth, who has disobeyed him; for it is a condition of creed that it be autocratic and brook no gainsaying. But as all religions are inherently imbued by a spirit of love and a sincere desire to benefit and uplift mankind, Wotan feels an overwhelming sorrow at the step which is necessary for the continuance of the policy he had adopted, and which he adheres to despite the heart-rending pleadings of Brunhilde. It is a terrible thing to part company with truth, and both feel this more keenly than words can express, when the poor creed bound Wotan must perforce put Brunhilde to sleep, as he says: 
 
-```
+<pre>
 "Never to be wakened, until one shall come who is more free than I." 
-```
+</pre>
 
 And in that saying he discloses the principal requirement in the quest of truth. "Unless a man leave father and mother," said Christ, "He cannot become my disciple." All limitations must have been swept away before we can hope for success in the quest of truth. 
 
@@ -857,14 +857,14 @@ The court of Gunther lies directly in the path of Siegfried, and Alberich speeds
 
 ### <h3 id="chapter-13">Chapter XIII: Rebirth, and the Lethal Drink</h3>
 
-```
+<pre>
 "Birth is but a sleep and a forgetting.  
 The soul that rises with us, our life's star,  
 Has elsewhere had its setting,  
 And cometh from afar."  
 
 - WORDSWORTH. 
-```
+</pre>
 
 When Siegfried leaves the rock of the Valkuerie and reaches the worldly court of Gunther, he is given a drink calculated to make him forget all about his past life and Brunhilde, the spirit of truth, whom he had won for his very own. 
 

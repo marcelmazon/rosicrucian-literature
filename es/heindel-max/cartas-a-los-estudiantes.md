@@ -433,19 +433,7 @@ Revisando la lección del mes precedente vemos que los puntos más importantes s
 
 Admitamos que el siguiente diagrama reproduzca las épocas a través de las cuales desciende y asciende el espíritu, como también los mundos y sus globos correspondientes y entonces la conexión relativa de los diversos factores, se hará fácilmente comprensible. 
 
---------------------------------------------------------------
-      1ª Época                                                 7ª Época 
---------------------------------------------------------------
-          2ª Época                                    6ª Época 
---------------------------------------------------------------
-                3ª Época                       5ª Época  
-
-          Cuerpos divididos             Espíritus divididos 
-        en sexos-varón y hembra      en sectas-políticos y sacerdotes.  
---------------------------------------------------------------
-                                    4ª Época  
-                                (Punto de giro o vuelta)  
---------------------------------------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 En Lemuria, la tierra de la Tercera Época, la humanidad fue dividida en sexos: varón y hembra. En aquella época había seres espirituales que estaban sumidos en la materialidad y los precursores escuchaban ávidamente el "evangelio del cuerpo" que presentían confusamente, pero lo aprendieron con el tiempo y el mundo espiritual se esfumó a su vista. Entonces fue cuando los espíritus de Lucifer fueron los maestros de la mujer (Eva), y Jehová enseñó al hombre (Adán). La mujer se hallaba en aquella época más adelantada que el hombre en asuntos materiales, porque entonces nos encontrábamos en el arco descendente del sendero de la evolución. 
 
