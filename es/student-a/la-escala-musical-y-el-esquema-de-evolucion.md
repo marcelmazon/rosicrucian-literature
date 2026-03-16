@@ -211,7 +211,7 @@ Aunque todos los instrumentos mecánicos, incluyendo la radio son de gran valor,
 
 Siguiendo el valor de los números y lo que ellos representan observando que hay cinco (5) líneas en el pentagrama musical, y cuatro espacios -cinco y cuatro igual a nueve, el número de la humanidad-. Hay siete notas en la escala musical: DO RE MI FA SOL LA SI, que siempre ocupan el mismo lugar en el pentagrama. En una escala de siete notas -como esta- las notas cambian de posición en el pentagrama -según la tónica elegida- Por ejemplo: si la escala es de Do mayor, la primera nota que en este caso es Do, se halla en la primera línea agregada por debajo del pentagrama. Si la escala tiene un sostenido -Sol mayor- la primera nota, en este caso, SOL, estaría colocada en la segunda línea del pentagrama, si tiene un bemol, la primera nota -FA- se encontraría en el primer espacio del pentagrama5. 
 
-5 NOTA: Hay otro tipo de escalas-Cromáticas. 
+() - (5) NOTA: Hay otro tipo de escalas-Cromáticas. 
 
 Cada una de la Oleadas de Vida pertenecientes al Sistema Solar, Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario y Piscis, tienen una nota-clave propia. 
 

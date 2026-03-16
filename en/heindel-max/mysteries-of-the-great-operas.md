@@ -938,7 +938,7 @@ At the sound of the trumpet of Heimdal, all the factors of destruction press for
 
 But as the Phoenix arises rejuvenated and beautiful from its ashes, so also a New Earth, fairer and more ethereal, was seen by the ancient prophetess to arise from the great conflagration where "the elements melt with fervent heat"--"Gimle," she called it. Nor was it without population, for while the great conflagration was in progress a man and a woman called Life and Liftharaser (life means life) were saved and from them springs a new race which lives in peace and close to God. 
 
-```
+<pre>
 "A hall I see, 
 More brilliant than the sun, 
 Roofed with gold. 
@@ -956,7 +956,7 @@ Issueth judgments;
 He causeth strife to cease, 
 And establisheth peace 
 To endure forever." 
-```
+</pre>
 
 Thus the ancient northern myth teaches, but from a different angle, the same truths as found in greater fullness in the Christian Scriptures from Genesis to the Apocalypse, and it is important that we should realize the truth of these tales. There are, alas, too many in the class described by Peter as saying: "Where is the promise of His coming? For since the fathers fell asleep, all things continue as they were in the beginning." There are few who realize the import of the statement in the second chapter of Genesis, that "a mist went up from the ground and watered the earth before it rained," and that thus the children of the mist must have been physiologically different from the man of today who breathes air since "the Flood," when the mist condensed and became the sea. But just as sure as these changes happened in the past, so there is now another change impending. True, it may not come in our time--"that hour knoweth no man, neither the Angels, neither the Son," and repeatedly the warning of Noah is held up before us in this connection. In that day they ate and drank, married and were given in marriage, but suddenly the waters engulfed them and all who had not evolved the physiological requisites, lungs, necessary to live in the new condition perished. The Ark carried the pioneers safely through the catastrophe. 
 
@@ -988,16 +988,16 @@ Like A Midsummer Night's Dream of Shakespeare, this story of how he finds the Mo
 
 The opening scene of Tannhauser introduces us to a licentious debauch in the cave of Venus. Tannhauser is kneeling before the goddess who is stretched on a couch. He wakens as if from a dream, and his dream has inculcated a longing to visit the Earth above again. this he tells the goddess Venus who answers: 
 
-```
+<pre>
 "What foolish plaint! Art weary of my love? 
 By sorrow once thy heart was crushed above. 
 Up minstrel, seize thy harp and sing of bliss divine, 
 For love's chief treasure, love's goddess is thine." 
-```
+</pre>
 
 Inflamed with new ardor Tannhauser seizes harp and sings her praise: 
 
-```
+<pre>
 "All hail to thee! Undying fame attend thee. 
 Paeans of praise to thee be ever sung. 
 Each soft delight thy bounty sweet did lend me, 
@@ -1014,20 +1014,20 @@ Our share of pain as well as pleasure,
 We mortals need in changing measure. 
 Too full of joy, again I long for pain, 
 So, Queen, I cannot here remain." 
-```
+</pre>
 
 When mankind emerged from Atlantis, and came into the air of Aryana, the rainbow stood for the first time in the sky as the sign of the new age. At that time it was said that as long as this bow was in the clouds the seasons would not cease to change; day and night, summer and winter, ebb and flood, and all the other alternating measures of Nature would follow one another in unbroken succession. In music there may not always be harmony. Discord once in a while comes in to give appreciation of the melody which follows. Thus it is with the question of pain and sorrow, of joy and happiness: they are also measures of alternation. We cannot live in one without craving the other, any more than we could remain in heaven and gather experiences that are only to be found upon Earth. And it is this inward urge, this swing of the pendulum from joy to sorrow and back again, which drives Tannhauser from the cave of Venus that he may again know the strife and struggle of the world; that he may there gain the experience which sorrow alone can give and forget the pleasures which bring to him no soul power. But it is characteristic of the lower forces, however, that they always seek to influence the soul against its will; that they always use every endeavor to keep it away from the path of rectitude; and so Venus who stands as the representative of these powers in the drama of Tannhauser, warningly and dissuasively says: 
 
-```
+<pre>
 "In dust thy soul will soon be humbled, 
 Adversity thy pride will fell, 
 Then crushed in spirit, ardor crumbled, 
 Thou'lt plead again to feel my spell." 
-```
+</pre>
 
 But Tannhauser is firm in his purpose. The urge within him is so strong that nothing can keep him back, and though he still feels the spell, he exclaims with great fervor: 
 
-```
+<pre>
 "While I have life, but thee my harp will praise, 
 No meaner theme will e'er my song inspire; 
 Thou spring of beauty and of gentle grace, 
@@ -1041,7 +1041,7 @@ But I must forth, the life of earth I crave,
 Here I must aye remain a slave; 
 I thirst for freedom though my death it be, 
 Therefore, O Queen, from thee I flee!" 
-```
+</pre>
 
 Thus when Tannhauser leaves the cave of Venus he is the pledged champion of the low and sensual side of love; and this he goes out into the world to teach, for that is the nature of mankind; whatever the heart feels, must come out. 
 
@@ -1055,18 +1055,18 @@ Hearing that the subject of the song contest is to be love, and furthermore, tha
 
 When Tannhauser emerged from the cave of Venus one of the first sounds which greeted him was the chant of a band of pilgrims going to Rome to obtain forgiveness for their sins, and this awakened within him an overpowering sense of his own delinquency. Therefore he kneels and exclaims in deep contrition: 
 
-```
+<pre>
 "Almighty, praise I give to Thee, 
 I pray Thee mercy show to me. 
 By sense of sin I am oppressed, 
 The load too heavy far for me. 
 I have no peace, can find no rest 
 Till pardon I receive from Thee." 
-```
+</pre>
 
 While he is thus dejected and feels himself accursed, doomed to roam alone and unblessed through the world because of his unhallowed love for Venus, the minstrels come upon him, and recognizing him, endeavor to persuade him to accompany them to Wartburg, but as said before, it was the passionate love of Elizabeth that drove him thence, and he feels that he dare not approach her. As a last argument, Wolfram von Eschenbach tells Tannhauser that Elizabeth loves him. Elizabeth has never been at the contests of song since Tannhauser left, and Wolfram von Eschenbach, one of the purest and most beautiful characters in medieval history, endeavors to secure the happiness of Elizabeth by bringing Tannhauser back to her though he himself loves her, and it breaks his own heart to do so. On hearing this, passion fires Tannhauser's soul anew, and he sings: 
 
-```
+<pre>
 "Ah, dost thou smile once more upon me! 
 Thou radiant world that I had lost! 
 O sun of heaven thou dost not shun me 
@@ -1075,11 +1075,11 @@ By stormy clouds so long o'ercrossed.
 Rejoicing set my sorrow free. 
 A ray of new, unwonted splendor 
 Illumes my soul, O joy 'tis she!" 
-```
+</pre>
 
 On meeting Tannhauser at the castle, Elizabeth tells him: 
 
-```
+<pre>
 "Now the world to me is darkened. 
 Repose and joy from me have flown. 
 Since fondly to thy lays I've hearkened, 
@@ -1092,20 +1092,20 @@ In slumber oft near broken-hearted,
 Awake, each pang was oft recalled; 
 All joy has from my life departed. 
 Oh tell me why I am enthralled!" 
-```
+</pre>
 
 To this Tannhauser replies: 
 
-```
+<pre>
 "All praise to love for this sweet token! 
 Love touched my harp with magic sweet. 
 Love through my song to thee hath spoken 
 And captured, leaves me at thy feet." 
-```
+</pre>
 
 Elizabeth then confesses: 
 
-```
+<pre>
 "O blessed hour of meeting! 
 O blessed power of love! 
 At last I give thee greeting, 
@@ -1114,11 +1114,11 @@ Now life anew awakens,
 Within this heart of mine; 
 The cloud of sorrow breaketh. 
 The sun of joy doth shine." 
-```
+</pre>
 
 Thus Elizabeth has inspired love in the hearts of two of the minstrels, Wolfram and Tannhauser, but how different this love is will be seen from the way each handles the theme in the contest of song, which follows in the second act, where the Lord of Wartburg opens the contest with the following words: 
 
-```
+<pre>
 "As oft in war times, death we braved, 
 And knightlike battled, honor to maintain, 
 So, minstrels, you have fought and virtue saved. 
@@ -1127,7 +1127,7 @@ Tune up again; another lay indite.
 Describe true love, that we may surely know; 
 And who so does most nobly this recite 
 The princess shall reward on him bestow." 
-```
+</pre>
 
 In this last verse we gain a true understanding of the relative scope and mission of knighthood and minstrelsy. It was the duty of knights to follow war, to defend with the sword all who were in need thereof, to fight with a strong arm the battle of the weak. In so far as a knight followed the code of honor then prevailing, and defended the weak, keeping faith with friend and foe, he learned the lessons of physical and, in a certain sense, of moral courage, which are so necessary for the development of the soul. Anyone who enters upon the path of spiritual attainment is also a knight of noble birth, and it behooves him to realize that he must have the same virtues which were required of knighthood, for upon the spiritual path there are also dangers and places where physical courage is required. The Spirit, for instance, cannot come to liberation without physical inconvenience. Sickness usually attends soul growth to a greater or a less extent, and it requires physical courage to endure the suffering incident to that attainment, after which we all strive, and thus sacrifice the body for the soul. 
 
@@ -1222,12 +1222,12 @@ There is a very important distinction between innocence and virtue, and what is 
 
 In the prologue of Faust, God is represented as saying, concerning the hero: 
 
-```
+<pre>
 "With vision imperfect he serve me now, 
 But soon I'll lead him where more light appears; 
 When buds the sapling doth the gardener know, 
 That flow'r and fruit will grace its coming years." 
-```
+</pre>
 
 This is the actual fact concerning all mankind. At the present time we all serve God imperfectly because of our limited vision. We have not the real, true perception of what is wanted and of how we should use the talents wherewith we are now endowed. Nevertheless God, through the process of evolution is constantly leading us into greater and greater light, and by degrees we shall cease to be spiritually barren: We shall flower and bear fruit. Thus we shall be able to serve God as we would and not as we do. 
 

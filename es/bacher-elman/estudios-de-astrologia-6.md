@@ -11,6 +11,8 @@ original_source_file: "studies-in-astrology-volume-6.md"
 
 por Elman Bacher
 
+Second Printing 
+
 ### <h3 id="table-of-contents">Índice</h3>
 
 - [Capítulo I: El Punto, La Línea y El Círculo](#chapter-1)

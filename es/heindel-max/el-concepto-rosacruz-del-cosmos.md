@@ -11,8 +11,6 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 o Ciencia Oculta Cristiana
 
-Título Original: "The Rosicrucian Cosmo-Conception"
-
 Tratado elemental sobre la evolución pasada del hombre, su constitución actual y su futuro desarrollo
 
 ![Foto de Max Heindel](../../assets/max-heindel.jpg)
@@ -37,6 +35,7 @@ Oceanside, California, 91054, USA
 - [Credo o Cristo](#creed-or-christ)
 - [Una palabra al sabio](#a-word-to-the-wise)
 - [PRIMERA PARTE: Constitución actual del hombre y método de su desarrollo](#part-1)
+  - [Diagrama "Los Cuatro Reinos"](#diagram-the-four-kingdoms)
   - [Introducción](#introduction)
   - [Capítulo I - Los mundos visibles e invisibles](#chapter-1)
     - [Región Química del Mundo Físico](#chemical-region-of-the-physical-world)
@@ -46,14 +45,10 @@ Oceanside, California, 91054, USA
     - [Diagrama 1 (Permanencia relativa de los Mundos visibles e invisibles)](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
     - [Diagrama 2 (Los Siete Mundos)](#diagram-2-the-seven-worlds)
   - [Capítulo II - Los cuatro reinos](#chapter-2)
-    - [Diagrama "Los Cuatro Reinos]()
-    - [Diagrama de las Corrientes del Cuerpo de Deseos en el Hombre Ordinario]()
-    - [Diagrama de las Corrientes del Cuerpo de Deseos en el Clarividente Voluntario]()
-    - [Diagrama de las Corrientes del Cuerpo de Deseos en el Clarividente Involuntario]()
     - [Diagrama 3 (Vehículos de cada Reino)](#diagram-3-the-vehicles-of-the-four-kingdoms)
     - [Diagrama 4 (Estados de Conciencia en cada Reino)](#diagram-4-the-consciousness-of-the-four-kingdoms)
   - [Capítulo III: El Hombre y el Método de Evolución ](#chapter-3)
-    - [Actividades de la vida; memoria y crecimineto anímico ](#activities-of-life-memory-and-soul-growth)
+    - [Actividades de la vida; memoria y crecimineto anímico](#activities-of-life-memory-and-soul-growth)
     - [Diagrama "Constitución séptuple del Hombre"]()
     - [Diagama 5 (Constitución décuple del Hombre)]()
     - [Muerte y Purgatorio](#death-and-purgatory)
@@ -79,10 +74,9 @@ Oceanside, California, 91054, USA
     - [El Principio](#the-beginning)
     - [Los Siete Mundos](#the-seven-worlds)
     - [Los Siete Períodos](#the-seven-periods)
-    - [Nombres de los Siete Périodos]()
+    - [Diagrama 7 (El Período de Saturno)](#diagram-7-the-saturn-period)
   - [Capítulo VII: El Camino de la Evolución](#chapter-7)
     - [Revoluciones y Noches Cósmicas](#revolutions-and-cosmic-nights)
-    - [Diagrama 7 (El Período de Saturno)](#diagram-7-the-saturn-period)
     - [Diagrama 8 (Los Siete Mundos, los Siete Globos y los Siete Períodos)](#diagram-8-the-seven-worlds-seven-globes-and-seven-periods)
   - [Capítulo VIII: La obra de la evolución](#chapter-8)
     - [El hilo de Ariadna](#ariadnes-thread)
@@ -102,8 +96,9 @@ Oceanside, California, 91054, USA
     - [La cuarta revolución del Período Terrestre](#the-fourth-revolution-of-the-earth-period)
   - [Capítulo XI: Génesis y evolución de nuestro Sistema Solar](#chapter-11)
     - [Caos](#chaos)
+	- [Nacimiento de los planetas](#the-birth-of-the-planets)
     - [Diagrama 11 (Los 1, 3, 7 y 10 Aspectos de Dios y del Hombre)](#diagram-11-aspects-of-god-and-man)
-    - [Nacimiento de los planetas](#the-birth-of-the-planets)
+    - [Table of Vibrations](#table-of-vibrations)
     - [Diagrama 12 (Forma pasada, actual y futura del hombre)](#diagram-12-a-mans-past-present-and-future-form)
   - [Capítulo XII: Evolución de la Tierra](#chapter-12)
     - [La Época Polar](#the-polarian-epoch)
@@ -111,7 +106,6 @@ Oceanside, California, 91054, USA
     - [La Luna: la octava esfera](#the-moon-the-eighth-sphere)
     - [La Época Lemúrica](#the-lemurian-epoch)
     - [Nacimiento del individuo](#birth-of-the-individual)
-    - [Diagrama (Tabla de vibraciones)]()
     - [Separación de los sexos](#separation-of-the-sexes)
     - [Influencia de Marte](#influence-of-mars)
     - [Las razas y sus guías](#the-races-as-their-leaders)
@@ -141,31 +135,28 @@ Oceanside, California, 91054, USA
     - [La Caída del Hombre](#the-fall-of-man)
     - [Diagrama 13 (El principio y el fin de los sexos)](#diagram-13-the-beginning-and-end-of-sex)
 - [TERCERA PARTE: Futuro Desarrollo e Iniciación del Hombre](#part-3)
+  - [Diagrama "Los siete Días de la Creación"](#diagram-the-seven-days-of-creation)
   - [Capítulo XV: Cristo y su Misión](#chapter-15)
     - [Evolución de la Religión](#the-evolution-of-religion)
-    - [Diagrama "Los siete Días de la Creación"](#diagram-the-seven-days-of-creation)
     - [Jesús y Cristo-Jesús](#jesus-and-christ-jesus)
-    - [Inciados Más Elevados de los Períodos]()
     - [Diagrama 14 (Los Vehículoss de los Iniciados)](#diagram-14-the-father-the-son-and-the-holy-spirit)
     - [No Paz, sino Guerra](#not-peace-but-a-sword)
     - [La Estrella de Belén](#the-star-of-bethlehem)
     - [El Corazón es una anomalía](#the-heart-as-an-anomaly)
     - [El misterio del Gólgota](#the-mystery-of-golgotha)
     - [La Sangre Purificadora](#the-cleansing-blood)
-    - [Diagrama 15 Caduceo o Cetro de Mercurio (Los siete Días de la Creación y las cuatro Grandes Iniciaciones)](#diagram-15-the-symbolism-of-the-caduceus)
+	- [Diagrama "Como arriba es abajo"](#diagram-as-above-so-below)
   - [Capítulo XVI: Desarrollo Futuro e Iniciación](#chapter-16)
     - [Los Siete Días de la Creación](#the-seven-days-of-creation)
-    - [Diagrama "Como arriba es abajo"](#diagram-15-the-symbolism-of-the-caduceus)
+	- [Diagrama 15 Caduceo o Cetro de Mercurio (Los siete Días de la Creación y las cuatro Grandes Iniciaciones)](#diagram-15-the-symbolism-of-the-caduceus)
     - [Radiados y Moluscos, Articulados y Vertebrados](#radiates-mollusks-articulates-and-vertebrates)
     - [Espirales dentro de espirales](#spirals-within-spirals)
-    - [Períodos y Consciencia correspondiente]()
     - [Alquimia y Crecimiento del Alma](#alchemy-and-soul-growth)
     - [La Palabra Creadora](#the-creative-word)
   - [Capítulo XVII: Método para adquirir el Conocimiento Directo](#chapter-17)
     - [Los Primeros Grados](#the-first-steps)
     - [Métodos Occidentales para los Occidentales](#western-methods-for-western-people)
     - [La Ciencia de la Nutrición](#the-science-of-nutrition)
-    - [Calorías que se necesitan según la índole de trabajo]()
     - [Tabla de Valores Alimentarios](#table-of-food-values-part-1)
     - [Tabla de contenido de fósforo](#table-of-food-values-part-2)
     - [La Ley de la Asimilación](#the-law-of-assimilation)
@@ -190,10 +181,14 @@ Oceanside, California, 91054, USA
     - [Antiguas Verdades en Ropajes Modernos](#ancient-truths-in-modern-dress)
     - [Iniciación](#initiation)
     - [La Fraternidad Rosacruz](#the-rosicrucian-fellowship)
-    - [La Sede de la Fraternidad Rosacruz]()
+    - [Correspondence Courses](#correspondence-courses)
     - [El Simbolismo de la Rosa Cruz](#symbolism-of-the-rose-cross)
-- [Ejercicios Matutinos y Vespertinos para el aspirante Rosacruz](#addendum-a)
-- [¿Que es la Verdad?]()
+- [Addenda](#addenda)
+  - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant](#addendum-a)
+  - [Concerning the Origin of the Fellowship Teachings](#concerning-the-origin-of-the-fellowship-teachings)
+  - [Addendum B: Footnote to Chapter III](#addendum-b)
+  - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
+  - [Addendum D: Footnote to "Our Buildings"](#addendum-d)
 
 ### <h3 id="creed-or-christ">CREDO o CRISTO</h3>
 
@@ -271,17 +266,13 @@ En vista de lo antedicho se comprenderá claramente que el autor no considera es
 
 Lo que se dice en esta obra debe ser aceptado o rechazado por el lector de acuerdo con su propio criterio. Se a puesto todo lo necesario para comprender las enseñanzas; ha costado muchos trabajos expresarlas en trabajos que sean fácilmente comprensibles. Por esta razón se ha usado el mismo término para expresar la misma idea en toda la obra. La misma palabra tiene el mismo significado en cualquiera parte que se emplee. Cuando se emplea por vez primera una palabra que describe determinada idea, se da la definición más clara que es posible dar al autor. No se han empleado sino palabras castizas de las más sencillas y claras. El autor ha tratado constantemente de dar definiciones tan exactas y definidas como el asunto que se esté considerando lo permita, eliminando toda la ambigüedad y poniendo todo en claro. Hasta que punto lo ha conseguido es cosa que debe estimarlo el estudiante; pero habiéndose esforzado todo lo posible para sugerir las ideas verdaderas, se ve también obligado a resguardarse contra la posibilidad de que se tome esta obra como una exposición al pie de la letra de las enseñanzas Rosacruces. El olvidar esto podría dar más peso a esta obra para algunos estudiantes. Y eso no convendría ni a la Fraternidad, ni al lector. Tendrían entonces cierta tendencia a echar toda la responsabilidad sobre la Fraternidad debido a los errores que deben haberse deslizado en esta como en toda obra humana, de ahí la advertencia expuesta. 
 
-Hay un relato indio que dice que cualquiera que tenga dos lineas semicirculares en la palma de la mano, en la juntura exterior del pulgar, "lleva consigo un grano de arroz." Esto quiere decir que será bien recibido y hospitalariamente tratado donde quiera que vaya. El autor tiene la marca mencionada y ese pronóstico se ha cumplido maravillosamente en su caso. Ha encontrado amigos por todas partes y ha sido tratado por ellos en forma tal que ha sido literalmente abrumado por sus atenciones. Y lo mismo ha sucedido con este libro. El Dr. von Brandis le facilitó los medios para ponerse en contacto por vez primera con las enseñanzas Rosacruces. El comandante Kingsmill y Jessie Brewster lo ayudaron lealmente en la parte literaria; Mrs. M. E. Rath Merrill y Miss Allene Merrill ejecutaron cierto número de dibujos, y en cuanto a William M. Patterson no solamente prestó al autor servicios personales, sino que le prestó su ayuda monetaria para que pudiera publicar el libro al precio de costo. Esta obra ha sido pues, producida por amor. Nadie relacionado con ella ha recibido ni recibirá ni un céntimo de recompensa, todos han dado desinteresadamente su tiempo y su dinero. Por lo tanto, el autor desea expresar a todos ellos su gratitud, y espera que encuentren otras y más grandes oportunidades para ejercer sus servicios desinteresados. 
-
 Durante los cuatro años que han transcurrido desde que los párrafos anteriores fueron escritos, el autor ha continuado sus investigaciones de los mundos invisibles y experimentado la expansión de la conciencia relacionada con tales reinos de la naturaleza, lo cual se consigue por medio de la práctica de los preceptos enseñados por la Escuela de Misterios del Occidente. Otros que han seguido también el método de desarrollo espiritual descripto aquí, como especialmente adaptado a los pueblos occidentales, han sido capaces, de igual modo, de comprobar por si mismos muchas cosas de las dichas en este libro. De este modo, la comprensión del autor de lo que le fue dictado por los Hermanos Mayores, ha tenido alguna corroboración, y parece que fue sustancialmente apropiada; por lo tanto, cree como un deber explicar esto, para dar con ello estímulo a los que todavía no son capaces de ver por si mismos. 
 
 Si hubiéramos dicho que el cuerpo vital está hecho de prismas en lugar de puntos, hubiera sido más exacto, pues es por la refracción a través de estos diminutos prismas que el fluido solar incoloro cambia en rosáceo según ha sido indicado por otros escritores además del autor. 
 
 Se han hecho otros nuevos e importantes descubrimientos; por ejemplo, ahora sabemos que el cordón plateado nace uno nuevo en cada renacimiento, que una parte del mismo brota del átomo-simiente del cuerpo de deseos en el gran vórtice del hígado; que la otra parte nace del átomo simiente del cuerpo denso en el corazón, que las dos partes se unen con el átomo-simiente del cuerpo vital en el plexo solar, y que esta unión de los vehículos superiores e inferiores produce el despertar del feto. El desarrollo ulterior del cordón, entre el corazón y el plexo solar durante los primeros siete años, tiene una importante relación con el misterio de la infancia, así como su más amplio desarrollo desde el hígado al plexo solar que tiene lugar en el segundo período septenario de la vida del niño, contribuye a la adolescencia. La realización total del cordón plateado marca el final de la vida infantil, y desde tal momento, la energía solar que entra por el bazo y que se tiñe por la refracción del átomo simiente prismático del cuerpo vital situado en el plexo solar, comienza ha dar n distintivo e individual colorido al aura que observamos en los adultos. 
 
--- Max Heindel 
-
-## <h2 id="primera-parte">PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO</h2>
+<h2 id="primera-parte">PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO</h2>
 
 ### <h3 id="introduction">INTRODUCCIÓN</h3>
 
@@ -289,9 +280,7 @@ El mundo occidental forma, indudablemente, la vanguardia de la raza humana, y, p
 
 Buda, grande y sublime, podrá haber sido la "Luz del Asia" pero puede afirmarse que Cristo será la "Luz del Mundo." Así como la luz del Sol desvanece la de las más brillantes estrellas y borra todo vestigio de oscuridad iluminando y vivificando a todos los seres, así también, en un futuro no muy lejano, la verdadera religión de Cristo sobrepasará y anulará todas las otras religiones para eterno beneficio de la humanidad. 
 
-En nuestra civilización, el abismo que se interpone entre la mente y el corazón se hace más grande cada día, y, mientras la mente vuela de un descubrimiento a otro en los dominios de la ciencia, el vacío se hace más grande y oscuro, y el corazón se ve dejado atrás cada vez más. La mente pide a gritos y se satisface solamente con explicaciones materialmente demostrables acerca del hombre y de los demás seres que forman el mundo fenomenal. 
-
-El corazón siente instintivamente que hay algo más grande y aspira hacia aquello que siente ser una verdad de orden tan elevado, que la mente sola no puede alcanzar. El alma humana desearía remontarse sobre las etéreas alas de la intuición, desearía bañarse en la fuente de la luz y amor espirituales; pero los puntos de vista científicos modernos han cortado sus alas y permanece encadenada y silenciosa, y las aspiraciones insatisfechas la devoran como el buitre a Prometeo. 
+En nuestra civilización, el abismo que se interpone entre la mente y el corazón se hace más grande cada día, y, mientras la mente vuela de un descubrimiento a otro en los dominios de la ciencia, el vacío se hace más grande y oscuro, y el corazón se ve dejado atrás cada vez más. La mente pide a gritos y se satisface solamente con explicaciones materialmente demostrables acerca del hombre y de los demás seres que forman el mundo fenomenal. El corazón siente instintivamente que hay algo más grande y aspira hacia aquello que siente ser una verdad de orden tan elevado, que la mente sola no puede alcanzar. El alma humana desearía remontarse sobre las etéreas alas de la intuición, desearía bañarse en la fuente de la luz y amor espirituales; pero los puntos de vista científicos modernos han cortado sus alas y permanece encadenada y silenciosa, y las aspiraciones insatisfechas la devoran como el buitre a Prometeo. 
 
 ¿Es esto necesario? ¿No habrá algún terreno común en el cual puedan encontrarse la cabeza y el corazón, ayudándose la una al otro, haciéndose así más efectivos mutuamente en su investigación por la verdad universal, satisfaciéndose ambos por igual? 
 
@@ -379,9 +368,7 @@ Si se coloca en una atmósfera de temperatura suficientemente baja una copa llen
 
 Los mundos superiores son, pues, los mundos de las causas de las fuerzas, y no podremos comprender bien este mundo inferior sin conocer los otros y sin estudiar las fuerzas y causas de las que todas las cosas materiales no son sino efectos. 
 
-En cuanto a la realidad de esos mundos superiores comparada con la del mundo físico, por extraño que parezca, esos mundos superiores que para la mayoría son como espejismos o, por lo menos, menos sustanciales, son, en verdad, mucho más reales, y los objetos que en ellos se encuentran son mucho más permanentes e indestructibles que los objetos del Mundo Físico. 
-
-Si tomamos un ejemplo comprenderemos esto fácilmente. Un arquitecto no empieza a construir una casa procurándose los materiales necesarios y contratando obreros para que coloquen piedras sobre piedras al azar, sin pensarla o hacer un plan previo. Primero empieza a pensar en una casa. Gradualmente este pensamiento toma forma en su mente y, finalmente, adquiere una idea clara de la casa, tal como debe ser, una imagen de la casa. 
+En cuanto a la realidad de esos mundos superiores comparada con la del mundo físico, por extraño que parezca, esos mundos superiores que para la mayoría son como espejismos o, por lo menos, menos sustanciales, son, en verdad, mucho más reales, y los objetos que en ellos se encuentran son mucho más permanentes e indestructibles que los objetos del Mundo Físico. Si tomamos un ejemplo comprenderemos esto fácilmente. Un arquitecto no empieza a construir una casa procurándose los materiales necesarios y contratando obreros para que coloquen piedras sobre piedras al azar, sin pensarla o hacer un plan previo. Primero empieza a pensar en una casa. Gradualmente este pensamiento toma forma en su mente y, finalmente, adquiere una idea clara de la casa, tal como debe ser, una imagen de la casa. 
 
 Esta casa permanece por el momento, invisible para todos, menos para el arquitecto que la concibió. La hace objetiva al dibujarla en el papel. Dibuja el plan, y por medio de esa imagen objetiva de la forma de pensamiento o ideación, los obreros construyen la casa de madera, de hierro, de piedra, siguiendo las indicaciones de la forma de pensamiento creada por el arquitecto. 
 
@@ -393,7 +380,7 @@ Habiendo visto, pues, lo razonable de la existencia de tales mundos, que existen
 
 En la Doctrina Rosacruz el universo se divide en siete mundos o estados de materia diferentes, como sigue: 
 
-```
+<pre>
 1 - El Mundo de Dios.  
 2 - El Mundo de los Espíritus Virginales.  
 3 - El Mundo del Espíritu Divino.  
@@ -401,13 +388,15 @@ En la Doctrina Rosacruz el universo se divide en siete mundos o estados de mater
 5 - El Mundo del Pensamiento.  
 6 - El Mundo del Deseo.  
 7 - El Mundo Físico.  
-```
+</pre>
 
 Esta división no es arbitraria, sino necesaria, porque la substancia de cada uno de esos mundos está sujeta a leyes que prácticamente no obran en los otros. Por ejemplo: En el Mundo Físico, la materia está sujeta a la gravedad, contracción y dilatación. En el Mundo del Deseo no existe ni frío ni calor, y los cuerpos ascienden o descienden con toda facilidad. La distancia y el tiempo son también factores predominantes en el Mundo Físico, mientras que casi no existen en el Mundo del Deseo. 
 
 La materia en estos mundos varía además en densidad, siendo el Mundo Físico el más denso de los siete. 
 
-Cada mundo se subdivide en siete regiones o subdivisiones de la materia que lo compone. En el Mundo Físico, los sólidos, líquidos y gases forman las tres subdivisiones más densas, siendo las cuatro restantes, éteres de diversa densidad. En los otros mundos son necesarias subdivisiones similares, porque la materia de que se componen no es de densidad uniforme. 
+Cada mundo se subdivide en siete regiones o subdivisiones de la materia que lo compone. 
+
+En el Mundo Físico, los sólidos, líquidos y gases forman las tres subdivisiones más densas, siendo las cuatro restantes, éteres de diversa densidad. En los otros mundos son necesarias subdivisiones similares, porque la materia de que se componen no es de densidad uniforme. 
 
 Hay todavía dos distinciones más que hacer. Las tres subdivisiones densas del Mundo Físico - sólidos, líquidos y gases - constituyen lo que se llama la Región Química. La substancia de esta región es la base de todas las formas densas. 
 
@@ -465,11 +454,13 @@ Este éter es también el agente por el cual el pensamiento impresiona el cerebr
 
 #### <h4 id="the-desire-world">EL MUNDO DEL DESEO</h4>
 
-Como el Mundo Físico y cualquier otro reino de la Naturaleza, el Mundo del deseo tiene siete subdivisiones denominadas "regiones" ; pero no tiene, como el Mundo Físico, las grandes divisiones correspondientes a las Regiones Química y Etérica. La materia pasional o de deseos es la que persiste a través de siete subdivisiones o regiones como material para la "incorporación" o para formar el cuerpo del deseo. Sí como la Región Química es el reino de la forma, así como la Región Etérica es el dominio de las fuerzas que producen las actividades de la vida y de las formas, permitiendo a estas vivir, moverse y propagarse, así también las fuerzas del Mundo del Deseo, trabajando activamente en el cuerpo denso, lo impelen a moverse en tal o cual dirección. 
+Como el Mundo Físico y cualquier otro reino de la Naturaleza, el Mundo del deseo tiene siete subdivisiones denominadas "regiones"; pero no tiene, como el Mundo Físico, las grandes divisiones correspondientes a las Regiones Química y Etérica. La materia pasional o de deseos es la que persiste a través de siete subdivisiones o regiones como material para la "incorporación" o para formar el cuerpo del deseo. Sí como la Región Química es el reino de la forma, así como la Región Etérica es el dominio de las fuerzas que producen las actividades de la vida y de las formas, permitiendo a estas vivir, moverse y propagarse, así también las fuerzas del Mundo del Deseo, trabajando activamente en el cuerpo denso, lo impelen a moverse en tal o cual dirección. 
 
 Si existiesen solamente las actividades de las Regiones Química y Etérica del Mundo Físico, habría formas vivientes, capaces de moverse, pero sin incentivo alguno para hacerlo. Este incentivo lo proporcionan las fuerzas cósmicas activas en el Mundo del Deseo, y sin esta actividad que obra en todas las fibras del cuerpo vitalizado, impulsando a la acción en tal o cual dirección, no habría experiencia ni crecimiento moral. Las funciones de las diversas clases de éteres impulsarían el crecimiento de la forma, pero no habría tal crecimiento anímico. La evolución sería un imposible, tanto para la vida como para la forma, porque estas últimas solo evolucionan hacia grados superiores, respondiendo a las sucesivas exigencias del crecimiento espiritual. Vemos, pues, la gran importancia de este reino de la Naturaleza. 
 
-Deseos, anhelos, pasiones y sentimientos se expresan en la materia del las diferentes regiones del Mundo del Deseo, como las formas en la Región Química del Mundo Físico. Aquellos toman formas compuestas de material emocional, que duran más o menos tiempo, de acuerdo con la intensidad del deseo, aspiración o sentimiento que encierran. En el Mundo del Deseo, la distinción entre fuerza y materia no es tan fácil como en el Mundo Físico. Puede decirse que en el primero las ideas de fuerza y materia son idénticas e inmutables. No es así en absoluto ciertamente, pero podemos afirmar que, en cierto grado, el Mundo del Deseo se compone de fuerza - materia. Cuando hablamos de la materia del Mundo del Deseo, si bien es cierto que es un grado menos densa que la del Mundo Físico, no debemos imaginarnos absolutamente, por eso, que esa materia sea materia física sutilidad. Este concepto, sostenido por algunos que han estudiado las filosofías ocultistas, es completamente erróneo. Y esto es debido a la gran dificultad que existe para dar una descripción completa y clara que permita una comprensión fácil de los mundos superiores. Desgraciadamente, nuestro idioma se ha hecho para describir cosas materiales y, por lo tanto, es completamente inadecuado para describir las condiciones de los reinos suprafísicos y, por consiguiente, todo lo que se dice sobre esos reinos debe tomarse como símiles, más bien que como descripciones exactas. 
+Deseos, anhelos, pasiones y sentimientos se expresan en la materia del las diferentes regiones del Mundo del Deseo, como las formas en la Región Química del Mundo Físico. Aquellos toman formas compuestas de material emocional, que duran más o menos tiempo, de acuerdo con la intensidad del deseo, aspiración o sentimiento que encierran. En el Mundo del Deseo, la distinción entre fuerza y materia no es tan fácil como en el Mundo Físico. Puede decirse que en el primero las ideas de fuerza y materia son idénticas e inmutables. No es así en absoluto ciertamente, pero podemos afirmar que, en cierto grado, el Mundo del Deseo se compone de fuerza - materia. 
+
+Cuando hablamos de la materia del Mundo del Deseo, si bien es cierto que es un grado menos densa que la del Mundo Físico, no debemos imaginarnos absolutamente, por eso, que esa materia sea materia física sutilidad. Este concepto, sostenido por algunos que han estudiado las filosofías ocultistas, es completamente erróneo. Y esto es debido a la gran dificultad que existe para dar una descripción completa y clara que permita una comprensión fácil de los mundos superiores. Desgraciadamente, nuestro idioma se ha hecho para describir cosas materiales y, por lo tanto, es completamente inadecuado para describir las condiciones de los reinos suprafísicos y, por consiguiente, todo lo que se dice sobre esos reinos debe tomarse como símiles, más bien que como descripciones exactas. 
 
 Aunque la montaña y la margarita, el hombre, el caballo y el hierro están compuestos de una substancia atómica última, no por eso podemos decir que la margarita sea una forma o clase de hierro más fina o sutil. Similarmente, es imposible explicar con palabras el cambio o diferencia que sufre la materia física cuando se convierte en materia emotiva o de deseos. Si no hubiera diferencias, las leyes del Mundo Físico obrarían en aquella, lo que no sucede. 
 
@@ -505,7 +496,9 @@ Si el sentimiento que nos produce la impresión de un objeto o de una idea es de
 
 Así que desde esta Región Central del Mundo del Deseo viene el incentivo para la acción o la decisión para refrenarla, porque esto último es también una acción a los ojos del ocultista, y en el presente estado de nuestro desarrollo los dos sentimientos gemelos, Interés e Indiferencia, suministran el incentivo para la acción y son los resortes que mueven al mundo. En un estado ulterior de desarrollo, esos sentimientos cesarán de existir. Entonces, el factor determinante de la acción será el deber. 
 
-El Interés provoca las fuerzas de Atracción o Repulsión. La Indiferencia simplemente marchita el objeto o idea contra el cual se dirige, por lo menos en lo que concierne a nuestra relación con ellos. 
+El Interés provoca las fuerzas de Atracción o Repulsión. 
+
+La Indiferencia simplemente marchita el objeto o idea contra el cual se dirige, por lo menos en lo que concierne a nuestra relación con ellos. 
 
 Si nuestro interés por un objeto o por una idea genera Repulsión, nos hace, naturalmente, eliminar de nuestras vidas toda conexión con tal objeto o idea que provocó la repulsión. Pero existe una gran diferencia entre la acción de la Fuerza de Repulsión y el simple sentimiento de Indiferencia. Quizás una ilustración haga más clara la actuación de esos dos Sentimientos mellizos y de esas dos fuerzas gemelas. 
 
@@ -525,7 +518,9 @@ El Mundo del Deseo con sus habitantes innumerables compenetra el Mundo Físico -
 
 El Mundo del Pensamiento también se compone de siete Regiones de cualidades diversas y de diferente densidad, y, semejantemente al Mundo Físico, el Mundo del Pensamiento se divide en dos grandes divisiones: la Región del pensamiento Concreto, que comprende las cuatro subdivisiones más densas, y la Región del Pensamiento Abstracto, que comprende las tres subdivisiones superiores y más sutiles. El Mundo del pensamiento es el mundo central de los cinco de donde el hombre obtiene sus vehículos. En el se encuentran y unen el espíritu y el cuerpo. Este Mundo es también el más elevado de los tres en los que progresa actualmente la evolución humana, siendo los otros dos Mundos superiores prácticamente como una esperanza realizable en el futuro, en cuanto concierne al hombre en general. 
 
-Sabemos que los materiales de la Región Química se emplean para construir todas las formas físicas. Estas formas tienen la vida y el poder de movimiento que les prestan las fuerzas que obran en la Región Etérica, y algunas de esas formas vivientes son impulsadas a la actividad por los dos Sentimientos del Mundo del Deseo. La Región del Pensamiento Concreto suministra el material en que se envuelven las ideas generadas en la Región del Pensamiento Abstracto, manifestándose como pensamientos - formas o imágenes mentales, actuando como reguladores o balancines de los impulsos engendrados en el Mundo del Deseo por los impactos que recibe el Mundo fenomenal. 
+Sabemos que los materiales de la Región Química se emplean para construir todas las formas físicas. Estas formas tienen la vida y el poder de movimiento que les prestan las fuerzas que obran en la Región Etérica, y algunas de esas formas vivientes son impulsadas a la actividad por los dos Sentimientos del Mundo del Deseo. 
+
+La Región del Pensamiento Concreto suministra el material en que se envuelven las ideas generadas en la Región del Pensamiento Abstracto, manifestándose como pensamientos - formas o imágenes mentales, actuando como reguladores o balancines de los impulsos engendrados en el Mundo del Deseo por los impactos que recibe el Mundo fenomenal. 
 
 Vemos, pues, como los tres Mundos en los que el hombre está evolucionando actualmente, se complementan uno a otro, formando un todo que muestra la Suprema Sabiduría del Gran Arquitecto del sistema al que pertenecemos, y que reverenciamos con el santo nombre de Dios. 
 

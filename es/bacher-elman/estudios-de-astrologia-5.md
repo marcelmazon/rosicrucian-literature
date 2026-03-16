@@ -11,6 +11,8 @@ original_source_file: "studies-in-astrology-volume-5.md"
 
 por Elman Bacher
 
+First Edition 
+
 ### <h3 id="table-of-contents">Índice</h3>
 
 - [Capítulo I: El Astrólogo como Científico, como Artista y como Sacerdote-Maestro](#chapter-1)

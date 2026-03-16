@@ -183,7 +183,7 @@ Oceanside, California, 91054, USA
     - [The Rosicrucian Fellowship](#the-rosicrucian-fellowship)
     - [Correspondence Courses](#correspondence-courses)
     - [Symbolism of Rose Cross](#symbolism-of-the-rose-cross)
-- [Topical Index]()
+- [Addenda](#addenda)
   - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant](#addendum-a)
   - [Concerning the Origin of the Fellowship Teachings](#concerning-the-origin-of-the-fellowship-teachings)
   - [Addendum B: Footnote to Chapter III](#addendum-b)
@@ -380,7 +380,7 @@ Having thus seen the reasonableness of such Worlds existing around and about us,
 
 In the Rosicrucian teaching the universe is divided into seven different Worlds, or states of matter, as follows: 
 
-```
+<pre>
 1 - World of God.
 2 - World of Virgin Spirits.
 3 - World of Divine Spirit.
@@ -388,7 +388,7 @@ In the Rosicrucian teaching the universe is divided into seven different Worlds,
 5 - World of Thought.
 6 - Desire World.
 7 - Physical World.
-```
+</pre>
 
 The division is not arbitrary but necessary, because the substance of each of these Worlds is amenable to laws which are practically inoperative in others. For instance, in the Physical World, matter is subject to gravity, contraction and expansion. In the Desire World there is neither heat nor cold, and forms levitate as easily as they gravitate. Distance and time are also governing factors of existence in the Physical World, but are almost nonexistent in the Desire World.
 

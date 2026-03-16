@@ -149,7 +149,9 @@ Así dijo Caín: "Tu, Hiram, estás destinado a morir sin ver realizadas tus esp
 
 () - (*) Salem significa paz 
 
-Hiram fue conducido de nuevo a la superficie de la tierra, y al apartarse de la escena de sus desvanecidos anhelos le asaltaron los conspiradores y le hirieron mortalmente; pero antes de morir pudo ocultar el martillo y el disco en que había inscrito la Palabra. Nadie los encontró hasta siglos después cuando Hiram, el hijo de la viuda, renació en la persona de Lázaro y fue amigo y discípulo del León de Judá, quien lo resucitó por medio de la iniciación. Al encontrar el martillo vióse que había tomado forma de cruz y que el disco se había convertido en rosa. Así fue que Hiram ocupó un lugar entre los inmortales con el nuevo y simbólico nombre de Christian Rosenkreuz. Fundó la Orden de los constructores de templos que lleva su nombre, y a los aspirantes a esta Orden se les instruye todavía en la manera de fundir los bajos metales y fabricar la piedra blanca. 
+Hiram fue conducido de nuevo a la superficie de la tierra, y al apartarse de la escena de sus desvanecidos anhelos le asaltaron los conspiradores y le hirieron mortalmente; pero antes de morir pudo ocultar el martillo y el disco en que había inscrito la Palabra. Nadie los encontró hasta siglos después cuando Hiram, el hijo de la viuda, renació en la persona de Lázaro y fue amigo y discípulo del León de Judá, quien lo resucitó por medio de la iniciación. Al encontrar el martillo vióse que había tomado forma de cruz y que el disco se había convertido en rosa. Así fue que Hiram ocupó un lugar entre los inmortales con el nuevo y simbólico nombre de Christian Rosenkreuz. 
+
+Fundó la Orden de los constructores de templos que lleva su nombre, y a los aspirantes a esta Orden se les instruye todavía en la manera de fundir los bajos metales y fabricar la piedra blanca. 
 
 En los siguientes capítulos explicaremos la simbología de todo lo expuesto. 
 
