@@ -61,11 +61,11 @@ Oceanside, California, 92054, USA
 
 Our Message and Mission:
 
-```
+<pre>
 A Sane Mind
     A Soft Heart
         A Sound Body
-```
+</pre>
 
 Before entering upon an explanation of the teachings of the Rosicrucians, it may be well to say a word about them and about the place they hold in the evolution of humanity. 
 
@@ -211,7 +211,7 @@ This earth may, in fact, be likened to a school to which we return life after li
 
 We are not here then by the caprice of God. He has not placed one in clover and another in a desert, nor has He given one a healthy body so that he may live at ease from pain and sickness, while He placed another in poor circumstances with never a rest from pain. But what we are, we are on account of our own diligence or negligence, and what we shall be in the future depends upon what we will to be and not upon divine caprice or upon inexorable fate. No matter what the circumstances, it lies with us to master them, or to be mastered as we will. Sir Edwin Arnold puts the teaching most beautifully in his "Light of Asia:" 
 
-```
+<pre>
 The Books say well, my Brothers! each man's life 
 The outcome of his former living is; 
 The bygone wrongs bring forth sorrows and woes, 
@@ -225,11 +225,11 @@ Who toiled, a slave, may come anew a prince
 For gentle worthiness and merit won, 
 Who ruled, a king, may wander earth in rags 
 For things done or undone. 
-```
+</pre>
 
 Or, as Ella Wheeler Wilcox says: 
 
-```
+<pre>
 "One ship sails East and another sails West 
 With the self same winds that blow. 
 'Tis the set of the sail, and not the gale, 
@@ -239,7 +239,7 @@ As the winds of the sea are the ways of fate
 As we voyage along through life. 
 'Tis the act of the soul, which determines the goal 
 And not the calm or the strife." 
-```
+</pre>
 
 When we wish to engage someone to undertake a certain mission we choose someone whom we think particularly fitted to fulfill the requirements, and we must suppose that a Divine Being would use at least as much common sense and not choose anyone to do his errand who was not fitted therefor. So when we read in the Bible that Samson was foreordained to be the slayer of the Philistines and that Jeremiah was predestined to be a prophet, it is but logical to suppose that they must have been particularly suited to such occupations. John the Baptist, also, was born to be a herald of the coming Saviour and to preach the Kingdom of God which is to take the place of the kingdom of men. 
 
@@ -269,7 +269,7 @@ The Great Leaders of evolution always obtain the maximum benefit from each condi
 
 Oliver Wendell Holmes has so beautifully voiced that aspiration and its consummation in the lines: 
 
-```
+<pre>
 "Build thee more stately mansions, O my soul, 
 As the swift seasons roll! 
 Leave thy low-vaulted past; 
@@ -277,7 +277,7 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast, 
 Till thou at length art free, 
 Leaving thine outgrown shell by life's unresting sea!" 
-```
+</pre>
  
 ### <h3 id="chapter-3">CHAPTER III: THE VISIBLE AND THE INVISIBLE WORLDS</h3>
 
@@ -763,7 +763,7 @@ In our explanation concerning the subconscious memory we noted that a record of 
 
 The Rosicrucian Mystery Teaching gives a scientific method whereby an aspirant to the higher life may purge himself continually, and thus be able entirely to avoid existence in Purgatory. Each night after retiring the pupil reviews his or her life during the day in reverse order. He starts to visualize as clearly as possible the scene which took place just before retiring. He then endeavors to view impartially his actions in that scene, examining them to see whether he did right or wrong. If the latter, he endeavors to feel and realize as vividly as possible that wrong. For instance, if he spoke harshly to someone, and upon later consideration finds it was not merited, he will endeavor to feel exactly as that one felt whom he wronged and at the very earliest opportunity to apologize for the hasty expression. Then he will call up the next scene in backward succession which may perhaps be the supper table. In respect of that scene he will examine himself as to whether he ate to live, sparingly and of foods prepared without suffering to other creatures of God (such as flesh foods that cannot be obtained without taking life). If he finds that he allowed his appetite to run away with him and that he ate gluttonously, he will endeavor to overcome these habits, for to live a clean life we must have a clean body, and no one can live to his highest possibilities while making his stomach a graveyard for the decaying corpses of murdered animals. In this respect there occurs to the writer a little poem by Ella Wheeler Wilcox: 
 
-```
+<pre>
 "I am the voice of the voiceless; 
 Through me the dumb shall speak, 
 Till a deaf world's ear 
@@ -781,7 +781,7 @@ And I will fight his fight,
 And speak the word 
 For beast and bird 
 Till the world shall set things right. 
-```
+</pre>
 
 Thus the pupil will continue to review each scene in reverse order from night till morning, and to feel really sorry for whatever he has done amiss. He will not neglect to feel glad either when he comes to a scene where he has done well, and the more intensely he can feel, the more thoroughly he will eradicate the record upon the tablet of the heart and sharpen his conscience, so that as time goes on from year to year, he will find less cause for blame and enhance his soul power enormously. Thus he will grow in a measure impossible by any less systematic method, and there will be no necessity for his stay in Purgatory after death. 
 
