@@ -64,3 +64,28 @@ Tendrían entonces cierta tendencia a echar toda la responsabilidad sobre la Fra
 Hay un relato indio que dice que cualquiera que tenga dos lineas semicirculares en la palma de la mano, en la juntura exterior del pulgar, "lleva consigo un grano de arroz." Esto quiere decir que será bien recibido y hospitalariamente tratado donde quiera que vaya. El autor tiene la marca mencionada y ese pronóstico se ha cumplido maravillosamente en su caso. Ha encontrado amigos por todas partes y ha sido tratado por ellos en forma tal que ha sido literalmente abrumado por sus atenciones. Y lo mismo ha sucedido con este libro. El Dr. von Brandis le facilitó los medios para ponerse en contacto por vez primera con las enseñanzas Rosacruces. El comandante Kingsmill y Jessie Brewster lo ayudaron lealmente en la parte literaria; Mrs. M. E. Rath Merrill y Miss Allene Merrill ejecutaron cierto número de dibujos, y en cuanto a William M. Patterson no solamente prestó al autor servicios personales, sino que le prestó su ayuda monetaria para que pudiera publicar el libro al precio de costo. Esta obra ha sido pues, producida por amor. Nadie relacionado con ella ha recibido ni recibirá ni un céntimo de recompensa, todos han dado desinteresadamente su tiempo y su dinero. Por lo tanto, el autor desea expresar a todos ellos su gratitud, y espera que encuentren otras y más grandes oportunidades para ejercer sus servicios desinteresados. 
 
 Durante los cuatro años que han transcurrido desde
+
+
+
+
+
+### La mayoria del texto no esta en ingles
+
+//#### <h4 id="curso-por-correspondencia">CURSO POR CORRESPONDENCIA</h4>
+
+Entre otras actividades, la Fraternidad Rosacruz mantiene un curso por correspondencia de cartas e instrucciones mensuales, para los estudiantes. Estas lecciones van en forma de pequeños folletos. Además se edita en inglés una revista de mérito excepcional, titulada The Rosicrucian Magazine. En las cartas se consideran y desarrollan algunos puntos de la instrucción, la que, de esta manera, se imprime perfectamente en la mente del estudiante. 
+
+Hay también un curso avanzado por correspondencia para los probacionistas, para ayudarles a obtener el mayor beneficio posible de sus ejercicios y para apresurar su marcha en el sendero hacia el discipulado. 
+
+El secretario General de la Fraternidad Rosacruz, enviará a quien lo pida un formulario solicitud para el curso por correspondencia elemental. Una vez llenado debidamente dicho formulario y devuelto, su nombre y dirección se escribirán en la lista de correspondencia de estudiantes y se recibirán las cartas e instrucciones a su debido tiempo. 
+
+Estas lecciones no se venden; es contrario a los principios rosacruces dar auxilios materiales en cambio de valores espirituales; pero se confía en que aquellos que reciben esta ayuda, enseñanza o dirección, esperando que contribuirán, en la medida de sus posibilidades, a sufragar los gastos que se originan. Y en la misma proporción en que cumplan con esa obligación moral, se beneficiarán moralmente de nuestros esfuerzos en su favor. 
+
+La correspondencia debe dirigirse a:
+
+General Secretary
+The Rosicrucian Fellowship
+Mount Ecclesia P.O. Box 713
+Oceanside, CA. 92049-0713 U.S.A.
+
+ICONO ROSACRUZ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
