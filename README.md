@@ -1,1 +1,0 @@
-Translate the following markdown file (it's an informational pamphlet/handout) to Ukrainian. Prioritize accuracy and natural speech. Use the word "брошура" to translate the word "pamphlet". Display result as markdown code: 
