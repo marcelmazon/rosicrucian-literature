@@ -1,5 +1,5 @@
 ---
-title: "Pamphlet №31: To Those Who Mourn<"
+title: "Pamphlet №31: To Those Who Mourn"
 language: "en"
 original_title: "Pamphlet №31: To Those Who Mourn"
 original_language: "en"
