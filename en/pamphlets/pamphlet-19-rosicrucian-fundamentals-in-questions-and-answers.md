@@ -31,12 +31,12 @@ After Max Heindel reached America he had these exalted teachings printed in the 
 
 The Elder Brothers of the Rose Cross, with their superior knowledge of the spiritual worlds bring to us the proof of an existence of these higher worlds; also many advanced students have received positive proof of life after death: to them it is no longer a theory but a Truth. It is possible, with the development of a finer sense, to actually experience and see the conditions existing in this invisible land of the so-called dead which is interpenetrating our dense physical world, although unseen by those who have only the sense of physical sight developed. As John McCreery says in his beautiful poem:
 
-```
+<pre>
 “They are not dead. They have but passed
 Beyond the mists that blind us here,
 Into a new and larger life
 Of that serener sphere.”
-```
+</pre>
 
 Death to the Rosicrucian student is but a shifting of consciousness, a casting away of a worn-out garment (the physical body) to take on that spiritual body which Paul tells us about in the 15th Chapter of 1st. Corinthians.
 
