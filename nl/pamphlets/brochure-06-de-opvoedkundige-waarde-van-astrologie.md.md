@@ -1,0 +1,54 @@
+---
+title: "Brochure nr. 6: de opvoedkundige waarde van astrologie"
+language: "nl"
+original_title: "Pamphlet №6: The Educational Value of Astrology"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-06-the-educational-value-of-astrology.md"
+---
+
+<h1 id="pamphlet-6-the-educational-value-of-astrology">Brochure nr. 6: de opvoedkundige waarde van astrologie</h1>
+
+### <h3 id="the-educational-value-of-astrology">De opvoedkundige waarde van astrologie</h3>
+
+De opvoedkundige waarde van astrologie schuilt in het feit dat zij, meer dan enige andere wetenschap, de mens aan zichzelf openbaart. Geen andere wetenschap is zo verheven, zo diepzinnig en zo alomvattend. Zij zet de relatie uiteen tussen de Grote Mens van het universum en de kleine god die de mens is. "Naar het beeld van God schiep Hij hem." Het Grote Patroon wordt in miniatuur herhaald in menselijke vormen. God, de macrokosmos, en de mens, de microkosmos, zijn aan elkaar verwant en fundamenteel één.
+
+De materiële wetenschap heeft tot op zekere hoogte de fysieke effecten van de stralen van de zon en de maan vastgesteld. Er zijn speculaties geuit over de effecten van stralen die afkomstig zijn van andere hemellichamen. De occulte wetenschap, die de subtielere krachten onderzoekt die inwerken op emotie en denken, heeft de effecten daarvan met niet minder precisie in kaart gebracht dan de academische wetenschap de reacties van zee en bodem, plant en dier op de zonne- en maanstralen heeft vastgelegd.
+
+### <h3 id="revealing-hidden-causes">Verborgen oorzaken onthullen</h3>
+
+Met deze kennis kunnen we het astrologische patroon van elk individu bepalen en de relatieve kracht en zwakte kennen van de verschillende krachten die in elk leven werkzaam zijn. In de mate waarin we over dergelijke kennis beschikken, kunnen we beginnen met een systematische, wetenschappelijke karaktervorming. We kiezen tijden en seizoenen die kosmisch gunstig zijn voor het ontplooien van onontwikkelde kwaliteiten, het corrigeren van foutieve eigenschappen en het elimineren van destructieve neigingen.
+
+De opvoedkundige waarde van astrologie ligt in haar vermogen om de verborgen oorzaken te onthullen die in ons leven aan het werk zijn. Zij dringt door tot de ontastbare, maar altijd aanwezige en krachtige factoren in het leven. Zij overstijgt de vorm. Zij ontdekt de Geest. Zij toont de werkelijkheid aan. Zij raakt elk facet van het leven. Zij adviseert de volwassene met betrekking tot beroepskeuze, de ouders bij de begeleiding van kinderen, de leraren bij de omgang met leerlingen, de rechters bij het vellen van vonnissen, de arts bij het diagnosticeren van ziekten, en biedt op soortgelijke wijze hulp aan iedereen, in welke positie of onderneming men zich ook bevindt.
+
+Astrologie en astronomie waren ooit één enkel vakgebied. De ziel der dingen is niet altijd zozeer verborgen geweest voor de grote massa als tijdens de afgelopen een of twee eeuwen van sceptische, materialistische wetenschap. We zijn zo ver verwijderd geraakt van de ware en innerlijke wetenschap van de sterren dat de hogere kennis ervan ofwel is beoefend door de verlichte weinigen die onbekend zijn bij de wereld in het algemeen, ofwel door charlatans die fragmenten van het onderwerp hebben bemachtigd en die geringe oppervlakkige kennis hebben geëxploiteerd door misbruik te maken van de onwetendheid en het bijgeloof van de niet-geïnformeerden.
+
+### <h3 id="ruling-our-stars">Onze sterren beheersen</h3>
+
+Vandaag de dag is de astronomie, het kind van de astrologie, na het huis van haar vader te hebben verlaten en naar een ver en dor land te zijn gezworven waar zij zich slechts voedde met de schillen van vormen en figuren, omgekeerd en heeft zij haar blik gericht op haar ware thuis, waar het feest van spirituele overvloed op haar terugkeer wacht. Vandaag de dag houden mannen en vrouwen van de hoogste rang op het gebied van de wetenschap zich bezig met kosmische stralen en hun invloed op mens en planeet. Het bewustzijn van de mensen wordt in sneltempo voorbereid op een ontwaken op grote schaal; op de erkenning dat de hemellichamen niet alleen tijd en getijden markeren, maar dat ook de impulsen van onze eigen Geest onderworpen zijn aan hun bewegingen. ONDERWORPEN aan hun bewegingen, welteverstaan, maar er geen SLAVEN van. De bestemming van elk menselijk Ego is om over zijn of haar sterren te heersen; kennis en gehoorzaamheid zijn de middelen om de stellaire krachten te beheersen en te gehoorzamen aan hun volmaakte patroon.
+
+Astrologie is de grootste, de meest verhevene en de oudste van alle wetenschappen. Haar oorsprong gaat vooraf aan de geschreven geschiedenis. Haar bronnen reiken blijkbaar terug tot de tijd waarin goden naar verluidt met mensen wandelden en praatten. Het zou moeilijk zijn om aan de primitieve mensheid de grootse uitvinding toe te schrijven van een astrologische symboliek die door de eeuwen heen universeel is gebruikt en waarnaar vooraanstaande zieners uit vele landen en verschillende religies hebben gekeken voor een beeldende weergave van de evolutie van mens en planeet. In deze tekens onderscheidt het begrijpende oog de opkomst en ondergang van beschavingen en de progressieve ontvouwing van 's werelds grote filosofieën en religies. Zij vormen de sleutels waarmee we onmetelijke schatten in de Bijbel en de heilige geschriften van de hele wereld kunnen ontsluiten.
+
+### <h3 id="a-science-and-a-religion">Een wetenschap en een religie</h3>
+
+Astrologie is tegelijkertijd een wetenschap, een filosofie en een religie. Zij is metafysisch, occult en bovendien praktisch. De grondbeginselen kunnen worden geleerd door iedereen die kan optellen en aftrekken. De elementen ervan kunnen in het eigen leven met voldoende nauwkeurigheid worden getoetst om de waarheid van haar claim aan te tonen, boven elke mogelijkheid van ongeloof. Een toepassing van de principes die zij onderwijst, of die principes nu volledig worden begrepen of niet, is voldoende om hun geldigheid te bewijzen door hun vruchtbaarheid in ons dagelijks leven.
+
+De fouten van praktiserende astrologen kunnen evenmin worden beschouwd als bewijs dat de astrologie niet geldig is, als dat de zwakheden van belijdende christenen kunnen worden beschouwd als bewijs dat het christendom waardeloos is of de Christus onwerkelijk.
+
+Echte astrologen zijn, net als echte heiligen, zeldzaam. Beiden vertegenwoordigen de vrucht van vele levens van nobel streven en onbaatzuchtige dienstbaarheid. Goedheid komt niet voort uit een geloofsovertuiging, maar door een leven van vriendelijkheid en nuttigheid te leiden. Wijsheid komt niet voort uit parate kennis, maar uit een eeuwenoud extract van ervaring.
+
+Alleen zij die hun natuur hebben gezuiverd en hun voertuigen gevoelig hebben gemaakt door zuiver te leven en een hoog motief te hebben, kunnen de verheven spirituele invloeden die vanuit de hemellichamen op ons inwerken ontvangen en omzetten. Lilly, de grote zeventiende-eeuwse Engelse astroloog, erkende dit en verklaarde wijselijk aan zijn studenten dat hoe zuiverder hun leven was, des te beter hun oordeel zou zijn. Met het oor van de Geest kunnen we de muziek der sferen horen, en met het oog van de Geest kunnen we hun veelvuldige openbaringen lezen en interpreteren.
+
+### <h3 id="esoteric-and-exoteric">Esoterisch en exoterisch</h3>
+
+De astrologie brengt ons leven in wijdere banen. Zij behandelt onze aardse levensduur als slechts een segment van het geheel. Onze geboortehoroscoop is wat zij is, niet door een willekeurig besluit van het Noodlot, maar als het resultaat van ons eigen handelen of nalaten in het verleden. Zij markeert de magnetische omstandigheden die heersten op het moment van onze geboorte en bevestigt dat deze zodanig zijn dat zij het verwerven van die lessen die het meest nodig zijn tijdens de incarnatie het best bevorderen. Door de werking van deze Wet van Consequentie, deze doctrine van hoop en verantwoordelijkheid, herkennen we het heden als tegelijkertijd de vrucht van het verleden en het zaad voor de toekomst. Karakter wordt het lot.
+
+Astrologie is, net als religie, verdeeld in twee takken: exoterisch en esoterisch. Het exoterische omvat puur wereldse zaken. Het vertelt de zeeman wanneer hij het beste kan uitvaren, de boer wanneer het planten het meest gunstig is, de arts de onderliggende oorzaken van de te behandelen ziekte, de leraar de basisaard van leerlingen, en de ouders de aangeboren neigingen en vermogens van het kind. Het onthult de gunstige en ongunstige seizoenen op basis waarvan een keuze kan worden gemaakt.
+
+Het esoterische overstijgt al deze uiterlijke zorgen. Het houdt zich bezig met onze innerlijke natuur, met het eigenlijke levensprincipe, de bron van ons wezen. Het houdt zich niet bezig met het voorbijgaande fortuin van de persoonlijkheid, maar met de kwaliteiten van de ziel en de spirituele ontwikkeling. De incidenten die behoren tot de wereld van de vorm zijn hiervoor van ondergeschikt belang. In plaats daarvan is het gericht op dat goddelijke element binnenin dat streeft naar een steeds groter besef van zijn eenheid met het geheel door zijn contact met vorm, tijd en ruimte. Als zodanig wordt esoterische astrologie een spirituele wetenschap, een universele religie. Alleen een dergelijke wetenschap en een dergelijke religie beloven afdoende te voldoen aan de verenigde eisen van hoofd en hart van de groeiende, strevende mensheid.
+
+### <h3 id="charting-invisible-forces">Onzichtbare krachten in kaart brengen</h3>
+
+Meer dan enige andere factor in de wereld van vandaag, belooft de astrologie een materialistisch ingestelde generatie te leiden naar opvattingen over de dingen van de Geest. De fysieke wetenschap wordt gehinderd door haar eigen zelfopgelegde beperkingen. Religie wordt gewantrouwd omdat haar ceremonies maar al te vaak verouderd en leeg zijn. Astrologie verbindt de fundamentele elementen van wetenschap en religie. Zij is gebaseerd op astronomische gegevens. Zij brengt onzichtbare krachten in kaart. Zij combineert het geziene en het ongeziene, lichaam en ziel, vorm en Geest.
+
+Wanneer de snel ontwakende spirituele waarnemingen van de mensheid haar zullen leiden tot een serieus onderzoek van de hemelse boekrol, mogen we een tijdperk van kracht en verlichting verwachten zoals de geschiedenis dat nooit heeft gekend. Geen enkel ander onderwerp binnen het gehele bereik van de menselijke kennis lijkt voor deze dag en dit tijdperk de mogelijkheden te bevatten die openstaan voor astrologen om mensen te helpen naar een verhoogd besef van hun eigen waardigheid als burgers van de kosmos, naar een groter begrip van de universele wet, en naar de realisatie dat we eeuwig veilig zijn binnen de liefdevolle hoede van Oneindig Leven en Grenzeloos Zijn.
