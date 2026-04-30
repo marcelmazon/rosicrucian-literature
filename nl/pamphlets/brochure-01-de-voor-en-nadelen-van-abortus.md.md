@@ -1,5 +1,5 @@
 ---
-title: "Brochure №1: de voor- en nadelen van abortus"
+title: "Brochure nr. 1: De voor- en nadelen van abortus"
 language: "nl"
 original_title: "Pamphlet №1: The Pros and Cons of Abortion"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-01-the-pros-and-cons-of-abortion.md"
 ---
 
-<h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Brochure №1: de voor- en nadelen van abortus</h1>
+<h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Brochure nr. 1: De voor- en nadelen van abortus</h1>
 
 ### <h3 id="court-decisions">Gerechtelijke uitspraken</h3>
 
