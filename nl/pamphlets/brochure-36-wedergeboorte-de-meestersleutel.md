@@ -1,5 +1,5 @@
 ---
-title: "Brochure №36: wedergeboorte, de meestersleutel"
+title: "Brochure nr. 36: Wedergeboorte, de meestersleutel"
 language: "nl"
 original_title: "Pamphlet №36: Rebirth, the Master Key"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-36-rebirth-the-master-key.md"
 ---
 
-<h1 id="pamphlet-36-rebirth-the-master-key">Brochure №36: wedergeboorte, de meestersleutel</h1>
+<h1 id="pamphlet-36-rebirth-the-master-key">Brochure nr. 36: Wedergeboorte, de meestersleutel</h1>
 
 ### <h3 id="unanswered-questions">Onbeantwoorde vragen</h3>
 

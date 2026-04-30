@@ -1,5 +1,5 @@
 ---
-title: "Brochure №54: homoseksualiteit"
+title: "Brochure nr. 54: homoseksualiteit"
 language: "nl"
 original_title: "Pamphlet №54: Homosexuality"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-54-homosexuality.md"
 ---
 
-<h1 id="pamphlet-54-homosexuality">Brochure №54: homoseksualiteit</h1>
+<h1 id="pamphlet-54-homosexuality">Brochure nr. 54: homoseksualiteit</h1>
 
 ### <h3 id="homosexuality">Homoseksualiteit</h3>
 

@@ -1,5 +1,5 @@
 ---
-title: "Brochure №14: de wetenschap van de dood"
+title: "Brochure nr. 14: de wetenschap van de dood"
 language: "nl"
 original_title: "Pamphlet №14: The Science of Death"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "Max Heindel"
 original_source_file: "pamphlet-14-the-science-of-death.md"
 ---
 
-<h1 id="pamphlet-14-the-science-of-death">Brochure №14: de wetenschap van de dood</h1>
+<h1 id="pamphlet-14-the-science-of-death">Brochure nr. 14: De wetenschap van de dood</h1>
 
 ### <h3 id="fear-of-death">Angst voor de dood</h3>
 

@@ -1,5 +1,5 @@
 ---
-title: "Brochure №9: De Broeders van het Rozenkruis"
+title: "Brochure nr. 9: De Broeders van het Rozenkruis"
 language: "nl"
 original_title: "Pamphlet №9: The Brothers of the Rose Cross"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-09-the-brothers-of-the-rose-cross.md"
 ---
 
-<h1 id="pamphlet-9-the-brothers-of-the-rose-cross">Brochure №9: De Broeders van het Rozenkruis</h1>
+<h1 id="pamphlet-9-the-brothers-of-the-rose-cross">Brochure nr. 9: De Broeders van het Rozenkruis</h1>
 
 ### <h3 id="the-brothers-of-the-rose-cross">De Broeders van het Rozenkruis</h3>
 

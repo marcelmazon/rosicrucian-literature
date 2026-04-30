@@ -1,5 +1,5 @@
 ---
-title: "Brochure №48: help de leringen van de rozenkruisers te verspreiden!"
+title: "Brochure nr. 48: help de leringen van de rozenkruisers te verspreiden!"
 language: "nl"
 original_title: "Pamphlet №48: Help Spread the Rosicrucian Teachings!"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-48-help-spread-the-rosicrucian-teachings.md"
 ---
 
-<h1 id="pamphlet-48-help-spread-the-rosicrucian-teachings">Brochure №48: help de leringen van de rozenkruisers te verspreiden!</h1>
+<h1 id="pamphlet-48-help-spread-the-rosicrucian-teachings">Brochure nr. 48: help de leringen van de rozenkruisers te verspreiden!</h1>
 
 ### <h3 id="help-spread-the-rosicrucian-teachings">Help de leringen van de rozenkruisers te verspreiden!</h3>
 

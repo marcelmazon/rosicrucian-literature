@@ -1,5 +1,5 @@
 ---
-title: "Brochure №17: het rozenkruisersymbool"
+title: "Brochure nr. 17: Het rozenkruisersymbool"
 language: "nl"
 original_title: "Pamphlet №17: The Rosicrucian Emblem"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-17-the-rosicrucian-method.md"
 ---
 
-<h1 id="pamphlet-17-the-rosicrucian-emblem">Brochure №17: het rozenkruisersymbool</h1>
+<h1 id="pamphlet-17-the-rosicrucian-emblem">Brochure nr. 17: Het rozenkruisersymbool</h1>
 
 ### <h3 id="divine-symbolism">Goddelijke symboliek</h3>
 

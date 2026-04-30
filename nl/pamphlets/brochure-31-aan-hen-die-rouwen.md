@@ -1,13 +1,13 @@
 ---
-title: "Brochure №31: aan hen die rouwen"
+title: "Brochure nr. 31: Aan hen die rouwen"
 language: "nl"
 original_title: "Pamphlet №31: To Those Who Mourn"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "self"
+original_source_file: "pamphlet-31-to-those-who-mourn.md"
 ---
 
-<h1 id="pamphlet-31-to-those-who-mourn">Brochure №31: aan hen die rouwen</h1>
+<h1 id="pamphlet-31-to-those-who-mourn">Brochure nr. 31: Aan hen die rouwen</h1>
 
 ### <h3 id="to-those-who-mourn">Aan hen die rouwen</h3>
 

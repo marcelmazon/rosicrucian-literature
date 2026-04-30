@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-11-clairvyonance.md"
 ---
 
-<h1 id="pamphlet-11-clairvoyance">Brochure nr. 11: helderziendheid</h1>
+<h1 id="pamphlet-11-clairvoyance">Brochure nr. 11: Helderziendheid</h1>
 
 ### <h3 id="clairvoyance">Helderziendheid</h3>
 

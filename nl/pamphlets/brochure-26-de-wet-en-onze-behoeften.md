@@ -1,5 +1,5 @@
 ---
-title: "Brochure №26: De wet en onze behoeften"
+title: "Brochure nr. 26: De wet en onze behoeften"
 language: "nl"
 original_title: "Pamphlet №26: The Law and our Needs"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-26-the-law-and-our-needs.md"
 ---
 
-<h1 id="pamphlet-26-the-law-and-our-needs">Brochure №26: De wet en onze behoeften</h1>
+<h1 id="pamphlet-26-the-law-and-our-needs">Brochure nr. 26: De wet en onze behoeften</h1>
 
 ### <h3 id="the-law-and-our-needs">De wet en onze behoeften</h3>
 

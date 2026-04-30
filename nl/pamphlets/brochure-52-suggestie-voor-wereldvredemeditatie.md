@@ -1,5 +1,5 @@
 ---
-title: "Brochure №52: Suggestie voor wereldvredemeditatie"
+title: "Brochure nr. 52: Suggestie voor wereldvredemeditatie"
 language: "nl"
 original_title: "Pamphlet №52: Suggestion For World Peace Meditation"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-52-suggestion-for-world-peace-meditation.md"
 ---
 
-<h1 id="pamphlet-52-suggestion-for-world-peace-meditation">Brochure №52: Suggestie voor wereldvredemeditatie</h1>
+<h1 id="pamphlet-52-suggestion-for-world-peace-meditation">Brochure nr. 52: Suggestie voor wereldvredemeditatie</h1>
 
 ### <h3 id="suggestion-for-world-peace-meditation">Suggestie voor wereldvredemeditatie</h3>
 

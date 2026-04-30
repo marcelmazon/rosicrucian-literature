@@ -1,5 +1,5 @@
 ---
-title: "Brochure №15: de wijsheid van het vegetarische dieet"
+title: "Brochure nr. 15: De wijsheid van het vegetarische dieet"
 language: "nl"
 original_title: "Pamphlet №15: The Wisdom of the Vegetarian Diet"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-15-the-wisdom-of-the-vegetarian-diet.md"
 ---
 
-<h1 id="pamphlet-15-the-wisdom-of-the-vegetarian-diet">Brochure №15: de wijsheid van het vegetarische dieet</h1>
+<h1 id="pamphlet-15-the-wisdom-of-the-vegetarian-diet">Brochure nr. 15: De wijsheid van het vegetarische dieet</h1>
 
 ### <h3 id="the-wisdom-of-the-vegetarian-diet">De wijsheid van het vegetarische dieet</h3>
 

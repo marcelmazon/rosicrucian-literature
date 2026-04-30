@@ -1,5 +1,5 @@
 ---
-title: "Brochure №53: Interpretatie van de gezangen van de Rosicrucian Fellowship"
+title: "Brochure nr. 53: Interpretatie van de gezangen van de Rosicrucian Fellowship"
 language: "nl"
 original_title: "Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-53-interpretation-of-rosicrucian-fellowship-hymns.md"
 ---
 
-<h1 id="pamphlet-53-interpretation-of-rosicrucian-fellowship-hymns">Brochure №53: Interpretatie van de gezangen van de Rosicrucian Fellowship</h1>
+<h1 id="pamphlet-53-interpretation-of-rosicrucian-fellowship-hymns">Brochure nr. 53: Interpretatie van de gezangen van de Rosicrucian Fellowship</h1>
 
 ### <h3 id="the-rosicrucian-fellowship-opening-hymn">Het openingsgezang van de Rosicrucian Fellowship</h3>
 

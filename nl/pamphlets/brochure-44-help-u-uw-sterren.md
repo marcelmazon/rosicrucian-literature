@@ -1,5 +1,5 @@
 ---
-title: "Brochure №44: Helpt u uw sterren?"
+title: "Brochure nr. 44: Helpt u uw sterren?"
 language: "nl"
 original_title: "Pamphlet №44: Are You Helping Your Stars?"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-44-are-you-helping-your-stars.md"
 ---
 
-<h1 id="pamphlet-44-are-you-helping-your-stars">Brochure №44: Helpt u uw sterren?</h1>
+<h1 id="pamphlet-44-are-you-helping-your-stars">Brochure nr. 44: Helpt u uw sterren?</h1>
 
 ### <h3 id="misbruik-van-astrologie">Misbruik van astrologie</h3>
 

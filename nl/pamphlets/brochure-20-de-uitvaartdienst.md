@@ -1,5 +1,5 @@
 ---
-title: "Brochure №20: De uitvaartdienst"
+title: "Brochure nr. 20: De uitvaartdienst"
 language: "nl"
 original_title: "Pamphlet №20: The Funeral Service"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-20-the-funeral-service.md"
 ---
 
-<h1 id="pamphlet-20-the-funeral-service">Brochure №20: De uitvaartdienst</h1>
+<h1 id="pamphlet-20-the-funeral-service">Brochure nr. 20: De uitvaartdienst</h1>
 
 ### <h3 id="the-funeral-service">De uitvaartdienst</h3>
 

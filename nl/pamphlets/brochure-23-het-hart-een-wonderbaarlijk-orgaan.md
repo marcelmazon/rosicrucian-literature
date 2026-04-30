@@ -1,5 +1,5 @@
 ---
-title: "Brochure №23: Het hart: een wonderbaarlijk orgaan"
+title: "Brochure nr. 23: Het hart: een wonderbaarlijk orgaan"
 language: "nl"
 original_title: "Pamphlet №23: The Heart: A Wonderful Organ"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-23-the-heart-a-wonderful-organ.md"
 ---
 
-<h1 id="pamphlet-23-the-heart-a-wonderful-organ">Brochure №23: Het hart: een wonderbaarlijk orgaan</h1>
+<h1 id="pamphlet-23-the-heart-a-wonderful-organ">Brochure nr. 23: Het hart: een wonderbaarlijk orgaan</h1>
 
 ### <h3 id="the-heart-a-wonderful-organ">Het hart: een wonderbaarlijk orgaan</h3>
 

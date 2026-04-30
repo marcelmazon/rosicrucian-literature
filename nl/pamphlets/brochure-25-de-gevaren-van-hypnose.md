@@ -1,5 +1,5 @@
 ---
-title: "Brochure №25: De gevaren van hypnose"
+title: "Brochure nr. 25: De gevaren van hypnose"
 language: "nl"
 original_title: "Pamphlet №25: The Dangers of Hypnotism"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-25-the-dangers-of-hypnotism.md"
 ---
 
-<h1 id="pamphlet-25-the-dangers-of-hypnotism">Brochure №25: De gevaren van hypnose</h1>
+<h1 id="pamphlet-25-the-dangers-of-hypnotism">Brochure nr. 25: De gevaren van hypnose</h1>
 
 ### <h3 id="the-dangers-of-hypnotism">De gevaren van hypnose</h3>
 

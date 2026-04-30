@@ -1,5 +1,5 @@
 ---
-title: "Brochure №21: Hoe de rozenkruisers de zieken genezen"
+title: "Brochure nr. 21: Hoe de rozenkruisers de zieken genezen"
 language: "nl"
 original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-21-how-the-rosicrucians-heal-the-sick.md"
 ---
 
-<h1 id="pamphlet-21-how-the-rosicrucians-heal-the-sick">Brochure №21: Hoe de rozenkruisers de zieken genezen</h1>
+<h1 id="pamphlet-21-how-the-rosicrucians-heal-the-sick">Brochure nr. 21: Hoe de rozenkruisers de zieken genezen</h1>
 
 ### <h3 id="how-the-rosicrucians-heal-the-sick">Hoe de rozenkruisers de zieken genezen</h3>
 

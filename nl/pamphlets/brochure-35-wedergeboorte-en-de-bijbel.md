@@ -1,5 +1,5 @@
 ---
-title: "Brochure №35: Wedergeboorte en de Bijbel"
+title: "Brochure nr. 35: Wedergeboorte en de Bijbel"
 language: "nl"
 original_title: "Pamphlet №35: Rebirth and the Bible"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-35-rebirth-and-the-bible.md"
 ---
 
-<h1 id="pamphlet-35-rebirth-and-the-bible">Brochure №35: Wedergeboorte en de Bijbel</h1>
+<h1 id="pamphlet-35-rebirth-and-the-bible">Brochure nr. 35: Wedergeboorte en de Bijbel</h1>
 
 ### <h3 id="elijah-became-john-the-baptist">Elia werd Johannes de Doper</h3>
 

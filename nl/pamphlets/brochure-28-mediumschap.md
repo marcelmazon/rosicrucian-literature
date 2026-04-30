@@ -1,5 +1,5 @@
 ---
-title: "Brochure №28: Mediumschap"
+title: "Brochure nr. 28: Mediumschap"
 language: "nl"
 original_title: "Pamphlet №28: Mediumship"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-28-mediumship.md"
 ---
 
-<h1 id="pamphlet-28-mediumship">Brochure №28: Mediumschap</h1>
+<h1 id="pamphlet-28-mediumship">Brochure nr. 28: Mediumschap</h1>
 
 ### <h3 id="mediumship">Mediumschap</h3>
 

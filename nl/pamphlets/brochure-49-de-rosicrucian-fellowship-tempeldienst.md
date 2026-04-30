@@ -1,5 +1,5 @@
 ---
-title: "Brochure №49: De Rosicrucian Fellowship-tempeldienst"
+title: "Brochure nr. 49: De Rosicrucian Fellowship-tempeldienst"
 language: "nl"
 original_title: "Pamphlet №49: The Rosicrucian Fellowship Temple Service"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-49-the-rosicrucian-fellowship-temple-service.md"
 ---
 
-<h1 id="pamphlet-49-the-rosicrucian-fellowship-temple-service">Brochure №49: De Rosicrucian Fellowship-tempeldienst</h1>
+<h1 id="pamphlet-49-the-rosicrucian-fellowship-temple-service">Brochure nr. 49: De Rosicrucian Fellowship-tempeldienst</h1>
 
 ### <h3 id="the-rosicrucian-fellowship-temple-service">De Rosicrucian Fellowship-tempeldienst</h3>
 

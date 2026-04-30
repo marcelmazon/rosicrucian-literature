@@ -1,5 +1,5 @@
 ---
-title: "Brochure №43: Kiemen voor de gezondheid"
+title: "Brochure nr. 43: Kiemen voor de gezondheid"
 language: "nl"
 original_title: "Pamphlet №43: Sprouting for Health"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-43-sprouting-for-health.md"
 ---
 
-<h1 id="pamphlet-43-sprouting-for-health">Brochure №43: Kiemen voor de gezondheid</h1>
+<h1 id="pamphlet-43-sprouting-for-health">Brochure nr. 43: Kiemen voor de gezondheid</h1>
 
 ### <h3 id="sprouting-for-health">Kiemen voor de gezondheid</h3>
 

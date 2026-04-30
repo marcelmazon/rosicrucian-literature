@@ -1,5 +1,5 @@
 ---
-title: "Brochure №50: De kracht van het denken"
+title: "Brochure nr. 50: De kracht van het denken"
 language: "nl"
 original_title: "Pamphlet №50: The Power of Thought"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-50-the-power-of-thought.md"
 ---
 
-<h1 id="pamphlet-50-the-power-of-thought">Brochure №50: De kracht van het denken</h1>
+<h1 id="pamphlet-50-the-power-of-thought">Brochure nr. 50: De kracht van het denken</h1>
 
 ### <h3 id="the-power-of-thought">De kracht van het denken</h3>
 

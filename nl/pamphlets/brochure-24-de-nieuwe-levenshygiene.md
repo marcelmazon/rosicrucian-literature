@@ -1,5 +1,5 @@
 ---
-title: "Brochure №24: De nieuwe levenshygiëne"
+title: "Brochure nr. 24: De nieuwe levenshygiëne"
 language: "nl"
 original_title: "Pamphlet №24: The Newer Hygiene of Living"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-24-the-newer-hygiene-of-living.md"
 ---
 
-<h1 id="pamphlet-24-the-newer-hygiene-of-living">Brochure №24: De nieuwe levenshygiëne</h1>
+<h1 id="pamphlet-24-the-newer-hygiene-of-living">Brochure nr. 24: De nieuwe levenshygiëne</h1>
 
 ### <h3 id="spiritual-healing">Spirituele genezing</h3>
 

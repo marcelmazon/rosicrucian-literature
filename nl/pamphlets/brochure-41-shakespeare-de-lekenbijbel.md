@@ -1,5 +1,5 @@
 ---
-title: "Brochure №41: Shakespeare – de lekenbijbel"
+title: "Brochure nr. 41: Shakespeare – de lekenbijbel"
 language: "nl"
 original_title: "Pamphlet №41: Shakespeare – The Lay Bible"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-41-shakespeare-the-lay-bible.md"
 ---
 
-<h1 id="pamphlet-41-shakespeare-the-lay-bible">Brochure №41: Shakespeare – de lekenbijbel</h1>
+<h1 id="pamphlet-41-shakespeare-the-lay-bible">Brochure nr. 41: Shakespeare – de lekenbijbel</h1>
 
 ### <h3 id="shakespeare-the-lay-bible">Shakespeare – de lekenbijbel</h3>
 

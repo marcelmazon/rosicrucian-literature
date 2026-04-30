@@ -1,5 +1,5 @@
 ---
-title: "Brochure №51: Orgaantransplantaties"
+title: "Brochure nr. 51: Orgaantransplantaties"
 language: "nl"
 original_title: "Pamphlet №51: Organ Transplants"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-51-organ-transplants.md"
 ---
 
-<h1 id="pamphlet-51-organ-transplants">Brochure №51: Orgaantransplantaties</h1>
+<h1 id="pamphlet-51-organ-transplants">Brochure nr. 51: Orgaantransplantaties</h1>
 
 ### <h3 id="organ-transplants">Orgaantransplantaties</h3>
 

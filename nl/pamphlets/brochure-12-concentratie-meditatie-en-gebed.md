@@ -1,5 +1,5 @@
 ---
-title: "Brochure №12: concentratie, meditatie en gebed"
+title: "Brochure nr. 12: Concentratie, meditatie en gebed"
 language: "nl"
 original_title: "Pamphlet №12: Concentration, Meditation, and Prayer"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-12-concentration-meditation-and-prayer.md"
 ---
 
-<h1 id="pamphlet-12-concentration-meditation-and-prayer">Brochure №12: concentratie, meditatie en gebed</h1>
+<h1 id="pamphlet-12-concentration-meditation-and-prayer">Brochure nr. 12: Concentratie, meditatie en gebed</h1>
 
 ### <h3 id="concentration-meditation-and-prayer">Concentratie, meditatie en gebed</h3>
 

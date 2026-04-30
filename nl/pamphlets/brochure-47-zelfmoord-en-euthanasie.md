@@ -1,5 +1,5 @@
 ---
-title: "Brochure №47: Zelfmoord en euthanasie"
+title: "Brochure nr. 47: Zelfmoord en euthanasie"
 language: "nl"
 original_title: "Pamphlet №47: Suicide and Euthanasia"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-47-suicide-and-euthanasia.md"
 ---
 
-<h1 id="suicide-and-euthanasia">Brochure №47: Zelfmoord en euthanasie</h1>
+<h1 id="suicide-and-euthanasia">Brochure nr. 47: Zelfmoord en euthanasie</h1>
 
 ### <h3 id="the-effects-of-suicide">De effecten van zelfmoord</h3>
 

@@ -1,5 +1,5 @@
 ---
-title: "Brochure nr. 6: de opvoedkundige waarde van astrologie"
+title: "Brochure nr. 6: De opvoedkundige waarde van astrologie"
 language: "nl"
 original_title: "Pamphlet №6: The Educational Value of Astrology"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-06-the-educational-value-of-astrology.md"
 ---
 
-<h1 id="pamphlet-6-the-educational-value-of-astrology">Brochure nr. 6: de opvoedkundige waarde van astrologie</h1>
+<h1 id="pamphlet-6-the-educational-value-of-astrology">Brochure nr. 6: De opvoedkundige waarde van astrologie</h1>
 
 ### <h3 id="the-educational-value-of-astrology">De opvoedkundige waarde van astrologie</h3>
 

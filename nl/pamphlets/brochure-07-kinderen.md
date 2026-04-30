@@ -1,5 +1,5 @@
 ---
-title: "Brochure №7: Kinderen"
+title: "Brochure nr. 7: Kinderen"
 language: "nl"
 original_title: "Pamphlet №7: Children"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-07-children.md"
 ---
 
-<h1 id="pamphlet-7-children">Brochure №7: Kinderen</h1>
+<h1 id="pamphlet-7-children">Brochure nr. 7: Kinderen</h1>
 
 ### <h3 id="children">Kinderen</h3>
 

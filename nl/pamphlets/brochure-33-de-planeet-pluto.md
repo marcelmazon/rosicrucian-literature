@@ -1,5 +1,5 @@
 ---
-title: "Brochure nr. 33: de planeet Pluto"
+title: "Brochure nr. 33: De planeet Pluto"
 language: "nl"
 original_title: "Pamphlet №33: The Planet Pluto"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-33-the-planet-pluto.md"
 ---
 
-<h1 id="pamphlet-33-the-planet-pluto">Brochure nr. 33: de planeet Pluto</h1>
+<h1 id="pamphlet-33-the-planet-pluto">Brochure nr. 33: De planeet Pluto</h1>
 
 ### <h3 id="the-planet-pluto">De planeet Pluto</h3>
 

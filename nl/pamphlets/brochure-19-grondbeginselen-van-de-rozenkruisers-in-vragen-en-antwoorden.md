@@ -1,5 +1,5 @@
 ---
-title: "Brochure №19: Grondbeginselen van de rozenkruisers in vragen en antwoorden"
+title: "Brochure nr. 19: Grondbeginselen van de rozenkruisers in vragen en antwoorden"
 language: "nl"
 original_title: "Pamphlet №19: Rosicrucian Fundamentals in Questions and Answers"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-19-rosicrucian-fundamentals-in-questions-and-answers.md"
 ---
 
-<h1 id="pamphlet-19-rosicrucian-fundamentals-in-questions-and-answers">Brochure №19: Grondbeginselen van de rozenkruisers in vragen en antwoorden</h1>
+<h1 id="pamphlet-19-rosicrucian-fundamentals-in-questions-and-answers">Brochure nr. 19: Grondbeginselen van de rozenkruisers in vragen en antwoorden</h1>
 
 ### <h3 id="rosicrucian-fundamentals-in-questions-and-answers">Grondbeginselen van de rozenkruisers in vragen en antwoorden</h3>
 

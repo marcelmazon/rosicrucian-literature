@@ -1,5 +1,5 @@
 ---
-title: "Brochure №22: De genezingsdienst"
+title: "Brochure nr. 22: De genezingsdienst"
 language: "nl"
 original_title: "Pamphlet №22: The Healing Service"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-22-the-healing-service.md"
 ---
 
-<h1 id="pamphlet-22-the-healing-service">Brochure №22: De genezingsdienst</h1>
+<h1 id="pamphlet-22-the-healing-service">Brochure nr. 22: De genezingsdienst</h1>
 
 ### <h3 id="the-healing-service">De genezingsdienst</h3>
 

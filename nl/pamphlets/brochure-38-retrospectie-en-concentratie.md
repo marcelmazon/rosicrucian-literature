@@ -1,5 +1,5 @@
 ---
-title: "Brochure №38: retrospectie en concentratie"
+title: "Brochure nr. 38: Retrospectie en concentratie"
 language: "nl"
 original_title: "Pamphlet №38: Retrospection and Concentration"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-38-retrospection-and-concentration.md"
 ---
 
-<h1 id="pamphlet-38-retrospection-and-concentration">Brochure №38: retrospectie en concentratie</h1>
+<h1 id="pamphlet-38-retrospection-and-concentration">Brochure nr. 38: Retrospectie en concentratie</h1>
 
 ### <h3 id="retrospection-and-concentration">Retrospectie en concentratie</h3>
 

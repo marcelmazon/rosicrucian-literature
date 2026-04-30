@@ -1,5 +1,5 @@
 ---
-title: "Brochure №3: De dieren begrijpen"
+title: "Brochure nr. 3: De dieren begrijpen"
 language: "nl"
 original_title: "Pamphlet №3: Understanding the Animals"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-03-understanding-the-animals.md"
 ---
 
-<h1 id="pamphlet-3-understanding-the-animals">Brochure №3: De dieren begrijpen</h1>
+<h1 id="pamphlet-3-understanding-the-animals">Brochure nr. 3: De dieren begrijpen</h1>
 
 ### <h3 id="why-animals-seem-to-think">Waarom dieren lijken na te denken</h3>
 

@@ -1,5 +1,5 @@
 ---
-title: "Brochure №18: Het proces van evolutie"
+title: "Brochure nr. 18: Het proces van evolutie"
 language: "nl"
 original_title: "Pamphlet №18: The Process of Evolution"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-18-the-process-of-evolution.md"
 ---
 
-<h1 id="pamphlet-18-the-process-of-evolution">Brochure №18: Het proces van evolutie</h1>
+<h1 id="pamphlet-18-the-process-of-evolution">Brochure nr. 18: Het proces van evolutie</h1>
 
 ### <h3 id="the-process-of-evolution">Het proces van evolutie</h3>
 

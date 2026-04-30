@@ -1,5 +1,5 @@
 ---
-title: "Brochure №37: Verantwoordelijkheid en de spirituele aspirant"
+title: "Brochure nr. 37: Verantwoordelijkheid en de spirituele aspirant"
 language: "nl"
 original_title: "Pamphlet №37: Responsibility and the Spiritual Aspirant"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-37-responsibility-and-the-spiritual-aspirant.md"
 ---
 
-<h1 id="pamphlet-37-responsibility-and-the-spiritual-aspirant">Brochure №37: Verantwoordelijkheid en de spirituele aspirant</h1>
+<h1 id="pamphlet-37-responsibility-and-the-spiritual-aspirant">Brochure nr. 37: Verantwoordelijkheid en de spirituele aspirant</h1>
 
 ### <h3 id="responsibility-and-the-spiritual-aspirant">Verantwoordelijkheid en de spirituele aspirant</h3>
 

@@ -1,5 +1,5 @@
 ---
-title: "Brochure №2: effecten van alcohol, drugs en tabak"
+title: "Brochure nr. 2: Effecten van alcohol, drugs en tabak"
 language: "nl"
 original_title: "Pamphlet №2: Effects of Alcohol, Drugs, and Tobacco"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-2-effects-of-alcohol-drugs-and-tobacco.md"
 ---
 
-<h1 id="pamphlet-2-effects-of-alcohol-drugs-and-tobacco">Brochure №2: effecten van alcohol, drugs en tabak</h1>
+<h1 id="pamphlet-2-effects-of-alcohol-drugs-and-tobacco">Brochure nr. 2: Effecten van alcohol, drugs en tabak</h1>
 
 ### <h3 id="effects-of-alcohol-drugs-and-tobacco">Effecten van alcohol, drugs en tabak</h3>
 

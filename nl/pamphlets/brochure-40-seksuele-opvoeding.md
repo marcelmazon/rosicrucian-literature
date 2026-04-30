@@ -1,5 +1,5 @@
 ---
-title: "Brochure №40: Seksuele opvoeding"
+title: "Brochure nr. 40: Seksuele opvoeding"
 language: "nl"
 original_title: "Pamphlet №40: Sex Education"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-40-sex-education.md"
 ---
 
-<h1 id="pamphlet-40-sex-education">Brochure №40: Seksuele opvoeding</h1>
+<h1 id="pamphlet-40-sex-education">Brochure nr. 40: Seksuele opvoeding</h1>
 
 ### <h3 id="sex-education">Seksuele opvoeding</h3>
 

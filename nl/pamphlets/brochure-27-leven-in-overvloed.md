@@ -1,5 +1,5 @@
 ---
-title: "Brochure №27: Leven in overvloed"
+title: "Brochure nr. 27: Leven in overvloed"
 language: "nl"
 original_title: "Pamphlet №27: Life More Abundant"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-27-life-more-abundant"
 ---
 
-<h1 id="pamphlet-27-life-more-abundant">Brochure №27: Leven in overvloed</h1>
+<h1 id="pamphlet-27-life-more-abundant">Brochure nr. 27: Leven in overvloed</h1>
 
 ### <h3 id="life-more-abundant">Leven in overvloed</h3>
 

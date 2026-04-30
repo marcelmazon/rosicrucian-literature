@@ -1,5 +1,5 @@
 ---
-title: "Brochure №39: Rosicrucian Fellowship - doelen, oogmerken en activiteiten"
+title: "Brochure nr. 39: Rosicrucian Fellowship - doelen, oogmerken en activiteiten"
 language: "nl"
 original_title: "Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Activities"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-39-the-rosicrucian-fellowship-purposes-aims-and-activities.md"
 ---
 
-<h1 id="pamphlet-39-rosicrucian-fellowship-purposes-aims-and-activities">Brochure №39: Rosicrucian Fellowship - doelen, oogmerken en activiteiten</h1>
+<h1 id="pamphlet-39-rosicrucian-fellowship-purposes-aims-and-activities">Brochure nr. 39: Rosicrucian Fellowship - doelen, oogmerken en activiteiten</h1>
 
 ### <h3 id="rosicrucian-fellowship-purposes-aims-and-activities">Rosicrucian Fellowship - doelen, oogmerken en activiteiten</h3>
 

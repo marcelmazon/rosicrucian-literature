@@ -1,5 +1,5 @@
 ---
-title: "Brochure №16: oosterse en westerse spirituele alternatieven"
+title: "Brochure nr. 16: Oosterse en westerse spirituele alternatieven"
 language: "nl"
 original_title: "Pamphlet №16: Eastern and Western Spiritual Alternatives"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-16-eastern-and-western-spiritual-alternatives.md"
 ---
 
-<h1 id="pamphlet-16-eastern-and-western-spiritual-alternatives">Brochure №16: oosterse en westerse spirituele alternatieven</h1>
+<h1 id="pamphlet-16-eastern-and-western-spiritual-alternatives">Brochure nr. 16: Oosterse en westerse spirituele alternatieven</h1>
 
 ### <h3 id="scientific-materialism">Wetenschappelijk materialisme</h3>
 

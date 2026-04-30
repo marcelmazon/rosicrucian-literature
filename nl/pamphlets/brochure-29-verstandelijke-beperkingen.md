@@ -1,5 +1,5 @@
 ---
-title: "Brochure №29: Verstandelijke beperkingen"
+title: "Brochure nr. 29: Verstandelijke beperkingen"
 language: "nl"
 original_title: "Pamphlet №29: Learning Disabilities"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-29-learning-disabilities.md"
 ---
 
-<h1 id="pamphlet-29-learning-disabilities">Brochure №29: Verstandelijke beperkingen</h1>
+<h1 id="pamphlet-29-learning-disabilities">Brochure nr. 29: Verstandelijke beperkingen</h1>
 
 ### <h3 id="learning-disabilities">Verstandelijke beperkingen</h3>
 

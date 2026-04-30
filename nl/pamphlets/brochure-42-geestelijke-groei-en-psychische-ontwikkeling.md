@@ -1,5 +1,5 @@
 ---
-title: "Brochure №42: Geestelijke groei en psychische ontwikkeling"
+title: "Brochure nr. 42: Geestelijke groei en psychische ontwikkeling"
 language: "nl"
 original_title: "Pamphlet №42: Spiritual Growth and Psychic Development"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-42-spiritual-growth-and-psychic-development.md"
 ---
 
-<h1 id="pamphlet-42-spiritual-growth-and-psychic-development">Brochure №42: Geestelijke groei en psychische ontwikkeling</h1>
+<h1 id="pamphlet-42-spiritual-growth-and-psychic-development">Brochure nr. 42: Geestelijke groei en psychische ontwikkeling</h1>
 
 ### <h3 id="spiritual-growth-and-psychic-development">Geestelijke groei en psychische ontwikkeling</h3>
 
