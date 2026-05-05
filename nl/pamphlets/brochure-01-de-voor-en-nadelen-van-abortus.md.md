@@ -5,6 +5,7 @@ original_title: "Pamphlet №1: The Pros and Cons of Abortion"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-01-the-pros-and-cons-of-abortion.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Brochure nr. 1: De voor- en nadelen van abortus</h1>

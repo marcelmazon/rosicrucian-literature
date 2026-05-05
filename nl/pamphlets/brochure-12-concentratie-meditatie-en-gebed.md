@@ -5,6 +5,7 @@ original_title: "Pamphlet №12: Concentration, Meditation, and Prayer"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-12-concentration-meditation-and-prayer.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-12-concentration-meditation-and-prayer">Brochure nr. 12: Concentratie, meditatie en gebed</h1>

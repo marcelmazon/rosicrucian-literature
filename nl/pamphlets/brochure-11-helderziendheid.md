@@ -5,6 +5,7 @@ original_title: "Pamphlet №11: Clairvoyance"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-11-clairvyonance.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-11-clairvoyance">Brochure nr. 11: Helderziendheid</h1>

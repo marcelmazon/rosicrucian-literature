@@ -5,6 +5,7 @@ original_title: "Pamphlet №49: The Rosicrucian Fellowship Temple Service"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-49-the-rosicrucian-fellowship-temple-service.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-49-the-rosicrucian-fellowship-temple-service">Brochure nr. 49: De Rosicrucian Fellowship-tempeldienst</h1>

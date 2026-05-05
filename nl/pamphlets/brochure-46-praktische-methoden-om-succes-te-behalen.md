@@ -5,6 +5,7 @@ original_title: "Pamphlet №46: Practical Methods of Achieving Success"
 original_language: "en"
 author: "Max Heindel"
 original_source_file: "pamphlet-46-practical-methods-of-achieving-success.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-46-practical-methods-of-achieving-success">Brochure nr. 46: Praktische methoden om succes te behalen</h1>

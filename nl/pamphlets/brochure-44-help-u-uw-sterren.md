@@ -5,6 +5,7 @@ original_title: "Pamphlet №44: Are You Helping Your Stars?"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-44-are-you-helping-your-stars.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-44-are-you-helping-your-stars">Brochure nr. 44: Helpt u uw sterren?</h1>

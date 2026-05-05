@@ -5,6 +5,7 @@ original_title: "Pamphlet №38: Retrospection and Concentration"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-38-retrospection-and-concentration.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-38-retrospection-and-concentration">Brochure nr. 38: Retrospectie en concentratie</h1>

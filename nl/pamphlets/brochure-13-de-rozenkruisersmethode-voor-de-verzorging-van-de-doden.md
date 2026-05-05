@@ -5,6 +5,7 @@ original_title: "Pamphlet №13: The Rosicrucian Method of Caring for the Dead"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead">Brochure nr. 13: De rozenkruisersmethode voor de verzorging van de doden</h1>

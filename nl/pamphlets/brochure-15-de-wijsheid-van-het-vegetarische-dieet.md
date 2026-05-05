@@ -5,6 +5,7 @@ original_title: "Pamphlet №15: The Wisdom of the Vegetarian Diet"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-15-the-wisdom-of-the-vegetarian-diet.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-15-the-wisdom-of-the-vegetarian-diet">Brochure nr. 15: De wijsheid van het vegetarische dieet</h1>

@@ -5,6 +5,7 @@ original_title: "Pamphlet №20: The Funeral Service"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-20-the-funeral-service.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-20-the-funeral-service">Brochure nr. 20: De uitvaartdienst</h1>

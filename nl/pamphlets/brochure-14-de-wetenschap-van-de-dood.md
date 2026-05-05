@@ -5,6 +5,7 @@ original_title: "Pamphlet №14: The Science of Death"
 original_language: "en"
 author: "Max Heindel"
 original_source_file: "pamphlet-14-the-science-of-death.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-14-the-science-of-death">Brochure nr. 14: De wetenschap van de dood</h1>

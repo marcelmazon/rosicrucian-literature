@@ -5,6 +5,7 @@ original_title: "Pamphlet №41: Shakespeare – The Lay Bible"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-41-shakespeare-the-lay-bible.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-41-shakespeare-the-lay-bible">Brochure nr. 41: Shakespeare – de lekenbijbel</h1>

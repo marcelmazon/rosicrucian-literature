@@ -5,6 +5,7 @@ original_title: "Pamphlet №35: Rebirth and the Bible"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-35-rebirth-and-the-bible.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-35-rebirth-and-the-bible">Brochure nr. 35: Wedergeboorte en de Bijbel</h1>

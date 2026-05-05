@@ -5,6 +5,7 @@ original_title: "Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Ac
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-39-the-rosicrucian-fellowship-purposes-aims-and-activities.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-39-rosicrucian-fellowship-purposes-aims-and-activities">Brochure nr. 39: Rosicrucian Fellowship - doelen, oogmerken en activiteiten</h1>

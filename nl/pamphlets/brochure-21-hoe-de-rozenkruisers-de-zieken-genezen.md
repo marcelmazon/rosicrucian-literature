@@ -5,6 +5,7 @@ original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-21-how-the-rosicrucians-heal-the-sick.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-21-how-the-rosicrucians-heal-the-sick">Brochure nr. 21: Hoe de rozenkruisers de zieken genezen</h1>

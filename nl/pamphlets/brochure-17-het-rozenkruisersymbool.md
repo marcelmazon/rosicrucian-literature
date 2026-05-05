@@ -5,6 +5,7 @@ original_title: "Pamphlet №17: The Rosicrucian Emblem"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-17-the-rosicrucian-method.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-17-the-rosicrucian-emblem">Brochure nr. 17: Het rozenkruisersymbool</h1>

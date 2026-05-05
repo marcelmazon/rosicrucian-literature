@@ -5,6 +5,7 @@ original_title: "Pamphlet №18: The Process of Evolution"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-18-the-process-of-evolution.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-18-the-process-of-evolution">Brochure nr. 18: Het proces van evolutie</h1>

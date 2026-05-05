@@ -5,6 +5,7 @@ original_title: "Pamphlet №52: Suggestion For World Peace Meditation"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-52-suggestion-for-world-peace-meditation.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-52-suggestion-for-world-peace-meditation">Brochure nr. 52: Suggestie voor wereldvredemeditatie</h1>

@@ -5,6 +5,7 @@ original_title: "Pamphlet №47: Suicide and Euthanasia"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-47-suicide-and-euthanasia.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="suicide-and-euthanasia">Brochure nr. 47: Zelfmoord en euthanasie</h1>

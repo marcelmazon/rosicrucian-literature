@@ -5,6 +5,7 @@ original_title: "Pamphlet №48: Help Spread the Rosicrucian Teachings!"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-48-help-spread-the-rosicrucian-teachings.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-48-help-spread-the-rosicrucian-teachings">Brochure nr. 48: help de leringen van de rozenkruisers te verspreiden!</h1>

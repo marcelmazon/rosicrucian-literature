@@ -5,6 +5,7 @@ original_title: "Pamphlet №30: Motherhood"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-30-motherhood.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-30-motherhood">Brochure nr. 30: Moederschap</h1>

@@ -5,6 +5,7 @@ original_title: "Pamphlet №42: Spiritual Growth and Psychic Development"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-42-spiritual-growth-and-psychic-development.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-42-spiritual-growth-and-psychic-development">Brochure nr. 42: Geestelijke groei en psychische ontwikkeling</h1>

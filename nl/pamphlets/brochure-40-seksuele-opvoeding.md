@@ -5,6 +5,7 @@ original_title: "Pamphlet №40: Sex Education"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-40-sex-education.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-40-sex-education">Brochure nr. 40: Seksuele opvoeding</h1>

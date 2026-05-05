@@ -5,6 +5,7 @@ original_title: "Pamphlet №8: The Bow in the Cloud"
 original_language: "en"
 author: "Max Heindel"
 original_source_file: "pamphlet-08-the-bow-in-the-cloud.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-8-the-bow-in-the-cloud">Brochure nr. 8: De boog in de wolk</h1>

@@ -5,6 +5,7 @@ original_title: "Pamphlet №23: The Heart: A Wonderful Organ"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-23-the-heart-a-wonderful-organ.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-23-the-heart-a-wonderful-organ">Brochure nr. 23: Het hart: een wonderbaarlijk orgaan</h1>

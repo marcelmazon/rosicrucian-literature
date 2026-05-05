@@ -5,6 +5,7 @@ original_title: "Pamphlet №28: Mediumship"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-28-mediumship.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-28-mediumship">Brochure nr. 28: Mediumschap</h1>

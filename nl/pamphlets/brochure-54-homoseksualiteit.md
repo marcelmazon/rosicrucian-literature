@@ -5,6 +5,7 @@ original_title: "Pamphlet №54: Homosexuality"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-54-homosexuality.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-54-homosexuality">Brochure nr. 54: homoseksualiteit</h1>

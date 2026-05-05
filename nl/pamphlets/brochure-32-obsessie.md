@@ -5,6 +5,7 @@ original_title: "Pamphlet №32: Obsession"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-32-obsession.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-32-obsession">Brochure nr. 32: Obsessie</h1>

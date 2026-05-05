@@ -5,6 +5,7 @@ original_title: "Pamphlet №45: Why I Am a Rosicrucian Student"
 original_language: "en"
 author: "Max Heindel"
 original_source_file: "pamphlet-45-why-i-am-a-rosicrucian-student.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-45-why-i-am-a-rosicrucian-student">Brochure nr. 45: Waarom ik een rozenkruisersleerling ben</h1>

@@ -5,6 +5,7 @@ original_title: "Pamphlet №33: The Planet Pluto"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-33-the-planet-pluto.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-33-the-planet-pluto">Brochure nr. 33: De planeet Pluto</h1>

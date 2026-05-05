@@ -5,6 +5,7 @@ original_title: "Pamphlet №51: Organ Transplants"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-51-organ-transplants.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-51-organ-transplants">Brochure nr. 51: Orgaantransplantaties</h1>

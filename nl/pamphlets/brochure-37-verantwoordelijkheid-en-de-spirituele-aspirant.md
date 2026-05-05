@@ -5,6 +5,7 @@ original_title: "Pamphlet №37: Responsibility and the Spiritual Aspirant"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-37-responsibility-and-the-spiritual-aspirant.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-37-responsibility-and-the-spiritual-aspirant">Brochure nr. 37: Verantwoordelijkheid en de spirituele aspirant</h1>

@@ -5,6 +5,7 @@ original_title: "Pamphlet №43: Sprouting for Health"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-43-sprouting-for-health.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-43-sprouting-for-health">Brochure nr. 43: Kiemen voor de gezondheid</h1>

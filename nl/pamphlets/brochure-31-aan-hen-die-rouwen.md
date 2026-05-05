@@ -5,6 +5,7 @@ original_title: "Pamphlet №31: To Those Who Mourn"
 original_language: "en"
 author: "Max Heindel"
 original_source_file: "pamphlet-31-to-those-who-mourn.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-31-to-those-who-mourn">Brochure nr. 31: Aan hen die rouwen</h1>

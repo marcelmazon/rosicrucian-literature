@@ -5,6 +5,7 @@ original_title: "Pamphlet №27: Life More Abundant"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-27-life-more-abundant"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-27-life-more-abundant">Brochure nr. 27: Leven in overvloed</h1>

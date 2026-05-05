@@ -5,6 +5,7 @@ original_title: "Pamphlet №24: The Newer Hygiene of Living"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-24-the-newer-hygiene-of-living.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-24-the-newer-hygiene-of-living">Brochure nr. 24: De nieuwe levenshygiëne</h1>

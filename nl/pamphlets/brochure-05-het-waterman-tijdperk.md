@@ -5,6 +5,7 @@ original_title: "Pamphlet №5: The Aquarian Age"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-05-the-aquarian-age.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-5-the-aquarian-age">Brochure nr. 5: Het Waterman-tijdperk</h1>

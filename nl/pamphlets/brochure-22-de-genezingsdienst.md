@@ -5,6 +5,7 @@ original_title: "Pamphlet №22: The Healing Service"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-22-the-healing-service.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-22-the-healing-service">Brochure nr. 22: De genezingsdienst</h1>

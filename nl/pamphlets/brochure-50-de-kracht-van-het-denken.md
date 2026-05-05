@@ -5,6 +5,7 @@ original_title: "Pamphlet №50: The Power of Thought"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-50-the-power-of-thought.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-50-the-power-of-thought">Brochure nr. 50: De kracht van het denken</h1>

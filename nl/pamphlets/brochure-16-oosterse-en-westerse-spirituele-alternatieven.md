@@ -5,6 +5,7 @@ original_title: "Pamphlet №16: Eastern and Western Spiritual Alternatives"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-16-eastern-and-western-spiritual-alternatives.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-16-eastern-and-western-spiritual-alternatives">Brochure nr. 16: Oosterse en westerse spirituele alternatieven</h1>

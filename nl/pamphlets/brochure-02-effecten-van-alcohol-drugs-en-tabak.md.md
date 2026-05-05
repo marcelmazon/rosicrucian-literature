@@ -5,6 +5,7 @@ original_title: "Pamphlet №2: Effects of Alcohol, Drugs, and Tobacco"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-2-effects-of-alcohol-drugs-and-tobacco.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-2-effects-of-alcohol-drugs-and-tobacco">Brochure nr. 2: Effecten van alcohol, drugs en tabak</h1>
