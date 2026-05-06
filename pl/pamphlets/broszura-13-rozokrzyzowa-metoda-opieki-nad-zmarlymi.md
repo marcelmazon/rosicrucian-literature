@@ -1,0 +1,35 @@
+---
+title: "Broszura nr 13: Różokrzyżowa metoda opieki nad zmarłymi"
+language: "pl"
+original_title: "Pamphlet №13: The Rosicrucian Method of Caring for the Dead"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead.md"
+translator: "Google Gemini 3 Flash Thinking"
+---
+
+<h1 id="pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead">Broszura nr 13: Różokrzyżowa metoda opieki nad zmarłymi</h1>
+
+### <h3 id="the-rosicrucian-method-of-caring-for-the-dead">Różokrzyżowa metoda opieki nad zmarłymi</h3>
+
+Podczas życia w świecie fizycznym ludzkie Ego działa poprzez swoje cztery powłoki: mianowicie ciało fizyczne, eteryczne, pragnień i mentalne. Wszystkie one są ze sobą połączone srebrnym sznurem. W nocy Ego wycofuje się do światów wewnętrznych, zabierając ze sobą ciało mentalne i ciało pragnień, pozostawiając ciało fizyczne wraz z ciałem eterycznym leżące na łóżku. Ego najpierw wprowadza harmonijny rytm w ciele mentalnym i ciele pragnień. Ciała te oddziałują na ciało eteryczne; ciało eteryczne zaczyna wtedy przywracać zdrowie i witalność zmęczonym i zużytym atomom fizycznym.
+
+Ta regeneracja może odbywać się tylko wtedy, gdy ciało pragnień i umysł są oddzielone, ponieważ to ich aktywność zużywa energię fizyczną w ciągu dnia. Aby ciało eteryczne mogło swobodnie odbudować ten wyczerpany fizyczny wehikuł, Ego i dwie wyższe powłoki (ciało pragnień i mentalne) oddzielają się od dwóch niższych powłok, pozostając jednak połączone srebrnym sznurem. W chwili śmierci, gdy ciało fizyczne nie może już dłużej utrzymać swoich wyższych powłok i musi nastąpić rozkład, Ego jest zmuszone opuścić swój dom z gliny, który zbudowało i którego używało przez wyznaczony czas, i w którym nauczyło się wielu pomocnych, budujących duszę lekcji. Osiągnęło ono teraz etap na ścieżce ewolucji, na którym musi poświęcić czas na asymilację lekcji odebranych podczas funkcjonowania w świecie materii. Śmierć jest dla duszy tym, czym sen dla ciała fizycznego: czasem odpoczynku i rekuperacji, aby duch mógł zaczerpnąć z tych doświadczeń większą moc duszy.
+
+W momencie śmierci Ego opuszcza ciało fizyczne przez szwy ciemieniowo-potyliczne, lecz w przeciwieństwie do snu, kiedy ciało eteryczne pozostaje przy ciele fizycznym, tym razem ono również opuszcza ciało fizyczne wraz z ciałem pragnień i mentalnym, gdyż praca ducha w ciele fizycznym w tym ziemskim życiu dobiegła końca. Ciało eteryczne ma teraz do wykonania inne zadanie; nie jest już wzywane do utrzymywania atomów fizycznych w zdrowiu.
+
+Podczas śmierci widać, jak ciało eteryczne, pragnień i mentalne opuszczają ciało fizyczne przez głowę. Duch, który opuszcza swój ziemski dom-więzienie, by ten uległ rozpadowi, zabiera ze sobą swoją najcenniejszą własność – atom nasienny, jedyną część fizyczności, która nie może umrzeć i którą przynosi on ze sobą z powrotem w każdym ziemskim życiu. Podczas życia na Ziemi w wierzchołku lewej komory serca znajduje się maleńki atom, który nazywany jest stałym atomem nasiennym. Ten atom nasienny powłoki fizycznej służył jako jądro dla ciała fizycznego, odkąd tylko duch wszedł w posiadanie fizycznego wehikułu. Mówiąc o stałym atomie nasiennym, nie mamy na myśli użycia konkretnego atomu fizycznego, lecz sił, które przez niego przepływają. Siły te pozostają przy Ego przez kolejne odrodzenia, dopóki dany duch nie zakończy swojej ewolucji w świecie fizycznym. Wtedy siły te zostaną przeniesione do atomu nasiennego ciała eterycznego, który stanie się stałym atomem nasiennym następnego okresu.
+
+Powracając do naszej dyskusji o Ego opuszczającym swoje ciało fizyczne w momencie zwanym śmiercią, widzimy, że duch przechodzi przez bardzo żywotny i niezwykle ważny okres. Przyjaciele i krewni powinni dołożyć wszelkich starań, aby ich bliska osoba była wolna od ekscytacji, żalu i jakichkolwiek zakłóceń: ciało nie powinno być okaleczane, a płynów do balsamowania nie należy używać przez 84 godziny po zaprzestaniu funkcjonowania ducha w ciele. Powód tego jest następujący:
+
+W chwili śmierci następuje przerwanie srebrnego sznura, o którym mówi Biblia w 12. rozdziale Księgi Koheleta. Sznur ten łączy wyższe i niższe powłoki, a w momencie śmierci pęknięcie następuje w sercu, co powoduje zatrzymanie bicia tego organu. Gdy to następuje, jasnowidz widzi Ego wraz z jego trzema ciałami – mianowicie eterycznym, pragnień i mentalnym – unoszące się nad głową ciała fizycznego przez trzy i pół dnia. W tym okresie duch zajmuje się przeglądaniem scen ze swego minionego życia, które zostały odciśnięte w stałym atomie nasiennym w sercu. Odciski te zostały pozostawione w tym atomie nasiennym przez krew. Biblia uczy nas również, że duch jest we krwi. Krew jest bezpośrednim narzędziem ducha.
+
+Serce i płuca są jedynymi organami, przez które przepływa cała krew w ludzkim ciele w każdym cyklu, a serce jest twierdzą ludzkiego Ego. Gdy krew przepływa przez serce, sceny z każdej przemijającej chwili są przenoszone przez krew i grawerowane na maleńkim atomie nasiennym. Atom ten jest również nasycony doświadczeniami ze wszystkich poprzednich żyć i z niego płynie do człowieka wiele impulsów. Uczą go one odróżniać dobro od zła i w ten sposób stają się jego sumieniem.
+
+Powodem, dla którego uważamy za konieczne, aby w domu śmierci panował spokój, jest to, że ciało eteryczne jest narzędziem używanym bezpośrednio po śmierci do przeniesienia zapisów z atomu nasiennego w sercu do atomu nasiennego ciała pragnień. Podczas tej pracy srebrny sznur jest naderwany, ale nie całkowicie przerwany. Ego wciąż jest świadome swoich powłok, czując i cierpiąc w pewnym stopniu, gdy ciało jest okaleczane. Gdy duch dozna zakłóceń podczas tego transferu, zapisy są wyryte niewyraźnie, a duch powracający do ponownych narodzin w kolejnym wcieleniu nie przynosi ze sobą tak silnego poczucia sumienia, jakie miałby, gdyby proces grawerowania przebiegł bez zakłóceń. Dzieje się tak dlatego, że w Świecie Pragnień nie był on w stanie odczuwać wyrzutów sumienia za złe uczynki ani radości z dobrych czynów tak intensywnie, jak czułby to, gdyby mu nie przeszkadzano.
+
+Kiedy panorama zostanie w pełni wyryta w ciele pragnień, srebrny sznur zrywa się, a Ego staje się wolne od swego ziemskiego domu. Ciało powinno wtedy zostać poddane kremacji, ponieważ kremacja szybko uwalnia ducha. Stanowi ona również bardziej higieniczną metodę pochówku.
+
+Miejmy nadzieję, że ludzkość wkrótce uświadomi sobie potrzebę właściwej opieki nad swoimi zmarłymi i że doczekamy się nauki o śmierci tak samo, jak mamy naukę o narodzinach. Ważne jest, aby osoba świadoma szkód wynikających z niewłaściwego obchodzenia się z ciałem w przypadku śmierci, sporządziła pisemne instrukcje, które chciałaby, aby zostały wykonane po jej odejściu.
+
+Dostępny jest formularz wyjaśniający różokrzyżowe metody opieki nad ciałem bezpośrednio po śmierci. Przedstawia on procedurę, którą wyznawca Nauk Mądrości Zachodu uznaje za niezbędną dla właściwego przejścia do życia pośmiertnego.
