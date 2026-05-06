@@ -64,4 +64,4 @@ Let not your heart be troubled: ye believe in God, believe also in me. In my Fat
 
 <strong>Written by Max Heindel, founder of</strong>
 
-<strong>The Rosicrucian Fellowship</strong> 
+<strong>The Rosicrucian Fellowship</strong>
