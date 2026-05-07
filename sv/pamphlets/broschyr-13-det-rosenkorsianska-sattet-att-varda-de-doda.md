@@ -1,0 +1,35 @@
+---
+title: "Broschyr nr 13: Det rosenkorsianska sättet att vårda de döda"
+language: "sv"
+original_title: "Pamphlet №13: The Rosicrucian Method of Caring for the Dead"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead.md"
+translator: "Google Gemini 3 Flash Thinking"
+---
+
+<h1 id="pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead">Broschyr nr 13: Det rosenkorsianska sättet att vårda de döda</h1>
+
+### <h3 id="the-rosicrucian-method-of-caring-for-the-dead">Det rosenkorsianska sättet att vårda de döda</h3>
+
+Under livet i den fysiska världen arbetar det mänskliga Jaget genom sina fyra vehiklar: nämligen den fysiska kroppen, livskroppen, önskekroppen och mentalkroppen, vilka alla är förbundna med varandra genom silversnöret. På natten drar sig Jaget tillbaka till de inre världarna och tar med sig mental- och önskekroppen, medan den fysiska kroppen tillsammans med livskroppen lämnas kvar vilande i sängen. Jaget åstadkommer först en harmonisk rytm i sinnet och önskekroppen. Dessa kroppar verkar på livskroppen, som då börjar återställa de trötta och utslitna fysiska atomerna till hälsa och vitalitet.
+
+Denna återställning kan endast ske under den tid då önskekroppen och sinnet är avlägsnade, för det är deras aktiviteter som förbrukar den fysiska energin under dagen. För att livskroppen ska kunna frigöras för att återuppbygga denna utmattade fysiska vehikel, separerar Jaget och de två högre vehiklarna (önskekroppen och mentalkroppen) från de två lägre, men förblir bundna vid dem genom silversnöret. Vid döden, när den fysiska kroppen inte längre kan hålla kvar sina högre vehiklar och sönderfall måste ske, tvingas Jaget att lämna sitt hus av lera, som det har byggt och använt under en tillmätt tidsrymd, och i vilket det har lärt sig många hjälpsamma och själsuppbyggande lärdomar. Det har nu nått en period på evolutionens stig där Jaget måste ta sig tid att assimilera de lärdomar som vunnits under dess verkan i materiens värld. Döden är för själen vad sömnen är för den fysiska kroppen: en tid av vila och återhämtning så att anden kan dra större själskraft ur dessa erfarenheter.
+
+Vid döden lämnar Jaget den fysiska kroppen genom suturerna mellan hjäss- och nackbenet. Men i stället för att livskroppen stannar kvar med den fysiska kroppen, som är fallet under sömnen, lämnar även den den fysiska kroppen tillsammans med önskekroppen och mentalkroppen, eftersom andens arbete i den fysiska kroppen är avslutat för detta jordeliv. Livskroppen har nu ett annat arbete att utföra; den är inte längre kallad att bibehålla de fysiska atomernas hälsa.
+
+Vid döden ser man livs-, önske- och mentalkropparna lämna den fysiska kroppen genom huvudet. Anden, som lämnar sitt jordiska fängelse för att låta det förmultna, tar med sig sin mest dyrbara tillhörighet: fröatomen. Detta är den enda del av det fysiska som inte kan dö och som anden tar med sig tillbaka vid varje nytt jordeliv. Under jordelivet finns det en liten atom i spetsen av hjärtats vänstra kammare som kallas den permanenta fröatomen. Denna den fysiska vehikelns fröatom har använts som en kärna för en fysisk kropp ända sedan anden först fick en sådan. När vi talar om en permanent fröatom menar vi inte att själva den fysiska atomen används, utan de krafter som strömmar genom den. Dessa krafter förblir hos Jaget genom återfödelse efter återfödelse, eller tills denna specifika ande har fullbordat sin evolution i den fysiska världen. Därefter kommer dessa krafter att överföras till livskroppens fröatom, vilken blir den permanenta fröatomen i nästa period.
+
+Om vi återgår till vår diskussion om Jaget när det lämnar sin fysiska kropp vid det som kallas döden, finner vi att anden genomgår en mycket vital och ytterst viktig period. Vänner och släktingar bör vara mycket noga med att deras nära och kära lämnas ifred från upphetsning, sorg och störningar av alla slag. Kroppen bör inte stympas och balsameringsvätskor bör inte användas förrän 84 timmar efter det att anden har slutat fungera i kroppen. Orsaken till detta är följande:
+
+Vid döden sker en bristning av silversnöret som Bibeln talar om i Predikarens tolfte kapitel. Detta snöre håller samman de högre och lägre vehiklarna, och vid döden sker bristningen i hjärtat, vilket får detta organ att sluta slå. När detta sker ser den klärvoajante hur Jaget med sina tre kroppar – livs-, önske- och mentalkroppen – svävar ovanför den fysiska kroppens huvud i tre och en halv dag. Under denna period är anden sysselsatt med att gå igenom scenerna från sitt förflutna liv, vilka har präglats på den permanenta fröatomen i hjärtat. Dessa intryck har lämnats på fröatomen av blodet. Vi får också lära oss från Bibeln att anden finns i blodet. Blodet är andens direkta vehikel.
+
+Hjärtat och lungorna är de enda organ genom vilka allt blod i människokroppen passerar i varje cykel, och hjärtat är det mänskliga Jagets fäste. Allteftersom blodet strömmar genom hjärtat bärs scenerna från varje passerande ögonblick med blodet och graveras in på den lilla fröatomen. Denna fröatom är också genomsyrad av erfarenheter från alla tidigare liv, och från den kommer många intryck till människan. Dessa lär henne skillnaden mellan gott och ont, och på så sätt blir de hennes samvete.
+
+Anledningen till att vi anser det nödvändigt att tystnad råder i dödens hus är följande: Livskroppen är den vehikel som används omedelbart efter döden för att överföra intrycken från fröatomen i hjärtat till önskekroppens fröatom. Under detta arbete är silversnöret brustet, men inte avslitet. Jaget är fortfarande medvetet om sina vehiklar och känner samt lider i viss mån när kroppen stympas. Om anden blir störd under överföringen blir intrycken svagt etsade. När anden sedan återvänder till återfödelse i nästa förkroppsligande, för den inte med sig ett lika skarpt samvete som den skulle ha gjort om etsningen varit tydlig, eftersom den i önskevärlden inte kunde känna ånger över missgärningar eller glädje över goda handlingar lika starkt som om den inte hade blivit störd.
+
+När panoramat har etsats in helt i önskekroppen slits silversnöret av och Jaget är fritt från sitt jordiska hus. Kroppen bör då kremeras, eftersom kremering snabbt frigör anden. Det utgör också en mer hygienisk metod för att ta hand om kroppen.
+
+Låt oss hoppas att mänskligheten snart blir vaksam på hur man tar hand om sina döda på rätt sätt, och att vi får en vetenskap om döden likväl som en vetenskap om födseln. Det är viktigt att den person som är medveten om den skada som uppstår vid felaktig hantering av kroppen vid dödsfall, skriftligen har de instruktioner han eller hon önskar få utförda för sin egen del.
+
+Ett formulär finns tillgängligt som förklarar de rosenkorsianska metoderna för vård av kroppen omedelbart efter döden. Det anger det tillvägagångssätt som den som följer den västerländska visdomsläran accepterar som nödvändigt för en korrekt övergång till livet efter detta.
