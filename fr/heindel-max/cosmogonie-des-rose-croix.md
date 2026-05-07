@@ -4313,7 +4313,7 @@ Jean parle de sa purification (1 Jean 3:9) et dit que celui qui est né de Dieu 
 
 <h2 id="addenda">Addenda</h2>
 
-### <h3 id="addendum-a">Addendum A: Exercices du Matin et du Soir de l'Aspirant
+### <h3 id="addendum-a">Addendum A: Exercices du Matin et du Soir de l'Aspirant</h3>
 
 #### <h4 id="the-evening-exercise">L'Exercice du Soir</h4>
 

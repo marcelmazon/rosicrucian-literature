@@ -130,7 +130,7 @@ In many of these letters there is a reference to accompanying lessons. Each lett
 
 In giving these letters to the world we feel that we are making a contribution of permanent value and importance, and one from which the student of esotericism will obtain much assistance in his progress on the Path. 
 
-### <h3 id="letter-1">Letter No. 1 - Christmas, 1910 - Friendship as an Ideal/h3>
+### <h3 id="letter-1">Letter No. 1 - Christmas, 1910 - Friendship as an Ideal</h3>
 
 In a religious movement it is customary to address one another as "sister" and "brother," in recognition of the fact that we are all children of God, who is our common Father. Brothers and sisters are not harmonious at all times, however. Sometimes they are even misguided enough to hate one another, but between friends there can be no feeling but love. 
 
