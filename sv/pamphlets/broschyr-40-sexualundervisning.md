@@ -1,0 +1,59 @@
+---
+title: "Broschyr nr 40: Sexualundervisning"
+language: "sv"
+original_title: "Pamphlet №40: Sex Education"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-40-sex-education.md"
+translator: "Google Gemini 3 Flash Thinking"
+---
+
+<h1 id="pamphlet-40-sex-education">Broschyr nr 40: Sexualundervisning</h1>
+
+### <h3 id="sex-education">Sexualundervisning</h3>
+
+<strong>FRÅGA:</strong> Det verkar finnas giltiga argument för sexualundervisning i skolan, och det förefaller som om allt fler av våra skolor inkluderar sådan undervisning i sina läroplaner. Är detta tillrådligt?
+
+<strong>SVAR:</strong> Denna fråga kan knappast besvaras med ett godtyckligt ”ja” eller ”nej”. Problemet med sexualundervisning, som rör en så grundläggande (och otillräckligt förstådd) del av den komplexa mänskliga naturen, involverar många faktorer som bör beaktas om det ska kunna lösas på ett tillfredsställande sätt. Vi skulle dock vilja säga, som ett delvis svar på frågan, att VAR undervisningen äger rum enligt vår mening är av mycket mindre betydelse än informationens natur och det sätt på vilket den förmedlas.
+
+Det finns förmodligen inget annat ämne som mänskligheten i allmänhet behöver bli mer korrekt informerad och utbildad om. Innan människor lär sig att den skapande funktionen inte bara är en primär biologisk drift, utan också helig – en fas av den Helige Ande – och att vi är förutbestämda att omvandla hela den skapande energin till mentala och spirituella kanaler, kan de svårligen inse hur allvarligt fel (och hur framkallande av framtida lidande) den alltför utbredda, lättsinniga och beklagliga inställningen till äktenskap och sex är – vilket tragiskt bevisas i många av våra filmer, radio- och tv-program, tidningar, böcker och tidskrifter, liksom i beteendet hos alltför många vuxna och ungdomar.
+
+Först och främst bör det finnas en ordentlig föräldrautbildning. Det finns ingen större karriär än den som förälder och hemvårdare, och ju förr vi ger detta faktum tillbörlig hänsyn när vi utformar undervisningen i våra gymnasieskolor, högskolor och universitet, desto förr kommer vi åt roten till ungdomsbrottslighet, sexualbrott osv. Lyckligtvis finns det en ökande insikt om detta behov, och många av våra skolor erbjuder hjälpsamma kurser som behandlar äktenskap, föräldraskap och hemvård.
+
+Det räcker dock inte att närma sig ämnet sexualundervisning ur en rent biologisk vinkel i dessa kurser. Både föräldrar och barn bör läras att de är gudomliga, skapade som en andlig avbild av sin Skapare, Gud, och att den skapande kraften inom dem också är av gudomligt ursprung. Eftersom barn lär sig främst genom efterlikning, är det uppenbart att de måste ha goda förebilder om de ska uppmuntras att lyssna till det högre självets andliga maning och leva ett moraliskt liv.
+
+Föräldrar som är korrekt informerade om den skapande energins sanna natur och funktion (ockultister) är i stånd att på ett vördnadsfullt sätt besvara de naturliga frågor ett barn ställer. Tyvärr är många föräldrar inte rustade med varken nödvändig information eller rätt inställning, och i sådana fall är det uppenbarligen mycket bättre för barnet att få sund undervisning och genomsyras av en vördnadsfull attityd; ett barn är då stärkt att hantera pubertetens och det senare livets frestelser med förståelse och en strävan efter att följa höga moraliska normer. Det är alla föräldrars plikt att se till att deras barn får denna livsförberedelse, och de kan själva bli bättre förberedda för föräldraplikterna genom att studera läror som följande:
+
+”Enligt Bibeln var mänskligheten man-kvinna innan den delades upp i två distinkta kön som man och kvinna. Vi har fortfarande hermafroditer ibland oss som har denna, som vi tänker idag, onormala formation som bevisar sanningen i detta bibliska påstående; och fysiologiskt sett ligger det motsatta könets organ latent hos alla. Under den period då människan var beskaffad på detta sätt måste befruktning ha skett inom henne själv, och detta är inte konstigare än att många växter befruktas så idag.
+
+Låt oss nu se utifrån Bibeln vad effekten av självbefruktning var i forna tider. Det finns två huvudsakliga fakta som sticker ut: Det ena är att det fanns jättar på jorden på den tiden; det andra att patriarkerna levde i århundraden; och dessa två egenskaper, stor tillväxt och långlivathet, besitts av många växter idag. Trädens enorma storlek och deras livslängd är förunderlig; de lever i århundraden där människan bara lever i några decennier.
+
+Det är välkänt för trädgårdsodlare att växter hämmas i sin tillväxt när de blommar för rikligt. En ros kan blomma så pass mycket att den dör; därför beskär den kloke trädgårdsmästaren knopparna från plantan så att kraften delvis kan gå till tillväxt i stället för till blomman. Sålunda, GENOM ATT BEHÅLLA FRÖET INOM SIG SJÄLV, uppnår den den styrka som krävs för tillväxt och långlivathet.
+
+Att den skapande essensen i fröet är en spirituell substans är uppenbart när vi jämför hingstens eller tjurens oräddhet och otålighet vid begränsningar med oxens och valackens foglighet. Dessutom vet vi att den utpräglade vällustingen och degenererade personen blir steril och utmärglad. När dessa fakta har sjunkit in i vårt medvetande blir det inte svårt att förstå sanningen i Bibelns påstående att köttets frukt, som för oss under syndens och dödens lag, först och främst är otukt, medan andens frukter som leder till odödlighet, som visas i samma bok, sägs vara främst avhållsamhet och kyskhet.
+
+Betrakta också barnet och hur den skapande kraften som ANVÄNDS INOM OCH FÖR BARNET SJÄLVT orsakar en enorm tillväxt under de tidiga åren, men vid puberteten börjar passionens födelse att hämma tillväxten; livskraften producerar då frö för att finna tillväxt och uttryck på annat håll, och därefter hämmas tillväxten. Om vi fortsatte att växa under livet som vi växer under barndomen, skulle vi vara jättar precis som de gudomliga hermafroditerna för länge sedan.
+
+Den spirituella kraft som genereras från puberteten och genom hela livet kan användas för tre ändamål: fortplantning, degeneration eller regeneration. Det beror på oss själva vilken av de tre metoderna vi väljer; men det val vi gör kommer att ha en viktig betydelse för hela vårt liv, ty användningen av denna kraft är inte begränsad i sin effekt till den tidpunkt eller det tillfälle då den används. Den överskuggar varje enskilt ögonblick av vår existens och avgör vår inställning i varje enskild fas av livet bland våra medmänniskor; om vi kan ta vara på våra möjligheter eller låter dem glida oss ur händerna; om vi är friska eller sjuka; och om vi lever vårt liv enligt ett tillfredsställande syfte; allt detta beror på hur vi använder livskraften.
+
+Det är Lucifers passionerade besmittelse som har fört med sig sorg, synd och lidande i världen. När den skapande kraften används för sinnesnjutning, vare sig i ensam eller gemensam last, med eller utan lagligt äktenskap, så är det den synd som inte kan förlåtas; den måste sonas. Mänskligheten som helhet lider nu för den synden. De försvagade kropparna, den sjukdom vi ser omkring oss, har orsakats av århundraden av missbruk, och förrän vi lär oss att betvinga våra passioner kan det inte finnas någon sann hälsa bland människosläktet.
+
+Om vi i stället för att slösa bort vår substans lever kyskt och sänder den skapande kraften uppåt för regeneration, förandligar och förfinar vi därigenom våra fysiska kroppar samtidigt som vi stärker våra själs-kroppar. På detta sätt kan vi väsentligt förlänga livet och så öka våra möjligheter för själslig tillväxt och framsteg på stigen i en mycket hög grad.”
+
+”Det är vår innerliga övertygelse att ju mindre vi läser och tänker på sex, desto renare blir vi mentalt, och även mindre utsatta för risken för sjukliga vanor. Dessa formas ofta genom överdrivna studier av sexualfrågan, och personer med en tendens i den riktningen bör avskräckas från försök att diskutera ämnet överhuvudtaget. Effekterna av ständiga överträdelser (missbruk av den skapande kraften) finns hos oss idag; i själva verket är missbruk av sex i ordets mest bokstavliga bemärkelse den primära källan till den sorg, sjukdom och degeneration som världen stönar under.”
+
+”Passionens förmåga att degenerera dem som ägnar sig åt den illustreras i fallet med aporna, som har hållits tillbaka och har degenererat till djurlika former på grund av sitt agerande att missbruka den skapande kraften. Låt oss därför fortsätta ståndaktigt på renhetens stig. Om vi vid något tillfälle frestas av orena tankar, låt oss omedelbart vända våra sinnen till ett annat ämne som ligger långt ifrån sensualitet. Framför allt, låt oss respektera vårt lands lagar som kräver äktenskapsceremonin före förening; för även om orden i vigselceremonin inte parar ihop människor, är det likväl på sin plats att vi inte kränker den allmänna anständigheten genom att leva tillsammans utan äktenskap. De som står över lagen visar fullkomlig lydnad så som Kristus gjorde, för när vi följer alla lagar utan upproriskhet därför att det är rätt att göra så, då har vi höjt oss över lagen och är inte längre i träldom.”
+
+### <h3 id="transmutation">Transmutation</h3>
+
+I stället för att söka fysisk tillfredsställelse när man blir medveten om den lägre naturens sjudande impulser, om individen då fokuserar sina tankar och sin fantasi på något han eller hon önskar skapa – en dikt, en uppfinning, en bild, en musikalisk komposition eller någon materiell manifestation såsom ett hem eller ett nytt affärsprojekt – kommer han eller hon att finna att det tjänar ett dubbelt syfte. Den yttre manifestationen kommer att påskyndas och processen av transmutation eller regeneration inom hans eller hennes kropp kommer samtidigt att stimuleras märkbart. Fysisk träning ensamt är också till hjälp, men när den åtföljs av skapande tankar är den mer effektiv.
+
+Meditation över höga och inspirerande ämnen har makt att bokstavligen transformera krafter som genomsyrar de sexuella vätskorna, ty dessa vätskor är i själva verket bärare av eterisk kraft, det sanna skapande medlet. En inspirerande dikt eller ett stycke ur skrifterna kan vara kanalen för omedelbar inriktning av tankarna och den skapande kraften till upplyftande strömmar. Genom att medvetet rikta rena kärleksströmmar från hjärtat in i hjärnans skapande centra, kan sexuell aktivitet omvandlas till aktiviteter för sinne och ande, med en motsvarande födelse på det mentala och spirituella planet.
+
+Varje cell i kroppen är, eller kan göras, underställd Egots absoluta kontroll med hjälp av sinnet. Det är möjligt att höja kroppen över den fysiska passionens krafter och centrera hela sitt väsen i andens strömmar. Tålmodig uthållighet lyckas alltid, och belöningarna är ytterst tillfredsställande: permanent bättre fysisk hälsa, ökad mental kraft, renare önskningar och ett framväxande av de inneboende spirituella förmågor som ligger latenta i varje människa.
+
+Sexualförbrytaren eller sexualdåren är ett bevis på riktigheten i ockultisternas påstående att en del av sexualkraften bygger upp hjärnan. Han blir en idiot på grund av att han drar ut och sänder ut, inte bara den negativa eller positiva delen av sexualkraften (beroende på om det är en man eller kvinna) som normalt ska användas genom sexualorganet för fortplantning, utan dessutom en del av den kraft som borde bygga upp hjärnan och göra det möjligt för den att producera tankar – därav den mentala bristen.
+
+Å andra sidan, om personen är hängiven spirituellt tänkande, är tendensen att använda sexualkraften för fortplantning liten, och den del av den som inte används på det sättet kan omvandlas till spirituell kraft.
+
+Den Helige Ande är den skapande energin i naturen, och sexualenergin är dess återspegling i människan. Missbruk eller utnyttjande av den kraften är den synd som inte förlåts, utan måste sonas genom försämrad effektivitet i farkosten (kroppen), för att grundligt lära oss den skapande kraftens helgd.
