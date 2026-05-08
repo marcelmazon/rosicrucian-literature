@@ -1,0 +1,39 @@
+---
+title: "Broschyr nr 44: Hjälper du dina stjärnor?"
+language: "sv"
+original_title: "Pamphlet №44: Are You Helping Your Stars?"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-44-are-you-helping-your-stars.md"
+translator: "Google Gemini 3 Flash Thinking"
+---
+
+<h1 id="pamphlet-44-are-you-helping-your-stars">Broschyr nr 44: Hjälper du dina stjärnor?</h1>
+
+### <h3 id="misuse-of-astrology">Missbruk av astrologi</h3>
+
+Man hör inte sällan astrologistudenter uttrycka sin irritation över hur stjärnorna verkar. De klagar på att de onda direktionerna alltid kommer i tid och har en tydlig inverkan, medan de goda direktionerna ofta tycks ha liten eller ingen påverkan alls, och de undrar varför. Har du någonsin insett att du omöjligt kan få någonting för ingenting, lika lite som du kan skapa någonting ur intet? Detta gäller oavsett om du vill ha en limpa bröd, en anställning, tjänster eller något annat. Om det vid något tillfälle verkar som om du får något utan att betala för det, kommer du att få göra rätt för dig senare, och då med ränta, för det är naturens rättviselag att ingenting ges för ingenting. Det måste finnas en motsvarighet på ett eller annat sätt; vågskålen kan vara tippad i en riktning under lång tid, men lika säkert som pendeln svänger lika långt åt båda sidor om neutralpunkten, lika säkert kommer rättvisans vågskålar att svänga tills jämvikt har uppnåtts.
+
+### <h3 id="stars-never-compel">Stjärnorna tvingar aldrig</h3>
+
+Detta gäller även inom astrologin. Det sägs att ”Gud hjälper den som hjälper sig själv”; man kan också säga att stjärnorna hjälper den människa som hjälper sig själv, ty de är Guds tjänare. Man bör alltid komma ihåg att stjärnorna visar tendenser; de markerar tidpunkter då möjligheter är mogna, men de tvingar aldrig under några omständigheter någon att handla på det ena eller andra sättet. Men direktionerna är inte heller slumpmässiga händelser. De är läxor och erfarenheter för oss, som vi kan dra nytta av eller inte, efter eget val, inom vissa gränser. Till exempel bildar månen en kvadratur till Mars, och det kommer att ge oss en möjlighet att tappa behärskningen och därigenom hamna i svårigheter; när problemen sedan är över och vi sätter oss ner för att reflektera över det som hänt, säger vi troligen till oss själva: ”Vilka dårar vi är som låter en sådan liten sak förstöra vår lycka.”
+
+### <h3 id="equilibrium">Jämvikt</h3>
+
+Om astrologistudenten å andra sidan använder sin kunskap på rätt sätt, bör han veta vilken effekt månen i kvadratur till Mars kommer att få. Han bör på förhand besluta sig för att vara lugn och säga: ”Här är en möjlighet för mig att råda över mina stjärnor. Jag ska hålla mitt humör under strikt kontroll så att jag bevarar min jämvikt, oavsett vad som händer.” När sedan tillfället att bli arg dyker upp, kan han stå fast. Även om han känner lidelserna sjuda inom sig, kan han förbli yttre lugn, behålla huvudet kallt, och när faren är över har han vunnit en seger och lärt sig den läxa som var avsedd för honom.
+
+Eller antag att det rör sig om en kvadratur mellan månen och Saturnus. Detta kommer att driva människor till att oroa sig och se på livets mörka sida, men astrologistudenten kan säga till sig själv när en sådan konfiguration närmar sig: ”Nej, jag tänker inte oroa mig. Oro hjälper inte. Det hindrar mig, eftersom det tar ifrån mig all den kraft som jag annars skulle kunna använda för att övervinna omständigheterna. Jag ska se på saken från den ljusa sidan och se vad jag kan göra för att åtgärda problemet.”
+
+Faktum är att det mesta vi oroar oss för aldrig inträffar, och om studenten under denna planetära direktion kan lära sig att behålla sin jämvikt och sluta oroa sig, då har han rått över sina stjärnor och lärt sig en viktig läxa. Om han således hjälper sina stjärnor genom att lära sig de läxor de försöker lära honom, kommer de onda direktionerna inte att ha samma makt över honom som om han bara sätter sig ner med händerna i kors och säger: ”Tja, jag kan inte hjälpa det. Jag är under onda direktioner och naturligtvis är det förutbestämt att allt ska gå fel i varje avseende.”
+
+### <h3 id="individual-will">Den individuella viljan</h3>
+
+Det finns en dominerande faktor i horoskopet, nämligen: den individuella viljan. Kom ihåg att horoskopet endast visar tendenser, och det har ingen som helst makt att tvinga dig. Tvånget kommer inifrån dig själv. Du är, i sista hand, den dominerande faktorn i det horoskopet och kan genom att utöva tillräcklig viljestyrka råda över dina stjärnor. Det erkänns att vi alla är svaga och därför inte förmögna att utöva den nödvändiga viljestyrkan vid alla tidpunkter, men det är exakt vad dessa onda direktioner sänds till oss för att odla: en starkare och fastare vilja att göra det rätta vid rätt tidpunkt. Det beror på oss själva om vi ska tvingas av yttre omständigheter eller av vår egen inre vilja. Det är sannerligen den rätta vägen. Astrologistudenter, mer än några andra, borde kunna vägleda sina liv säkert bland existensens klippor och grund, eftersom de har fått en varning i tid. De vet vad som väntar och de bör förbereda sig för det.
+
+### <h3 id="cooperation">Samarbete</h3>
+
+Å andra sidan frågar man sig: Varför ger de goda direktionerna inte en motsvarande grad av nytta? Svaret på den frågan är: på grund av exakt samma brist på samarbete. Det är lika absolut nödvändigt att hjälpa våra stjärnor i en riktning som att hindra dem i en annan. Är du utan arbete, kanske med en ansträngd familjeekonomi och inga medel i sikte för att fylla på den, men med dina förhoppningar fästa vid en stark gynnsam direktion som till exempel en trigon från den progressiva månen till härskaren över det sjätte huset eller solen? Under dessa förhållanden känner du dig säker på, ur en astrologisk synvinkel, att du kommer att få en bra anställning som kommer att få dig på grön kvist. Mycket väl, du kan vara säker på att möjligheten kommer att dyka upp, men förvänta dig inte att den ska läggas i ditt knä utan minsta ansträngning från din sida. Om något är värt att ha, är det värt att gå efter; det är värt att göra sitt yttersta för att få det. Försumma ingen detalj: klä dig omsorgsfullt men inte pråligt när du går för att träffa den person som har makten att bevilja dig tjänsten. Kom ihåg att första intrycket är viktigt. Ha allt ditt underlag redo i form av rekommendationer och allt annat du skulle ha haft om du inte förlitade dig på en astrologisk aspekt för att få platsen. Använd alla lämpliga medel för att imponera på den blivande arbetsgivaren med din förmåga, och du kan lita på att din ansträngning kommer att krönas med framgång, ty du har hjälpt dina stjärnor; du har gripit din möjlighet.
+
+### <h3 id="common-sense">Sunt förnuft</h3>
+
+Eller står du i begrepp att inleda ett affärsprojekt med någon annan och känner dig mycket trygg eftersom månen står i trigon till solen och Venus i det sjunde huset? Var försiktig så att du inte lägger undan din vaksamhet för den sakens skull, i tron att ingen som inte är renhårig kan komma in i ditt kompanjonskap under en sådan direktion. Om du gör det försummar du din del, och du har ingen anledning alls att klandra stjärnorna om det senare visar sig att personen inte var allt du förväntade dig. Ingenting behövs i världen idag i samma grad som vi behöver sunt förnuft (eller urskillningsförmåga), och detta gäller för astrologin lika väl som för livets alla andra områden. Möjligheten kan liknas vid en kälkbacke mellan oss själva och våra önskningar: det är nödvändigt för oss att göra en tillräcklig initial ansträngning för att skjuta ut vår släde i denna sluttning, men när vi väl har gjort vår del, då kommer allt att gå som på räls under gynnsamma direktioner; då är stjärnorna med oss för att påverka andra till vår fördel, eller för att stärka vår genomskådande förmåga så att vi vet vad som är bäst för oss.
