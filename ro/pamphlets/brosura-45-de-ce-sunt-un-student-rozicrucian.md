@@ -4,7 +4,7 @@ language: "ro"
 original_title: "Pamphlet №45: Why I Am a Rosicrucian Student"
 original_language: "en"
 author: "Max Heindel"
-original_source_file: "pamphlet-44-are-you-helping-your-stars.md"
+original_source_file: "pamphlet-45-why-i-am-a-rosicrucian-student.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 
