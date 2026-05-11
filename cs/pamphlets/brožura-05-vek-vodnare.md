@@ -1,0 +1,59 @@
+--- 
+title: "Brožura č. 5: Věk Vodnáře" 
+language: "cs"
+original_title: "Pamphlet №5: The Aquarian Age" 
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-05-the-aquarian-age.md"
+translator: "Google Gemini 3 Flash Thinking"
+---
+
+<h1 id="pamphlet-5-the-aquarian-age">Brožura č. 5: Věk Vodnáře</h1>
+
+### <h3 id="astrological-aspects">Astrologické aspekty</h3>
+
+Ve veřejných sdělovacích prostředcích se o věku Vodnáře objevuje mnoho tvrzení. Pozorovatelé často komentují, že věk Vodnáře již nastal, že bude trvat takovou či onakou dobu, že je výsledkem toho či onoho astronomického nebo astrologického jevu, že má určité charakteristiky, nebo že pod jeho vlivem budou lidské bytosti náchylnější k určitým specifickým činům než k jiným.
+
+Ve snaze vyjasnit zmatek, který v tomto tématu panuje, zde předkládáme učení Rosikruciánského bratrstva o věku Vodnáře.
+
+Věk Vodnáře ještě nenastal, ačkoli jeho vlivy jsou již pociťovány, a plně s námi nebude dříve než za více než šest set let – tedy přibližně v roce 2 600 n. l.
+
+### <h3 id="precession-of-the-equinoxes">Precese rovnodennosti</h3>
+
+Skutečnost, že někteří odborníci přesto tvrdí, že se již ve věku Vodnáře nacházíme, lze pravděpodobně vysvětlit rozdílem mezi zvířetníkovými souhvězdími a takzvaným „intelektuálním zvěrokruhem“. Určitá skupina stálic na nebi se nazývá Beran; jiná skupina, nacházející se v její blízkosti, se nazývá Býk; třetí skupina jsou Blíženci atd. Těchto dvanáct souhvězdí neboli skupin hvězd, jak je vidíme na nebi, zůstává vždy ve stejné skupině a v přibližně stejné vzájemné poloze. Těmito souhvězdími Slunce rok co rok krouží s neměnnou přesností, ale vzhledem k tomu, že se zemská osa naklání ke Slunci a vykonává kolísavý pohyb – podobně jako u roztočené káči, která již téměř ztratila svou sílu – jeví se pohyb Slunce jako nerovnoměrný. Každý rok, když při přechodu přes zemský rovník vstupuje do souhvězdí Berana, je to o něco dříve než rok předtím. Předchází, a proto astronomové mluví o „precesi rovnodennosti“. To znamená, že se zdá, že Slunce protíná rovník při jarní rovnodennosti, tedy na začátku jara, každý rok o kousek dříve, než dosáhne bodu, kde jej protínalo v roce předchozím. Pokud tedy jeden rok proťalo rovník v prvním stupni Berana, příští rok by jej proťalo mírně uvnitř souhvězdí Ryb. Následující rok by bylo v Rybách ještě dále od prvního bodu Berana a tak dále. Tento zpětný pohyb je však tak pomalý, že trvá téměř sedmdesát let, než se posune o jeden stupeň, dva tisíce sto let, než projde jedním znamením, a přibližně dvacet šest tisíc let, než projde zpětně všech dvanáct znamení. Toto poslední období se nazývá velký siderický rok.
+
+### <h3 id="two-zodiacs">Dva zvěrokruhy</h3>
+
+Astronomové obvykle mluví o „stupních rektascenze“, jimiž dělí nebeský kruh na obvyklý počet tři sta šedesáti stupňů, počínaje bodem, kde Slunce protíná rovník při nejbližší předchozí jarní rovnodennosti. Prvních třicet stupňů od tohoto bodu však také nazývají Beranem, druhých třicet stupňů Býkem atd., stejně jako to dělá astrolog. Existuje tedy přirozený zvěrokruh složený z hvězd na obloze, který se mění tak málo, že je to za jeden lidský život nebo dokonce za několik set let nepostřehnutelné, a intelektuální zvěrokruh, který pro daný rok vychází z bodu jarní rovnodennosti.
+
+Vzhledem k tomu, že Slunce vlivem precese putuje znameními zvěrokruhu pozpátku, je pochopitelné, že musí nastat čas, kdy jarní rovnodennost nastane v prvním bodě Berana; a tak se v onom roce intelektuální a přirozený zvěrokruh shodují. Naposledy k tomu došlo kolem roku 500 n. l., a protože Slunce putuje pozpátku svou obvyklou rychlostí jeden stupeň za přibližně sedmdesát let, je zřejmé, že v současné době nastává jarní rovnodennost přibližně v devátém stupni Ryb. Bude tedy trvat až do roku 2 600 n. l., než skutečně vstoupí do souhvězdí Vodnáře. Lze říci, že věk Vodnáře začne v té době a potrvá přibližně 2 100 let, zatímco se Slunce bude pohybovat pozpátku skrze třicet stupňů znamení Vodnáře. Neexistuje však žádná definitivní a ostrá hranice, jakou děláme, když říkáme, že do roku 1969 vstupujeme o půlnoci 31. prosince 1968, nebo že rok 1969 bude trvat do půlnoci 31. prosince 1969. To je matematické dělení času. Různé epochy lidské existence však závisí na životních vlivech a jsou spíše stavem mysli než dělením času, ačkoli obojí je propojeno.
+
+### <h3 id="orb-of-influence">Orb vlivu</h3>
+
+Proto astrologové uznávají to, co se nazývá „orb vlivu“. Abychom tomu porozuměli, musíme si uvědomit, že každá lidská bytost je něčím víc, než co vidíme – že ji obklopuje aura, neviditelná atmosféra, „něco“, co z ní vyzařuje a co má podíl na její odlišné a osobní povaze. Člověk má jinými slovy určitá vozidla, která jsou běžným zrakem neviditelná a která přesahují fyzické tělo. Když tedy stojíme blízko jiného člověka, tato neviditelná těla se prolínají, a ve chvílích, kdy jsme velmi tiší a pasivní, pociťujeme tyto jemné vlivy snadněji než jindy, ačkoli existují a jsou mocnými faktory v našem životě neustále.
+
+Předpokládejme, že se někdo plně soustředí na svou práci, takže neslyší ani nevidí, co se kolem něj děje. Postupně si uvědomí, že do místnosti vstoupil někdo jiný – že ve skutečnosti stojí za ním – a když se otočí, spatří přítele. Neslyšel ho vejít, protože byl zaujat prací, ale POCÍTIL ho, protože se přítelova aura smísila s jeho vlastní aurickou atmosférou. Ačkoli tedy nedošlo k žádnému fyzickému kontaktu, věděl, že je někdo nablízku.
+
+„Jak nahoře, tak dole“ a naopak. To je zákon analogie, hlavní klíč k tajemstvím. Člověk je mikrokosmos a hvězdy jsou makrokosmos. Souhvězdí jsou skupiny velkých Duchů, kteří se uzavřeli do svých hvězdných těl, aby pomohli méně pokročilým inteligencím získat zkušenosti v evoluci. Můžeme dojít k závěru, že tito velcí Duchové mají jemná vozidla podobná aurické atmosféře naší Země. Blízkost Slunce k souhvězdí Vodnáře v čase jarní rovnodennosti tedy přenáší tyto vlivy na Zemi spolu se slunečními paprsky, a protože jaro je zvláštním časem, kdy je vše na Zemi oplodňováno životem, můžeme také soudit, že takto přenášený paprsek Vodnáře se dá pocítit mezi lidmi na Zemi.
+
+### <h3 id="piscean-age">Věk Ryb</h3>
+
+Vliv Ryb v posledních dvou tisících letech snadno rozpoznáme. Pověry, intelektuální nesvoboda a slepá víra, kterými civilizace prošla, jsou historikům dobře známy. Na druhou stranu však byly vlivy věku Ryb v procesu evoluce nezbytné. Učení o lásce a altruismu, které Kristus přinesl na naši Zemi, bylo náboženství zákona – a strachu –, které existovalo dříve, natolik cizí, že se u většiny lidstva nemohlo začít projevovat bez zdůraznění víry, a to i slepé víry, která zahrnovala doktrínu o „zástupném vykoupení“. Během věku Ryb – na který se bude možná vzpomínat jako na věk víry v kontrastu k vodnářskému věku rozumu – se zásady nového křesťanství (láska a nesobeckost) vyučovaly stále širšímu okruhu věřících. V určité dny se praktikovalo zdržování se masitých pokrmů. Úcta byla vzdávána Neposkvrněné Panně. Postupně byl a je člověk učit opouštět žádosti těla a také bažení po mase. V šesti stech letech, které zbývají do definitivního nastolení věku Vodnáře, s největší pravděpodobností učiníme v obou těchto oblastech vědomí velké pokroky. Je dobré si také uvědomit, že Jupiter, planeta shovívavosti a filantropie, která je spoluvládcem Ryb, byl v uplynulých dvou tisíciletích významným faktorem při podpoře altruismu.
+
+Pokud nyní zjistíme, jaký je vliv znamení Vodnáře, dozvíme se více o věku Vodnáře.
+
+### <h3 id="age-of-innovations">Věk inovací</h3>
+
+Informace o vlivu Vodnáře k nám přicházejí prostřednictvím studia astrologie. Vodnář má intelektuální vliv, který je originální, vynalézavý, mystický, vědecký, altruistický a náboženský. Použijeme-li biblické měřítko „po ovoci poznáte je“, očekávali bychom, že věk Vodnáře bude uveden originálním úsilím ve všech liniích spojených s vědou, náboženstvím, mystikou a altruismem. A skutečně se zdá, že je tomu tak. Nyní se můžeme ohlédnout za obdobím téměř jednoho století, v němž Slunce vlivem precese urazilo v orbu směrem k Vodnáři o něco více než jeden stupeň. Zjišťujeme, že během této doby došlo k velmi výrazné změně ve všech směrech myšlení a úsilí oproti tomu, co zaznamenává historie v uplynulých dvou tisíciletích. Vezměme si jen vynálezy minulého století, od telefonu, telegrafu a radaru až po nové, vysoce složité stroje pro cestování do vesmíru. Tyto a nesčetné další jsou znakem vodnářského pokroku ve fyzickém světě. Pozorujeme také rychlost, s jakou všechna hnutí liberálního myšlení v náboženských záležitostech nahrazují staré poměry svázané dogmaty, a rostoucí počet těch, kteří si vyvinuli duchovní zrak a zkoumají vývojové trendy ve vyšších sférách. Studium astrologie nabylo v posledních několika letech neslýchané popularity a návštěva téměř jakéhokoli knihkupectví nemůže na člověka neudělat dojem neuvěřitelným množstvím nedávných publikací o okultních záležitostech a „nadpřirozenu“.
+
+Věk Vodnáře přinese propojení náboženství a vědy do takové míry, že vznikne náboženská věda a vědecké náboženství – přičemž každé bude respektovat poznatky druhého a učit se z nich –, což podpoří zdraví, štěstí a radost ze života.
+
+### <h3 id="universal-brotherhood">Všeobecné bratrství</h3>
+
+Věk Vodnáře s sebou přinese éru všeobecného bratrství, k jejíž přípravě vidíme, jak se všude kolem nás hroutí bariéry rasových předsudků. Jistě, v současné době se tak děje za podmínek krveprolití a vzpour. Můžeme si však být jisti, že ačkoli meč, který kraloval během věku Ryb, je stále mocný, ve věku Vodnáře budou vládnout VĚDA a ALTRUISMUS.
+
+Vzhledem k tomu, že Vodnář je vzdušné, vědecké a intelektuální znamení, je předem jasné, že náboženství tohoto věku musí být zakořeněno v rozumu a schopno vyřešit hádanku života a smrti způsobem, který uspokojí jak mysl, tak náboženský instinkt. V tomto ohledu připravuje cestu pro věk Vodnáře také Učení západní moudrosti šířené Rosikruciánským bratrstvem, a to tím, že odbourává strach ze smrti vyvolaný nejistotou obklopující posmrtnou existenci. Tato učení ukazují, že život a vědomí pokračují podle zákonů stejně neměnných, jako je Bůh, které směřují k pozvednutí člověka do stále vyšších, ušlechtilejších a vznešenějších stavů duchovnosti.
+
+Jako vzdušné znamení má Vodnář zvláštní vládu nad éterem. Až Slunce vlivem precese vstoupí do Vodnáře, vlhkost na Zemi se bude postupně vytrácet a vizuální vibrace, které se nejsnadněji přenášejí suchou éterickou atmosférou, se stanou intenzivnějšími. Za těchto podmínek se u velké většiny lidstva vyvine éterické vidění a budeme moci vidět obyvatele éterické říše, včetně našich vlastních přátel a milovaných, kteří zemřeli. Poté s nimi budeme moci po „smrti“ ještě nějakou dobu pokračovat ve společenství a mít čas zvyknout si na skutečnost, že odcházejí do vyšších sfér.
+
+Až bude dosaženo tohoto bodu v evoluci, lidstvo bude také mnohem osvícenější, takže se vyhne mnoha nástrahám, které dnes způsobují potíže, a budeme se těšit mnohem šťastnější existenci, než jaká byla pravidlem až do současného stadia. Budeme schopni řešit sociální problémy spravedlivě pro všechny a používání zdokonalených strojů osvobodí lidstvo do značné míry od fyzické dřiny a poskytne mu větší příležitost k intelektuálnímu a duchovnímu zdokonalení. Přestože nám požehnání věku Vodnáře budou časem jistě patřit, ti, kteří skutečně touží po „lepším“ neboli duchovnějším životě, se mohou stále více ladit na ducha nadcházejícího věku, a tím se stát přístupnějšími vodnářským vlivům mnohem rychleji a úplněji než jejich současníci. Ten, kdo se snaží žít životem služby lidstvu a uplatňovat své schopnosti soucitu, altruismu a dobročinnosti, bude stále vnímavější k vodnářským vlivům a jeho pokrok na evoluční cestě se tím urychlí.
