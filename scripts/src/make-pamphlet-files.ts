@@ -2,8 +2,8 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 // Must call script from root directory for it to find TARGET_DIR
-const TARGET_DIR: string = './ro/pamphlets';
-const PAMPHLET_NAME: string = 'brosura'
+const TARGET_DIR: string = './el/pamphlets';
+const PAMPHLET_NAME: string = 'μπροσουρα'
 
 /**
  * Creates 54 markdown files with sequential naming.
