@@ -1,0 +1,47 @@
+---
+title: "Brožura č. 8: Duha v oblaku"
+language: "cs"
+original_title: "Pamphlet №8: The Bow in the Cloud"
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "pamphlet-08-the-bow-in-the-cloud.md"
+translator: "Google Gemini 3 Flash Thinking"
+---
+
+<h1 id="pamphlet-8-the-bow-in-the-cloud">Brožura č. 8: Duha v oblaku</h1>
+
+autor: Max Heindel
+
+### <h3 id="the-bow-in-the-cloud">Duha v oblaku</h3>
+
+Mám několik předběžných vysvětlení, několik důvodů, proč se věnujeme tématu „Duha v oblaku“. Nedávno jsem diktoval rukopis knihy, kterou od té doby rediguji. Během diktování vyvstaly určité body, z nichž jedním byla životní síla, která vstupuje do těla skrze éterický protějšek sleziny.
+
+Při zkoumání vyšlo najevo, že tato síla se projevuje v různých barvách a že v různých říších života působí odlišně; proto bylo nutné mnohé vyhledat, než se tyto informace zveřejní. Jeden přítel mi po přečtení části rukopisu poslal ze své knihovny v Seattlu knihu vydanou asi před čtyřiceti lety s názvem *Babbittovy Principy světla a barev* (*Babbitts’ Principles of Light and Color*). Do této knihy jsem nahlédl a shledal ji velmi zajímavou; napsal ji muž, který byl jasnovidný. Poté, co jsem strávil hodinu studiem této knihy, jsem se sám pustil do zkoumání, jehož výsledkem bylo, že se na toto téma vrhlo velké množství nového světla. Je to hluboký a niterný námět, neboť v těchto barvách se zdá být ztělesněn samotný život Boží.
+
+Při sledování světla a barev zpět v čase skrze Paměť přírody jsem dospěl k bodu, kdy nebylo žádné světlo, jak bylo ukázáno v knize *Rosikruciánský kosmo-koncept*. Poté jsem sledoval různé fáze planetárního formování a pokračoval dále až k bodu, kdy se v oblaku objevila duha. Celé toto zkoumání na mě udělalo tak hluboký dojem, že mě naplnilo nesmírnou oddaností.
+
+V Bibli se uvádí, že „Bůh je Světlo“, a nic nám nemůže odhalit Boží podstatu v takové míře jako tento symbol. Kdyby se jasnovidec vrátil do daleké, mlhavé minulosti a pohlédl na tuto planetu v době jejího vzniku, viděl by nejprve jakýsi temný oblak bez tvaru, vycházející z chaosu. Poté by viděl, jak se tento oblak panenské substance mění tvůrčím příkazem (Fiat) ve světlo – jeho první viditelný projev, zářivou ohnivou mlhu. Pak by viděl čas, kdy se kolem této ohnivé mlhy shromáždila vlhkost, a později období označované jako období Měsíce. Ještě později by pozoroval temnější a hustší fázi zvanou období Země.
+
+V lemurské epochě období Země začalo tuhnutí zemské kůry, když se vypařovala vřící, kypící voda. Víme, že když vaříme a znovu vyváříme vodu, v konvici se usazuje vodní kámen; podobně i vaření vlhkosti na povrchu ohnivé zemské koule vytvořilo tvrdou kůru, která tvoří povrch Země.
+
+Bible ve vztahu k příští epochě říká, že na zemi nepršelo, ale že ze země vystupovala mlha. Z vlhké země tehdy vycházela mlha, která ji zcela obklopovala. Tehdy pro nás bylo nemožné vidět sluneční světlo tak jako dnes; Slunce vypadalo jako dnešní pouliční lampa za temné noci; mělo kolem sebe auru. V této mlžné atmosféře jsme přebývali v raném období Atlantidy. Později se atmosféra stále více ochlazovala a vlhkost kondenzovala ve vodu, což nakonec vyhnalo Atlanťany z jejich země potopou, o níž se zmiňují různá náboženství.
+
+Když tato mlžná atmosféra zahalovala Zemi, duha byla neuskutečnitelná. Tento jev obvykle nastává, když je na některých místech jasná atmosféra a na jiných oblak. Nakonec lidstvo spatřilo duhu poprvé. Když jsem tento výjev sledoval v Paměti přírody, bylo to naprosto úžasné. Byli tam uprchlíci, kteří byli vyhnáni z Atlantidy (která je nyní částečně pod Atlantským oceánem a zahrnovala také části dnešní Evropy a Ameriky). Tito uprchlíci byli hnáni na východ, až nakonec došli na místo, kde byla země vysoko a kde se atmosféra částečně vyčistila. Tam nad sebou uviděli jasnou oblohu. Náhle se objevil mrak a z toho mraku vyšel blesk. Slyšeli hřmění hromu a ti, kteří unikli nebezpečí vody a uprchli pod vedením vůdce, k němuž vzhlíželi jako k Bohu, se na něj obrátili s otázkou: „Kam jsme se to dostali? Budeme nakonec zahubeni?“ On ukázal na duhu, která stála v oblaku, a řekl: „Ne, dokud tato duha stojí v oblaku, budou roční období přicházet jedno po druhém v nepřerušeném sledu;“ a lidé s velkým obdivem a úlevou pohlédli na tuto duhu zaslíbení.
+
+Když považujeme duhu za jeden z projevů Božstva, můžeme se naučit úžasným lekcím oddanosti, neboť zatímco na blesk hledíme s bázní a hrom slyšíme se strachem, duha na obloze musí v lidském srdci vždy vzbudit obdiv k kráse své sedminásobné barevné cesty. Této nádherné duze se nic nevyrovná a já bych vás rád upozornil na několik fyzikálních faktů, které se jí týkají.
+
+Za prvé, duha se nikdy neobjevuje v poledne; vždy se objevuje poté, co Slunce klesne a urazí více než polovinu vzdálenosti od poledníku k obzoru. Čím blíže je Slunce k obzoru, tím větší, jasnější a krásnější duha je. Duha se nikdy neobjevuje na jasné obloze. Obvykle má za pozadí temný a ponurý mrak a vidíme ji vždy tehdy, když se k Slunci otočíme zády. Nemůžeme se dívat do Slunce a zároveň vidět duhu. Když se na duhu díváme zdola, jeví se jako půlkruh nad Zemí a nad námi. Ale čím výše se dostáváme, tím větší část kruhu vidíme, a v horách, když dosáhneme dostatečné výšky nad duhou, ji vidíme jako sedminásobný kruh – sedminásobný jako Božstvo, jehož je projevem.
+
+Nyní, s těmito fyzikálními fakty před sebou, přejděme k mystickému výkladu tohoto tématu. V běžném životě, když jsme na vrcholu své fyzické aktivity, když se nám nejlépe daří a když se nám vše zdá jasné a zářivé, nepotřebujeme projev božského světla a života. Nepotřebujeme onu smlouvu, kterou Bůh uzavřel s člověkem při jeho vstupu do árijské epochy. O vyšší život se nestaráme; naše loďka se plaví po letních mořích a o nic jiného se nestaráme; všechno je pro nás zde tak dobré, že se zdá, že není důvod, proč bychom se měli dívat dál.
+
+Ale náhle přijde bouře, čas v každém životě, kdy nás potká zármutek a potíže. Bouře katastrof nám odnese všechny fyzické základy a my zůstáváme, možná, na světě sami v žalu. Tehdy, když odvrátíme zrak od Slunce fyzické prosperity a pohlédneme k vyššímu životu, uvidíme na temném mraku neštěstí vždy duhu, která stojí jako smlouva mezi Bohem a člověkem a ukazuje, že jsme vždy schopni se s vyšším životem spojit. Možná pro nás v tu chvíli není nejlepší, abychom tak učinili, neboť všichni potřebujeme určitý materiální vývoj, kterého se nejlépe dosáhne, když nejsme v příliš těsném kontaktu s vyšším životem. Abychom se však vyvíjeli, postupovali a postupně hledali vyšší a vyšší stav spirituality, musí na nás časem přijít potíže a zkoušky, které nás s vyšším životem spojí. Když dokážeme nahlížet na zkoušky a strasti jako na prostředky k tomuto cíli, stávají se strasti těmi největšími z našich požehnání. Když nepociťujeme hlad, co je nám po jídle? Ale když pocítíme muka hladovění a usedneme k jídlu, nezáleží na tom, jak je skromné, cítíme za něj velkou vděčnost.
+
+Pokud spíme každou noc svého života a spíme dobře, nedokážeme ocenit, jaké je to požehnání. Ale když jsme byli udržováni v bdělosti noc co noc a prahli jsme po spánku, pak když konečně přijde a s ním i odpovídající odpočinek, uvědomíme si jeho obrovskou hodnotu. Když jsme zdraví a nepociťujeme žádnou bolest ani nemoc, máme sklon zapomínat, že vůbec existuje něco jako bolest. Ale po uzdravení z nemoci nebo poté, co jsme mnoho vytrpěli, si uvědomíme, jak velkým požehnáním je zdraví.
+
+Tak v kontrastu mezi slunečními paprsky a temnotou oblaku vidíme v tom druhém duhu, která nás vábí k vyššímu životu. Budeme-li k ní vzhlížet, budeme na tom mnohem lépe, než když budeme pokračovat v cestách nižšího života.
+
+Mnohé z nás trápí maličkosti. To mi připomíná příběh malého chlapce, který lezl po žebříku. Při lezení se díval nahoru a vylezl už tak vysoko, že pád by znamenal smrt. Pak se zastavil, podíval se dolů a okamžitě se mu zatočila hlava. Ale někdo shora na něj zavolal: „Dívej se nahoru, chlapče. Vylez až sem. Pomůžu ti.“ Podíval se nahoru, závrať i strach ho okamžitě opustily a on lezl dál, dokud ho nevzali dovnitř oknem.
+
+Vzhlížejme vzhůru a snažme se zapomenout na malé starosti života, neboť duha **NADĚJE** je v oblaku vždy přítomna. Čím více se budeme snažit žít vyšším životem a stoupat k vznešeným výšinám k **BOHU**, tím spíše zjistíme, že se duha míru stává kruhem a že mír je zde dole stejně jako tam nahoře. Je naší povinností vykonat práci, kterou máme ve světě udělat, a nikdy bychom se před touto povinností neměli uchylovat. Přesto máme také povinnost vůči vyššímu životu.
+
+Měli bychom si pamatovat, že každý z nás má v sobě latentní duchovní sílu, která je větší než jakákoli světská moc, a s tím, jak se rozvíjí, jsme zodpovědní za její využití. Abychom tuto sílu zvýšili, měli bychom se snažit věnovat část svého volného času pěstování vyššího života, abychom s pomocí této síly našli duhu v oblaku, až na nás přijde mrak neštěstí. Jako se duha objevuje na konci bouře, tak i tehdy, když získáme sílu vidět jasnou duhu ve svém mraku neštěstí, konec tohoto neštěstí nadešel a začíná se objevovat ta světlá stránka. Čím větší je neštěstí, tím větší je potřebná lekce. Když jsme na cestě nesprávného jednání, dříve či později jsme realitou života laskavě, ale pevně bičováni zpět do řady; jsme nuceni uznat, že cesta pravdy vede vzhůru, nikoliv dolů – a že svět řídí Bůh.
