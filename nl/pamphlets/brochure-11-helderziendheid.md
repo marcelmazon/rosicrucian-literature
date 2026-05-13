@@ -4,7 +4,7 @@ language: "nl"
 original_title: "Pamphlet №11: Clairvoyance"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-11-clairvyonance.md"
+original_source_file: "pamphlet-11-clairvoyance.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

@@ -73,4 +73,7 @@ Si usted desea asociarse en esta obra, recójase tranquilo cuando el reloj de su
 
 For more information, please contact the Healing Department at Mt. Ecclesia:
 
-Rosicrucian Fellowship - International Headquarters 2222 Mission Avenue, Oceanside, CA 92058-2329, USA (760) 757 - 6600 <a href="www.rosicrucian.com/contact_us.html">Contact us</a>
+Rosicrucian Fellowship - International Headquarters  
+2222 Mission Avenue, Oceanside, CA 92058-2329, USA  
+(760) 757 - 6600  
+<a href="www.rosicrucian.com/contact_us.html">Contact us</a>  

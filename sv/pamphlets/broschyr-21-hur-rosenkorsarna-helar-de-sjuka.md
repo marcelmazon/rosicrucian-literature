@@ -74,7 +74,7 @@ Om du vill delta i detta arbete, sitt ner under stillhet när klockan på din he
 
 För mer information, vänligen kontakta helandeavdelningen (Healing Department) vid Mt. Ecclesia:
 
-Rosicrucian Fellowship - International Headquarters
-2222 Mission Avenue, Oceanside, CA 92058-2329, USA
-(760) 757 - 6600
-<a href="www.rosicrucian.com/contact_us.html">Kontakta oss</a>
+Rosicrucian Fellowship - International Headquarters  
+2222 Mission Avenue, Oceanside, CA 92058-2329, USA  
+(760) 757 - 6600  
+<a href="www.rosicrucian.com/contact_us.html">Kontakta oss</a>  

@@ -74,4 +74,7 @@ Dacă doriți să vă alăturați acestei lucrări, așezați-vă liniștit cân
 
 Pentru mai multe informații, vă rugăm să contactați Departamentul de vindecare de la Mt. Ecclesia:
 
-Rosicrucian Fellowship - International Headquarters 2222 Mission Avenue, Oceanside, CA 92058-2329, USA (760) 757 - 6600 <a href="www.rosicrucian.com/contact_us.html">Contactați-ne</a>
+Rosicrucian Fellowship - International Headquarters 
+2222 Mission Avenue, Oceanside, CA 92058-2329, USA 
+(760) 757 - 6600 
+<a href="www.rosicrucian.com/contact_us.html">Contactați-ne</a>

@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">Cosmogonie des Rose-Croix</h1>
 
-ou Christianisme Mystique
+ou 
+
+<p id="sub-h1">Christianisme Mystique</p>
 
 Traité élémentaire sur l'évolution passée de l'homme sa constitution présente et son développement futur
 
@@ -19,16 +21,18 @@ Par Max Heindel [1865-1919]
 
 Son Message et sa Mission:
 
-```
+<div class="message-and-mission-div">
+<pre>
 Un Intellect Equilibré
     Un Coeur Sensible
         Un Corps Sain
-```
+</pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">Table des matières</h3>
 

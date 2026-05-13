@@ -4,7 +4,7 @@ language: "ro"
 original_title: "Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns"
 original_language: "en"
 author: "???"
-original_source_file: "interpretation-of-rosicrucian-fellowship-hymns.md"
+original_source_file: "pamphlet-53-interpretation-of-rosicrucian-fellowship-hymns.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

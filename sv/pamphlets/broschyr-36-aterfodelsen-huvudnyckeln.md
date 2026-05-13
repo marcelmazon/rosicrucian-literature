@@ -4,7 +4,7 @@ language: "sv"
 original_title: "Pamphlet №36: Rebirth, the Master Key"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-37-responsibility-and-the-spiritual-aspirant.md"
+original_source_file: "pamphlet-36-rebirth-the-master-key.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

@@ -4,7 +4,7 @@ language: "pl"
 original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-21-how-the-rosicrucian-heal-the-sick.md"
+original_source_file: "pamphlet-21-how-the-rosicrucians-heal-the-sick.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

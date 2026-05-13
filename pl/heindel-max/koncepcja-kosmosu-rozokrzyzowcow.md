@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">Koncepja Kosmosu Różokrzyżowców</h1>
 
-Lub mistyczne chrześcijaństwo
+Lub
+
+<p id="sub-h1">Mistyczne chrześcijaństwo</p>
 
 Podstawowa rozprawa naukowa o przeszłej ewolucji człowieka, obecnym stanie rzeczy i przyszłym rozwoju
 
@@ -19,16 +21,18 @@ Max Heindel [1865-1919]
 
 Przesłanie książki i jej misja:
 
-```
+<div class="message-and-mission-div">
+<pre>
 Trzeźwy umysł.  
     Delikatne serce.  
         Zdrowe ciało.  
-```
+</pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">List of Contents</h3>
 

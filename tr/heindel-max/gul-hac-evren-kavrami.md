@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">Gül-Haç Evren Kavramı</h1>
 
-or Mystic Christianity
+or 
+
+<p id="sub-h1">Mystic Christianity</p>
 
 An Elementary Treatise Upon Man's Past Evolution, Present Constitution and Future Development
 
@@ -19,16 +21,18 @@ By Max Heindel [1865-1919]
 
 Its Message and Mission: 
 
-```
+<div class="message-and-mission-div">
+<pre>
 A Sane Mind
     A Soft Heart
         A Sound Body
-```
+</pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">List of Contents</h3>
 

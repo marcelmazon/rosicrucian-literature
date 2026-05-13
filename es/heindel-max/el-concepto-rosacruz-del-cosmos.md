@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">El Concepto Rosacruz del Cosmos</h1>
 
-o Ciencia Oculta Cristiana
+o 
+
+<p id="sub-h1">Ciencia Oculta Cristiana</p>
 
 Tratado elemental sobre la evolución pasada del hombre, su constitución actual y su futuro desarrollo
 
@@ -19,16 +21,18 @@ por Max Heindel [1865-1919]
 
 Lema y misión rosacruz:
 
+<div class="message-and-mission-div">
 <pre>
 Una mente pura  
     Un corazón noble  
         Un cuerpo sano  
 </pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">Índice de Materias</h3>
 

@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">O Conceito Rosacruz do Cosmos</h1>
 
-ou Cristianismo Místico
+ou 
+
+<p id="sub-h1">Cristianismo Místico</p>
 
 Um tratado elementar sobre A Evolução Passada, a Constituição Presente e o Desenvolvimento Futuro do Ser Humano
 
@@ -19,16 +21,18 @@ Por Max Heindel
 
 Sua Mensagem e Missão: 
 
+<div class="message-and-mission-div">
 <pre>
 Uma Mente Pura
     Um Coração Nobre
         Um Corpo São
 </pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">Índice</h3>
 

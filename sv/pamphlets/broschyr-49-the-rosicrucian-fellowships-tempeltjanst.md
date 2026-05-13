@@ -4,7 +4,7 @@ language: "sv"
 original_title: "Pamphlet №49: The Rosicrucian Fellowship Temple Service"
 original_language: "en"
 author: "???"
-original_source_file: "self"
+original_source_file: "pamphlet-49-the-rosicrucian-fellowship-temple-service.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

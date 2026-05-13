@@ -73,4 +73,7 @@ Se volete unirvi a quest’opera occorre che quando il vostro orologio segna le 
 
 Per maggiori informazioni, si prega di contattare il Dipartimento di Guarigione presso il Monte Ecclesia:
 
-Rosicrucian Fellowship - International Headquarters 2222 Mission Avenue, Oceanside, CA 92058-2329, USA (760) 757 - 6600 <a href="www.rosicrucian.com/contact_us.html">Contact us</a>
+Rosicrucian Fellowship - International Headquarters  
+2222 Mission Avenue, Oceanside, CA 92058-2329, USA  
+(760) 757 - 6600  
+<a href="www.rosicrucian.com/contact_us.html">Contact us</a>  

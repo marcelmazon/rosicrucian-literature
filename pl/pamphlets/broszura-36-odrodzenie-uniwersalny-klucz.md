@@ -4,7 +4,7 @@ language: "pl"
 original_title: "Pamphlet №36: Rebirth, the Master Key"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-35-rebirth-the-master-key.md"
+original_source_file: "pamphlet-36-rebirth-the-master-key.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

@@ -4,7 +4,7 @@ language: "ro"
 original_title: "Pamphlet №33: The Planet Pluto"
 original_language: "en"
 author: "???"
-original_source_file: "self"
+original_source_file: "pamphlet-33-the-planet-pluto.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

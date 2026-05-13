@@ -4,7 +4,7 @@ language: "nl"
 original_title: "Pamphlet №17: The Rosicrucian Emblem"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-17-the-rosicrucian-method.md"
+original_source_file: "pamphlet-17-the-rosicrucian-emblem.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

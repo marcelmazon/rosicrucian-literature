@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">Ruusuristiläinen Maailmankatsomus</h1>
 
-Eli Mystinen Kristinoppi
+Eli 
+
+<p id="sub-h1">Mystinen Kristinoppi</p>
 
 Ihmisen mennyt kehitys, nykyinen rakenne sekä tuleva kehitys
 
@@ -19,16 +21,18 @@ Kirjoittanut Max Heindel
 
 Sen sanoma ja tehtävä: 
 
-```
+<div class="message-and-mission-div">
+<pre>
 Terve Järki
     Hyvä Sydän
         Terve Ruumis
-```
+</pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">Sisällysluettelo</h3>
 

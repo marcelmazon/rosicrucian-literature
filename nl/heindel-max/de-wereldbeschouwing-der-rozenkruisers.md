@@ -9,7 +9,9 @@ original_source_file: "the-rosicrucian-cosmo-conception.md"
 
 <h1 id="the-rosicrucian-cosmo-conception">De wereldbeschouwing der rozenkruisers</h1>
 
-Of esoterisch christendom
+Of 
+
+<p id="sub-h1">Esoterisch christendom</p>
 
 Een eenvoudige verhandeling over de ontwikkeling van de mens in het verleden, zijn tegenwoordige samenstelling en zijn ontwikkeling in de toekomst. 
 
@@ -19,16 +21,18 @@ Max Heindel
 
 De boodschap en missie ervan:
 
-```
+<div class="message-and-mission-div">
+<pre>
 Een gezonde geest
     Een zachtaardig hart
         Een gezond lichaam
-```
+</pre>
+</div>
 
-THE ROSICRUCIAN FELLOWSHIP  
-International Headquarters  
-Mt. Ecclesia  
-Oceanside, California, 91054, USA  
+<div class="pdf-bottom">
+	<p>Visit us at:</p> 
+	<a href="https://rosacrux.net">rosacrux.net</a>
+</div>
 
 ### <h3 id="list-of-contents">Inhoudsopgave</h3>
 

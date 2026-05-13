@@ -4,7 +4,7 @@ language: "nl"
 original_title: "Pamphlet №27: Life More Abundant"
 original_language: "en"
 author: "???"
-original_source_file: "pamphlet-27-life-more-abundant"
+original_source_file: "pamphlet-27-life-more-abundant.md"
 translator: "Google Gemini 3 Flash Thinking"
 ---
 

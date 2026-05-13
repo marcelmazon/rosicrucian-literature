@@ -4,7 +4,8 @@ language: "pl"
 original_title: "Pamphlet №27: Life More Abundant"
 original_language: "en"
 author: "???"
-original_source_file: "self"
+original_source_file: "pamphlet-27-life-more-abundant.md"
+translator: "Google Gemini 3 Flash Thinking"
 ---
 
 <h1 id="pamphlet-27-life-more-abundant">Broszura nr 27: Życie w obfitości</h1>
