@@ -21,11 +21,11 @@ const lang_color = chalk.bold.magenta
 
 const langs = [
 	// Romance
-	'es', 'pt', 'fr', 'it',
+	'es', 'pt', 'fr', 'it', 'ro',
 	// Germanic
 	'de', 'nl', 'sv',
 	// Slavic
-	'ru', 'pl', 'bg',
+	'ru', 'uk', 'pl', 'cs', 'bg',
 	// Sinitic
 	'zh',
 	// Turkic
@@ -40,14 +40,16 @@ const lang_names: Record<string, string> = {
 	pt: 'Portuguese',
 	fr: 'French',
 	it: 'Italian',
+	ro: 'Romanian',
 	// Germanic
 	de: 'German',
 	nl: 'Dutch',
 	sv: 'Swedish',
 	// Slavic
 	ru: 'Russian',
-	// uk: 'Ukrainian',
-	pl: "Polish",
+	uk: 'Ukrainian',
+	pl: 'Polish',
+	cs: 'Czech',
 	bg: 'Bulgarian',
 	// Sinitic
 	zh: 'Chinese',
@@ -84,6 +86,13 @@ function read_lang_docs(lang: string)
 		const srcf = data.original_source_file
 		// Original language source file path =>
 		const orip = `../${orln}/${catg}/${srcf}`
+		//! TODO: intergrate this better
+		try {
+			const src_file = fs.readFileSync(orip, 'utf8')
+		}
+		catch (err) {
+			console.log(data.title)
+		}
 		const src_file = fs.readFileSync(orip, 'utf8')
 		// .md Contents of translated and source files
 		const trans_file_content = matter(trans_file).content
