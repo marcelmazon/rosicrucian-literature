@@ -64,7 +64,7 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
     - [6: Getsemane, de tuin der smarten](#part-2-chapter-6)
     - [7: De stigmata en de kruisiging](#part-2-chapter-7)
 
-### <h3 id="illustrations">Illustrations</h3>
+### <h3 id="illustrations">ILLUSTRATIONS</h3>
 
 - [De tabernakel in de woestijn; de oude Atlantische mysterietempel](#illustration-the-tabernacle-in-the-wilderness)
 - [Het koperen wasbekken](#illustration-the-brazen-layer)
