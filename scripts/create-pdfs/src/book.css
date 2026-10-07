@@ -1,0 +1,181 @@
+/* --------------------------------------------------------------
+This css file defines the style and layout for pdfs from
+the rosicrucian literature. For use by to-pdfs.py
+---------------------------------------------------------------*/
+
+@page {
+    size: A4;
+    margin: 1cm;
+}
+
+body {
+    font-family: serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+h1 {
+
+}
+
+h2 {
+    break-before: page;
+    break-after: page;
+	font-size: 30px;
+	text-align: center;
+    margin: 0;
+    padding-top: calc(128.5mm - 20mm); /* Half of the 257mm printable area minus approx. height of h2 */
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+p {
+	font-size: 18px;
+}
+
+#sub-h1 {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+h2, h3 {
+	break-before: always;
+}
+
+h1 ~ p {
+  text-align: center;
+}
+
+.message-and-mission-div {
+  display: flex;
+  justify-content: center;
+
+  pre {
+    padding: 0px;
+  }
+}
+
+.pdf-bottom {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translate(-50%, 0);
+
+	* {
+		margin: 0px;
+		text-align: center;
+	}
+}
+
+ul {
+  list-style-type: none; /* Removes the bullets */
+  padding-left: 0px;
+}
+
+ul ul {
+  padding-left: 30px;
+}
+
+li a {
+  color: black;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: pink;
+}
+
+h3 ~ p {
+  text-indent: 24px;
+  text-align: justify;
+}
+
+aside {
+	background-color: #FFF8DC;
+	border: solid 1px #DDD4BA;
+	padding: 8px 0px;
+	margin-right: 50px;
+}
+
+.text-center {
+	text-align: center;
+}
+/*
+table {
+    table-layout: fit-content;
+    width: 100%; 
+    border-collapse: collapse;
+}
+*/
+
+/* td {
+    width: 100px;
+    height: 100px;
+    
+     3. Handle text overflow so cells don't "pop" open
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; 
+} */
+
+table {
+	margin: auto;
+	padding-right: 30px;
+}
+
+th, td {
+	padding: 4px 16px 4px 0px;
+}
+
+pre {
+	line-height: 1.4;
+	padding-left: 50px;
+}
+
+/* PARAGRAPH COUNTING */
+
+/* 1. Create/Reset the counter when an h3 appears */
+h3 {
+    counter-reset: paragraph-count;
+}
+
+/* 2. Increment the counter for every p that follows h3 */
+/* This specific selector (h3 ~ p) targets p tags that share a parent with h3 */
+h3 ~ p {
+    counter-increment: paragraph-count;
+	position: relative; /* Make sure paragraph is anchor point */
+    padding-right: 50px; /* Make room so text doesn't overlap the number */
+}
+
+/* 3. Display the number before the paragraph text */
+h3 ~ p::before {
+    content: "[" counter(paragraph-count) "]";
+	font-size: 16px;
+	font-family: sans-serif;
+    color: black;
+
+	/* The Magic Sauce */
+    position: absolute;
+    top: 0px;
+    right: 0;
+    margin-left: 5; /* No longer needed with absolute positioning */
+}
+
+/* Optional: If you want the count to STOP when a new h2 starts, 
+   you can reset it there too */
+h2 {
+    counter-reset: paragraph-count;
+}
