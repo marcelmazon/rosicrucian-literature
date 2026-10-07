@@ -1,16 +1,16 @@
 /* --------------------------------------------------------------
-This css file defines the style and layout for pdfs from
-the rosicrucian literature. For use by to-pdfs.py
+  This css file defines the style and layout for pdfs from
+  the rosicrucian literature. For use by to-pdfs.py
 ---------------------------------------------------------------*/
 
 @page {
-    size: A4;
-    margin: 1cm;
+  size: A4;
+  margin: 1.6cm;
 }
 
 body {
-    font-family: serif;
-    line-height: 1.6;
+  font-family: serif;
+  line-height: 1.6;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,32 +18,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-
+  font-size: 40px;
 }
 
 h2 {
-    break-before: page;
-    break-after: page;
-	font-size: 30px;
+  break-before: page; /* Makes sure that h2 always */
+  break-after: page;  /* starts on a new page      */
+	font-size: 34px;
 	text-align: center;
-    margin: 0;
-    padding-top: calc(128.5mm - 20mm); /* Half of the 257mm printable area minus approx. height of h2 */
+  margin: 0;
+  padding-top: calc(128.5mm - 25mm); /* Half of the 257mm printable area minus approx. height of h2 */
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 28px;
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 24px;
 }
 
 h5 {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 p {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 #sub-h1 {
@@ -113,6 +113,7 @@ aside {
 .text-center {
 	text-align: center;
 }
+
 /*
 table {
     table-layout: fit-content;
@@ -149,33 +150,35 @@ pre {
 
 /* 1. Create/Reset the counter when an h3 appears */
 h3 {
-    counter-reset: paragraph-count;
+  counter-reset: paragraph-count;
 }
 
 /* 2. Increment the counter for every p that follows h3 */
 /* This specific selector (h3 ~ p) targets p tags that share a parent with h3 */
 h3 ~ p {
-    counter-increment: paragraph-count;
+  counter-increment: paragraph-count;
 	position: relative; /* Make sure paragraph is anchor point */
-    padding-right: 50px; /* Make room so text doesn't overlap the number */
+  padding-right: 50px; /* Make room so text doesn't overlap the number */
 }
 
 /* 3. Display the number before the paragraph text */
 h3 ~ p::before {
-    content: "[" counter(paragraph-count) "]";
-	font-size: 16px;
+  content: "[" counter(paragraph-count) "]";
+	font-size: 18px;
 	font-family: sans-serif;
-    color: black;
+  color: black;
 
 	/* The Magic Sauce */
-    position: absolute;
-    top: 0px;
-    right: 0;
-    margin-left: 5; /* No longer needed with absolute positioning */
+  position: absolute;
+  top: 0px;
+  right: 0;
+  margin-left: 5; /* No longer needed with absolute positioning */
 }
 
 /* Optional: If you want the count to STOP when a new h2 starts, 
    you can reset it there too */
 h2 {
-    counter-reset: paragraph-count;
+  counter-reset: paragraph-count;
 }
+
+/* END PARAGRAPH COUNTING */

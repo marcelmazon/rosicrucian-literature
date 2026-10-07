@@ -48,13 +48,33 @@ clean_html = clean_nested_headers(content_html)
 # 'extra' adds support for tables, footnotes, etc.
 html_text = markdown.markdown(clean_html, extensions=['extra'])
 
+
+
 # Define CSS
 # WeasyPrint supports @page rules for print-specific styling
+
+# Constant that maps names to stylesheets
+BOOK_STYLESHEETS = {
+    "The Rosicrucian Cosmo-Conception": "src/rcc.css",
+    "Some Other Book":                  "src/some_other.css",
+    # ...
+}
+
+# Define array that holds all book styles to be added
+stylesheets = []
+
+# Always on base style
 with open("src/book.css", "r", encoding="utf-8") as f:
-	book_style = f.read()
+	stylesheets.append(CSS(string=f.read()))
+
+# Book-specific styles
+book_css_path = BOOK_STYLESHEETS.get(post.metadata.get("original_title")) 
+if book_css_path:
+    with open(book_css_path, "r", encoding="utf-8") as f:
+        stylesheets.append(CSS(string=f.read()))
 
 # Generate the PDF with the CSS applied
 HTML(string=clean_html, base_url=str(current_dir)).write_pdf(
     "quicktest/rcc.pdf", 
-    stylesheets=[CSS(string=book_style)]
+    stylesheets=stylesheets
 )
